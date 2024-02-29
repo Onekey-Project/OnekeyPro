@@ -1,0 +1,575 @@
+"appid" "413150"
+"common"
+{
+	"name" "Stardew Valley"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "694de1f9cf09aba9d6d118bcff07714343529a0a"
+	"logo_small" "694de1f9cf09aba9d6d118bcff07714343529a0a_thumb"
+	"clienticon" "913064b27b4b25e2c03cbd261a8b03fd67da693c"
+	"clienttga" "2426633afb8402fb21a6d00002a036561d62100d"
+	"icon" "35d1377200084a4034238c05b0c8930451e2fb40"
+	"releasestate" "released"
+	"linuxclienticon" "6b0c6ca4298b12d4df16782502ada7858a06c62e"
+	"clienticns" "35e9cb442330ee3d4936ac285685841afc40de0d"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645228800"
+		"tested_build_id" "8043676"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Stardew Valley"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35"
+			"height_pct" "62"
+		}
+	}
+	"store_asset_mtime" "1666917378"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ConcernedApe"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ConcernedApe"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_28" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1456509540"
+	"metacritic_score" "89"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/stardew-valley\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "413150"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "10235"
+		"2" "3964"
+		"3" "3859"
+		"4" "122"
+		"5" "1654"
+		"6" "22602"
+		"7" "599"
+		"8" "1702"
+		"9" "3810"
+		"10" "492"
+		"11" "1643"
+		"12" "4182"
+		"13" "597"
+		"14" "1695"
+		"15" "3871"
+		"16" "4726"
+		"17" "9551"
+		"18" "1756"
+		"19" "15564"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "internal"
+	"developer" "ConcernedApe"
+	"publisher" "ConcernedApe"
+	"homepage" "http://www.stardewvalley.net"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Stardew Valley"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Stardew Valley.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Contents/MacOS/StardewValley"
+			"workingdir" "Contents/"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "StardewValley"
+			"arguments" "STEAM_RUNTIME=0"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862374497"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"413151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5609262347030774375"
+				"size" "650810621"
+				"download" "429122928"
+			}
+			"compatibility"
+			{
+				"gid" "618057478175226131"
+				"size" "565832437"
+				"download" "399346288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "3207E049EA93F0E5FAC8EC65B2146927"
+				"size" "175A053A7DF98CB0CF0B03EB991733FE"
+				"download" "593A64F2CF105EB3C9300E8DAF6FAB1C"
+			}
+			"internal_playtest"
+			{
+				"gid" "094C73E069DD488A118732EB1BE44F0B"
+				"size" "F24D47EBA26307A2F25F986E2ECA2B8F"
+				"download" "45CCABA5291CBE744FC6D5175A702DEE"
+			}
+			"localization"
+			{
+				"gid" "D28631E9714345ED84F2B1B5786DDBD2"
+				"size" "47D1D78BAA31623FBEFB3C9165BB3756"
+				"download" "2CB85F14ED4BAC74A77AE3011FE9D49F"
+			}
+			"modding_alpha"
+			{
+				"gid" "02501A4B791EF2CC0CDAEE49DB670294"
+				"size" "351DA595E4EF801F7C878419B109086D"
+				"download" "5E21A81EC3F47F4847E264C2537B8779"
+			}
+			"private_beta"
+			{
+				"gid" "D35E5604EA7B8B205B4AD870947E0072"
+				"size" "75241AA7A62C729240421E8EB828213A"
+				"download" "FE8BE4CC6CE3E3BDCFC019934B40D1D1"
+			}
+			"test_mgwb"
+			{
+				"gid" "065B9AEE2C94441DBA3022CA4B2F4648"
+				"size" "C0823EA4256D14F140491B38E64E8AB4"
+				"download" "EC4F558278AA9A5B4BEF6B6FB2F61E16"
+			}
+		}
+	}
+	"413152"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7794216274031597899"
+				"size" "672863431"
+				"download" "432497296"
+			}
+			"compatibility"
+			{
+				"gid" "1732216710540764564"
+				"size" "673267974"
+				"download" "424264112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "5E7E0DEF28BD9B883E5E99F45389AC77"
+				"size" "FD0D31404F2653B6594AA9018457ED28"
+				"download" "EE2C74A4CF5417A34CF6DF01FDECF299"
+			}
+			"internal_playtest"
+			{
+				"gid" "C3677A2FEC2FD823D1BE37A58228492F"
+				"size" "8DA772E16D8D1E873F8E5884FCDA2448"
+				"download" "4AB94CA4F1B67F129565673CB4EF3818"
+			}
+			"localization"
+			{
+				"gid" "D1E39035E9F31CF4885BD3677767F606"
+				"size" "2EE211C479C7F8B022D74A9E08536803"
+				"download" "1723DC8FF89AF54C62407FFB1C0D9FFF"
+			}
+			"modding_alpha"
+			{
+				"gid" "6E48CAC1FA9170573B25FD8C027F4A96"
+				"size" "9841995BF36676842A8F22BF95EBE684"
+				"download" "655D08F9105FE7ABFA371F06BDACAA24"
+			}
+			"private_beta"
+			{
+				"gid" "457E9DF54C41F22379A5363AAF828706"
+				"size" "5EA91D95B18CE37E04C86F8C8C90134F"
+				"download" "F4138719032829A9ADABF584346C93EE"
+			}
+			"test_mgwb"
+			{
+				"gid" "0A5B0C3BA963E67EE1DF72B5DF45C565"
+				"size" "92C0BBEA3B1BE1421843D79DD532F6A5"
+				"download" "66CC3079E43469AD68CF5D7649D2A927"
+			}
+		}
+	}
+	"413153"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5898757968212855302"
+				"size" "673045222"
+				"download" "433542112"
+			}
+			"compatibility"
+			{
+				"gid" "8322187383152776702"
+				"size" "652943674"
+				"download" "422820336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "35166641878B4F1CD97C93DA4F48064B"
+				"size" "6BB358D5F9AAF769F598DA7A869806AF"
+				"download" "ADF12B261CB762387F415E3A93C6A7AA"
+			}
+			"internal_playtest"
+			{
+				"gid" "5DDCF0D2EB564A4651B84C2D7A7B9493"
+				"size" "56E43831FA6AAD30D914085E7D85921C"
+				"download" "BB1C8CAE0128E535680573E3C5DC3BAE"
+			}
+			"localization"
+			{
+				"gid" "FF0EA117A5ED1691B91D11CC16DC6DA1"
+				"size" "98BBC4BFBC3B6FA93B030642B522F221"
+				"download" "89F9B0618E031DD3C547FDC4C0DC0566"
+			}
+			"modding_alpha"
+			{
+				"gid" "86E35E4881BD5312919A470317D17D85"
+				"size" "E6CB947C46187B04470ECE684AFF0808"
+				"download" "F8B559AB98F3371BD513DC548170CF1F"
+			}
+			"private_beta"
+			{
+				"gid" "926A17479B6D9F0C466B45CC0C6135D5"
+				"size" "1740F04BEB5018495C35ED0EFE0D5372"
+				"download" "23413BDAAE0670D41B387ACEE0D6459C"
+			}
+			"test_mgwb"
+			{
+				"gid" "31DD50044C41C51FCA400B72D3269070"
+				"size" "13DED2480F073E21E8C08A9F200030D8"
+				"download" "D726AF630A2AE019D2521A65B32EA12D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8043676"
+			"timeupdated" "1642546711"
+		}
+		"compatibility"
+		{
+			"buildid" "8043681"
+			"description" "For 32-bit systems. The legacy, XNA version of Stardew Valley."
+			"timeupdated" "1642546722"
+		}
+		"internal"
+		{
+			"buildid" "8217833"
+			"pwdrequired" "1"
+			"timeupdated" "1645048358"
+		}
+		"internal_playtest"
+		{
+			"buildid" "13493151"
+			"pwdrequired" "1"
+			"timeupdated" "1708380823"
+		}
+		"localization"
+		{
+			"buildid" "7067014"
+			"pwdrequired" "1"
+			"timeupdated" "1626916992"
+		}
+		"modding_alpha"
+		{
+			"buildid" "13597785"
+			"pwdrequired" "1"
+			"timeupdated" "1709184605"
+		}
+		"private_beta"
+		{
+			"buildid" "13596809"
+			"pwdrequired" "1"
+			"timeupdated" "1709176476"
+		}
+		"test_mgwb"
+		{
+			"buildid" "3609349"
+			"pwdrequired" "1"
+			"timeupdated" "1644462432"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "StardewValley/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "StardewValley/Saves"
+					"replace" ".config/StardewValley/Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "StardewValley/Saves"
+					"replace" ".config/StardewValley/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22554850"
+"_sha" "8cafba01eacafddf0f08f8efc38196a20c9ca6f5"
+"_size" "11224"
