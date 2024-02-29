@@ -1,0 +1,215 @@
+"appid" "624822"
+"common"
+{
+	"name" "Counter-Strike: Global Offensive Steam China Edition"
+	"section_type" "ownersonly"
+	"type" "Config"
+	"parent" "730"
+	"releasestate" "released"
+	"exfgls" "9"
+	"associations"
+	{
+	}
+	"gameid" "624822"
+}
+"extended"
+{
+	"dlcforappid" "730"
+	"mustownapptopurchase" "730"
+}
+"depots"
+{
+	"736"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3272764132446603780"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.2"
+			{
+				"gid" "2972096422926577431"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.2-a"
+			{
+				"gid" "181421062010774598"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.4"
+			{
+				"gid" "5121145509876325025"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.5"
+			{
+				"gid" "3272764132446603780"
+				"size" "7"
+				"download" "64"
+			}
+			"csgo_legacy"
+			{
+				"gid" "1949918900514112752"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dpr"
+			{
+				"gid" "45D97E8677BD440772DF4C6E78E4852A"
+				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
+				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
+			}
+			"dprp"
+			{
+				"gid" "398B12FA9DFE7C319929F5F30E1B11A1"
+				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
+				"download" "3D2C948DD298272F42A9294690DCF8C0"
+			}
+		}
+		"depotfromapp" "730"
+	}
+	"737"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4694602129675988001"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.2"
+			{
+				"gid" "6299472492874173250"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.2-a"
+			{
+				"gid" "1862404457923675503"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.4"
+			{
+				"gid" "1309659651252148198"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.5"
+			{
+				"gid" "4694602129675988001"
+				"size" "7"
+				"download" "64"
+			}
+			"csgo_legacy"
+			{
+				"gid" "8959772282070246004"
+				"size" "417072383"
+				"download" "143962432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dpr"
+			{
+				"gid" "EB09461A6106B7ABEAFB468D64469723"
+				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
+				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
+			}
+			"dprp"
+			{
+				"gid" "B898F732BD68739F0BA706A50828A4EB"
+				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
+				"download" "3D2C948DD298272F42A9294690DCF8C0"
+			}
+		}
+		"depotfromapp" "730"
+	}
+	"738"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4490111825335320921"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.2"
+			{
+				"gid" "2555653117667618839"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.2-a"
+			{
+				"gid" "2252022659226500946"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.4"
+			{
+				"gid" "4655388213788243084"
+				"size" "7"
+				"download" "64"
+			}
+			"1.39.9.5"
+			{
+				"gid" "4490111825335320921"
+				"size" "7"
+				"download" "64"
+			}
+			"csgo_legacy"
+			{
+				"gid" "313951540668567317"
+				"size" "920601806"
+				"download" "741168448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dpr"
+			{
+				"gid" "484B2F0E5C6C5FE1E4E5D3DB94C5F0CA"
+				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
+				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
+			}
+			"dprp"
+			{
+				"gid" "1531618C5BFD694314688AA8127C442A"
+				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
+				"download" "3D2C948DD298272F42A9294690DCF8C0"
+			}
+		}
+		"depotfromapp" "730"
+	}
+	"branches"
+	{
+		"dpr"
+		{
+			"buildid" "13593156"
+			"pwdrequired" "1"
+			"timeupdated" "1709158933"
+		}
+		"dprp"
+		{
+			"buildid" "13593156"
+			"pwdrequired" "1"
+			"timeupdated" "1709158943"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22550674"
+"_sha" "7052ee579cb6e1c684e816b02cae10628e6bee53"
+"_size" "3738"
