@@ -1,0 +1,1210 @@
+"appid" "1290000"
+"common"
+{
+	"name" "PowerWash Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "9694ce6950255fa911b3be056278a695bad19433"
+	"logo_small" "9694ce6950255fa911b3be056278a695bad19433_thumb"
+	"icon" "cdc9126e41c1968c52fb86b46f0391db1fa23420"
+	"clienttga" "902cb9a01877871802da5dd2239dab30762c923d"
+	"clienticon" "d6c1e841c0e58b431aaf6d0153180ef9342062c2"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1290000_eula_0"
+			"name" "PowerWash Simulator EULA"
+			"url" "https://store.steampowered.com//eula/1290000_eula_0"
+			"version" "11"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "冲就完事模拟器"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7512242"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.05139616292632"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709049519"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FuturLab"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_29" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1657814608"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1290000"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1654"
+		"2" "599"
+		"3" "3839"
+		"4" "4191"
+		"5" "3810"
+		"6" "4136"
+		"7" "3859"
+		"8" "9204"
+		"9" "1685"
+		"10" "1742"
+		"11" "4305"
+		"12" "5350"
+		"13" "3843"
+		"14" "4175"
+		"15" "552282"
+		"16" "4182"
+		"17" "492"
+		"18" "97376"
+		"19" "4166"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "FuturLab"
+	"publisher" "Square Enix"
+	"homepage" "https://powerwashsimulator.com"
+	"listofdlc" "2088510,2088511,2236950,2464650,2593910,2593920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "PowerWash Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PowerWashSimulator.exe"
+			"type" "default"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1290001"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3857057737548402637"
+				"size" "7546651672"
+				"download" "6342908432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "4589136F43E78EB8A41552267C338C9F"
+				"size" "FC98471DA38A330B4B1FA3CF207C6CE5"
+				"download" "F39BA2E427D83B7B29CCE53B90D720D8"
+			}
+			"demo"
+			{
+				"gid" "5C97D95225B49AE1E006FDB679F47614"
+				"size" "E113581167F52EE367CC1A44761FFD66"
+				"download" "992390BB786E913D2C2B6E1AA14C264E"
+			}
+			"dlc-a"
+			{
+				"gid" "BAC2C6FFB04EBD3B9AA0B3E421268636"
+				"size" "0A1358727FD86DA0506FB46FF5B6C8CE"
+				"download" "030A821CF31D466624B09A0B7DD1ACA4"
+			}
+			"dlc-c"
+			{
+				"gid" "83DC5049A1B612FDF5CD6CAD6ABCC8F3"
+				"size" "5525DB074CD7108FFEEF1D29E8B6115E"
+				"download" "37EAA50B303D6548FABB6FA25D016F62"
+			}
+			"dlc_approval"
+			{
+				"gid" "F28577CD10343C396FE1FEECF6F9A8BA"
+				"size" "77705902988CC8BAFF07EF4DB1A7FC1C"
+				"download" "DFF8F5AAB29AA84E7AFF2D911C435CC6"
+			}
+			"fl-dev1"
+			{
+				"gid" "EFE6FE4F87F0A138FC1D503A41B4BF2E"
+				"size" "1EA57E4DEF9ED691DE4735637D6F2DF3"
+				"download" "70AC44B8BEBBA72A2EC80D634360E1A0"
+			}
+			"fl-dev2"
+			{
+				"gid" "9A1924B57C5A2D478092E1D0107D8D5F"
+				"size" "825A9CB6B5F6EEE72B707AD7C2676BD5"
+				"download" "CBB6C2730E6D7F03EEE1DE8D0EE3CE24"
+			}
+			"fl-dev3"
+			{
+				"gid" "8CFDB33510E9D647A6E0F129B2E8A6B3"
+				"size" "9E0E4D7E0A66C5773388FC7296D025EB"
+				"download" "0F9110D0D2EADF9C5F31D426942AB145"
+			}
+			"fl-qa1"
+			{
+				"gid" "033DF4C8D8074A94B79971F98958AF22"
+				"size" "83D7F3629BF2EE0227C808BBC4093EC2"
+				"download" "8546A567111E6B3D901BDC6AE23CB516"
+			}
+			"fl-qa2"
+			{
+				"gid" "27529FB0363467EE9690811060E475DC"
+				"size" "45B7EC66C46B7BC9546E79982916A602"
+				"download" "29DB026BA1B2A59802066166BADF8F49"
+			}
+			"fl-qa3"
+			{
+				"gid" "B132ED6AC8E0EF6657221D16D4BD21CA"
+				"size" "609B8999639D6DB2E80C08EE9914703C"
+				"download" "AFA1EFEE0D1FDC51A66BA05F222C5D63"
+			}
+			"forthfloor"
+			{
+				"gid" "E846548D25A8667D2802A516502A65BB"
+				"size" "62D035BA493CCBBFAC26CEA051006B39"
+				"download" "3D415C0ADDC86F0136662F465076CC96"
+			}
+			"jamietest"
+			{
+				"gid" "FEDA471D6CE6119ADB234E4B6C45CDC5"
+				"size" "9373B5290E6B752CD8BF709503C10628"
+				"download" "2210ABF04B4B9EF6D00A9F38E23D4D69"
+			}
+			"locqa1"
+			{
+				"gid" "8EA37C2D45B9F1AF5B968E5529F941EA"
+				"size" "CA7805714584C8CC27A5DC84973970CB"
+				"download" "0A9ED73D04F17DD796EE3666A04E6052"
+			}
+			"locqa2"
+			{
+				"gid" "F939CE044EE394F080B0130A339B213A"
+				"size" "408537A5E4CEAA02474C9E65B1049EC8"
+				"download" "B96E4E5085D6940C954E14DC477D37C7"
+			}
+			"mktng1"
+			{
+				"gid" "3C2D08E2B65E47F3E4CB59ADC9B061E5"
+				"size" "429AB25301F9B6AFED01DABBE5537E24"
+				"download" "1BC4509AC36D46A339C88401A872BA86"
+			}
+			"se-press-influencer"
+			{
+				"gid" "B9D0BA878E096ECAF08D4AE6CF6BEA15"
+				"size" "6A8670DBDACC9184DA2D30BFA8535317"
+				"download" "D9FA6F367C268DC2D52C669498D3E9BF"
+			}
+			"se-qa1"
+			{
+				"gid" "FDE82C8842BCE0EEBCA843CE7BDEB498"
+				"size" "E8ABA643FC7E8647B35266F069E3368C"
+				"download" "F887C6F7CDCE433A4E77F203A6E42BA9"
+			}
+			"se-qa2"
+			{
+				"gid" "9C5EC3FB50058DEACCC341E77434199D"
+				"size" "D96B8077AC38D78AD54F56CE7C0B7D92"
+				"download" "2E6E995E5121F195FD3AA377541FDC4F"
+			}
+			"se-tgs"
+			{
+				"gid" "913B135A0FBE2494CB1E768512DFD10C"
+				"size" "E246EDA82E023E09ADD8598B54F240DD"
+				"download" "95C5B35736844D83580CC0E5C1FD81A8"
+			}
+			"se-tqa"
+			{
+				"gid" "A0E5D15BBB839A65F48EA5AAC63CA47B"
+				"size" "1A121DEE1559B5F046C60A13963744E9"
+				"download" "861C8C3EA60C21FD1847E862DFC80008"
+			}
+			"se_capture"
+			{
+				"gid" "0AEEAC15352615EBCFFA85482FDF2EBF"
+				"size" "DA4C150C8134882564676B41E664BF16"
+				"download" "8B351570859F6EAAC778A6E70FF9F8A2"
+			}
+			"se_event"
+			{
+				"gid" "72E899F1F5B54DFF7C433857011DC01B"
+				"size" "AEEF948D44CC87AF2C14EE19F91FC106"
+				"download" "50EB0B3F5ECB96498F9BC2F8E35DF89D"
+			}
+			"se_mastering"
+			{
+				"gid" "0255EBB60DD24CC31B871EF0E8F5E43E"
+				"size" "FCC63A14EEF7146A7DA3970B8C745325"
+				"download" "A32DD75DE57DAF6FDAB521EB676A6062"
+			}
+			"universally_speaking"
+			{
+				"gid" "9BB08CA5DB401A77EB83844BAE9C84E0"
+				"size" "BC82C5ED3E7F0D09D879F21FC0994C00"
+				"download" "5C8B785054BCD67F2752CA5540D93CA1"
+			}
+		}
+	}
+	"2088510"
+	{
+		"dlcappid" "2088510"
+	}
+	"2088511"
+	{
+		"dlcappid" "2088511"
+	}
+	"2236950"
+	{
+		"dlcappid" "2236950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3184988611892265613"
+				"size" "455965498"
+				"download" "389650288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "84AE2CD95608C882AF06C017078D819D"
+				"size" "EAA1A4FB798E0592739D52B7E030C03F"
+				"download" "61AAB3722F33364219FF58DE38BB2412"
+			}
+			"demo"
+			{
+				"gid" "B69189070AFC8E45026BA6081C997152"
+				"size" "1542AABEDF4B8938E037A12D2B75B7DC"
+				"download" "1B7490319AA45AB185163A50BF628FA1"
+			}
+			"dlc-a"
+			{
+				"gid" "414840585BD283F17E330D3FBDFD2417"
+				"size" "299E09140B7153FC6ADB499A836A9B72"
+				"download" "9C29A8BB0B5EBB0081484BFF88638305"
+			}
+			"dlc-c"
+			{
+				"gid" "12557457F20D8436F955BA0116A33439"
+				"size" "B9BF02D312ACF02C84B3F47C63A572DC"
+				"download" "A54ADEE1C04A7594845346B1A1E402E3"
+			}
+			"fl-dev1"
+			{
+				"gid" "777FB83CCD94A21E56A2FCE30127CF2A"
+				"size" "C7AFBD75E813AA2EC9858C001EA5A0AC"
+				"download" "31CE5F266A44DD0C881956DFBD13E775"
+			}
+			"fl-dev2"
+			{
+				"gid" "68CCAFE1CE86D699363ABD137F260B13"
+				"size" "7052E027BFA9479F5182095CD3C43052"
+				"download" "14CDFBF379BE34412FE5763E76996C89"
+			}
+			"fl-dev3"
+			{
+				"gid" "C46DBCE9ADD00EEFCB29374B636F22C0"
+				"size" "FE4E136BAF5628D0A71BE9928F71409D"
+				"download" "2947C8BF1090399B58F32CCE133088B0"
+			}
+			"fl-qa1"
+			{
+				"gid" "7D3FBBD6588DB25FEB0A3A8987CE25A2"
+				"size" "7EB72CF89002D0E944238FF12E10015F"
+				"download" "B847B5C2E9F893610E4B63583A2CB266"
+			}
+			"fl-qa2"
+			{
+				"gid" "AAA4F7FC8859524D518C2E785754AB7C"
+				"size" "93A08EB4A3646AB3DFD8D40C4158CFE7"
+				"download" "C616FF768A6208876EDE93EC54AFF51B"
+			}
+			"fl-qa3"
+			{
+				"gid" "45811398B4F203AE8E3B01433AB8CF08"
+				"size" "72F0D7D2DADA11742A380DC7190EF650"
+				"download" "EC49D331B574540950FF3C7EAB30D5B1"
+			}
+			"jamietest"
+			{
+				"gid" "B53395D4075E4E731828C6B5EEACB2D3"
+				"size" "90E08D0A8FD9CF33A461D26A2FAFCA0C"
+				"download" "D645E626EF0F2E8F4166E9EED522FBC5"
+			}
+			"locqa1"
+			{
+				"gid" "A454CD4EA080CB7CAEAAC2D0F50C2A76"
+				"size" "5CC4E4B38838A3D95AF754147ECBF5D7"
+				"download" "C3FF7828FD252B76C59E0640312D5FB5"
+			}
+			"locqa2"
+			{
+				"gid" "1B93E71733B5293E52EE3E094C118EBB"
+				"size" "32E517EB4EBBE347097374BAACCFE56D"
+				"download" "B92391A3AC216079A55FBFFDD33C5F84"
+			}
+			"mktng1"
+			{
+				"gid" "BA8477C1BF1F580A3ABF794472ED84A1"
+				"size" "62621E0B59C46B291933867F25A0917C"
+				"download" "C05D8286B386F03608F3621D8EAE081C"
+			}
+			"se-press-influencer"
+			{
+				"gid" "83341C359E74E2EF974A015F8AA3BF70"
+				"size" "3D4FD6827BE460B04478C42EA01DF862"
+				"download" "806C35F612104FF4D68E15F5D2A969E5"
+			}
+			"se-qa1"
+			{
+				"gid" "C28254BFB23ABFB755443B9720E7CE99"
+				"size" "1A4FF21F5DC9F39B849BA2613A86187F"
+				"download" "9EDC71A998E5304182286C135BF07E64"
+			}
+			"se-qa2"
+			{
+				"gid" "E8D2BAD92B1F77B8883944B19AA8755B"
+				"size" "177048014B78676EA388C1D6E4E47314"
+				"download" "B4809BB3E1E675F7C3480F4B0D051553"
+			}
+			"se-tqa"
+			{
+				"gid" "EF21C10FF4CCB70885D30FC0A7C28E20"
+				"size" "7C1371769798C0ACF6422A6A8D25AC04"
+				"download" "AF302A4A32C9D90E1081277B87D62FB6"
+			}
+			"se_event"
+			{
+				"gid" "365D98F187FC6F5C26620ABC6E5393DB"
+				"size" "A9D88D991BB90B5279F210BCEA81B7D9"
+				"download" "B21EF5B057B72FE14D4EBB21BF51CB92"
+			}
+			"se_mastering"
+			{
+				"gid" "6BE6679AFAC04B0EB6ED17B3D6C5D072"
+				"size" "1DFAEFCF761E0B828D3B460F5E4627A8"
+				"download" "16380A1EC763D127E8F3EA68C448EBD1"
+			}
+			"universally_speaking"
+			{
+				"gid" "FA596ADC937D09D79652E28F0B1D919A"
+				"size" "012B05780EF77870F55BD9FF64D44764"
+				"download" "962CDBD6DFC99B4A727ADC93C957C4C7"
+			}
+		}
+	}
+	"2464650"
+	{
+		"dlcappid" "2464650"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4826041788601691794"
+				"size" "985661989"
+				"download" "867909408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "1C8378B1670CAFEDE8EA32F671602DC5"
+				"size" "B9CA6B951529C17A263B8900DDAB68E1"
+				"download" "4FA55748263D33DE5F422F762BD7F59B"
+			}
+			"demo"
+			{
+				"gid" "B1C3D06B7EAC54C69FDF6AABCCC2B9C9"
+				"size" "945CB6A39656571B35E988C54F0BDB9F"
+				"download" "F3AEAE3419581E376952CFAC4C7E1DB1"
+			}
+			"dlc-a"
+			{
+				"gid" "D55C6D5D0D11D4BCD1DC7448F6C37D11"
+				"size" "4FEDEA0877D1BDB700D70D3FF124A454"
+				"download" "D90137BC54359896A6C6E21C8CB10757"
+			}
+			"dlc-c"
+			{
+				"gid" "974DF59B3EC349C61AED0197D4C5B933"
+				"size" "53349AC9728D98DCD327D640F0181610"
+				"download" "82416EE7602D14D8332D1D3A2591EE5C"
+			}
+			"fl-dev1"
+			{
+				"gid" "4B240C70D4794C1FF6DABC9542D0FB21"
+				"size" "161D2CA2FC9385AC53BA29B7D938B9FD"
+				"download" "16DAA2928EDF390165A2EFAF2F5FCF06"
+			}
+			"fl-dev2"
+			{
+				"gid" "E33877E33348212B3E90DAA59EA90DC4"
+				"size" "EE2DCCA911F6FD3B8134090EE6ADBC32"
+				"download" "CF8C21F29D4A8E300948DC3E226AEDD2"
+			}
+			"fl-dev3"
+			{
+				"gid" "0C6768DF14C17BA53AA63508BD9671F7"
+				"size" "5C5694139BA3D0E8D992852E59710759"
+				"download" "541B5107F502DE325B54275D3A7A7EAE"
+			}
+			"fl-qa1"
+			{
+				"gid" "8BC076096A20E1CBABED18FA98D85115"
+				"size" "966470AED33DD9A99DD670FC48D0FAA4"
+				"download" "F523EFB7414776D7A0DE34DCCAA91FDF"
+			}
+			"fl-qa2"
+			{
+				"gid" "86722134D9CA7DD229DD3D500D89A541"
+				"size" "FE672072D9F3C4DE11B830FE3163843A"
+				"download" "0FCF281A2C16FA8D53DC80F1A8010311"
+			}
+			"fl-qa3"
+			{
+				"gid" "A3315372C8621540CD3D2D2F9F2A52BA"
+				"size" "DA0074490DFA940D5AADC40E93080C46"
+				"download" "DD5D95126DC896C153DC0FB3899A7778"
+			}
+			"jamietest"
+			{
+				"gid" "244A296448B1D08A4756FC4A4287E84E"
+				"size" "590C4DB87C028A3BEBE6C768ADBE8800"
+				"download" "7DE36F88F6E3FFC05998AE246352F0EE"
+			}
+			"locqa1"
+			{
+				"gid" "DE51A727246C7A88F515D116500A6DDF"
+				"size" "12814203ED378C3831142AD418FEE3CB"
+				"download" "1A2601CCFE7EA210FE88C3574D2E3BD8"
+			}
+			"locqa2"
+			{
+				"gid" "447879A468C12CCEA61AFF9839B30E76"
+				"size" "B8FDB64A23D70566D4650CCDF90AAFD8"
+				"download" "EF13AD61976F812731F10C69FB676F8A"
+			}
+			"mktng1"
+			{
+				"gid" "5F85024CA9D3094E44AB5C2380E6D7D2"
+				"size" "42478A69EED21A7B03834E19EDA3D8E7"
+				"download" "F1765647F5295A7B1629764C31924A15"
+			}
+			"se-press-influencer"
+			{
+				"gid" "3EC2774A0E52E1639CC71DD8B524A097"
+				"size" "7BEF7D8FAC173D635A13DA22AD53B65F"
+				"download" "76F4D115750971EBCE4F5BD39A174F4F"
+			}
+			"se-qa1"
+			{
+				"gid" "AB2B003C7D1D14C5D4F7D0DC7F0D569A"
+				"size" "0E6D905228AAAC6FEC3726C59A8B69AA"
+				"download" "9E27214163B1A9924D5AF219303E47BC"
+			}
+			"se-qa2"
+			{
+				"gid" "69C6DE2E4E8D2B00D396AD957F72113D"
+				"size" "B05995AC2C33FF0827FAF0CF8AED09F9"
+				"download" "002196BE3B05F784ADC45C0C65B6F173"
+			}
+			"se-tqa"
+			{
+				"gid" "51F65079E63B051D6BE329E68570148D"
+				"size" "7265F30FE012753CA6ADA2DB7A8676E3"
+				"download" "CEF938BCA76D5ABAE9DC615F6213E2F6"
+			}
+			"se_event"
+			{
+				"gid" "175DF7D2A30133101645B64C0756C951"
+				"size" "4F85375F69758A3B13A8C3E36055081F"
+				"download" "7B28E4FA1F7EFACB39A5A99C28B2EE03"
+			}
+			"se_mastering"
+			{
+				"gid" "C533C821CAC4AD40B17A6B7FB1AA1A88"
+				"size" "62A220136774746C8E5D3583EE6D82D0"
+				"download" "C42B00E5266C3659CF368B140D05BB3E"
+			}
+			"universally_speaking"
+			{
+				"gid" "20463BE10CED5167BD4F393525DB7638"
+				"size" "1741126C63C83FC52AD05CD1C769374F"
+				"download" "B7C11F40BAF0470DEA995633C88AC9B3"
+			}
+		}
+	}
+	"2348940"
+	{
+		"dlcappid" "2348940"
+	}
+	"2562180"
+	{
+		"dlcappid" "2562180"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"se-tqa"
+			{
+				"gid" "02597ACFC8B988AA4ABB7074ED17ACE4"
+				"size" "ACB68A402C1CD2760F4B2E164106C567"
+				"download" "76BFC590E10DA28370A00EEBA4CC3027"
+			}
+			"universally_speaking"
+			{
+				"gid" "FCC20FFB44318D19338D1C0B75580D07"
+				"size" "154DD5EF55AC74EA4CAAAE65FDF150C9"
+				"download" "11A0E4891EAB6D24423C97454BEA8C2E"
+			}
+		}
+	}
+	"2593910"
+	{
+		"dlcappid" "2593910"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7744877734760534314"
+				"size" "1776964465"
+				"download" "1404549056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "13CD150529C7EB5513CE4C4D4CB5B899"
+				"size" "5FCFC44288459188E44280D4485C874A"
+				"download" "FB2335AF4CEE4A1970BA2B064020C116"
+			}
+			"dlc-a"
+			{
+				"gid" "5047124B1B5607A28A51C9B562D74C28"
+				"size" "BF0C112917B75F5CC089E9BFAF4830E7"
+				"download" "EB6470B86346E815C09B377D5AAC2472"
+			}
+			"dlc-c"
+			{
+				"gid" "64E6619E3847C6D4FE19C57392D038E8"
+				"size" "C8D436D5921A4FCCCC23718ECD04E157"
+				"download" "D8F7CE702D6F17304E4D014517A31B63"
+			}
+			"fl-dev3"
+			{
+				"gid" "2E8556E4B5FF839837E2BFEF50AD3758"
+				"size" "B56138D35FC1B4E8B158C218EB39F7A3"
+				"download" "0E379E4BF837209AE3F45A890DB84CE4"
+			}
+			"fl-qa2"
+			{
+				"gid" "0CD5C18F4159054D4C036E44B0891B24"
+				"size" "DADE32ABB96B476DDEF2093312D0C788"
+				"download" "1CCA42DBD2CFD1267E14F5230DC6F9FA"
+			}
+			"fl-qa3"
+			{
+				"gid" "4A084479BE31BAE834AE5E69DC3FC755"
+				"size" "34006A8D8D7766855127C4CBD8C10044"
+				"download" "445B87FEC3550F79B5C0CF3E4C3F1F7D"
+			}
+			"locqa2"
+			{
+				"gid" "FA16C5986F6DD6AAA80329503405414C"
+				"size" "94D18A1B4BAD65EFEDACE2A99F5C1806"
+				"download" "01A6334DD5A772F21F83AFAB9B2999E7"
+			}
+			"se-press-influencer"
+			{
+				"gid" "13F91D434A5393FA011EC7FC418B58D7"
+				"size" "AA3BA6EC57E8C5C274FD07AE15B52D69"
+				"download" "5DBF7601E9B22297143217B601729424"
+			}
+			"se-qa1"
+			{
+				"gid" "1E827D484DD4C4BECEA699B14D891E14"
+				"size" "2A08C255BC4596E5932133097222585A"
+				"download" "A61F3FA2A145FD2A17D46C9141D990A1"
+			}
+			"se-qa2"
+			{
+				"gid" "C42E4628A62A9D5E11CB5C5BD4BD2D04"
+				"size" "0A37E02C90BD1981C66D71AE210B9210"
+				"download" "A3FF89609153F33CB1216DD2F997369A"
+			}
+			"se-tqa"
+			{
+				"gid" "5B519EAC5A89408F88F9CCBA3198A2EC"
+				"size" "1BB0B8F825D5E01F4D5E0179EF23CEDC"
+				"download" "33E35BF66732DEAC8D109B1AC47853F6"
+			}
+		}
+	}
+	"2593920"
+	{
+		"dlcappid" "2593920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2732238952413325594"
+				"size" "377299429"
+				"download" "342091344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "9387C1A56C588A610C9F49BCF5183EA4"
+				"size" "E400D1CA2FE0CFAB08C3B3A128A1890C"
+				"download" "796BB89BE950281981D11BADB92922F3"
+			}
+			"demo"
+			{
+				"gid" "6BFD75FF64FD8233956115B1E383A59F"
+				"size" "FB47A199A087EE9C76BD24C7090799FF"
+				"download" "6E52087624CAFE00028BFD74B76A7653"
+			}
+			"dlc-a"
+			{
+				"gid" "F29C7FBFCDF9B591BA86E05853E988DA"
+				"size" "6912D713FE595759B3C483AE10DA8120"
+				"download" "6270D95E319E1FE9FF7430E00C3C4E8E"
+			}
+			"dlc-c"
+			{
+				"gid" "2D0E25E51345DFF25782B86A82DB0D33"
+				"size" "46C434BF9AA39CE569378D8334E6E97A"
+				"download" "FEF80697F947CD63FB40DA6E2E526F0F"
+			}
+			"fl-dev1"
+			{
+				"gid" "A93FADDA7417430C3D994A1A9BF2F829"
+				"size" "7133E1F2E9272CD01A8693A7F9B4AA38"
+				"download" "36B9CB065CD80E07960B73639E534E7F"
+			}
+			"fl-dev2"
+			{
+				"gid" "1E6E3450C007A5DA48E8582B054DC410"
+				"size" "AE522F51172F114DD8874C7055C9FCAF"
+				"download" "0BAC7D74F2245AC598FCDB71C973A6E0"
+			}
+			"fl-dev3"
+			{
+				"gid" "3C4F52188F0A7C67C3AA18EB2935A9D0"
+				"size" "DCF3295BD29A063F26B306E8B3B50EF5"
+				"download" "04AC898F6F4FCC9A62B8B1A9CED0BEA2"
+			}
+			"fl-qa1"
+			{
+				"gid" "C4B04C56BC1F70C05D120898C2B0F848"
+				"size" "408E37AED142F677B89C7F1D205A62B5"
+				"download" "B286E072BB921E3CBEAF058FC709597D"
+			}
+			"fl-qa2"
+			{
+				"gid" "4616AC1573891713BCEE76F8B97267A1"
+				"size" "BF529A66731A9CF9983C2DF5CF164E4E"
+				"download" "2210256E7395B2020164B79A9230926D"
+			}
+			"fl-qa3"
+			{
+				"gid" "5728C684086B1B8EE5CB7787AC2B69B2"
+				"size" "AE7CB3CC6560B2E403B4AD11624EB1FB"
+				"download" "E3AC549F8846418FFC411C89F7538710"
+			}
+			"jamietest"
+			{
+				"gid" "C04F9543E22FD58E9C27E4DB6806FF31"
+				"size" "02130A78F0E0DBDE27064FBC1ACAF136"
+				"download" "949EAB93EEBE6D933B7136B4E0EB13C0"
+			}
+			"locqa2"
+			{
+				"gid" "90EB4E930D14614F336F2B8A54BF9262"
+				"size" "CC32DC28175C8A17BD3EE78BE2D19336"
+				"download" "014B6891F6A2039C9392D5895FC14DAB"
+			}
+			"mktng1"
+			{
+				"gid" "3858721CB34520FFC4B15E87D00E3435"
+				"size" "EF863B25B7B9B07D87D05D5247B6848B"
+				"download" "50150722CA9C80AD6E44016EAFFC07C5"
+			}
+			"se-press-influencer"
+			{
+				"gid" "C42ED6A170FE6596B4518F24D50B965D"
+				"size" "4479B4DECDB099A391F39322C5C43380"
+				"download" "BCC4A4F1A6586B538EC33798C27BC5AF"
+			}
+			"se-qa1"
+			{
+				"gid" "F695D183953BB5A9DC8C61F53CEACD94"
+				"size" "640F2415743655A2956E1286959372A4"
+				"download" "D31EBA05608EAAC539C913BF9A154F90"
+			}
+			"se-qa2"
+			{
+				"gid" "3B6ED4718163782D28AEC826396105B2"
+				"size" "B84386BB9A0BDB5312DBC3E6F0FA02B6"
+				"download" "B10BD8D25C75D7E28749C33A8CFD00C8"
+			}
+			"se-tqa"
+			{
+				"gid" "147ACEC06190F5A5E529D3ABD8E3E044"
+				"size" "80EE661541070D13312C9E83BC3FACCD"
+				"download" "0978A880506ECC63BB572AA8617A5A8A"
+			}
+			"se_mastering"
+			{
+				"gid" "C01A85462C6F36A1164A7E18EE67E315"
+				"size" "213960FC7AB301BB0B5BC6AA548F8F7E"
+				"download" "1CD2E67BC661A01A01384FD103BCDF4E"
+			}
+			"universally_speaking"
+			{
+				"gid" "7E01C377D4E803041D2E8D964233E8AA"
+				"size" "B40FEA85B3AF76DFFBB9FDE0F47F3EF3"
+				"download" "4833E135F45705981C36A9C86CC92900"
+			}
+		}
+	}
+	"2593930"
+	{
+		"dlcappid" "2593930"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"fl-qa3"
+			{
+				"gid" "B3180F4E213E0FD925AD84DB4913E08C"
+				"size" "4030CD9024781368DD4F77B8CD4CA77C"
+				"download" "915423CD21633ED5990E6CFC3EB43598"
+			}
+			"se-qa1"
+			{
+				"gid" "7DEFA260D26532F382D59BDD58A37521"
+				"size" "174B7192B7CFEE089E174C08EAAF9E32"
+				"download" "285172C3CCD93B1FEF03ABED214E5EA4"
+			}
+		}
+	}
+	"2736320"
+	{
+		"dlcappid" "2736320"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"fl-qa3"
+			{
+				"gid" "031C6546729543CD2E7C4A16EB7CE1BD"
+				"size" "9915FC56498EFE56F8565D9977A665D2"
+				"download" "43C04AA757ABDB237E9A7EBB8ED32AC0"
+			}
+			"se-qa1"
+			{
+				"gid" "AC347EE20B88215CFC7A37A63E2FB9C5"
+				"size" "BE5807C613F75F476BA3DC4305EE3930"
+				"download" "02D654E27B9CF6CB57C5275597B8EC3C"
+			}
+		}
+	}
+	"2736310"
+	{
+		"dlcappid" "2736310"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"fl-qa3"
+			{
+				"gid" "A38F874CE2D25B3F5C576A6735C17B2B"
+				"size" "2C7777125CBAB31C2AAF68F43BE217D6"
+				"download" "39C39795C95B408F509D5E8BFFC5ECF0"
+			}
+			"se-qa1"
+			{
+				"gid" "AA8336C2076ECE2105515EA0EDD6B368"
+				"size" "7EB34F92ECD8E5E91CD9EAF844BB4973"
+				"download" "678178EC1AAFA3B2757728A794C05EC5"
+			}
+		}
+	}
+	"2736330"
+	{
+		"dlcappid" "2736330"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"fl-qa3"
+			{
+				"gid" "97F82B7EAAB099A0A9CC1C9381D04E3F"
+				"size" "04A0ED4807AB84E49DF654BF9F662CA0"
+				"download" "0F370126285FC12DCFAD6BA9E0001BF2"
+			}
+			"se-qa1"
+			{
+				"gid" "8C667B09A11900D313B429369D31ABD0"
+				"size" "7B9340FBF88C274500029349EBE01A41"
+				"download" "B62D00CA6A13ED80A19B5178F8BB1639"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13269453"
+			"timeupdated" "1709041511"
+		}
+		"community"
+		{
+			"buildid" "13136137"
+			"pwdrequired" "1"
+			"timeupdated" "1705923112"
+		}
+		"demo"
+		{
+			"buildid" "13415340"
+			"pwdrequired" "1"
+			"timeupdated" "1707487782"
+		}
+		"dlc-a"
+		{
+			"buildid" "12913242"
+			"pwdrequired" "1"
+			"timeupdated" "1702287216"
+		}
+		"dlc-c"
+		{
+			"buildid" "12913505"
+			"pwdrequired" "1"
+			"timeupdated" "1702287258"
+		}
+		"dlc_approval"
+		{
+			"buildid" "9339365"
+			"pwdrequired" "1"
+			"timeupdated" "1661327999"
+		}
+		"fl-dev1"
+		{
+			"buildid" "13465302"
+			"pwdrequired" "1"
+			"timeupdated" "1708081987"
+		}
+		"fl-dev2"
+		{
+			"buildid" "13465302"
+			"pwdrequired" "1"
+			"timeupdated" "1708004922"
+		}
+		"fl-dev3"
+		{
+			"buildid" "13136137"
+			"pwdrequired" "1"
+			"timeupdated" "1705055565"
+		}
+		"fl-qa1"
+		{
+			"buildid" "13381912"
+			"pwdrequired" "1"
+			"timeupdated" "1707229758"
+		}
+		"fl-qa2"
+		{
+			"buildid" "13269453"
+			"pwdrequired" "1"
+			"timeupdated" "1706176712"
+		}
+		"fl-qa3"
+		{
+			"buildid" "13599232"
+			"pwdrequired" "1"
+			"timeupdated" "1709198555"
+		}
+		"forthfloor"
+		{
+			"buildid" "10314903"
+			"pwdrequired" "1"
+			"timeupdated" "1674825800"
+		}
+		"jamietest"
+		{
+			"buildid" "13465302"
+			"pwdrequired" "1"
+			"timeupdated" "1708081926"
+		}
+		"locqa1"
+		{
+			"buildid" "11910644"
+			"pwdrequired" "1"
+			"timeupdated" "1691751021"
+		}
+		"locqa2"
+		{
+			"buildid" "13136137"
+			"pwdrequired" "1"
+			"timeupdated" "1705048238"
+		}
+		"mktng1"
+		{
+			"buildid" "13145205"
+			"pwdrequired" "1"
+			"timeupdated" "1704967492"
+		}
+		"se-press-influencer"
+		{
+			"buildid" "13269453"
+			"pwdrequired" "1"
+			"timeupdated" "1706616746"
+		}
+		"se-qa1"
+		{
+			"buildid" "13599232"
+			"pwdrequired" "1"
+			"timeupdated" "1709297639"
+		}
+		"se-qa2"
+		{
+			"buildid" "13269453"
+			"pwdrequired" "1"
+			"timeupdated" "1706271812"
+		}
+		"se-tgs"
+		{
+			"buildid" "9460164"
+			"pwdrequired" "1"
+			"timeupdated" "1662480195"
+		}
+		"se-tqa"
+		{
+			"buildid" "12974290"
+			"pwdrequired" "1"
+			"timeupdated" "1702657911"
+		}
+		"se_capture"
+		{
+			"buildid" "9982030"
+			"pwdrequired" "1"
+			"timeupdated" "1669050788"
+		}
+		"se_event"
+		{
+			"buildid" "12283221"
+			"pwdrequired" "1"
+			"timeupdated" "1696953294"
+		}
+		"se_mastering"
+		{
+			"buildid" "12641285"
+			"pwdrequired" "1"
+			"timeupdated" "1702375742"
+		}
+		"universally_speaking"
+		{
+			"buildid" "12638526"
+			"pwdrequired" "1"
+			"timeupdated" "1699351673"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "FuturLab/PowerWash Simulator/SaveData"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22578350"
+"_sha" "fffc166ffe6b5563ba82f3b6e375b75eb55817fc"
+"_size" "27840"
