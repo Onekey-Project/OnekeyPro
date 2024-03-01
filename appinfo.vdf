@@ -339,6 +339,7 @@
 {
 	"contenttype" "3"
 	"checkforupdatesbeforelaunch" "1"
+	"launchwithoutworkshopupdates" "1"
 	"installdir" "Counter-Strike Global Offensive"
 	"app_mappings"
 	{
@@ -575,8 +576,8 @@
 		}
 		"public"
 		{
-			"buildid" "13593156"
-			"timeupdated" "1709159261"
+			"buildid" "13616159"
+			"timeupdated" "1709334515"
 		}
 		"1.21.3.1"
 		{
@@ -620,15 +621,15 @@
 		}
 		"dpr"
 		{
-			"buildid" "13593156"
+			"buildid" "13616159"
 			"pwdrequired" "1"
-			"timeupdated" "1709158933"
+			"timeupdated" "1709334122"
 		}
 		"dprp"
 		{
-			"buildid" "13593156"
+			"buildid" "13616159"
 			"pwdrequired" "1"
-			"timeupdated" "1709158943"
+			"timeupdated" "1709334143"
 		}
 	}
 	"workshopdepot" "730"
@@ -661,7 +662,7 @@
 		{
 			"public"
 			{
-				"gid" "6127072095768211668"
+				"gid" "1824568705380600206"
 				"size" "7"
 				"download" "64"
 			}
@@ -712,13 +713,13 @@
 			}
 			"dpr"
 			{
-				"gid" "9CE3B6BED4F2D9ABCA87085DCAB2BD3A"
+				"gid" "FFB27BA377E7C1A3C63AB238BB60E9AD"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "05F01218FE1CB269AA793009094D31AF"
+				"gid" "11CAFD0CC051D7B06526420A6265FEDD"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -735,7 +736,7 @@
 		{
 			"public"
 			{
-				"gid" "8094135924759739653"
+				"gid" "1086351807213693172"
 				"size" "7"
 				"download" "64"
 			}
@@ -786,13 +787,13 @@
 			}
 			"dpr"
 			{
-				"gid" "3D19052981C6FBCFA0CE29FDA207E2F2"
+				"gid" "D54858ADAB6B358EE82FEF836F2AC16C"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "4F82B732D754A82A52F83D378FDF1FB4"
+				"gid" "6088497178C55E559A5F6A814835608C"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -805,7 +806,7 @@
 		{
 			"public"
 			{
-				"gid" "3815363869712995323"
+				"gid" "8565261680016974955"
 				"size" "7"
 				"download" "64"
 			}
@@ -856,13 +857,13 @@
 			}
 			"dpr"
 			{
-				"gid" "5E74480E17BE5FEB2D58EDB5242B2BD5"
+				"gid" "AC9E605525097FFB38D13949C826462A"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "FB03179DF8ECABBAD8DBC0B5BEF1B4DF"
+				"gid" "FD9166CFEA3918D2D17D4EBC0C4E5AF2"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -878,7 +879,7 @@
 		{
 			"public"
 			{
-				"gid" "8095426246469265956"
+				"gid" "8623667590931223399"
 				"size" "7"
 				"download" "64"
 			}
@@ -923,13 +924,13 @@
 			}
 			"dpr"
 			{
-				"gid" "2D065F000B2B5DA7B65307D81933589D"
+				"gid" "DC7729F77F2D8BAE2B49D98D619C8920"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "FCC1B0E8D91D1EFA1F2CF071EA7DDC23"
+				"gid" "ED7B8DF2CB9DBC198C0FB968B42B8DCB"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -941,7 +942,7 @@
 		{
 			"public"
 			{
-				"gid" "6384537453337467102"
+				"gid" "8418838551324431239"
 				"size" "7"
 				"download" "64"
 			}
@@ -980,13 +981,13 @@
 		{
 			"dpr"
 			{
-				"gid" "0E2CC1A894F86B8102BF16E1BE720850"
+				"gid" "0AC45E654496ED6608C892B11289D006"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "A06764F274160D8FF9916F60D466E23E"
+				"gid" "16A767A4047B19B9BA848B4DC786718C"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -998,7 +999,7 @@
 		{
 			"public"
 			{
-				"gid" "3272764132446603780"
+				"gid" "1622912182541336431"
 				"size" "7"
 				"download" "64"
 			}
@@ -1037,13 +1038,13 @@
 		{
 			"dpr"
 			{
-				"gid" "45D97E8677BD440772DF4C6E78E4852A"
+				"gid" "CD6D18844C52493D5C80287CA49DB260"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "398B12FA9DFE7C319929F5F30E1B11A1"
+				"gid" "150DABD1E5A342EFA753AA0BB5123E7E"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -1055,7 +1056,7 @@
 		{
 			"public"
 			{
-				"gid" "4694602129675988001"
+				"gid" "2929485661193952322"
 				"size" "7"
 				"download" "64"
 			}
@@ -1094,13 +1095,13 @@
 		{
 			"dpr"
 			{
-				"gid" "EB09461A6106B7ABEAFB468D64469723"
+				"gid" "56227EB18D2AFED550C72C1BF3A0736A"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "B898F732BD68739F0BA706A50828A4EB"
+				"gid" "FAFF0AD91EDCD24A6EB747968883FBDB"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -1112,7 +1113,7 @@
 		{
 			"public"
 			{
-				"gid" "4490111825335320921"
+				"gid" "7810183413540690570"
 				"size" "7"
 				"download" "64"
 			}
@@ -1151,13 +1152,13 @@
 		{
 			"dpr"
 			{
-				"gid" "484B2F0E5C6C5FE1E4E5D3DB94C5F0CA"
+				"gid" "8954C708ADABD44D9B661BC28FA8C302"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "1531618C5BFD694314688AA8127C442A"
+				"gid" "355E346D298ED8EEF3BBFDC97355232C"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -1173,9 +1174,9 @@
 		{
 			"public"
 			{
-				"gid" "3124481944978368952"
-				"size" "34463287228"
-				"download" "28483588224"
+				"gid" "6314241127790616766"
+				"size" "34445307245"
+				"download" "28466582944"
 			}
 			"1.39.9.2"
 			{
@@ -1206,15 +1207,15 @@
 		{
 			"dpr"
 			{
-				"gid" "A53F03781F19D9C6249E8E5E0F94959B"
-				"size" "785B0EBF77EF5FBC2E0C305A5D31BDBB"
-				"download" "186F89A77969C7F111A113F3F616D108"
+				"gid" "7D6171EB63E2CA932AEBA525E638DFF7"
+				"size" "C09A8BED89118E6F62B57965E001A0E7"
+				"download" "ADB361951019DB4EEC90343070A34BAC"
 			}
 			"dprp"
 			{
-				"gid" "CA74A40D6FD9AAF35D371B9A8FABF692"
-				"size" "CF9BB7F723B69353DFF910A428120576"
-				"download" "E557DF9C1492B451EEB46BC9FA17C11D"
+				"gid" "31D68A8F4F9D2E4535C1E97F430D20E4"
+				"size" "9DC420C8A04B9B796A58C98C05092B7E"
+				"download" "92CF64888E27B55FB55C854FB71BAA87"
 			}
 		}
 	}
@@ -1228,9 +1229,9 @@
 		{
 			"public"
 			{
-				"gid" "3845929526577681782"
-				"size" "653544727"
-				"download" "351470288"
+				"gid" "6086032824050384339"
+				"size" "653546263"
+				"download" "351463280"
 			}
 			"1.39.9.2"
 			{
@@ -1261,15 +1262,15 @@
 		{
 			"dpr"
 			{
-				"gid" "4BD98255BC26A7278E50FF6A93C27916"
-				"size" "2FE0C0566BF040E57484873DEF856AA7"
-				"download" "48FA2482066C4EB5DF0062F3A9291BF1"
+				"gid" "972E560B38303FE0F435EADE69CFE80D"
+				"size" "AFF1604E32B1BD44365D428F80807E50"
+				"download" "0518D7884245670B4DD42D94644CE5BF"
 			}
 			"dprp"
 			{
-				"gid" "96111D3D0A5A1BA1419AAB48EFDFEA4A"
-				"size" "1D675715B3E240C485E2DBFB73D1D192"
-				"download" "E1C8FF33BCF2F19C8655D78FE4F3A9FA"
+				"gid" "78D2164AD1D0120368F8C6C5A0F0609B"
+				"size" "2EC5D0ACBDEFC6F032D85C8A4CDDD40C"
+				"download" "52B330FAFEDA2E254F8C5E3C77169ACB"
 			}
 		}
 	}
@@ -1339,9 +1340,9 @@
 		{
 			"public"
 			{
-				"gid" "1285356161700204772"
+				"gid" "1722569478348239481"
 				"size" "269189048"
-				"download" "74918880"
+				"download" "74918432"
 			}
 			"1.39.9.2"
 			{
@@ -1372,15 +1373,15 @@
 		{
 			"dpr"
 			{
-				"gid" "D9D7EFD7AD4588F04DA7E824381368E8"
+				"gid" "841DE5149A4EACD31728C775EAB0683D"
 				"size" "8F573F172B667204E9AF6B512ECF512E"
-				"download" "6F76B1546AA477127F2A3F65D12B1093"
+				"download" "DA51CB27D617A3C975BC58A71D1EC684"
 			}
 			"dprp"
 			{
-				"gid" "995D48A5D45C6D91F4F41981F38669B4"
+				"gid" "7C8B0C59082047C83521DF847563F02A"
 				"size" "BCEC9D0816D0215353BA7EFB3F967A98"
-				"download" "E65C2593DD12F87A7A749FEC71B393CE"
+				"download" "613527F14604AE02DED904ABCA7138A2"
 			}
 		}
 	}
@@ -1463,9 +1464,9 @@
 		{
 			"public"
 			{
-				"gid" "4372055976030172458"
+				"gid" "8167903125933505447"
 				"size" "724657432"
-				"download" "175163808"
+				"download" "175165744"
 			}
 			"1.39.9.2"
 			{
@@ -1496,15 +1497,15 @@
 		{
 			"dpr"
 			{
-				"gid" "AF49E8C37BC452826ACF110B88F20AFB"
+				"gid" "13AB1CE248999B9CA469AF231450353A"
 				"size" "4A57EA88391F506779CA14706C24024A"
-				"download" "9C52FA26B16EE49D937E7DF13B4E5F6C"
+				"download" "8968898CE8419B05BF1E7D887BCA8652"
 			}
 			"dprp"
 			{
-				"gid" "53DAD337F9AD734309CFF6499699FB5C"
+				"gid" "B8C07462EFD61C3812821DCB618B1854"
 				"size" "803578D97D388B211EF898778E7B52EF"
-				"download" "9B01A755DEE0832DB21C813EE5552F21"
+				"download" "A758DE086AC2CD5FA29EC4CE7CC4BD44"
 			}
 		}
 	}
@@ -6479,6 +6480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22550674"
-"_sha" "17b81638f39931e8864791929a10f48911078890"
-"_size" "230078"
+"_change_number" "22593244"
+"_sha" "7462cebaab712b5c9533a2630b7b9d641e7a771d"
+"_size" "230116"
