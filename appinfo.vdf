@@ -1,0 +1,510 @@
+"appid" "1592110"
+"common"
+{
+	"name" "Spirit Of The Island"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "03ddfa0f6c88a1ca6d2360c61cb9bd4e38522113"
+	"logo" "93113ad28a9f99e671dd8916e8faf3a8a1f5574e"
+	"logo_small" "93113ad28a9f99e671dd8916e8faf3a8a1f5574e_thumb"
+	"icon" "93a53b1c2520901cfff0ce812c43c8e22c416408"
+	"clienticon" "d06af148831d519f1132821db546d118754aac1c"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "海岛之魂"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"portuguese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1683849600"
+		"tested_build_id" "11060008"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "91.58125588452887"
+			"height_pct" "46.645601999450385"
+		}
+	}
+	"store_asset_mtime" "1701857617"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "1M Bits Horde"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "META Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "META Publishing"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "28"
+		"6" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_27" "1"
+		"category_29" "1"
+		"category_61" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1660755000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1592110"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "122"
+		"2" "10235"
+		"3" "3810"
+		"4" "21"
+		"5" "22602"
+		"6" "3843"
+		"7" "3834"
+		"8" "4726"
+		"9" "4182"
+		"10" "1695"
+		"11" "597"
+		"12" "5350"
+		"13" "492"
+		"14" "599"
+		"15" "1662"
+		"16" "1654"
+		"17" "1643"
+		"18" "12472"
+		"19" "4947"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "1M Bits Horde"
+	"publisher" "META Publishing"
+	"homepage" "https://www.sotigame.com/"
+	"listofdlc" "2419840,2507940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Spirit Of The Island"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SOTI.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Spirit of the Island Beach Resort or Adventureland (for Adventureland install the Adventureland DLC)"
+				"german" "Spirit of the Island Beach Resort oder Adventureland (für Adventureland installieren Sie den Adventureland DLC)"
+				"french" "Spirit of the Island Beach Resort ou Adventureland (pour Adventureland, installez le DLC Adventureland)"
+				"italian" "Spirit of the Island Beach Resort o Adventureland (per Adventureland installa il DLC Adventureland)"
+				"koreana" "Spirit of the Island - 해변 리조트 또는 Adventureland(Adventureland의 경우 Adventureland DLC 설치)"
+				"spanish" "Spirit of the Island Beach Resort o Adventureland (para Adventureland, instale el DLC Adventureland)"
+				"schinese" "Spirit of the Island Beach Resort 或 Adventureland（对于 Adventureland，请安装 Adventureland DLC）"
+				"russian" "Spirit of the Island Beach Resort / Adventureland (и Adventureland, если у вас установлено данное ДЛЦ)"
+				"thai" "Spirit of the Island - Beach Resort หรือ Adventureland (สำหรับ Adventureland ติดตั้ง Adventureland DLC)"
+				"japanese" "スピリット オブ ザ アイランド - ビーチ リゾートまたはアドベンチャーランド (アドベンチャーランドの場合は、アドベンチャーランド DLC をインストールしてください)"
+				"portuguese" "Spirit of the Island Beach Resort ou Adventureland (para Adventureland instale o DLC Adventureland)"
+				"brazilian" "Spirit of the Island Beach Resort ou Adventureland (para Adventureland instale o DLC Adventureland)"
+			}
+			"description" "Spirit of the Island Beach Resort or Adventureland (for Adventureland install the Adventureland DLC)"
+		}
+		"1"
+		{
+			"executable" "SOTIDEF.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Spirit of the Island - Default (for the COOP play with consoles)"
+				"german" "Spirit of the Island (Version zum Spielen im COOP mit Konsolenspielern)"
+				"french" "Spirit of the Island - Par défaut (pour le jeu COOP avec consoles)"
+				"italian" "Spirit of the Island - Predefinito (per il gioco COOP con console)"
+				"koreana" "Spirit of the Island - 기본(콘솔을 이용한 COOP 플레이용)"
+				"spanish" "Spirit of the Island - Predeterminado (para el juego COOP con consolas)"
+				"schinese" "Spirit of the Island - 默认（用于使用控制台进行 COOP 游戏）"
+				"russian" "Spirit of the Island (версия для игры в КООП с игроками на консолях)"
+				"thai" "Spirit of the Island - ค่าเริ่มต้น (สำหรับการเล่น COOP ด้วยคอนโซล)"
+				"japanese" "Spirit of the Island - デフォルト (コンソールでの COOP プレイ用)"
+				"portuguese" "Spirit of the Island - Padrão (para jogar COOP com consoles)"
+				"brazilian" "Spirit of the Island - Padrão (para jogar COOP com consoles)"
+			}
+			"description" "Spirit of the Island - Default (for the COOP play with consoles)"
+		}
+	}
+}
+"depots"
+{
+	"1592111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4426485253237569640"
+				"size" "5810349029"
+				"download" "990689200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "C1A1C20897F6B4217CEB947832870810"
+				"size" "CCD05A2BBB1216E3457BCCFE52A3EB31"
+				"download" "C8390C25BC57D4FD0D665247270AC57D"
+			}
+			"dev_branch"
+			{
+				"gid" "19AF09121FAB749712AD46279DDDB2BF"
+				"size" "497F9EC1BE3211D307C68770598A2A8E"
+				"download" "690051C1B21E867F20336459DD2DE65C"
+			}
+			"influencers"
+			{
+				"gid" "1330C552223481C342FFB0E59040FC47"
+				"size" "0DD45F561928705A172B868C0F04E8C4"
+				"download" "E4585DCDE44D8C8A41067B47EF696C76"
+			}
+			"newtestbranch"
+			{
+				"gid" "9B8B799A2AF3F30F34F13EB05A53BF9A"
+				"size" "F65FAFEC9CA475FD0294C0F33BB39BB6"
+				"download" "A5698F28A88B118F62CE4A33E665C034"
+			}
+			"rc_version_latest"
+			{
+				"gid" "8D1A4C25E5B6640AED514E59D9FC5E85"
+				"size" "B3C5948E2DF7AFBBDA63D47DEBF2C292"
+				"download" "AF3B7CA999DAA8F92B5B9BEB3A8FDBBB"
+			}
+			"relationsupdatetest"
+			{
+				"gid" "35B34C0E2E20843E223C23117B8C010C"
+				"size" "1C3D9C091F6425C36877605D8CC1D7C8"
+				"download" "5AD1531180C3661151529E2917A3E3F0"
+			}
+		}
+	}
+	"2419840"
+	{
+		"dlcappid" "2419840"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2419841"
+	{
+		"dlcappid" "2419840"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5753054915665495672"
+				"size" "5810349029"
+				"download" "988500768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "260204711D087FE725BA64D7CF587625"
+				"size" "CCD05A2BBB1216E3457BCCFE52A3EB31"
+				"download" "46664B173A65DD4EA99FCDAB78394FB7"
+			}
+			"newtestbranch"
+			{
+				"gid" "96959752B9422A9ABBBA29051B6E99E4"
+				"size" "F65FAFEC9CA475FD0294C0F33BB39BB6"
+				"download" "17C208C33DF84BBC4325F00FBC6A71D4"
+			}
+			"rc_version_latest"
+			{
+				"gid" "86D4CC19955AAAE467C63DFEF64EBA43"
+				"size" "B3C5948E2DF7AFBBDA63D47DEBF2C292"
+				"download" "EF4FDA48A84570C087756C093E4C52F9"
+			}
+			"relationsupdatetest"
+			{
+				"gid" "5359592491494174060028C64B987168"
+				"size" "21AD8633AE0F0D61C3D9F4AB3AD1FB95"
+				"download" "1810823BAAEEA7527C1E7449F4AA04C0"
+			}
+		}
+	}
+	"2507940"
+	{
+		"dlcappid" "2507940"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "344790771507225471"
+				"size" "5810349029"
+				"download" "990338096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "5446AF67B005DA4A90D7CFFF92481FB5"
+				"size" "CCD05A2BBB1216E3457BCCFE52A3EB31"
+				"download" "537D45C828E25303B77C14B463AD2E47"
+			}
+			"influencers"
+			{
+				"gid" "90F93A2AF0CE1DD1BF3ABB1456E3DFA4"
+				"size" "3C74DF15FE438506EA31993DEB0C654F"
+				"download" "4F36FA2A0ED4CD8359D3BDD6BE866711"
+			}
+			"newtestbranch"
+			{
+				"gid" "FDA87BAF3FA33C762806B5C8E2B9BA28"
+				"size" "F65FAFEC9CA475FD0294C0F33BB39BB6"
+				"download" "14D19BF97A93B30ED2FB90D462C7ECC4"
+			}
+			"rc_version_latest"
+			{
+				"gid" "8AEB90BAD31964C4B66CCF043A61EECA"
+				"size" "B3C5948E2DF7AFBBDA63D47DEBF2C292"
+				"download" "AEB949EE02F12B7B7FC1AD7EADDB253C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13488954"
+			"timeupdated" "1708237375"
+		}
+		"betatest"
+		{
+			"buildid" "12727924"
+			"pwdrequired" "1"
+			"timeupdated" "1700200409"
+		}
+		"dev_branch"
+		{
+			"buildid" "13423608"
+			"pwdrequired" "1"
+			"timeupdated" "1707746059"
+		}
+		"influencers"
+		{
+			"buildid" "13478988"
+			"pwdrequired" "1"
+			"timeupdated" "1708105502"
+		}
+		"newtestbranch"
+		{
+			"buildid" "13488898"
+			"pwdrequired" "1"
+			"timeupdated" "1708235984"
+		}
+		"rc_version_latest"
+		{
+			"buildid" "13423653"
+			"pwdrequired" "1"
+			"timeupdated" "1708237297"
+		}
+		"relationsupdatetest"
+		{
+			"buildid" "11467086"
+			"pwdrequired" "1"
+			"timeupdated" "1686741399"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "1M Bits Horde"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22414017"
+"_sha" "26205ec8c1834567b6b5543652c444cba42d58fe"
+"_size" "12182"
