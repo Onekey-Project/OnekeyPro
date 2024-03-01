@@ -1,0 +1,511 @@
+"appid" "2546690"
+"common"
+{
+	"name" "Tram Simulator Urban Transit"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "65c1f75acf43e4f06ba196a30d0d08f0078fa09b"
+	"clienticon" "eb0ca5043b43bbf9c51a5e77bdeb6af4ea9c4f71"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2546690_eula_1"
+			"name" "Tram Simulator Urban Transit EULA"
+			"url" "https://store.steampowered.com//eula/2546690_eula_1"
+			"version" "1"
+		}
+	}
+	"icon" "71d4e2335c94bdff42b5d96b492e40235f9a446d"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1704844800"
+		"tested_build_id" "12938624"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"store_asset_mtime" "1707921419"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "stillalive studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "astragon Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_59" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701791299"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2546690"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1100687"
+		"2" "9204"
+		"3" "4191"
+		"4" "4305"
+		"5" "3839"
+		"6" "4175"
+		"7" "1697"
+		"8" "1644"
+		"9" "5350"
+		"10" "12472"
+		"11" "5673"
+		"12" "1654"
+		"13" "4747"
+		"14" "7481"
+		"15" "1695"
+		"16" "1685"
+		"17" "3859"
+		"18" "3843"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "stillalive studios"
+	"publisher" "astragon Entertainment"
+	"homepage" "https://www.tram-simulator.com/"
+}
+"config"
+{
+	"installdir" "Tram Simulator Urban Transit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TramSimulator.exe"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian"
+	"hasdepotsindlc" "0"
+	"2546691"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1752164357198180436"
+				"size" "13364444221"
+				"download" "4667414416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ae_capture"
+			{
+				"gid" "30A456BFC41117CFC87228483524A4A0"
+				"size" "94046CFBDF3771C5AB51D3AD10CC3007"
+				"download" "BF2474200C9B294998525EE91B2D77B4"
+			}
+			"ae_preview"
+			{
+				"gid" "758B8204C59051204129F725AE94434E"
+				"size" "D434938CA8466DA14D258A411AA9D87E"
+				"download" "DC3D556C50EE8A29F43EE34466DFD70E"
+			}
+			"ae_qa_debug"
+			{
+				"gid" "8FEEDF3ED948B02B8E23E2C4DA15D12D"
+				"size" "22586E07225578E174BD37C11CEC96AE"
+				"download" "E1E4CD4B3C87362AB8AFB5C8E8C58C23"
+			}
+			"ae_qa_shipping"
+			{
+				"gid" "F1BF5848FEC7532BA163B59BE016E4B1"
+				"size" "D4CC36C978B56F31AB5FF66057E4B455"
+				"download" "6E33C31D8EC17FAB77C550CC6317E886"
+			}
+			"ae_rc1"
+			{
+				"gid" "A05560A614F268567447EB2CE40AE7F9"
+				"size" "90B5CF8225F39008B0CA014A99BA83FC"
+				"download" "3E840CAF5C12819063E635FC23EDAA7D"
+			}
+			"ae_rc2"
+			{
+				"gid" "68E6284109ECB396BDFC0D0352797208"
+				"size" "31F85ADD1504E836E44CB66FAAAADBAA"
+				"download" "6BC6FD6ECA8EA7B88728BD3C12727609"
+			}
+			"beta_delivery"
+			{
+				"gid" "D4B551822F48C8582A36A0A3E01F6518"
+				"size" "823C0EA20D8D2A793B2FBED725410E3A"
+				"download" "3DEED7CAC0A7915286B83AEFE1B0F18D"
+			}
+			"beta_test"
+			{
+				"gid" "670C0267BD60E468180C82C2F60B9EB4"
+				"size" "4601BDDCDAB6F9A31DACB8EFBBE1C268"
+				"download" "2FE2921498FDD9AA13055D2D66899E36"
+			}
+			"development"
+			{
+				"gid" "F034FB93BF6D86713FE35012513E6838"
+				"size" "AAB04C1703856BFB34B82569024B0E3A"
+				"download" "E4CD8E308453D3FD87030E9E4641D31F"
+			}
+			"egs_crossplay_stage"
+			{
+				"gid" "3F5C6C523ECADE17670F39A8573C5846"
+				"size" "20F427B430B5D0CDEC52EBAC71B82F11"
+				"download" "2D82E213F7563675FD8DB8142B2EE806"
+			}
+			"mainline"
+			{
+				"gid" "D9C57C0C85AA2D94182C76800F42F19B"
+				"size" "C46C51A5C7AE1EA6E3FF7DF9C21420E4"
+				"download" "6F636792A235014DEE505A2E56EA75EF"
+			}
+			"playable"
+			{
+				"gid" "DB887A66BFB829750E8C3617C7CB7B30"
+				"size" "2CEA03604EF1E57B606EBF0740D50D8C"
+				"download" "713826463BE7DC3B83C2456A6CF6FA69"
+			}
+			"shipping"
+			{
+				"gid" "ECC49221DBBFE5ED407AA3EFF6F427AF"
+				"size" "0BC6DBB21DE942DF3B538AF2C14BA208"
+				"download" "BC37C277F96E70B1605F28F1280128B5"
+			}
+			"test"
+			{
+				"gid" "BB7153F9C228D2CD9C5C1EA31F4B2569"
+				"size" "21918BB8B9931927B88C17721CA17208"
+				"download" "96D77281AFCA3E33AE148D5082DC80BF"
+			}
+			"test2"
+			{
+				"gid" "EF1E46CBB6FFA0354C80DDE221BB53C1"
+				"size" "27B19B0FCD830FEB0198AE1BEF4E590D"
+				"download" "76C97D60A745BAA572A3BA6ABC2EAC83"
+			}
+			"winstore_crossplay"
+			{
+				"gid" "E9E640B02C962C7890954A29CD26E421"
+				"size" "EC32EAEDB4B63EED5D277ACF1D85062E"
+				"download" "C33B06678F5FD3EE8B71ED6A6B975E9A"
+			}
+		}
+	}
+	"2546692"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13433750"
+			"timeupdated" "1707897787"
+		}
+		"ae_capture"
+		{
+			"buildid" "13564839"
+			"pwdrequired" "1"
+			"timeupdated" "1709024472"
+		}
+		"ae_preview"
+		{
+			"buildid" "13565714"
+			"pwdrequired" "1"
+			"timeupdated" "1709024454"
+		}
+		"ae_qa_debug"
+		{
+			"buildid" "13564839"
+			"pwdrequired" "1"
+			"timeupdated" "1709024463"
+		}
+		"ae_qa_shipping"
+		{
+			"buildid" "13565714"
+			"pwdrequired" "1"
+			"timeupdated" "1709024443"
+		}
+		"ae_rc1"
+		{
+			"buildid" "13433750"
+			"pwdrequired" "1"
+			"timeupdated" "1707752446"
+		}
+		"ae_rc2"
+		{
+			"buildid" "12809941"
+			"pwdrequired" "1"
+			"timeupdated" "1701676621"
+		}
+		"beta_delivery"
+		{
+			"buildid" "12665853"
+			"pwdrequired" "1"
+			"timeupdated" "1699613412"
+		}
+		"beta_test"
+		{
+			"buildid" "13284700"
+			"pwdrequired" "1"
+			"timeupdated" "1706472059"
+		}
+		"development"
+		{
+			"buildid" "13564839"
+			"pwdrequired" "1"
+			"timeupdated" "1708955609"
+		}
+		"egs_crossplay_stage"
+		{
+			"buildid" "13565714"
+			"pwdrequired" "1"
+			"timeupdated" "1709024485"
+		}
+		"mainline"
+		{
+			"buildid" "13449461"
+			"pwdrequired" "1"
+			"timeupdated" "1707874746"
+		}
+		"playable"
+		{
+			"buildid" "12193828"
+			"pwdrequired" "1"
+			"timeupdated" "1694784595"
+		}
+		"shipping"
+		{
+			"buildid" "13603997"
+			"pwdrequired" "1"
+			"timeupdated" "1709227561"
+		}
+		"test"
+		{
+			"buildid" "12826125"
+			"pwdrequired" "1"
+			"timeupdated" "1701254838"
+		}
+		"test2"
+		{
+			"buildid" "12826891"
+			"pwdrequired" "1"
+			"timeupdated" "1701254849"
+		}
+		"winstore_crossplay"
+		{
+			"buildid" "13565714"
+			"pwdrequired" "1"
+			"timeupdated" "1709024588"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TramSimulator/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22564762"
+"_sha" "5801f2a7c4f67305abfde8b2df41b66a021b277d"
+"_size" "10014"
