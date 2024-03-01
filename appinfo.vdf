@@ -323,7 +323,7 @@
 	"developer" "Empyrean"
 	"publisher" "Frozen District"
 	"homepage" "http://houseflippergame.com/"
-	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960"
+	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960,2819590"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -447,9 +447,9 @@
 		{
 			"public"
 			{
-				"gid" "7224798119678527739"
-				"size" "10088109680"
-				"download" "4850955200"
+				"gid" "2355286588069265873"
+				"size" "10088024920"
+				"download" "4850935904"
 			}
 		}
 		"encryptedmanifests"
@@ -478,9 +478,9 @@
 		{
 			"public"
 			{
-				"gid" "3849595353984722202"
-				"size" "10349737287"
-				"download" "4954184960"
+				"gid" "8537117412909053946"
+				"size" "10349653437"
+				"download" "4954165792"
 			}
 		}
 		"encryptedmanifests"
@@ -968,8 +968,8 @@
 	{
 		"public"
 		{
-			"buildid" "13312543"
-			"timeupdated" "1707817842"
+			"buildid" "13613173"
+			"timeupdated" "1709313843"
 		}
 		"streamer"
 		{
@@ -1047,6 +1047,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22578162"
-"_sha" "100d0edfca056e5875173068e18cf1900affb843"
-"_size" "20023"
+"_change_number" "22584590"
+"_sha" "43ed5c04289f57dd5dc7e186d234054ef60e2181"
+"_size" "20031"
