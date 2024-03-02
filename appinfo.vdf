@@ -1,0 +1,428 @@
+"appid" "2020710"
+"common"
+{
+	"name" "Havendock"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "5cf67e93177dbe0ca83a3383196d6424f36b3480"
+	"clienticon" "ab7baf0b611648b54e8055b0dce352c487d3d3b8"
+	"clienttga" "388deb9455d30833c0edab08ed3926d0ca98c0fb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "海港物语 Havendock"
+		"tchinese" "海港物語 Havendock"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1683331200"
+		"tested_build_id" "11074906"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "53.43140843215161"
+			"height_pct" "89.40397350993376"
+		}
+	}
+	"store_asset_mtime" "1708005590"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "YYZ"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Different Tales"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Different Tales"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681995390"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2020710"
+	"store_tags"
+	{
+		"0" "493"
+		"1" "9"
+		"2" "4328"
+		"3" "220585"
+		"4" "3810"
+		"5" "22602"
+		"6" "255534"
+		"7" "1643"
+		"8" "1702"
+		"9" "12472"
+		"10" "7332"
+		"11" "87918"
+		"12" "3859"
+		"13" "10235"
+		"14" "1654"
+		"15" "1695"
+		"16" "597"
+		"17" "599"
+		"18" "8945"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "YYZ"
+	"publisher" "Different Tales"
+	"homepage" "https://differenttales.com/havendock"
+}
+"config"
+{
+	"installdir" "Havendock"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Havendock.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Havendock.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Havendock"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2020711"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9134603711044616792"
+				"size" "978834322"
+				"download" "289628896"
+			}
+			"experimental"
+			{
+				"gid" "7676363006092913807"
+				"size" "991572893"
+				"download" "287863872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default_auto"
+			{
+				"gid" "8409F5BC0B12BDB2A9A5F4DBAFA788D1"
+				"size" "6649F083CC43C70DFC818B1DE82CAC10"
+				"download" "3C65F43DB5E20E0418C6ABF3FC80A76F"
+			}
+			"testing"
+			{
+				"gid" "EFD07482F611BFB8BCFE27F809834B39"
+				"size" "AEB1D1DBC16D18776C180DCE54E5D16E"
+				"download" "F786D93510FE5EB414980040959D375F"
+			}
+			"unsupported_platforms"
+			{
+				"gid" "E477FDA3286AD303E663ACBFFBE4A96E"
+				"size" "8D523AB21B0181105A8656F0B1962CD8"
+				"download" "4D6DC88E3DD579E4164D69E30DD54982"
+			}
+		}
+	}
+	"2020712"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3567464401703744708"
+				"size" "1002228320"
+				"download" "296814304"
+			}
+			"experimental"
+			{
+				"gid" "4993144700556735441"
+				"size" "732086339"
+				"download" "228434784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"unsupported_platforms"
+			{
+				"gid" "E96C93B08EDBB71E36F5B97C05430D0B"
+				"size" "7E9BE2A704F28A7E2781738A18879216"
+				"download" "F1DB9EA6646A742DAD3334766F3F2D1F"
+			}
+		}
+	}
+	"2020713"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6526563326459833464"
+				"size" "1068178641"
+				"download" "316055056"
+			}
+			"experimental"
+			{
+				"gid" "3215665681367867288"
+				"size" "793701460"
+				"download" "245494384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"unsupported_platforms"
+			{
+				"gid" "3F2162064BB1030340920E550CB150AB"
+				"size" "8FDF76B53C6EFB7202EF2C155AE22CD6"
+				"download" "E927310634C883F7DE6FEAAF28747EF9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13432393"
+			"timeupdated" "1707737322"
+		}
+		"default_auto"
+		{
+			"buildid" "13430939"
+			"pwdrequired" "1"
+			"timeupdated" "1707724296"
+		}
+		"experimental"
+		{
+			"buildid" "13621495"
+			"description" "Windows experimental builds"
+			"timeupdated" "1709377465"
+		}
+		"testing"
+		{
+			"buildid" "12474672"
+			"pwdrequired" "1"
+			"timeupdated" "1697651184"
+		}
+		"unsupported_platforms"
+		{
+			"buildid" "13432354"
+			"pwdrequired" "1"
+			"timeupdated" "1707736990"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000000"
+	"maxnumfiles" "64"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "YYZProductions/Havendock"
+			"pattern" "*.hvd"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22599414"
+"_sha" "06ec87697cd44fa0c8f5a777234a9be09c26ca3c"
+"_size" "7555"
