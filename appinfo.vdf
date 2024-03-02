@@ -1,0 +1,442 @@
+"appid" "2068280"
+"common"
+{
+	"name" "Nordic Ashes"
+	"type" "Game"
+	"clienttga" "7ebeb6b215ba7bad1c31c11d81d8152b1a79f0a9"
+	"icon" "311e9b9b5c490ac1984aa3aef10bf39c92070317"
+	"clienticon" "e2807e5a0b83ec4c94d3c2fc08c66f834f1fd617"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"clienticns" "f39e3c1d5296d62598d001283a1e8f3de6fa9ca4"
+	"linuxclienticon" "e87af849d3b4b34f31e6802dde71ff5c7319b725"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1675209600"
+		"tested_build_id" "10358251"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.99861671092108"
+			"height_pct" "77.01989245028918"
+		}
+	}
+	"store_asset_mtime" "1701170506"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Noxfall Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Noxfall Studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "2"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1671122501"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2068280"
+	"store_tags"
+	{
+		"0" "493"
+		"1" "42804"
+		"2" "4885"
+		"3" "3959"
+		"4" "5547"
+		"5" "4637"
+		"6" "597"
+		"7" "4791"
+		"8" "19"
+		"9" "4231"
+		"10" "3871"
+		"11" "3834"
+		"12" "620519"
+		"13" "1716"
+		"14" "6815"
+		"15" "5125"
+		"16" "122"
+		"17" "9"
+		"18" "492"
+		"19" "1759"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Noxfall Studios"
+	"publisher" "Noxfall Studios"
+	"homepage" "https://noxfallstudios.com/nordic-ashes"
+}
+"config"
+{
+	"installdir" "Nordic Ashes"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Nordic Ashes.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Nordic Ashes.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "NordicAshes.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2068281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6229750528067536285"
+				"size" "492210477"
+				"download" "390248448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"collabs"
+			{
+				"gid" "66828B701E23846C3543E208B3675E0C"
+				"size" "29E219C4889B6F938C1FC6A89564D6C1"
+				"download" "62910480B1EB71CAA1AF11F352D40C39"
+			}
+			"devs"
+			{
+				"gid" "758C1905A579EB3C6A4D535A3F595CCE"
+				"size" "0626DFF9D4D8223F51D6316FC7BFE1CE"
+				"download" "88F00E2D4EEAA23D32099030B24F6C44"
+			}
+			"mods"
+			{
+				"gid" "05CE04FF1CCD5021B1D3D15F7142F278"
+				"size" "78A9F17747896F987E8FA076D8485143"
+				"download" "5A25173D33C54BF0D1E6A006FF003CE7"
+			}
+		}
+	}
+	"2068282"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8563513685834080628"
+				"size" "582473999"
+				"download" "408442480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"collabs"
+			{
+				"gid" "3F13421DBC462618FBA032D33CB4A506"
+				"size" "75DA4A1AED43DA842A23FA74A6A82E4F"
+				"download" "62D1C90AF0654FF212019D94C0224E28"
+			}
+			"devs"
+			{
+				"gid" "EB648ABC99D3428F24D0433DF0C3F7DF"
+				"size" "4F44095B4D89773D15C3BCD6422E8635"
+				"download" "6BA851AE1893B350B24C905F20CE0499"
+			}
+			"mods"
+			{
+				"gid" "F4B1ED3B314B9A5130A8057B58BCEDD3"
+				"size" "C68444BF67E25F9AB75F97912909FCCF"
+				"download" "7D57FD3565DC800144EA4E51344BFD5F"
+			}
+		}
+	}
+	"2068283"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5622667249656447854"
+				"size" "526844474"
+				"download" "391731328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"collabs"
+			{
+				"gid" "C2F675235DA0EC170DE5F259A466EC56"
+				"size" "F78A3F35AF47AF247EB0D716B2A0F9C6"
+				"download" "61F56F91F0E2C9BFEDE6F990D96EDD9F"
+			}
+			"devs"
+			{
+				"gid" "D1B20C0BD9C6D1265456AB8064053F9A"
+				"size" "8E65FDAEA08D93A21355A4EED4B3CCE8"
+				"download" "F54B1EF6EDD38DAD9229D16C027C1FC5"
+			}
+			"mods"
+			{
+				"gid" "19346C83A761F6DCD22570E01183B283"
+				"size" "1E2D7F7D1BE6F110956D14C6DE5F1741"
+				"download" "4EA2FE123D085E47F8D9836FD9BC186F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13551820"
+			"timeupdated" "1708775308"
+		}
+		"collabs"
+		{
+			"buildid" "13551820"
+			"pwdrequired" "1"
+			"timeupdated" "1708775329"
+		}
+		"devs"
+		{
+			"buildid" "13551820"
+			"pwdrequired" "1"
+			"timeupdated" "1708766305"
+		}
+		"mods"
+		{
+			"buildid" "13551820"
+			"pwdrequired" "1"
+			"timeupdated" "1708775319"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Noxfall Studios/Nordic Ashes/SteamCloud"
+			"pattern" "*.nox"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Noxfall Studios/Nordic Ashes/SteamCloud"
+					"replace" "com.NoxfallStudios.NordicAshes/SteamCloud"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Noxfall Studios/Nordic Ashes/SteamCloud"
+					"replace" ".config/unity3d/Noxfall Studios/Nordic Ashes/SteamCloud"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22487397"
+"_sha" "e1d0e7d42c77d5c1bd535e3cf76bbb00c07b7f25"
+"_size" "7885"
