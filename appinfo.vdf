@@ -1,0 +1,272 @@
+"appid" "1432320"
+"common"
+{
+	"name" "Liftoff: Micro Drones"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "613906de68a0b5b62e6d1092731b33187887e5be"
+	"clienticon" "1e888d3d2fe7a3be157014a5aa8010bf46b43e85"
+	"icon" "8c343eaf592d853e922a723bbf6c2a2d1ed22b68"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "cc4e7a3c856c0000837825ed73fcac823f0dfc85"
+	"logo_small" "cc4e7a3c856c0000837825ed73fcac823f0dfc85_thumb"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "87.5712255792757"
+			"height_pct" "91.66709138330296"
+		}
+	}
+	"store_asset_mtime" "1691677931"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LuGus Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LuGus Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Liftoff®"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "9"
+		"2" "28"
+		"3" "18"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_49" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1638299861"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1432320"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "599"
+		"2" "699"
+		"3" "701"
+		"4" "5055"
+		"5" "4191"
+		"6" "3839"
+		"7" "1697"
+		"8" "7481"
+		"9" "493"
+		"10" "1654"
+		"11" "3968"
+		"12" "3859"
+		"13" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "LuGus Studios"
+	"publisher" "LuGus Studios"
+	"homepage" "https://www.liftoff-game.com/our-products/liftoff-micro-drones"
+}
+"config"
+{
+	"installdir" "Liftoff Micro Drones"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Liftoff Micro Drones.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"1"
+		{
+			"executable" "Liftoff Micro Drones.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Liftoff Micro Drones.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Liftoff Micro Drones.x86_64"
+			"arguments" "-force-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Liftoff (Vulkan rendering)"
+			}
+			"description" "Liftoff (Vulkan rendering)"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1432320"
+	"1432321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4164337385974625177"
+				"size" "11493626934"
+				"download" "9296007488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha_testing"
+			{
+				"gid" "A61E1288A7EFB1DDF9F732B91BD0046C"
+				"size" "061B47CCC3B6E63D6BC60086DEEDE79B"
+				"download" "7F4389E296574BC8BC44AE70586865C4"
+			}
+		}
+	}
+	"1432322"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6783857276827348753"
+				"size" "11227016196"
+				"download" "9134478848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha_testing"
+			{
+				"gid" "6FC86FAC46C36ED74646A4D565CB43F2"
+				"size" "6B7C06E3A45FE85DA6309EED96470ABA"
+				"download" "2BC0072F4E1871DCDECCD09298E8E9FC"
+			}
+		}
+	}
+	"1432323"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2364635489966988678"
+				"size" "11452490296"
+				"download" "9271628448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha_testing"
+			{
+				"gid" "04AFF57859ED6068397503AB38704F7E"
+				"size" "438D3CCB035931E838E6F1F959856360"
+				"download" "A9FC808A3CB8367E69ED15C9A7FE188C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13541507"
+			"timeupdated" "1708690318"
+		}
+		"alpha_testing"
+		{
+			"buildid" "13541507"
+			"pwdrequired" "1"
+			"timeupdated" "1708682141"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "22473850"
+"_sha" "4556d3636de7929a7785f8a0cb0ee84354157605"
+"_size" "4605"
