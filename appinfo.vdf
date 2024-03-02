@@ -1,0 +1,409 @@
+"appid" "1139980"
+"common"
+{
+	"name" "Travellers Rest"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "d5f1de014b6ab8c71259ce55c8c04afcf9590dde"
+	"logo_small" "d5f1de014b6ab8c71259ce55c8c04afcf9590dde_thumb"
+	"clienticon" "1f6669538b8451dfaa878973cebec98607e70ff2"
+	"clienttga" "b87405b95eb39b1be73e1665bf777922f2154014"
+	"icon" "5eef3460cd2cc088baf4ecf64e8531cf9ac88631"
+	"name_localized"
+	{
+		"schinese" "旅者之憩 Travellers Rest"
+		"tchinese" "旅者之憩 Travellers Rest"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7703857"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Travellers Rest"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "56.39599555061179"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709203696"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Isolated Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Isolated Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Isolated Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1595919600"
+	"steam_release_date" "1595951896"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1139980"
+	"store_tags"
+	{
+		"0" "10235"
+		"1" "3964"
+		"2" "87918"
+		"3" "12472"
+		"4" "122"
+		"5" "4172"
+		"6" "9204"
+		"7" "5652"
+		"8" "1702"
+		"9" "1643"
+		"10" "1684"
+		"11" "5851"
+		"12" "8945"
+		"13" "4305"
+		"14" "4182"
+		"15" "21"
+		"16" "492"
+		"17" "493"
+		"18" "6276"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "beta,privatetest"
+	"developer" "Isolated Games"
+	"publisher" "Isolated Games"
+	"homepage" "http://www.isolatedgames.com/"
+}
+"config"
+{
+	"installdir" "Travellers Rest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windows\\TravellersRest.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1139981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3878245518580276851"
+				"size" "1325887190"
+				"download" "301882496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "7DC927957B6882FEEF454C6A7AA44DE1"
+				"size" "026FB2171B8569ACFC99A359318DC5D2"
+				"download" "007BA768CDC164C15E3BCF5CF3829C2C"
+			}
+			"craftersissuetest"
+			{
+				"gid" "A114DAEEA1EEF309650AEAD6DCA72D6D"
+				"size" "D49BF423143E0DC9CDCE12A429DC1781"
+				"download" "F4810B982D7BCD6DEED6150535F3386F"
+			}
+			"inputtest"
+			{
+				"gid" "69EFDDE295D3DD751ADFC1060D719C03"
+				"size" "24D24E3ADEE6F7A27A055160DD49B901"
+				"download" "D0C45501E826377288E3338D1286C501"
+			}
+			"privatetest"
+			{
+				"gid" "7015D97CD41B44A8A8CE8BF36843A8B0"
+				"size" "EC18EDA3FDDB71AFC6940C4862695411"
+				"download" "05D3F1B7CF25D9FC20321998937A2788"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13618571"
+			"timeupdated" "1709335064"
+		}
+		"beta"
+		{
+			"buildid" "13618571"
+			"pwdrequired" "1"
+			"timeupdated" "1709335025"
+		}
+		"craftersissuetest"
+		{
+			"buildid" "9797862"
+			"pwdrequired" "1"
+			"timeupdated" "1666725787"
+		}
+		"inputtest"
+		{
+			"buildid" "13032836"
+			"pwdrequired" "1"
+			"timeupdated" "1703278535"
+		}
+		"privatetest"
+		{
+			"buildid" "13618571"
+			"pwdrequired" "1"
+			"timeupdated" "1709334905"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Louqou\\TravellersRest\\GameSaves"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Louqou\\TravellersRest\\GameSaves"
+			"pattern" "*.kbsd"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22593322"
+"_sha" "558de2401ad19b85a5141a801e7cf2a7a1adfe1e"
+"_size" "7332"
