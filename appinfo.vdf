@@ -1,0 +1,858 @@
+"appid" "1457320"
+"common"
+{
+	"name" "Techtonica"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "c5b5d2a8aa19e8d18f5dc9237c890372cba5e0ff"
+	"logo_small" "c5b5d2a8aa19e8d18f5dc9237c890372cba5e0ff_thumb"
+	"icon" "25cab01adf6978349e9c0add20675458ca9a2603"
+	"clienticon" "6c50f9bec8b1ad890f10bd4797ba6581ad7f1cb3"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "星核工厂Techtonica"
+		"tchinese" "星核工廠Techtonica"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690934400"
+		"tested_build_id" "11767942"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "98.86383006048803"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708366451"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fire Hose Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fire Hose Games"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689699720"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1457320"
+	"store_tags"
+	{
+		"0" "255534"
+		"1" "599"
+		"2" "1643"
+		"3" "7332"
+		"4" "9"
+		"5" "8945"
+		"6" "4328"
+		"7" "3810"
+		"8" "1702"
+		"9" "12472"
+		"10" "3834"
+		"11" "3859"
+		"12" "9204"
+		"13" "3839"
+		"14" "1685"
+		"15" "3843"
+		"16" "4305"
+		"17" "3942"
+		"18" "4182"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Fire Hose Games"
+	"publisher" "Fire Hose Games"
+	"homepage" "https://techtonicagame.com/"
+}
+"config"
+{
+	"installdir" "Techtonica"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Techtonica.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "default"
+			}
+		}
+		"1"
+		{
+			"executable" "Techtonica.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "dev_prototype"
+			}
+		}
+		"2"
+		{
+			"executable" "Techtonica.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "pre-test"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1457321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1405016543206424247"
+				"size" "5299631598"
+				"download" "2059649888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"design"
+			{
+				"gid" "D6C870D98F2A28DDA7B78EC1A86C8B3E"
+				"size" "568BF0B27E309B4735937B8E3A213176"
+				"download" "4D260A8D67A3B4B0713E58D2AA38BDA5"
+			}
+			"design_stable"
+			{
+				"gid" "92BA47A31E282C13342A271FFD3D7DB5"
+				"size" "99EA0C1635F4EE8A4A909F3DD13C0135"
+				"download" "BCFACBC62FB7E51415B50C7534CBA34A"
+			}
+			"dev_prototype"
+			{
+				"gid" "3F1CC31B8AB1905C7F58C8E78C453819"
+				"size" "D55FC413A68F2954BE00894738447F9C"
+				"download" "2AD88FB136F8BE1629DDC0C115C8036B"
+			}
+			"exit_dev"
+			{
+				"gid" "C75B203F24A9BC5FB17F873D3B12EE78"
+				"size" "534E35B54E46BC9600F4DFD5FA7BEDD8"
+				"download" "361FC7B2C324062E734926E1D3E6FC43"
+			}
+			"exit_prod"
+			{
+				"gid" "CEEBE9593F738867ED3A060A29B96FE8"
+				"size" "58BD2930DB79FB9DBB101DCC033E1990"
+				"download" "52E186CDCD53A221C4EE8FF9E548246A"
+			}
+			"hardware_testing"
+			{
+				"gid" "9AD2DD49816E4475A923BAA4D8478F43"
+				"size" "C4EDDF36475463C0460ABDE29D3FFFCB"
+				"download" "BB0BD955EB98C8317AD99FC1EFE28AF3"
+			}
+			"main_pre-test"
+			{
+				"gid" "B2B991034D7E1B70A0BE403F2D32FDC2"
+				"size" "3D86F4588F0D07943D3041A55BD26FBA"
+				"download" "0964D4561106319B2B53C901CBF7B76D"
+			}
+			"main_smoke"
+			{
+				"gid" "9516B82FC16979CB94CB30FE6FF49938"
+				"size" "47D14232EA430B60E6A342E3D75ADFDA"
+				"download" "274F529E157D03B4CBD7D194A245EDE4"
+			}
+			"main_stable"
+			{
+				"gid" "EA968E4B547026F328B4A1E317AA0381"
+				"size" "7998CC09CD8E3241AC181BA73B3F94AD"
+				"download" "FF67DD616E6B19DC57EEB70C580A09FA"
+			}
+			"marketing"
+			{
+				"gid" "2646C5918E30854AEDD2224A67958128"
+				"size" "A569AAE6CAD35DF5C13BDC61C6AED598"
+				"download" "937F1BB07F93A89674AC5669357B180B"
+			}
+			"multiplayer"
+			{
+				"gid" "D81D64A4D1D601FAB0ADB7E107023BAC"
+				"size" "38BF2D56B2169B752E81F0F413B45738"
+				"download" "B080E2E40275EC6D7C179D1BA6B96635"
+			}
+			"patch_pre-test"
+			{
+				"gid" "62B5E148EFAB594760C7E987C962CC93"
+				"size" "0530C232DD5C05B5CC542606854F5D66"
+				"download" "E52D4E26D5CA9A6993219B84DDB75D5B"
+			}
+			"playtest"
+			{
+				"gid" "A899611D9B019765A48B95CADB39E218"
+				"size" "80466541845965AC47CE33AAFA4088F3"
+				"download" "DC14C8A874DEACDCB600F9F5621D3DDC"
+			}
+			"pre-test"
+			{
+				"gid" "A1F3F1FE16ACFB3BE915C39A4AB48F6B"
+				"size" "1F63ACE339F2EC6C9002AA7B0E0E73B9"
+				"download" "CBAE2F0DD2AECC5BF4ABF4602340FA27"
+			}
+			"preview"
+			{
+				"gid" "8CEC3EA6B5D44A8078553A68C9EDDFD3"
+				"size" "A4B7B1B1928CAE43F2A73E564508C3EB"
+				"download" "8D54CC68744F391404C34306AB794023"
+			}
+			"stable"
+			{
+				"gid" "13CAB8D8F1D11F12E31133916052958B"
+				"size" "37171D8486608A0C6C14404ED9DDD9F9"
+				"download" "EBC26D32FAF0C8B40859C1B1584BB116"
+			}
+			"stable_prod"
+			{
+				"gid" "9EBFE9362B486EA4E3F46B672FEB3853"
+				"size" "BD6E5887574C672FD53BA48FE7641AB0"
+				"download" "1DEF856DB59F45D778A7667DA0EC6A01"
+			}
+			"staging"
+			{
+				"gid" "F408973C0C6E9FF8F44A1E38318DFB66"
+				"size" "51C4F911B67998494E2790EC8F65CB97"
+				"download" "2639071844BD20087DD585E31E2E298B"
+			}
+			"update_pre-test"
+			{
+				"gid" "162DD01484B67CAA6F3D075E11CA7B05"
+				"size" "25E9AA1B862F8CB9197988BE7150F5A9"
+				"download" "F0F96D75D63AB56D61D1A5998CDF0EEE"
+			}
+			"update_smoke"
+			{
+				"gid" "EBF324C9A89AEB3714CA8345B6AC73AE"
+				"size" "94EA7C371CA7A6BCC8052FB380D91EB4"
+				"download" "EBAD4A3B8CFE9C05063D82440911DC3F"
+			}
+			"update_stable"
+			{
+				"gid" "57243BCB1B8AC5A5E5AA7EEF42985EF6"
+				"size" "7EB74471DCAA993DBABA3B0083A0ABB0"
+				"download" "F34F49D5563346AE096856DAE70948FF"
+			}
+		}
+	}
+	"1457322"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6619457321695213251"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"design"
+			{
+				"gid" "18AECECDE5878377C845C28C89A7ECD9"
+				"size" "25E2A922C0CF615E3BC87D4F7EBBF36E"
+				"download" "25E2A922C0CF615E3BC87D4F7EBBF36E"
+			}
+			"design_stable"
+			{
+				"gid" "3235F2B5DC95350CFA87740CC7009EFB"
+				"size" "AD8DE07B3B68733FB6E87E5F7D002C43"
+				"download" "AD8DE07B3B68733FB6E87E5F7D002C43"
+			}
+			"dev_prototype"
+			{
+				"gid" "F154333201D4F288B058CAF9923A06B9"
+				"size" "966FA9B7D2839C4778374E0598507FD3"
+				"download" "966FA9B7D2839C4778374E0598507FD3"
+			}
+			"exit_dev"
+			{
+				"gid" "B3EFA0F61A576846D7558DC582ED20D8"
+				"size" "8DB149188BFA6780174EFCAECE519B3B"
+				"download" "8DB149188BFA6780174EFCAECE519B3B"
+			}
+			"exit_prod"
+			{
+				"gid" "99DD8A88A1E51C2460F49C0C7C1E32EF"
+				"size" "BF3C88B0DC8528083824982F47EB2254"
+				"download" "BF3C88B0DC8528083824982F47EB2254"
+			}
+			"hardware_testing"
+			{
+				"gid" "1617FF627948F06C1319C5F16E30EF1F"
+				"size" "99F73EC9406E4D9B05DF2FF16A1CFEC6"
+				"download" "99F73EC9406E4D9B05DF2FF16A1CFEC6"
+			}
+			"main_pre-test"
+			{
+				"gid" "C38DAD5D6C6DFBBCD2103B98A790596D"
+				"size" "AC49093AD2E40B7F35A1CEC14E8B2949"
+				"download" "AC49093AD2E40B7F35A1CEC14E8B2949"
+			}
+			"main_smoke"
+			{
+				"gid" "2FC2F70AC40479D29533BB99623B9CC1"
+				"size" "C43C60D8118E3933CC1EBD3C7FB4CFB7"
+				"download" "C43C60D8118E3933CC1EBD3C7FB4CFB7"
+			}
+			"main_stable"
+			{
+				"gid" "AD9296434EF51EC642C8D6100471AAC4"
+				"size" "382E23326604F677B322095685657FDE"
+				"download" "382E23326604F677B322095685657FDE"
+			}
+			"marketing"
+			{
+				"gid" "32AB0305DF329BE48E1AA10304369B1A"
+				"size" "3034EEE3FA8ED6818825422017F786AC"
+				"download" "3034EEE3FA8ED6818825422017F786AC"
+			}
+			"multiplayer"
+			{
+				"gid" "3F9DEE878F66790BEF1C2C501A03627C"
+				"size" "A85615E8ED929DF0FB0351957BA564A3"
+				"download" "A85615E8ED929DF0FB0351957BA564A3"
+			}
+			"patch_pre-test"
+			{
+				"gid" "371671DBE01908FDCE1BDCA2E58865F7"
+				"size" "333726368CA501E0DBAD12D8F1ED6FC7"
+				"download" "333726368CA501E0DBAD12D8F1ED6FC7"
+			}
+			"playtest"
+			{
+				"gid" "8C8E8C07909AB3F73B8E8F1020CB9576"
+				"size" "4C894B905673AF97A89100A82912BEF5"
+				"download" "4C894B905673AF97A89100A82912BEF5"
+			}
+			"pre-test"
+			{
+				"gid" "28E494E719168AA7DC6BDEE56E0EF29F"
+				"size" "9CF64794953CE1512BCBA0E332DADF2B"
+				"download" "9CF64794953CE1512BCBA0E332DADF2B"
+			}
+			"preview"
+			{
+				"gid" "C7DED1E68A410065A040EBDF86AB8410"
+				"size" "6172EA7852786DA1A3F1491910FC9453"
+				"download" "6172EA7852786DA1A3F1491910FC9453"
+			}
+			"stable"
+			{
+				"gid" "5D352D89995CC7153803817B6787C401"
+				"size" "692F52BB1024BE513151779D3505FD12"
+				"download" "692F52BB1024BE513151779D3505FD12"
+			}
+			"stable_prod"
+			{
+				"gid" "B018D19E1CF5C8628DDFFE8E1121D4AB"
+				"size" "A4CA3F69B9E610055072B1FC3FE5E2EE"
+				"download" "A4CA3F69B9E610055072B1FC3FE5E2EE"
+			}
+			"staging"
+			{
+				"gid" "568867A7A233CF562FD61B73F15175B0"
+				"size" "0962EA671BF97BCFD9C3075C1706CC6E"
+				"download" "0962EA671BF97BCFD9C3075C1706CC6E"
+			}
+			"update_pre-test"
+			{
+				"gid" "6A590ACC3714C4C5EE63AA0A3196F95D"
+				"size" "3E65DF25E185189E3231C50E65CCDE73"
+				"download" "3E65DF25E185189E3231C50E65CCDE73"
+			}
+			"update_smoke"
+			{
+				"gid" "FD335A351D2FFEDF5DF1E96F011326F4"
+				"size" "DC40131E4FC58797F6A43E6BC111A8AB"
+				"download" "DC40131E4FC58797F6A43E6BC111A8AB"
+			}
+			"update_stable"
+			{
+				"gid" "97A72F516D148947DD4E3137EBE47E57"
+				"size" "19B49E1AA6875915C9474D3BEEA415B6"
+				"download" "19B49E1AA6875915C9474D3BEEA415B6"
+			}
+		}
+	}
+	"1457323"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2331320215714708394"
+				"size" "109"
+				"download" "144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"design"
+			{
+				"gid" "3E640AE4F0C2A78A7A559E3782DA6CDD"
+				"size" "25E2A922C0CF615E3BC87D4F7EBBF36E"
+				"download" "25E2A922C0CF615E3BC87D4F7EBBF36E"
+			}
+			"design_stable"
+			{
+				"gid" "55AB360BF5E113A5EB6C10E1E7A00CE6"
+				"size" "36298C2744BBEEB601B19EDE83FF648D"
+				"download" "9C5E23029ED6E569257CCFB2F0309B8C"
+			}
+			"dev_prototype"
+			{
+				"gid" "610386B04629EF9E8C57386AD967B7BF"
+				"size" "2B14DFEF2341490F772E8218BB8E23F3"
+				"download" "DF6455BDF82D7204814C75146DC9A474"
+			}
+			"exit_dev"
+			{
+				"gid" "FA842BDB5FAF2EB483C127C74FD98CDE"
+				"size" "F15E70390B9F44E3187D94D4901E1CAC"
+				"download" "F98EACFF676953D25BDC6D69D54D2225"
+			}
+			"exit_prod"
+			{
+				"gid" "6F45CDFE260DE0A23C5DC159566CC494"
+				"size" "3B67C263EA6E63FA5343D41BDE6EFC33"
+				"download" "ECE5B562F8D31107D1B863A28B646205"
+			}
+			"hardware_testing"
+			{
+				"gid" "C80F1E5CE78DD5D97606CE0E684F04A8"
+				"size" "BA0B163669BEFB4EF81DD824087CDB23"
+				"download" "3046CCB92C62E37766B8451AB9BBEFC5"
+			}
+			"main_pre-test"
+			{
+				"gid" "3254926BCD1A9F7625CC9375231FF2A8"
+				"size" "AC49093AD2E40B7F35A1CEC14E8B2949"
+				"download" "AC49093AD2E40B7F35A1CEC14E8B2949"
+			}
+			"main_smoke"
+			{
+				"gid" "D734FF80D6FABFD880048331A63F2C56"
+				"size" "C43C60D8118E3933CC1EBD3C7FB4CFB7"
+				"download" "C43C60D8118E3933CC1EBD3C7FB4CFB7"
+			}
+			"main_stable"
+			{
+				"gid" "62FEE2E983084091661A003A4BE816B7"
+				"size" "2FBA04F27BEEB25E659D563689C8E08E"
+				"download" "A8C549441BBE64BB05F4B50348F0C1A8"
+			}
+			"marketing"
+			{
+				"gid" "C07A6356F3518D13C23E4A241D4BBE8C"
+				"size" "D2206D2EA2C1E2C70E3B225F642ECB81"
+				"download" "B7F1016DC522A3390227552D5AA18B50"
+			}
+			"multiplayer"
+			{
+				"gid" "6BFC8677D0EFB29163F64DDB0A74CD5C"
+				"size" "A85615E8ED929DF0FB0351957BA564A3"
+				"download" "A85615E8ED929DF0FB0351957BA564A3"
+			}
+			"patch_pre-test"
+			{
+				"gid" "AB4E9405E9A9461DE1E29E33CB88B37B"
+				"size" "9EC4040B77EFED95E4C24DA943882F09"
+				"download" "AF805532FF0C8B779D85D498174C8F59"
+			}
+			"playtest"
+			{
+				"gid" "35BFC26DE8F43BA337FC22CED3253BC1"
+				"size" "F50A86D66676B356BE1A0A4A5FBFDD8A"
+				"download" "C5C4AF3B69256D145DE5C562B011CF73"
+			}
+			"pre-test"
+			{
+				"gid" "47A2B75286D65DC3728F575D4EDEC12A"
+				"size" "9CF64794953CE1512BCBA0E332DADF2B"
+				"download" "9CF64794953CE1512BCBA0E332DADF2B"
+			}
+			"preview"
+			{
+				"gid" "5906F0BB7EB4FA3AE7A7AA3EA28DDF43"
+				"size" "D78D179BCD17249C8E12DF99F1AEE394"
+				"download" "CB69AF21B41967EA849D455D05536642"
+			}
+			"stable"
+			{
+				"gid" "302CAA3653EE385A2EEF46AE83D894AB"
+				"size" "6B5DA87639E1A38CD6E85A44F3A21730"
+				"download" "47C201B67CF6946AE811EEFA700A5089"
+			}
+			"stable_prod"
+			{
+				"gid" "19BD2F71F2B53C07A385D814FB866612"
+				"size" "D75A056AA0F14E3123B09ECA964748B4"
+				"download" "B8C7266B440FFD75DDB0A21F258D70BE"
+			}
+			"staging"
+			{
+				"gid" "0188A1348E308583211CA42B79898C4C"
+				"size" "CF206145B0CEACB044939576DC2A1415"
+				"download" "ABE9D6F5A87CEE207BA51BABC11C20DF"
+			}
+			"update_pre-test"
+			{
+				"gid" "84509ECB89222EF6231BF460D691108F"
+				"size" "0A1F78CEFD1A6B5EE95BAC1B59B15A26"
+				"download" "0C92A4681B39A09DEC56F56785266CD3"
+			}
+			"update_smoke"
+			{
+				"gid" "6B31F80D72DA69B322F45D8CCBA34AEE"
+				"size" "4DC30F9E62943DA1C520D48E2FD94E3D"
+				"download" "19C0AB778935CCB7F539332622469CEB"
+			}
+			"update_stable"
+			{
+				"gid" "6A2D0C0EFC2B5BA1E0DFD853F7ECF143"
+				"size" "95125086243A5EFC19F247A4835F3FBB"
+				"download" "AB0D8F6638C0FC73D0D8199B731DBC00"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13395459"
+			"timeupdated" "1708365571"
+		}
+		"design"
+		{
+			"buildid" "13592240"
+			"pwdrequired" "1"
+			"timeupdated" "1709149838"
+		}
+		"design_stable"
+		{
+			"buildid" "12723979"
+			"pwdrequired" "1"
+			"timeupdated" "1701382585"
+		}
+		"dev_prototype"
+		{
+			"buildid" "13579456"
+			"pwdrequired" "1"
+			"timeupdated" "1709059349"
+		}
+		"exit_dev"
+		{
+			"buildid" "13604693"
+			"pwdrequired" "1"
+			"timeupdated" "1709232274"
+		}
+		"exit_prod"
+		{
+			"buildid" "13604690"
+			"pwdrequired" "1"
+			"timeupdated" "1709232262"
+		}
+		"hardware_testing"
+		{
+			"buildid" "13079768"
+			"pwdrequired" "1"
+			"timeupdated" "1704234309"
+		}
+		"main_pre-test"
+		{
+			"buildid" "13618433"
+			"pwdrequired" "1"
+			"timeupdated" "1709333450"
+		}
+		"main_smoke"
+		{
+			"buildid" "13534236"
+			"pwdrequired" "1"
+			"timeupdated" "1708631357"
+		}
+		"main_stable"
+		{
+			"buildid" "13384512"
+			"pwdrequired" "1"
+			"timeupdated" "1708027988"
+		}
+		"marketing"
+		{
+			"buildid" "13178388"
+			"pwdrequired" "1"
+			"timeupdated" "1705528326"
+		}
+		"multiplayer"
+		{
+			"buildid" "13501435"
+			"pwdrequired" "1"
+			"timeupdated" "1708379535"
+		}
+		"patch_pre-test"
+		{
+			"buildid" "13395353"
+			"pwdrequired" "1"
+			"timeupdated" "1708028499"
+		}
+		"playtest"
+		{
+			"buildid" "13616268"
+			"pwdrequired" "1"
+			"timeupdated" "1709316407"
+		}
+		"pre-test"
+		{
+			"buildid" "13480970"
+			"pwdrequired" "1"
+			"timeupdated" "1708121031"
+		}
+		"preview"
+		{
+			"buildid" "13395353"
+			"pwdrequired" "1"
+			"timeupdated" "1708026396"
+		}
+		"stable"
+		{
+			"buildid" "13395353"
+			"pwdrequired" "1"
+			"timeupdated" "1708010835"
+		}
+		"stable_prod"
+		{
+			"buildid" "13012605"
+			"pwdrequired" "1"
+			"timeupdated" "1705427671"
+		}
+		"staging"
+		{
+			"buildid" "13395459"
+			"pwdrequired" "1"
+			"timeupdated" "1708012003"
+		}
+		"update_pre-test"
+		{
+			"buildid" "13567831"
+			"pwdrequired" "1"
+			"timeupdated" "1708977370"
+		}
+		"update_smoke"
+		{
+			"buildid" "13566578"
+			"pwdrequired" "1"
+			"timeupdated" "1708977358"
+		}
+		"update_stable"
+		{
+			"buildid" "13469390"
+			"pwdrequired" "1"
+			"timeupdated" "1708100058"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Fire Hose Games/Techtonica"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22592982"
+"_sha" "69302ef8b9efb2a8fcd15992246f4f92172d1a06"
+"_size" "19155"
