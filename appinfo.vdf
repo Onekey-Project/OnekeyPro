@@ -1,0 +1,406 @@
+"appid" "2230760"
+"common"
+{
+	"name" "Vampire Survivors: Legacy of the Moonspell"
+	"type" "DLC"
+	"parent" "1794680"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"icon" "3677cf1be3be1f4ea42261c62ce10519715ade58"
+	"name_localized"
+	{
+		"schinese" "Vampire Survivors - 吸血鬼幸存者：月咒遗脉"
+	}
+	"metacritic_name" "Vampire Survivors"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"store_asset_mtime" "1671203512"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "poncle"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "poncle"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Vampire Survivors"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_44" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1671119311"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/vampire-survivors\?ftag=MCD-06-10aaa1f"
+	"gameid" "2230760"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "122"
+		"3" "597"
+		"4" "1716"
+		"5" "4885"
+		"6" "4018"
+		"7" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"dlcforappid" "1794680"
+	"mustownapptopurchase" "1794680"
+	"developer" "poncle"
+	"publisher" "poncle"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2230761"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "142478143397361913"
+				"size" "10879"
+				"download" "10176"
+			}
+			"public-beta"
+			{
+				"gid" "5854208859480364892"
+				"size" "27868219"
+				"download" "20375120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "A5BE370B118FC9A1C6781C8E3B453CAC"
+				"size" "1C0A46647009307BD292BE26C1968BAD"
+				"download" "E792C9E03296CB52E503C20C1E69D983"
+			}
+			"debug"
+			{
+				"gid" "2B5F1C446BEA3284E088517E8D311712"
+				"size" "88544C49F344CCE0A27A0943DC8FE787"
+				"download" "94B27CC308520737CC57932CFD81D62A"
+			}
+			"internal-beta"
+			{
+				"gid" "D3EE02C6987CA909F5C052FCAD573E75"
+				"size" "BCC5266007C070E3FD1F5BEA72F72EF2"
+				"download" "D73C363A7B7EF1B2EEB1B533265FEAA5"
+			}
+			"internal-dlc-test"
+			{
+				"gid" "9950E4C6244EA26E8D2CC4E419C771A3"
+				"size" "A016C0458780E33ED677C063A3B904EA"
+				"download" "54C7AAE0B185C387220178A585C33E01"
+			}
+			"new-engine-capture"
+			{
+				"gid" "16C9F4C3B55A7AB965FB6A633B29636B"
+				"size" "B2B8E6C9177EC02FAAEDD980862041D9"
+				"download" "F1E3D73688093B65B44F575343232501"
+			}
+			"new-engine-internal"
+			{
+				"gid" "E0BFB0E87DE598377E4F02CB21F76E24"
+				"size" "F88454A840E9D45E4244455D757C6E0D"
+				"download" "E41E1730CE03F823857DA77A5C80ACA3"
+			}
+			"old-engine"
+			{
+				"gid" "2A977270A6C95A8C9CE8B8C962FBB619"
+				"size" "6CF01548BE0D91B5B14EB0F1EBCFED27"
+				"download" "61DA6A9C20DEEE7BCDB0EBD047EEECC3"
+			}
+		}
+		"dlcappid" "2230760"
+	}
+	"2230762"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6680555081776095509"
+				"size" "10820"
+				"download" "10112"
+			}
+			"public-beta"
+			{
+				"gid" "3136013557848430689"
+				"size" "27878123"
+				"download" "20385440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "8E5120828FD5973886AD1962FCCB6EBB"
+				"size" "294CD6759CC032F352AA4797BFFCE752"
+				"download" "3201E56BA73DA3D83C8D4C5D9854E0BE"
+			}
+			"debug"
+			{
+				"gid" "9C44E6CD644EA5A02C94633910FD15D0"
+				"size" "C3D75855F7AC5ABDC3B28FAD0162CD1A"
+				"download" "E932113BCDBA665FA31763AAE5FB745D"
+			}
+			"internal-beta"
+			{
+				"gid" "EF9726970A7A8CE6EBC74E08F205CFEC"
+				"size" "913AD6983542658DB7E0F602D651AAF3"
+				"download" "7D6C3D4F40658FE4C73F9441F9CBEB0B"
+			}
+			"internal-dlc-test"
+			{
+				"gid" "F02B4F595E8F759FB1973FE211633519"
+				"size" "C23716F6EFC84CDD5A3F63437D5DCFF7"
+				"download" "FCA7B36522832DB13450B83971A7DC8B"
+			}
+			"new-engine-capture"
+			{
+				"gid" "1E530DEC70090DA4232BCC7A5A2D06C5"
+				"size" "26DD9ECA5CE9BCA5F37D8CA6E9C06D98"
+				"download" "786EF5248CEDB2F5061B0A163A364B75"
+			}
+			"new-engine-internal"
+			{
+				"gid" "411E9FC91E92795CD916893BBEA82731"
+				"size" "F50254685974B34117B8851743E06D7A"
+				"download" "62F704D567112B8AB9E79C9C846CA68A"
+			}
+			"old-engine"
+			{
+				"gid" "262F3ED1EC6099B46A0DCD60EAD7FE9C"
+				"size" "6C2E90449631E6746FFB5A509D90D2D9"
+				"download" "7B25CE2C459FA33F7F4BF4EBEFF1EE86"
+			}
+		}
+		"dlcappid" "2230760"
+	}
+	"2230763"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5523175394257512786"
+				"size" "10871"
+				"download" "10160"
+			}
+			"public-beta"
+			{
+				"gid" "635333477908094140"
+				"size" "27935881"
+				"download" "20433152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "2D8B26A4E4D23351822D5C5DE927E6B5"
+				"size" "294CD6759CC032F352AA4797BFFCE752"
+				"download" "3201E56BA73DA3D83C8D4C5D9854E0BE"
+			}
+			"internal-beta"
+			{
+				"gid" "12669540DFECFA58C50CE5986C3E3C70"
+				"size" "BCC5266007C070E3FD1F5BEA72F72EF2"
+				"download" "D73C363A7B7EF1B2EEB1B533265FEAA5"
+			}
+			"internal-dlc-test"
+			{
+				"gid" "3E09D4126BCF868D4C33E2411FBCDEB0"
+				"size" "A1FC8A5628D941DC569C46EA73CEA038"
+				"download" "C209EEDA4296E0367808E7F25E4AFE93"
+			}
+			"new-engine-capture"
+			{
+				"gid" "5CC5FE6884EE275EBFD79BCA4FFB4D69"
+				"size" "24E90BEB9137BD730F52B4F9B43E8A4C"
+				"download" "5A382973BFE8795E7A56380AC1149FBF"
+			}
+			"new-engine-internal"
+			{
+				"gid" "C2AC613C0433324DF5AF31EBF81B52DE"
+				"size" "DDB13B9D84B4B6B71F239AEF5E545921"
+				"download" "F87981A0AE426959B1A47E9E00EB06F0"
+			}
+			"old-engine"
+			{
+				"gid" "0EC5FE1B4CCBEED454D5E7EC9E8BEF3E"
+				"size" "0D6921F590775AD30B3E7342A9EE1744"
+				"download" "D74FA803FD57570BA0ABA0B89D72D509"
+			}
+		}
+		"dlcappid" "2230760"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13567373"
+			"timeupdated" "1709199954"
+		}
+		"beta"
+		{
+			"buildid" "11444593"
+			"pwdrequired" "1"
+			"timeupdated" "1686514461"
+		}
+		"debug"
+		{
+			"buildid" "12269533"
+			"pwdrequired" "1"
+			"timeupdated" "1695587936"
+		}
+		"internal-beta"
+		{
+			"buildid" "13018519"
+			"pwdrequired" "1"
+			"timeupdated" "1703149856"
+		}
+		"internal-dlc-test"
+		{
+			"buildid" "13614789"
+			"pwdrequired" "1"
+			"timeupdated" "1709306105"
+		}
+		"new-engine-capture"
+		{
+			"buildid" "13134526"
+			"pwdrequired" "1"
+			"timeupdated" "1704877123"
+		}
+		"new-engine-internal"
+		{
+			"buildid" "13614222"
+			"pwdrequired" "1"
+			"timeupdated" "1709302611"
+		}
+		"old-engine"
+		{
+			"buildid" "11450010"
+			"pwdrequired" "1"
+			"timeupdated" "1691771668"
+		}
+		"public-beta"
+		{
+			"buildid" "13614789"
+			"description" "Public Beta"
+			"timeupdated" "1709307408"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22590164"
+"_sha" "154660d92b053c73e78e46bf340e876e279043d4"
+"_size" "8063"
