@@ -1,0 +1,456 @@
+"appid" "1268750"
+"common"
+{
+	"name" "Starship Troopers: Extermination"
+	"type" "Game"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1268750_eula_1"
+			"name" "Starship Troopers: Extermination EULA"
+			"url" "https://store.steampowered.com//eula/1268750_eula_1"
+			"version" "3"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "c36a0215754fbe5529c09c3a944f84ecfec22615"
+	"clienttga" "cffd25958843e2dd5d3efd381a50db285adccdb8"
+	"icon" "08325c6ba9b395a845173ae342a900184f897d0b"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1684972800"
+		"tested_build_id" "11260161"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.627906976744185"
+			"height_pct" "35.94158157207315"
+		}
+	}
+	"store_asset_mtime" "1708024745"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Offworld"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Offworld"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Offworld"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1684343036"
+	"community_hub_visible" "1"
+	"gameid" "1268750"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "19"
+		"2" "3942"
+		"3" "3839"
+		"4" "1663"
+		"5" "3993"
+		"6" "3859"
+		"7" "1685"
+		"8" "1673"
+		"9" "1773"
+		"10" "4684"
+		"11" "6730"
+		"12" "1774"
+		"13" "1755"
+		"14" "7332"
+		"15" "5547"
+		"16" "4155"
+		"17" "493"
+		"18" "4191"
+		"19" "4175"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Offworld"
+	"publisher" "Offworld"
+	"homepage" "https://starshiptroopersextermination.com/"
+}
+"config"
+{
+	"installdir" "StarshipTroopersExtermination"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Yakisoba.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Yakisoba/Binaries/Win64/Yakisoba-Development.exe"
+			"arguments" "-log"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "integration"
+			}
+			"description_loc"
+			{
+				"english" "Development Executable"
+			}
+			"description" "Development Executable"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1268751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6969606448237791018"
+				"size" "8537243871"
+				"download" "8181315936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"designprototypes"
+			{
+				"gid" "9C7876891FD2C534DECBF886CF90502F"
+				"size" "7F43D145892D0EF388F7F08455B7EC05"
+				"download" "9C4D9FF647C271F99B2DE99D1A6CDAB6"
+			}
+			"development"
+			{
+				"gid" "93D16AF862CFC979CE53B5908D2E38EA"
+				"size" "AA6AAC1E4F43BC1C319964169A7C09FC"
+				"download" "7AEA72BD119096408CFBECAA15815F27"
+			}
+			"engine_update"
+			{
+				"gid" "D1901AD7FD4E7B9437178C508F3C5891"
+				"size" "0A6BED5C8CFC1FB2FF95299B34D6A439"
+				"download" "1AF9BD3D8D3EDAC0AADCA751A487E02B"
+			}
+			"featurebranch1"
+			{
+				"gid" "0A5A786E7EA64E7B6DD82FF20CE6F3B8"
+				"size" "A663986076B1848079D9A8CB72DCE995"
+				"download" "5CC99A68CA693A6E3307347E9C5AB156"
+			}
+			"featurebranch2"
+			{
+				"gid" "6CE9D3E3BC9483C5F1F536025D015374"
+				"size" "09CB8D244A7EC9BE348B9D7CD3C2BD3C"
+				"download" "988AFD71E6C43F161C239AF30DDCBB18"
+			}
+			"featurebranch3"
+			{
+				"gid" "148E5A3FC4ACFC6DC4C9A7BF3CB65815"
+				"size" "D7331D71057E2D6CFF5D753DC26EA6F9"
+				"download" "89F84063E4143755DAA50EDA24B3FDC7"
+			}
+			"featurebranch4"
+			{
+				"gid" "6B420957AE4063A6D7B1E4B9A8DAFF2D"
+				"size" "EAC02E3D46A399D069287FF219CD7AE9"
+				"download" "F87ADB25868AEEB5C5BAA4809F96F68D"
+			}
+			"featurebranch5"
+			{
+				"gid" "9BE8A132FEE3CF07145E2B405612BA73"
+				"size" "B284860C09F4D1BD84F0203BF25E6D6B"
+				"download" "F228CA5530FFA47BE34BA531E2ADCF8E"
+			}
+			"fsr_test"
+			{
+				"gid" "14D8B3906B5466B966AD056E59454108"
+				"size" "82C6B35A338EC640CDD3A233BA4CE391"
+				"download" "921EED57B3074C275B3F8268BA51F03A"
+			}
+			"integration"
+			{
+				"gid" "E394851009F891620D112831F678AED9"
+				"size" "BB2396C1BFC42B14A6F10C838A44E285"
+				"download" "AA3C628E5B4A95745A91AF5C84A6C469"
+			}
+			"integration_development"
+			{
+				"gid" "15E17D9E73E8374704ECE243D1CBA8AD"
+				"size" "BC915CCE2A94566FB68814772D8F04EE"
+				"download" "D5C4F1900CDFAEF80ED45636E45484DD"
+			}
+			"localization"
+			{
+				"gid" "1C0CD82712FF950201F7CB28A9914D5D"
+				"size" "29E5697EBB5826CD46093062850180C2"
+				"download" "E7772C760818FEDD55B9526DD1169B70"
+			}
+			"main"
+			{
+				"gid" "9190AC2281BBDD25DB961E9C2791E253"
+				"size" "C4B6B10F8E11FDE57C6E523E28556EE4"
+				"download" "98D47347BBC4BE434FC1F397DB5C1506"
+			}
+			"marketing"
+			{
+				"gid" "24BD914CA54B6884CC28ECBE50492E08"
+				"size" "7F1506136717466BCE3CECD9A7278A6E"
+				"download" "8B9ABD561FE06FD9EACCF10EE9388297"
+			}
+			"oldbuilds"
+			{
+				"gid" "40F5FB35819423C4784C158E892719D8"
+				"size" "03E7236ACE9818018FF501BC4B29CEDD"
+				"download" "E39DDE49E8552154939746E487AD982B"
+			}
+			"playtest"
+			{
+				"gid" "ED86250CCDD88E7CF41218F9A644369D"
+				"size" "889BECE1C07448BE1D6178F3EBA3BB14"
+				"download" "B88F2E6FABF5F15B5932E58C60358492"
+			}
+			"releasecandidate"
+			{
+				"gid" "D6709F92CA36A6273791B1D915EED9A4"
+				"size" "469A7AA9F28D312801971F5BFC36C7C4"
+				"download" "D0C06EB93863DBDDE206ABD490FFFE9C"
+			}
+			"releasecandidate_dev"
+			{
+				"gid" "B24A586A7A1039F5D169DEC0FF66568B"
+				"size" "AF4C22A6832861183DC0298C728FF12E"
+				"download" "9CCC7A5EBA81EF76F759BCD5ECC51124"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13387182"
+			"timeupdated" "1707414849"
+		}
+		"designprototypes"
+		{
+			"buildid" "13341397"
+			"pwdrequired" "1"
+			"timeupdated" "1706832991"
+		}
+		"development"
+		{
+			"buildid" "13605308"
+			"pwdrequired" "1"
+			"timeupdated" "1709236764"
+		}
+		"engine_update"
+		{
+			"buildid" "13121020"
+			"pwdrequired" "1"
+			"timeupdated" "1704750672"
+		}
+		"featurebranch1"
+		{
+			"buildid" "13593563"
+			"pwdrequired" "1"
+			"timeupdated" "1709160098"
+		}
+		"featurebranch2"
+		{
+			"buildid" "13607352"
+			"pwdrequired" "1"
+			"timeupdated" "1709251082"
+		}
+		"featurebranch3"
+		{
+			"buildid" "13538632"
+			"pwdrequired" "1"
+			"timeupdated" "1708657348"
+		}
+		"featurebranch4"
+		{
+			"buildid" "13481739"
+			"pwdrequired" "1"
+			"timeupdated" "1708127546"
+		}
+		"featurebranch5"
+		{
+			"buildid" "13409408"
+			"pwdrequired" "1"
+			"timeupdated" "1707436507"
+		}
+		"fsr_test"
+		{
+			"buildid" "13339842"
+			"pwdrequired" "1"
+			"timeupdated" "1706822995"
+		}
+		"integration"
+		{
+			"buildid" "13620906"
+			"pwdrequired" "1"
+			"timeupdated" "1709367031"
+		}
+		"integration_development"
+		{
+			"buildid" "13620861"
+			"pwdrequired" "1"
+			"timeupdated" "1709366415"
+		}
+		"localization"
+		{
+			"buildid" "11687630"
+			"pwdrequired" "1"
+			"timeupdated" "1689193017"
+		}
+		"main"
+		{
+			"buildid" "11143435"
+			"pwdrequired" "1"
+			"timeupdated" "1683092743"
+		}
+		"marketing"
+		{
+			"buildid" "13617686"
+			"pwdrequired" "1"
+			"timeupdated" "1709341328"
+		}
+		"oldbuilds"
+		{
+			"buildid" "13480686"
+			"pwdrequired" "1"
+			"timeupdated" "1708478223"
+		}
+		"playtest"
+		{
+			"buildid" "13617686"
+			"pwdrequired" "1"
+			"timeupdated" "1709332291"
+		}
+		"releasecandidate"
+		{
+			"buildid" "13597875"
+			"pwdrequired" "1"
+			"timeupdated" "1709185889"
+		}
+		"releasecandidate_dev"
+		{
+			"buildid" "13597894"
+			"pwdrequired" "1"
+			"timeupdated" "1709186168"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22598106"
+"_sha" "27967f4bd34d4515402468eccd1b973f1546f7ec"
+"_size" "9395"
