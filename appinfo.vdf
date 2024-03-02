@@ -1,0 +1,1416 @@
+"appid" "977950"
+"common"
+{
+	"name" "A Dance of Fire and Ice"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "fdef30f0fcf8d9dc434de755ab3084bde2e5c96c"
+	"logo_small" "fdef30f0fcf8d9dc434de755ab3084bde2e5c96c_thumb"
+	"icon" "8951234b5979fde3030acbf53b32fc04dfc706b3"
+	"clienttga" "b5c46feb1d58b7e4505895b77d87d5c9994e2063"
+	"clienticns" "85558f8b324f1c00b5386092f2fc98fe70ca1958"
+	"clienticon" "c439bf516f25a5e57cde6fbb614b93ead54aec9c"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "977950_eula_0"
+			"name" "A Dance of Fire and Ice EULA"
+			"url" "https://store.steampowered.com//eula/977950_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "冰与火之舞 A Dance of Fire and Ice"
+		"tchinese" "冰與火之舞 A Dance of Fire and Ice"
+	}
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1690502400"
+		"tested_build_id" "11778745"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "79.48003588719686"
+			"height_pct" "88.55227926491794"
+		}
+	}
+	"store_asset_mtime" "1666987579"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "7th Beat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "7th Beat Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "indienova"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "7th Beat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "indienova"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_30" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1548374460"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "977950"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "492"
+		"3" "8122"
+		"4" "4026"
+		"5" "4182"
+		"6" "3871"
+		"7" "5310"
+		"8" "19"
+		"9" "597"
+		"10" "1773"
+		"11" "4305"
+		"12" "1714"
+		"13" "4166"
+		"14" "5350"
+		"15" "1685"
+		"16" "1756"
+		"17" "3859"
+		"18" "1721"
+		"19" "1667"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "7th Beat Games"
+	"publisher" "7th Beat Games"
+	"homepage" "https://7thbe.at"
+	"listofdlc" "1977570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "A Dance of Fire and Ice"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "ADanceOfFireAndIce.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "A Dance of Fire and Ice.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "ADanceOfFireAndIce"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862174839"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,alpha,beta,deepspace,devtest,frontline,nosteamworks,oct312020,older,stardust"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"workshopdepot" "977950"
+	"977951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7639229438223255066"
+				"size" "2512757950"
+				"download" "450782416"
+			}
+			"beta"
+			{
+				"gid" "7639229438223255066"
+				"size" "2512757950"
+				"download" "450782416"
+			}
+			"older"
+			{
+				"gid" "6896966207108477635"
+				"size" "2096062080"
+				"download" "443688016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F63AAE2A7A298066DBD16A489F278DE3"
+				"size" "7D58C67CA9BDF14465032D807F8D8990"
+				"download" "9091FCB90B45CEAB4EE5750650964697"
+			}
+			"asyncinput"
+			{
+				"gid" "C8F15CDB655B664BCD23F56F3666A5D4"
+				"size" "C8B010E4C4A76E08A13AD4AB58A4906F"
+				"download" "9DD7473DB28ADAFE01BE4C8141507367"
+			}
+			"awc2024"
+			{
+				"gid" "94446683B7D951E4B275359696DC667B"
+				"size" "E87E3308277DA4FCD6FFD1C9CFFC31B7"
+				"download" "2FBBC4F1480B6785D3D9CB65B95F48A7"
+			}
+			"blackhole"
+			{
+				"gid" "5A7A15A5B228F28156A2F83246D44C25"
+				"size" "43DD727267DF29D8F830479E71C6DB65"
+				"download" "AE478D481FE91249D47DC07AE9B280DE"
+			}
+			"color"
+			{
+				"gid" "A4ED3E3A246240BF58F897882B419B82"
+				"size" "206703AE4524DCAF94FDB78DF91FA70F"
+				"download" "320EF6715259C8CC56CBCA92D9C063FC"
+			}
+			"deepspace"
+			{
+				"gid" "2FC8DA7BE0DEBF2E6BE0B4848217F302"
+				"size" "9022D6AA5DD0EDC921B7191ECCBC100D"
+				"download" "DFE7BFCF7AA11AC970709FC535BF9733"
+			}
+			"frame"
+			{
+				"gid" "C3C41779AD29A0D369680FEC159901DC"
+				"size" "AB81024210CF9AB2252A395750583CE1"
+				"download" "F149FDD036CCB29C00D9BF1E11933296"
+			}
+			"frontline"
+			{
+				"gid" "507A3F53A8C931B8506043B89BB4BCE2"
+				"size" "AFECA815C2AFBF8391B113E7D86A5815"
+				"download" "CF6C5F7B88AAD8626AEE9203027B8072"
+			}
+			"nosteamworks"
+			{
+				"gid" "ACE2FA542E206A0E4067DE57BACF76FC"
+				"size" "F9F64F9D9A6947B4277DFF6CF4414615"
+				"download" "5488A502DD720789B07685916D2E059A"
+			}
+			"party"
+			{
+				"gid" "B3AA13A58CED1F78DD977BD9F5BA7EDD"
+				"size" "0F09E0AC752C4AEC913582464818DBAC"
+				"download" "FDF2BD28AE1F1A950C19AC654AC17914"
+			}
+			"recorder"
+			{
+				"gid" "4A57AEF50C7A324DF2BA4B819A72BD72"
+				"size" "6C0E8C448EFAC6D5F7A6833D959FF820"
+				"download" "0C4CC7D80698BF25F9047B982877E724"
+			}
+			"samurai"
+			{
+				"gid" "8FD46C8426C3C5B02C947145C492B864"
+				"size" "762D1DBBA19EA3009C5F05DF8109BE10"
+				"download" "194138A59C538F2622C350C4882F3094"
+			}
+			"stardust"
+			{
+				"gid" "8813A5EB844298C77D86975375C054B7"
+				"size" "434B62788A23C9F6B147B74AEACDE9D7"
+				"download" "BA57A224CBFD0FDA9726899405154D06"
+			}
+			"steamworks2"
+			{
+				"gid" "32F3D834AC4B9A821506F36DB022D356"
+				"size" "2BFDDC55BE52060394718A9EBBDB6892"
+				"download" "2457380F02C0DE0B95EB89481AC87BDC"
+			}
+			"temp-starshooting"
+			{
+				"gid" "9FD99F090DB165F688F0D607FC372CE5"
+				"size" "C362E2C2F8E151D261071FCFDFA9ADF5"
+				"download" "759963F94A6C4E9CB2699DD004D556C4"
+			}
+			"undyne"
+			{
+				"gid" "0BBBB4AF6BA3E6468D54BE63B024BDE5"
+				"size" "497AD2CEB7D0D64285DB67726A3BA6D4"
+				"download" "6F343D8466203CBCA383FE66E06D2D6A"
+			}
+		}
+	}
+	"977953"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9173044316677669222"
+				"size" "2523841766"
+				"download" "453555104"
+			}
+			"beta"
+			{
+				"gid" "9173044316677669222"
+				"size" "2523841766"
+				"download" "453555104"
+			}
+			"older"
+			{
+				"gid" "1509911061942982332"
+				"size" "2107293787"
+				"download" "446596400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "85377B01FC4D8875DFC6967A872E60B3"
+				"size" "461290F35333E4D1951E8490E8AFA7C8"
+				"download" "40449B5061E9936857630AB368F0A5DA"
+			}
+			"asyncinput"
+			{
+				"gid" "5DFDB553E30C1E36640926AE3F10E66D"
+				"size" "CC42649C55767D8C26C127A97ED4FBC5"
+				"download" "57A6470D38F969266BB8D96D2F2A6D95"
+			}
+			"awc2024"
+			{
+				"gid" "56E2AABB980BE2C03C884F90467DA7E5"
+				"size" "81253031DA8FE012AF412C21A63085AF"
+				"download" "9E412B225E47A2EE0D9DC5A57F50D9DE"
+			}
+			"blackhole"
+			{
+				"gid" "496A5DAE77B4759FC5CE2885B21C3C95"
+				"size" "50D3E0D0FD395FA678CA3C33808C635D"
+				"download" "538B027F17D5679264AE44AB30B7CE8D"
+			}
+			"color"
+			{
+				"gid" "92BF6A888E8E3BEE812F82A07D3099A1"
+				"size" "5EA4919C0F0419BF866030A6398DB32C"
+				"download" "8DCC9A07BA7DB1571C4D384E57879E41"
+			}
+			"deepspace"
+			{
+				"gid" "203DBBC2D522403B5B0F61D812E2988F"
+				"size" "1D9E52E39FF4B22455FC251CA78E92F2"
+				"download" "6062780D00233BEDE36254F288C4EF3F"
+			}
+			"frame"
+			{
+				"gid" "93A407968340AA52DB1638ECC7EC9107"
+				"size" "427C0325DC66F167F35526DA25C39E9F"
+				"download" "3726A1D6AB1115D11FF25F1EFF5298DF"
+			}
+			"frontline"
+			{
+				"gid" "7250EE0BE3AB6FD36D949ADBA727F3B6"
+				"size" "E998E6D2726531139634E4E3EBA6930F"
+				"download" "6FECCF89E701EB3306DC81A996C065C6"
+			}
+			"party"
+			{
+				"gid" "FAC84C72470D36EA2B179C04836E5ECC"
+				"size" "50848008DFB05C6EF88CB395785866AA"
+				"download" "39415C613F854D9F8ED9D8BED35A4C5E"
+			}
+			"recorder"
+			{
+				"gid" "E8E763498494D643BAC28BAFD7ECBE7F"
+				"size" "62EA4895AFB230825AFE50AB32236832"
+				"download" "64CAF537794DDEF897811333A642ABD0"
+			}
+			"samurai"
+			{
+				"gid" "F957210D69C38468393C4F439EF8D4FF"
+				"size" "57001E4666E91BC60DD58130BA918294"
+				"download" "9740CD14F8FEE103EA2D82381F7116D8"
+			}
+			"stardust"
+			{
+				"gid" "9B5E71ACEC0BCCAAEB13DF6FA59A339B"
+				"size" "AD91EAF9CBF3B74402929A732DD298D3"
+				"download" "364BF73C1C04D50A4FDDDF58AA2904FD"
+			}
+			"steamworks2"
+			{
+				"gid" "84E5CCEEBC4F86F81619C440A202D189"
+				"size" "4149984074A0357F29D5221464B4237D"
+				"download" "B77D9811DE1BB193B13CEAFDDF9919B1"
+			}
+			"temp-starshooting"
+			{
+				"gid" "FB368FB57DAE93CF613C95DAF0AA6316"
+				"size" "191D1C211D12B5F4C4267F34DFEDCCFD"
+				"download" "4A1BADF6F7DFE520ABFEBA5C217CD552"
+			}
+			"undyne"
+			{
+				"gid" "FA39110CCF92FC503EA080E5D2AB7024"
+				"size" "D970866953409F9DC31D00E1B95B9B0B"
+				"download" "425C00A34E322B8676D7A58A914C3D29"
+			}
+		}
+	}
+	"977952"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4590802139505528979"
+				"size" "2534307155"
+				"download" "460751456"
+			}
+			"beta"
+			{
+				"gid" "4590802139505528979"
+				"size" "2534307155"
+				"download" "460751456"
+			}
+			"older"
+			{
+				"gid" "529395289393227257"
+				"size" "2094011388"
+				"download" "445544240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "D4A69A73CF3F4BC12011F0C25FDFC0EB"
+				"size" "76742D47152A53C6806FC18CDDF762E2"
+				"download" "C9E9E306416774A0F9C03D22B07F04E8"
+			}
+			"asyncinput"
+			{
+				"gid" "E72B3DF8B010BB5C07B24D61C3F4343E"
+				"size" "F4EF7F31AB94F7C70087BF7F942C146C"
+				"download" "3A3E7810B3993F95608C7089914C9105"
+			}
+			"awc2024"
+			{
+				"gid" "71AA17D35A82741C00C0150E06C67C02"
+				"size" "298FE8F88C333B64A361975277BE7752"
+				"download" "FCFAEBD0AAB939BD3A165407882069D2"
+			}
+			"blackhole"
+			{
+				"gid" "3E7D2F01C0C0A115E8A0622526D4364F"
+				"size" "E2DBAF90D4979B76D68D08A30A26B246"
+				"download" "415780FA3BC94D934051A2B7CD115DF7"
+			}
+			"color"
+			{
+				"gid" "F101CA5FC3CB41D836309D89DF8F7985"
+				"size" "F0E9884BE131AB58961C0984F45ED858"
+				"download" "E9FD0F5F1E8B31553DF9107CA3B33233"
+			}
+			"deepspace"
+			{
+				"gid" "5B51D8B6D3895EAFD7FBFE0107038F13"
+				"size" "A786DC8A29D7CEDC227FA399CA516E62"
+				"download" "96F25833FEFF4160F6A45427171F51FD"
+			}
+			"frame"
+			{
+				"gid" "0788837E206400F6AA05488CEFCDA13B"
+				"size" "077EC6F9297DA1C3186690D212D8B968"
+				"download" "5319A2C7EC6F9ADF4760959392750B2B"
+			}
+			"frontline"
+			{
+				"gid" "8A7520A985B3A3338F3D480736314611"
+				"size" "89CDBD170E40A3E50A47C95D20025008"
+				"download" "41AC0F72A296EDD3F8748071101D0931"
+			}
+			"nosteamworks"
+			{
+				"gid" "B00D596EE1AEFA5CA964226C43C336A1"
+				"size" "53407D57FCEC364D28AEA4C907DAA78D"
+				"download" "8758A7D2DA37C5AC6F3FFE901C1E7B1C"
+			}
+			"party"
+			{
+				"gid" "87BEC4770DF6AF34F605655DFB2713B7"
+				"size" "8ADC43DD7E55C54F4B4CCAA3CD83E994"
+				"download" "21501BE3FBAC38355DE9D84D3B31CBC1"
+			}
+			"recorder"
+			{
+				"gid" "E9EB7DA6AE0C394031F6A4701E4CDB52"
+				"size" "1074404C0AF2829826D4774D9BC8B249"
+				"download" "6E575CD4948BFFCBA6EC1EF2250B54BA"
+			}
+			"samurai"
+			{
+				"gid" "0D8502616F8FBE03F6B7BCCE4A930525"
+				"size" "E4454CE95B31A9F45DB8AC6FEF045962"
+				"download" "028BB38489E92E0395E61562C8C97BCE"
+			}
+			"stardust"
+			{
+				"gid" "75A60BA8EA78A7BE094287F835292939"
+				"size" "23696A329E5FD39E2DE11D19E64286BE"
+				"download" "427C95E177649F6DB7E3C04D9806E08D"
+			}
+			"steamworks2"
+			{
+				"gid" "C6E5DB4B1D58E1EB7D7F17AAD3A42C2F"
+				"size" "6A2626DE381D4E57D325A53E1E31AF8F"
+				"download" "FA06B252F8AA298B7B11361949916A7D"
+			}
+			"temp-starshooting"
+			{
+				"gid" "DD4988EA2516E0AF93AFEA6470DCBB87"
+				"size" "0076AE5B5A6BF74016EF5E13C0DC5D20"
+				"download" "0EB03D73053EAD2616FB12F6F319DC59"
+			}
+			"undyne"
+			{
+				"gid" "64202BE86A23D5AA3D554DBB43706536"
+				"size" "AD36DA6F0E76B75FD2F6B0B29B462A12"
+				"download" "7DAB540A73484663797755E8FA983F27"
+			}
+		}
+	}
+	"977954"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3875243649375081953"
+				"size" "2559301258"
+				"download" "451709696"
+			}
+			"beta"
+			{
+				"gid" "3875243649375081953"
+				"size" "2559301258"
+				"download" "451709696"
+			}
+			"older"
+			{
+				"gid" "732505576994945568"
+				"size" "2119414510"
+				"download" "436546992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "CF00FB7E9B9BA62600ECF04F33F613C7"
+				"size" "84B7B76EBEA204B1826852CF543156BE"
+				"download" "4872FC69CAA6A69DEDE68EABE5C641E1"
+			}
+			"asyncinput"
+			{
+				"gid" "AC367790170A3066428C12DDAAF126AA"
+				"size" "D09DADF56862121A4701EEFE24149514"
+				"download" "95E965C9A6ABA9F8A50201A70EFFB5CE"
+			}
+			"awc2024"
+			{
+				"gid" "BBE8D174885FCAA370C7EAB8D609F848"
+				"size" "299BE0979C3A094035011A47E83F0F8C"
+				"download" "885926046B2680A1FFF19CF009971290"
+			}
+			"blackhole"
+			{
+				"gid" "3B85CA53F07FFA2979EA08D49670CD80"
+				"size" "E9A3CED7F1A86D412C86A981B0497D0B"
+				"download" "CF1324B3416E80A376C1DECC9656C8DB"
+			}
+			"color"
+			{
+				"gid" "94685A53C6908CF0F51B481FF86F76AE"
+				"size" "086546C7E791831C5280B5B3BAE6D918"
+				"download" "32B007865C960F9B7DE6BBADD81DD466"
+			}
+			"frame"
+			{
+				"gid" "C2F74324310859B4D860EDA2A2FD916C"
+				"size" "A1B537A6D1674C714B691EE645CB5032"
+				"download" "4CADDAC4BDC9697B450CF301F6A81014"
+			}
+			"frontline"
+			{
+				"gid" "DA96EB1ABE5CE7E13609CCA869748282"
+				"size" "92B9B662368122507290662A5E573A4E"
+				"download" "673EEAD1C5C1333CAB4359F866CD8408"
+			}
+			"party"
+			{
+				"gid" "B3968C9AF5F107E320D40019B1E1C365"
+				"size" "CBC19E39971468BF19D88334BBBA35C0"
+				"download" "07B2B003682802D49347DB0E378FDC69"
+			}
+			"recorder"
+			{
+				"gid" "82905718BC8C4DD9A5A0C17AB4AC4BD4"
+				"size" "8D819EF55230135A2C7DFD10DE49EC95"
+				"download" "D097EBFD589930744B2A57ABB27A8FDA"
+			}
+			"samurai"
+			{
+				"gid" "64CFDD2ED23846C8ADEA8ACDBBB5D067"
+				"size" "55C86F97D8B39F4FEA84544C72A23298"
+				"download" "84B2F86D1C2A8FB77F0F8445DF272E19"
+			}
+			"stardust"
+			{
+				"gid" "6B8C5F9D33F0A47FF01E7F0F4E4251B8"
+				"size" "18E4434B20690D99C3A06FBE200C9C71"
+				"download" "9745CF9DC62B15E135A2AAA1F40D496C"
+			}
+			"steamworks2"
+			{
+				"gid" "76F662E12840E291FC30DCE3535A6A9F"
+				"size" "F2F2E0125BBBAE7D323E84345FECCBF3"
+				"download" "2597BF011A4A8821C275ACA6B7B7FF01"
+			}
+			"temp-starshooting"
+			{
+				"gid" "53332D06F641C38A8B30F12030A08716"
+				"size" "BE8CBBC98C6DFA7B8052A96ABB47FF4C"
+				"download" "4603D36750341564BED313D0AE7F0385"
+			}
+			"undyne"
+			{
+				"gid" "4D978D6FB0AEC0A359F214B6D26EAF8F"
+				"size" "C02A8C51FEE510B940B2C4940ABD1445"
+				"download" "0380124F22376F23F41D02FDAAD6AB78"
+			}
+		}
+	}
+	"1977571"
+	{
+		"dlcappid" "1977570"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7381490385463311469"
+				"size" "713639392"
+				"download" "168509120"
+			}
+			"beta"
+			{
+				"gid" "7381490385463311469"
+				"size" "713639392"
+				"download" "168509120"
+			}
+			"older"
+			{
+				"gid" "5752464655623475273"
+				"size" "705775296"
+				"download" "168452512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "52B26AB456D2B84CFF2B01079944B143"
+				"size" "354D95BB78BF50CFC5604E6366539293"
+				"download" "0C1ED85275296443E8D64FB8EC0399B5"
+			}
+			"asyncinput"
+			{
+				"gid" "77763D106BA2349D7F87B7546FA07381"
+				"size" "230884B98BA4FC1D29BB407D7523A0D0"
+				"download" "7E41CC72D88C685D812385E7872984E5"
+			}
+			"awc2024"
+			{
+				"gid" "A0DF401F6CC3B45AD54C9B319AF48477"
+				"size" "0B1A2445CDF36B89D87C50B6612597D4"
+				"download" "107AD8FB3DD1FDB2FD05220788A43119"
+			}
+			"blackhole"
+			{
+				"gid" "990C6946EB91FAF7A053467BC3C676AF"
+				"size" "1D4571F674DA3D65EC733753BBF4F4A4"
+				"download" "9155AA86946E8C41FB6BF88ABCA3D753"
+			}
+			"color"
+			{
+				"gid" "CB73EC1DBEAE5FE3EDFBB4D669B1907A"
+				"size" "40987DBEC5F94E889ECEACB0B936F34A"
+				"download" "11305E2C38C0E8B61565573147EF1A43"
+			}
+			"deepspace"
+			{
+				"gid" "D0262AD4ACAB01441546B49FA3464144"
+				"size" "4C584C16BC976CB6CF31DE58AEEC3C8C"
+				"download" "84EA82912E1B8E6F22D9595B65C0D07B"
+			}
+			"frame"
+			{
+				"gid" "B0269D46B6B39A3CEFA6269D3734C445"
+				"size" "FCB09B50198822C23FEB920F300B5763"
+				"download" "2FB0158008478521367A83CD3884B9BF"
+			}
+			"frontline"
+			{
+				"gid" "B5F0BC8C538AFA40D0BF516EA0446D67"
+				"size" "41703DE9A73C0BDE5179CD8060012180"
+				"download" "B1998B02D31CD3980248991DAE0522D3"
+			}
+			"party"
+			{
+				"gid" "FEF661B09D433DBA89BC87AF7C795381"
+				"size" "7535688AC4200545DE8AC5B32AA5E8C3"
+				"download" "3C8CE37A8A4A3BB2F4A8BEA41348A11D"
+			}
+			"recorder"
+			{
+				"gid" "2A5FD1C117B1A08AE139D4CA06DE79FA"
+				"size" "2AA9986E66685D628B66581A13A07E0D"
+				"download" "741DC19F5184AF6E76F9FD28F57A5E41"
+			}
+			"samurai"
+			{
+				"gid" "7D8212A1B0F71ABFDBE7627EEF274C24"
+				"size" "299A2E84D3546F4285980715783B8941"
+				"download" "F74EA232CCBEBE17D712DA749C7002BA"
+			}
+			"stardust"
+			{
+				"gid" "3589583F015B1C86E7C28ECD6F85B6B1"
+				"size" "8125BF9F4E4431A31A65BF59FFB98162"
+				"download" "AFBC40DD9F068FB57EE6EB7DA78AD48F"
+			}
+			"steamworks2"
+			{
+				"gid" "11DB9C735454A9483698D1AC242A0926"
+				"size" "BFC42CEC59773EEF69DB1EE139193F7E"
+				"download" "2FD3B3F09D9B81BF9DC7CA6AAC85CE39"
+			}
+			"temp-starshooting"
+			{
+				"gid" "0760EA44E5BE4ADDFD850CD5F70D71F4"
+				"size" "05B29965DF31C8CBB69F23DB99C7005E"
+				"download" "3205986D7BE3358B5BEDC17C0E76513A"
+			}
+			"undyne"
+			{
+				"gid" "AC59BF0FBF96A9255BC153626B7EB614"
+				"size" "975CA609A3D7F390E6B2B104C764CEFD"
+				"download" "896B0B7C8E50CF4EDD8F904063D791A9"
+			}
+		}
+	}
+	"1977572"
+	{
+		"dlcappid" "1977570"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2286631728986210406"
+				"size" "713639392"
+				"download" "168510240"
+			}
+			"beta"
+			{
+				"gid" "2286631728986210406"
+				"size" "713639392"
+				"download" "168510240"
+			}
+			"older"
+			{
+				"gid" "500590538825111375"
+				"size" "705775296"
+				"download" "168451792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "E62C7C3761B6EE2D3A31393E750D9538"
+				"size" "354D95BB78BF50CFC5604E6366539293"
+				"download" "8B0837DC7351CE6078B5E547F41C5B79"
+			}
+			"asyncinput"
+			{
+				"gid" "6036E5CFA701A6CFDBC3093D3B1EB015"
+				"size" "ABAF6308EB725F2DF6555AF712F22847"
+				"download" "B4240B5EC9891CB078BDD6611A63CFCE"
+			}
+			"awc2024"
+			{
+				"gid" "8F05E8C2D52ECD6277448C3BBFB0E5B8"
+				"size" "208674A4588B63077AA8288F259B3B4F"
+				"download" "545AB8527347CA066E0FDB4740FDD6EE"
+			}
+			"blackhole"
+			{
+				"gid" "D9258FE035F7388FCA131A1F26AD29A6"
+				"size" "A97F69CEEA9734ACFE106273FE45BF0A"
+				"download" "4879B9E022771ADFE42578217D077A73"
+			}
+			"color"
+			{
+				"gid" "2FEA2755576917FE384F66011B779C1A"
+				"size" "298F02A87545893A85E115C70BAC3243"
+				"download" "14DD732669268E18E21F53477581A3BD"
+			}
+			"deepspace"
+			{
+				"gid" "D0EB705712E1C5F373E57F91BE57F2F3"
+				"size" "853650FC4E626B51DCA01705804C5D2B"
+				"download" "CABA9F6D5226A7080FCC1FD40396A104"
+			}
+			"frame"
+			{
+				"gid" "7581BECB9EBF0CFE795A1A2563816FC4"
+				"size" "FCB09B50198822C23FEB920F300B5763"
+				"download" "E300B4B873D499576243C3F162C5B580"
+			}
+			"frontline"
+			{
+				"gid" "0A491F23CE00CBD8A552C81FB37091FA"
+				"size" "41703DE9A73C0BDE5179CD8060012180"
+				"download" "5728613483556A32224DB36777DEB1B6"
+			}
+			"party"
+			{
+				"gid" "40CCAA8740B165D19D237BA00264754F"
+				"size" "7535688AC4200545DE8AC5B32AA5E8C3"
+				"download" "45468EA2A066CD1F4A3C5993C472F018"
+			}
+			"recorder"
+			{
+				"gid" "0B8C4D1DC5E70038355C119817C95F85"
+				"size" "2AA9986E66685D628B66581A13A07E0D"
+				"download" "CC38E46D83D83B4D78ABF47A4032C5B4"
+			}
+			"samurai"
+			{
+				"gid" "7E33F74C99BD03C00C58A597904C8481"
+				"size" "299A2E84D3546F4285980715783B8941"
+				"download" "1FCBE16E07BA336C7AAB4364E2729057"
+			}
+			"stardust"
+			{
+				"gid" "E6FB00A4BA76431923025008B4184A93"
+				"size" "8125BF9F4E4431A31A65BF59FFB98162"
+				"download" "C5661C12F81F53C1230F429FF0A10326"
+			}
+			"steamworks2"
+			{
+				"gid" "AD119641254D49F01480C61F4E8C77F6"
+				"size" "BFC42CEC59773EEF69DB1EE139193F7E"
+				"download" "F9B216E7F99888377206A920749270B0"
+			}
+			"temp-starshooting"
+			{
+				"gid" "F1AC182E605095211E9EE8DD5E4CBCA6"
+				"size" "2B917286856C8B49F44A34FF2D9F6549"
+				"download" "99EBC8F4BB61A2D8F4BCFC3518313BB0"
+			}
+			"undyne"
+			{
+				"gid" "B43F3E31F4B40E66BF75AEE7B116A03C"
+				"size" "62C761EA747A240F00DC47971963552B"
+				"download" "44236E101C6260E85581588467322A56"
+			}
+		}
+	}
+	"1977573"
+	{
+		"dlcappid" "1977570"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5691085583362950703"
+				"size" "713861488"
+				"download" "168536048"
+			}
+			"beta"
+			{
+				"gid" "5691085583362950703"
+				"size" "713861488"
+				"download" "168536048"
+			}
+			"older"
+			{
+				"gid" "4725304377962069124"
+				"size" "707094560"
+				"download" "168563808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "2869A4BDC0FB78C4306A19DCD88F1785"
+				"size" "8BDE613CCF66E974D83104A88806ADCB"
+				"download" "36DD9F9B9F9A2C37287C72788AB494D8"
+			}
+			"asyncinput"
+			{
+				"gid" "A95C4300075BC8DC52FD72213F13F49F"
+				"size" "F6BA83066C501E533AEDF64CFA1CE482"
+				"download" "05C20128C959C0634865D483C84BFF40"
+			}
+			"awc2024"
+			{
+				"gid" "F0233361DAD5DF2BBCB1EA16FBA623F2"
+				"size" "E643DE8A36F9F1042485C51A82BEE0A8"
+				"download" "CCF516A8AA3CE9C1394A7AB3F8EF9ED2"
+			}
+			"blackhole"
+			{
+				"gid" "C39DCD4197F78B92838A38474A4A66F5"
+				"size" "A01A167FFB1554BF05A3E3C63D98D70B"
+				"download" "0D6BA764828282085F6382387CFB88CA"
+			}
+			"color"
+			{
+				"gid" "F8C4C327DFCC06D52744AA089CD56BAF"
+				"size" "859107E12369D48F3CB71A0DD03CA08E"
+				"download" "7A9E8A42E76A29F936B41542AA4C2B9C"
+			}
+			"deepspace"
+			{
+				"gid" "E426DA484370B851B96B1B29AADC7C56"
+				"size" "0DC3CC5555F9F4D073C853A2A352C25B"
+				"download" "FDFE217908C4F23869710BB8E5FCDEEA"
+			}
+			"frame"
+			{
+				"gid" "FFC2F29DA21C8848F49420D5BBD67210"
+				"size" "7ABC84B6282208DFC43D2D5C5CEC2088"
+				"download" "BD0628CC5D8D1F10CBFD7BF826D91532"
+			}
+			"frontline"
+			{
+				"gid" "5E70019062258132DC84AEB3B9280B94"
+				"size" "B7B42C6C8B248584FA30CD4CE787CA56"
+				"download" "C53A6A8ECB3DD028E62A529A0A8426F6"
+			}
+			"party"
+			{
+				"gid" "80C8F14DA40E91C9AA02C6B33C72B442"
+				"size" "55A8BCADA184F4DA0A1D1F25E33A80CA"
+				"download" "44E04D4FABE477241C6801BAEC99B6A2"
+			}
+			"recorder"
+			{
+				"gid" "A51B3103DB4BDC4EBE94A5E5C8489F48"
+				"size" "8BD4F04D9654C3642FD5D94898E5D7A4"
+				"download" "004BE48F324A8FCE40F924D617934DEB"
+			}
+			"samurai"
+			{
+				"gid" "A2470A9B4E6EED0E29044D62FC838B2A"
+				"size" "C07536B7F292A00BF69B8E0142D0AB39"
+				"download" "7E6C7620A67EBCC4F73E260FD3BCB411"
+			}
+			"stardust"
+			{
+				"gid" "EE6885CED8D2FF5BD0CF760E2EDF45F2"
+				"size" "0E3F484B47C6224DC76B1E399FF8EFE6"
+				"download" "583DC48D716A685F43DC806B2D88D14E"
+			}
+			"steamworks2"
+			{
+				"gid" "13CFB63301F07D14B44C130BACA68EF3"
+				"size" "DF800898B4F55BFB252F03DC8C809CC0"
+				"download" "AFCFDF50A88050950EE9266858492FEB"
+			}
+			"temp-starshooting"
+			{
+				"gid" "B8F4B86427508C61A63336A5F05CDFBC"
+				"size" "9CFC850CC2EC32B5506CEFCF346E4E6F"
+				"download" "994646B789203C570C685CD9957516C3"
+			}
+			"undyne"
+			{
+				"gid" "7764C8757F909167561142184A176BE4"
+				"size" "9043C137DFD56C99E52CEABCEBE55ADE"
+				"download" "859C1533F90B95C899FA07F4A90113BF"
+			}
+		}
+	}
+	"1977574"
+	{
+		"dlcappid" "1977570"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6778523345418559970"
+				"size" "713949472"
+				"download" "168607648"
+			}
+			"beta"
+			{
+				"gid" "6778523345418559970"
+				"size" "713949472"
+				"download" "168607648"
+			}
+			"older"
+			{
+				"gid" "8952868909130178451"
+				"size" "706085376"
+				"download" "168553952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "D6FB482120CFB6905A75F81760C8E6CB"
+				"size" "E87B9F9FAFA5677D9BD9F91F0FFB023E"
+				"download" "9220433F18699E7E584E379C025074C0"
+			}
+			"asyncinput"
+			{
+				"gid" "D54E3202BD87B0343990155984D596CB"
+				"size" "6F9C42E724DBBFC2E71281A4744D6945"
+				"download" "AE656B659DBC860643AF9899D8167A75"
+			}
+			"awc2024"
+			{
+				"gid" "DE22F5B86213B81D352E48AFB725EE3F"
+				"size" "827C06F1B515406EB9710684F169117F"
+				"download" "DA31F57D649302C89E3EF583A3D2FEEE"
+			}
+			"blackhole"
+			{
+				"gid" "AF98DE727E7F3D4C8AB722A58A011865"
+				"size" "4213438F02C167FA0DB6A548A5379D37"
+				"download" "9EC127A8E52D2AE0C5CFF8D326B7733C"
+			}
+			"color"
+			{
+				"gid" "E499C0CDBE1183775301605CBC550535"
+				"size" "3B04D2546599AA4F49B2FD7279D4F1A6"
+				"download" "5825CF2DBCE0E8E8BAEC98B3F47AE05F"
+			}
+			"frame"
+			{
+				"gid" "57204CD3305DA03D0C93CADC42640E95"
+				"size" "69ABAC38FA4C9086906973BFEBFC66DC"
+				"download" "83FBD900056229BDA21E24A42D617676"
+			}
+			"frontline"
+			{
+				"gid" "9EBB3288F0EF7BBF1BCE94EF0C94E79B"
+				"size" "43AE8A124BD5A18BD9EBDC4C9F2D2E7B"
+				"download" "82A6A0565192D33C9E1C63F4059ECD09"
+			}
+			"party"
+			{
+				"gid" "D8955C297366EF65F5B4C3A3815B9FA0"
+				"size" "6EA904FCEA6A448F2FD35BD0636C22C1"
+				"download" "239D6D44E74788DC798545405F99CDF3"
+			}
+			"recorder"
+			{
+				"gid" "73FF8ABE1A5331FE2BCFAD10D66893E0"
+				"size" "BAD597F5027D96675E1BD5204BF3E078"
+				"download" "18073275E6CB69AC76759BCB6CAE81AA"
+			}
+			"samurai"
+			{
+				"gid" "3C6D6BBCD4CCAB5AE9020885B1CAEF54"
+				"size" "C6CC7056F0AD12CFF9B69D1C16227E3D"
+				"download" "33CD3F4A9F3E6223B3A0201124232943"
+			}
+			"stardust"
+			{
+				"gid" "1339BF8D54DBE84FD8D75828AB507F22"
+				"size" "2BEDAC073839DF4FDDBC3F76590C23CB"
+				"download" "4BD229A27E1B3ECEB39A1B12B332B165"
+			}
+			"steamworks2"
+			{
+				"gid" "B43BE8C7DBC520CA90363D365BC7C10E"
+				"size" "273A7094F18DB0C67345CE5227CDBE07"
+				"download" "EB673517D8505B765902927E1C5B0FA5"
+			}
+			"temp-starshooting"
+			{
+				"gid" "91D84A36F92EFDBA3D68E2B355C5E4BB"
+				"size" "B03BEDB7CD356C5595FB707D489C1D2E"
+				"download" "DCF8C8F2A18E2C922DCC6D2C985DC3AE"
+			}
+			"undyne"
+			{
+				"gid" "E5906D09B8B9BC8FF703D81A453A7F2A"
+				"size" "E9211C2887F42D19D6C79D39BB3C9EB4"
+				"download" "7A486156559767A4E8E666979BA75381"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13376651"
+			"timeupdated" "1707189927"
+		}
+		"alpha"
+		{
+			"buildid" "13376651"
+			"pwdrequired" "1"
+			"timeupdated" "1707189808"
+		}
+		"asyncinput"
+		{
+			"buildid" "12856502"
+			"pwdrequired" "1"
+			"timeupdated" "1701489045"
+		}
+		"awc2024"
+		{
+			"buildid" "13386640"
+			"pwdrequired" "1"
+			"timeupdated" "1707265104"
+		}
+		"beta"
+		{
+			"buildid" "13376651"
+			"description" "Public beta"
+			"timeupdated" "1707189819"
+		}
+		"blackhole"
+		{
+			"buildid" "13603111"
+			"pwdrequired" "1"
+			"timeupdated" "1709222129"
+		}
+		"color"
+		{
+			"buildid" "12282820"
+			"pwdrequired" "1"
+			"timeupdated" "1695710800"
+		}
+		"deepspace"
+		{
+			"buildid" "8983561"
+			"pwdrequired" "1"
+			"timeupdated" "1655877001"
+		}
+		"frame"
+		{
+			"buildid" "12947205"
+			"pwdrequired" "1"
+			"timeupdated" "1702441853"
+		}
+		"frontline"
+		{
+			"buildid" "13376651"
+			"pwdrequired" "1"
+			"timeupdated" "1707189645"
+		}
+		"nosteamworks"
+		{
+			"buildid" "4766516"
+			"pwdrequired" "1"
+			"timeupdated" "1583937440"
+		}
+		"older"
+		{
+			"buildid" "12977220"
+			"description" "archive of previous default build"
+			"timeupdated" "1707195789"
+		}
+		"party"
+		{
+			"buildid" "13400288"
+			"pwdrequired" "1"
+			"timeupdated" "1707370424"
+		}
+		"recorder"
+		{
+			"buildid" "13366388"
+			"pwdrequired" "1"
+			"timeupdated" "1707116180"
+		}
+		"samurai"
+		{
+			"buildid" "13136359"
+			"pwdrequired" "1"
+			"timeupdated" "1704889744"
+		}
+		"stardust"
+		{
+			"buildid" "13484163"
+			"pwdrequired" "1"
+			"timeupdated" "1708158216"
+		}
+		"steamworks2"
+		{
+			"buildid" "13367538"
+			"pwdrequired" "1"
+			"timeupdated" "1707126329"
+		}
+		"temp-starshooting"
+		{
+			"buildid" "13403047"
+			"pwdrequired" "1"
+			"timeupdated" "1707393348"
+		}
+		"undyne"
+		{
+			"buildid" "12233877"
+			"pwdrequired" "1"
+			"timeupdated" "1695196926"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.modsav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22563236"
+"_sha" "5b9e991f71479e923c474d057396a5fe97200fcb"
+"_size" "32569"
