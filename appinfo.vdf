@@ -1,0 +1,446 @@
+"appid" "2273430"
+"common"
+{
+	"name" "BlazBlue Entropy Effect"
+	"type" "Game"
+	"icon" "060539eb9cbd6121e431a0c580ba1d52e2b0edd0"
+	"linuxclienticon" "c376ac67041201ee7ce3393a0636ce00552f6473"
+	"clienticns" "c815495f7bf9fc8152ff7723f06924f46bdde610"
+	"clienttga" "de3755e8c0756baea5c58cec6318fd9ac618dcf0"
+	"clienticon" "fe7f2b9e8f06502314eba02348ed79e237397f86"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "BlazBlue Entropy Effect"
+		"japanese" "BlazBlue Entropy Effect"
+		"schinese" "苍翼：混沌效应"
+		"sc_schinese" "苍翼：混沌效应"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697760000"
+		"tested_build_id" "12263810"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ja,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-cn"
+		"library_header" "en,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.37760819437449"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1706709849"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "91Act"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "91Act"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1706666160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2273430"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4106"
+		"2" "1628"
+		"3" "1625"
+		"4" "3871"
+		"5" "19"
+		"6" "3964"
+		"7" "4711"
+		"8" "5125"
+		"9" "3959"
+		"10" "492"
+		"11" "4158"
+		"12" "4115"
+		"13" "3835"
+		"14" "1742"
+		"15" "6971"
+		"16" "1716"
+		"17" "4736"
+		"18" "4085"
+		"19" "922563"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "91Act"
+	"publisher" "91Act"
+	"listofdlc" "2771130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "BlazblueEntropyEffect"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlazblueEntropyEffect.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "BlazBlueEntropyEffect.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "start by app"
+			}
+			"description" "start by app"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65520"
+}
+"depots"
+{
+	"baselanguages" "english,schinese,japanese"
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+		"bbee-ea"
+		{
+			"sc_schinese" "Early Access"
+			"buildid" "12847799"
+			"description" "Early Access"
+			"timeupdated" "1706080711"
+		}
+		"public"
+		{
+			"buildid" "13599325"
+			"timeupdated" "1709200434"
+		}
+		"bbee"
+		{
+			"buildid" "13361729"
+			"pwdrequired" "1"
+			"timeupdated" "1707052783"
+		}
+		"innertest"
+		{
+			"buildid" "13599325"
+			"pwdrequired" "1"
+			"timeupdated" "1709198651"
+		}
+		"onlyfor91ceo"
+		{
+			"buildid" "11921785"
+			"pwdrequired" "1"
+			"timeupdated" "1691762654"
+		}
+		"onlyforarc"
+		{
+			"buildid" "11808052"
+			"pwdrequired" "1"
+			"timeupdated" "1690516205"
+		}
+	}
+	"2273431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "179631546223192889"
+				"size" "7629887514"
+				"download" "6640065024"
+			}
+			"bbee-ea"
+			{
+				"gid" "1181538358703119718"
+				"size" "5527866314"
+				"download" "4686327248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bbee"
+			{
+				"gid" "9DF6746A243DA90009175C94B413A22C"
+				"size" "9914034D8962EFAB41CEFAA0B28AFD95"
+				"download" "FB452581E098834D254E6869BA02F23B"
+			}
+			"innertest"
+			{
+				"gid" "AEF365B035D516848829FE51624B804A"
+				"size" "FCBD3CEC6B67E2267B73E1D8EA63F467"
+				"download" "881C22EDC9170C69DCA9B828022142F1"
+			}
+			"onlyfor91ceo"
+			{
+				"gid" "4CCFAAC70CE9E54FE94D50769478DB97"
+				"size" "3CF9947DB5550FEAA8450AB3E42A463F"
+				"download" "90EB830BA3D2F3E299F908B1955DCC25"
+			}
+			"onlyforarc"
+			{
+				"gid" "47795F94C2B5B4950F4A0C485E0D4833"
+				"size" "481C0A364F139563EEC01A31FA6E9AAB"
+				"download" "3C6DE94EF8726568D969FF4F70328EE0"
+			}
+		}
+	}
+	"2273432"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2724061561455639194"
+				"size" "8015562168"
+				"download" "6690250272"
+			}
+			"bbee-ea"
+			{
+				"gid" "8289491013708764854"
+				"size" "5795480466"
+				"download" "4739167264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bbee"
+			{
+				"gid" "A1A1381782DAA9AF80A6AB520D8649C2"
+				"size" "D99762F1493B22A15DB7FF96045697A0"
+				"download" "C068F0118F8EF5727C1BBA555C477581"
+			}
+			"innertest"
+			{
+				"gid" "A66238ED535E61CFB4EAE2804BE687F2"
+				"size" "B855179451F612E8693AC5879E831D91"
+				"download" "0FFABE2871402B211966615BAB2E1C04"
+			}
+			"onlyfor91ceo"
+			{
+				"gid" "073824F03848F445228A7E7CE1FC0B32"
+				"size" "82492A999316B0D60AF221E1B9402C02"
+				"download" "572C8D75767E96F0AA9C41106B555515"
+			}
+			"onlyforarc"
+			{
+				"gid" "0E3B08C49F47C2B5A3C8994018F69BD6"
+				"size" "02CFBB4AED41A7448FDD3A9C1EB569E2"
+				"download" "7FF1FD34E33A33264056A03F65F24A49"
+			}
+		}
+	}
+	"2771130"
+	{
+		"dlcappid" "2771130"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8440413603119081723"
+				"size" "132709570"
+				"download" "132753472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bbee"
+			{
+				"gid" "78E2794C584596B053FF5324CB5A85FB"
+				"size" "D333F0E7EC32F3294A97F6660AF8A2F8"
+				"download" "A536708AA1DC0F2F37A4EBD93257993B"
+			}
+			"innertest"
+			{
+				"gid" "C0D0EF0B47CB9627BD7F1DA26029E13D"
+				"size" "B17776D587F297666137FDC84A556055"
+				"download" "1FB538038E9958890581D64C88A3ECD6"
+			}
+		}
+	}
+}
+"ufs"
+{
+	"quota" "4194304"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "91Act/BlazBlueEntropyEffect/Save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "91Act/BlazBlueEntropyEffect/Global"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "91Act/BlazBlueEntropyEffect/Steam/{Steam3AccountID}/Save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22575922"
+"_sha" "512a88b73b339c55ed3e739469dc7965a93f3a23"
+"_size" "8771"
