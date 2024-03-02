@@ -1,0 +1,185 @@
+"appid" "346680"
+"common"
+{
+	"name" "Black Mesa Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows,linux"
+	"releasestate" "released"
+	"osarch" ""
+	"associations"
+	{
+	}
+	"gameid" "346680"
+}
+"extended"
+{
+	"no_revenue_accumulation" "1"
+	"gamedir" "bms"
+	"serverbrowsername" "Black Mesa"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Black Mesa Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"arguments" "-steam -game bms"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"346682"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6651014900891771239"
+				"size" "112643990"
+				"download" "37065392"
+			}
+			"black-mesa-1-0"
+			{
+				"gid" "6717280190829659861"
+				"size" "112573334"
+				"download" "37045904"
+			}
+			"public-beta"
+			{
+				"gid" "6651014900891771239"
+				"size" "112643990"
+				"download" "37065392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "7C463F4EC6FC4614930B60D9EAF762A1"
+				"size" "DCEE628CD324A30AD264F151BAA7A998"
+				"download" "B5EA77ADFFD31350F8247CA9FDA7A0D0"
+			}
+		}
+	}
+	"346683"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3281609962914482076"
+				"size" "65325359"
+				"download" "16957280"
+			}
+			"black-mesa-1-0"
+			{
+				"gid" "6909355390652833361"
+				"size" "65293658"
+				"download" "16944720"
+			}
+			"public-beta"
+			{
+				"gid" "3281609962914482076"
+				"size" "65325359"
+				"download" "16957280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "58BF5425E20961D454DC2096B85D013D"
+				"size" "F9B7410018D8D06522C66EBE97F8E758"
+				"download" "7830AF4D727C890CB1C3C733E0FE6837"
+			}
+		}
+	}
+	"346681"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5265910307883701012"
+				"size" "29492190564"
+				"download" "13095509168"
+			}
+			"black-mesa-1-0"
+			{
+				"gid" "6421219417975466847"
+				"size" "27900582069"
+				"download" "12458952352"
+			}
+			"public-beta"
+			{
+				"gid" "5265910307883701012"
+				"size" "29492190564"
+				"download" "13095509168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "F7BCB7D38F4A6F351C761A1B76D0AA45"
+				"size" "96874B552F9C65D9376FFF7297654D79"
+				"download" "06629850D08946E6DCD846F8BF348A14"
+			}
+		}
+	}
+	"221145"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4937448015887180629"
+				"size" "802575181"
+				"download" "599018544"
+			}
+		}
+		"depotfromapp" "221140"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7336718"
+			"timeupdated" "1631704302"
+		}
+		"black-mesa-1-0"
+		{
+			"buildid" "4815927"
+			"description" "The March release of Black Mesa 1.0"
+			"timeupdated" "1603678780"
+		}
+		"developer"
+		{
+			"buildid" "13610040"
+			"pwdrequired" "1"
+			"timeupdated" "1709275589"
+		}
+		"public-beta"
+		{
+			"buildid" "7336718"
+			"timeupdated" "1631297337"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22573581"
+"_sha" "f2a97c32a9bb2a167c7e397cb731fe6da5879fac"
+"_size" "3095"
