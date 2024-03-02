@@ -1,0 +1,845 @@
+"appid" "1493640"
+"common"
+{
+	"name" "Banishers: Ghosts of New Eden"
+	"type" "Game"
+	"icon" "54152a904097244dd9dcd52a79c7aef61f4e2f60"
+	"clienticon" "d6454c8fc6d005404338479d4218bc352cd05c16"
+	"clienttga" "e7119591003829c0c3f3068adb32855f38f1d86f"
+	"name_localized"
+	{
+		"schinese" "驱灵者：新伊甸的幽灵"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1493640_eula_0"
+			"name" "Banishers: Ghosts of New Eden EULA"
+			"url" "https://store.steampowered.com//eula/1493640_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1707955200"
+		"tested_build_id" "13377408"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.15583860499509"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708947473"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DON\'T NOD"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_57" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1707757089"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1493640"
+	"store_tags"
+	{
+		"0" "5094"
+		"1" "3854"
+		"2" "1697"
+		"3" "5608"
+		"4" "4166"
+		"5" "4231"
+		"6" "3834"
+		"7" "4106"
+		"8" "122"
+		"9" "1667"
+		"10" "6426"
+		"11" "1742"
+		"12" "19"
+		"13" "4604"
+		"14" "1684"
+		"15" "4018"
+		"16" "21"
+		"17" "4145"
+		"18" "10808"
+		"19" "3993"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "DON\'T NOD"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-entmt.com/games/banishers-ghosts-of-new-eden"
+	"listofdlc" "2317940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Banishers Ghosts of New Eden"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NWD\\Binaries\\Win64\\Banishers-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Banishers: Ghosts of New Eden"
+			}
+			"description" "Banishers: Ghosts of New Eden"
+		}
+		"1"
+		{
+			"executable" "NWD\\Binaries\\Win64\\NWD-Win64-Test.exe"
+			"config"
+			{
+				"ownsdlc" "1977240"
+			}
+			"description_loc"
+			{
+				"english" "Test"
+			}
+			"description" "Test"
+		}
+		"2"
+		{
+			"executable" "NWD\\Binaries\\Win64\\NWD.exe"
+			"config"
+			{
+				"ownsdlc" "1977240"
+			}
+			"description_loc"
+			{
+				"english" "Dev"
+			}
+			"description" "Dev"
+		}
+		"3"
+		{
+			"executable" "NWD-Win64-Test.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gym_maps"
+			}
+			"description_loc"
+			{
+				"english" "gym maps"
+			}
+			"description" "gym maps"
+		}
+		"6"
+		{
+			"executable" "NWD\\Binaries\\Win64\\NWD-Win64-Test.exe"
+			"arguments" "-DEMOMODE"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dne_playtest,playtest"
+			}
+			"description_loc"
+			{
+				"english" "playtest build"
+			}
+			"description" "playtest build"
+		}
+		"7"
+		{
+			"executable" "NWD\\Binaries\\Win64\\NWD-Win64-Shipping.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1977240"
+			}
+			"description_loc"
+			{
+				"english" "Old shipping name"
+			}
+			"description" "Old shipping name"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1493641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "327558855194714070"
+				"size" "55050678749"
+				"download" "52357155200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bb_gamescom_fullgame"
+			{
+				"gid" "F71B5F70D84353E6C187D91600C669FD"
+				"size" "C1F8A0AC06E2076FF2FC8FA41D4E80E7"
+				"download" "3FE2AA0684D838C5A407C45B2B0D7425"
+			}
+			"bb_main_fullgame"
+			{
+				"gid" "588638319CB4731CC6F2CFF503E869BC"
+				"size" "568C706DB2989E1146AA0A611DEFB893"
+				"download" "B67252012A2582117EC5425F39FA19A7"
+			}
+			"bb_main_gymmaps"
+			{
+				"gid" "BCA710D0EBE95A21F3D80C0673A95477"
+				"size" "367CE2A0B0928E5336320EC4ADF15165"
+				"download" "CEB10C69C396DD0B0211B9889DDCD6DA"
+			}
+			"bb_milestone_fullgame"
+			{
+				"gid" "594A2BA0390FD168B8A787199BA307A0"
+				"size" "F313CF3F3E2AC940E364B8B9E8078CFF"
+				"download" "6528DC518804EE668FC1CAC0C29EEFEE"
+			}
+			"bb_milestone_gymmaps"
+			{
+				"gid" "84CB99E7C236373CABA9B1DD0EB6A6E7"
+				"size" "99BB503ED81531E7DA95E7529D5A355E"
+				"download" "7EA9741B92A6ACBAC89627D22BBDDA5E"
+			}
+			"bb_preview_fullgame"
+			{
+				"gid" "EDD8C68F0B00D9FDC7C7B971B392AE4A"
+				"size" "7CE0C838A74B38D2AA6CE2628E200095"
+				"download" "32119EDCD97FE347BC727637B8B0D985"
+			}
+			"dne_prod"
+			{
+				"gid" "E868C4A35BF25B6304C4D329A02FEBD6"
+				"size" "FE47C0BD82BEDA67E4ED8E56F37CB4DD"
+				"download" "BC04BFD2970391E340B6835327368652"
+			}
+			"dne_qa"
+			{
+				"gid" "EF1956EDA40F80A55CC31510906203CB"
+				"size" "A0C989370B9A0F7655F733C88960D5D3"
+				"download" "270BAD0F840FF73A6D112105442F35BB"
+			}
+			"dne_qa2"
+			{
+				"gid" "40BBEBD7E1EB0BF359D20BE89D62533F"
+				"size" "F478CCC1F214957D9462C2B22DCFA5DC"
+				"download" "013C3F96127D38AC0F4AB125B4D56EDA"
+			}
+			"focus"
+			{
+				"gid" "11E59F0DFB99A53CA0A24A3165F74675"
+				"size" "8534E0B49FFF67BEEB41FFE56F36DFA1"
+				"download" "27457A65963DD5A7A77578C420AB9BC9"
+			}
+			"focus_content"
+			{
+				"gid" "F7F484CCC213C0C64DC0C928D70A720E"
+				"size" "F21F02C5B85EBF0DA0511E72315C30D8"
+				"download" "85D708A69A3438EE72188A05113228B9"
+			}
+			"focus_extern_presentation"
+			{
+				"gid" "2B9FD7B9DFA4A06ED8655D0D6FF520AA"
+				"size" "788FEDE144E4C7AC461DE7D7DD753054"
+				"download" "2F365DE315F4EDDC59E2BEC09830F746"
+			}
+			"focus_graph"
+			{
+				"gid" "AEF514EC6A05D65D7498B944B93D12F5"
+				"size" "C8C25F404289583B7DAE1D8E14E486D7"
+				"download" "AE6CBF424B887C9FCDBCC82B3BBFF081"
+			}
+			"focus_hw"
+			{
+				"gid" "2F98E503954BF119148013D49EA9A135"
+				"size" "C86C6BA521A35A8144583AD75D02222D"
+				"download" "C592A5649D7F7CA01F4F53F899F79B59"
+			}
+			"focus_qa"
+			{
+				"gid" "CAEBDE9EBF035B928A0A8B604733B721"
+				"size" "7093D5D5C176618A584D4236D78A5343"
+				"download" "BEB091347638450D74D734F15949A13B"
+			}
+			"focus_qa_onboarding"
+			{
+				"gid" "31272010A781BF43186AE8476FFC95F8"
+				"size" "A06204D089CB9846EA653244303A315A"
+				"download" "30C999A3CDFC8E86CBFA1BDDA3CAFFC7"
+			}
+			"focus_qa2"
+			{
+				"gid" "D7E00ECF71894A884A915E8C9B4FCE76"
+				"size" "84F87862A26C07A7E5752FFBC8F20BAE"
+				"download" "B6BD6B6A37AF3671F035F1A7FA643DB8"
+			}
+			"gpu_upscaling"
+			{
+				"gid" "B994916A7AF6296DBC5719B77FD7F821"
+				"size" "DBD635928CC364AE549B89BADA669200"
+				"download" "1E5D8957A66459ACAF42DEC6BCAFC974"
+			}
+			"ms_41"
+			{
+				"gid" "3D25B062DD87F98E34187F2087FA59D0"
+				"size" "3AB052B767296BE01D1AD2E5329B6CE9"
+				"download" "6C7DE0A57F484479D2E69B753968A783"
+			}
+			"ms_42"
+			{
+				"gid" "062F2C49A9E723A51C4401E84A7A403B"
+				"size" "51252930008EE99D2879B44824291026"
+				"download" "ED5C2AF03671FA721A4863ECB2214A79"
+			}
+			"ms_43"
+			{
+				"gid" "76AF967411E7401B3EAE9C5C0603821F"
+				"size" "88A32C2C4DADABBF1CC17EBF4C107E15"
+				"download" "38DA9AB7DC3C35328FF670FCB5631E2E"
+			}
+			"ms_44"
+			{
+				"gid" "BDEF59CDF2A2A0387147D4E92649D5D4"
+				"size" "E261FE7DC77995B2E62511BEE9637E1C"
+				"download" "DE4C41D6613B1B4A1A8391162A3E817D"
+			}
+			"ms_45"
+			{
+				"gid" "5010A14F0603A6D508610F113877E016"
+				"size" "AEFF7F057B1794D0DDC56A757CD91C2D"
+				"download" "B6CF4D6CE817A7827AE92DC7608001C2"
+			}
+		}
+	}
+	"1977240"
+	{
+		"dlcappid" "1977240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1243235967190020633"
+				"size" "4979836472"
+				"download" "945792064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bb_gamescom_fullgame"
+			{
+				"gid" "5FB5827DD402C36A8A173E16114D5B7D"
+				"size" "D8FDFC34F9A34F9D1761078BCD9554D2"
+				"download" "318F4B009363351A653DA88D60C72A0B"
+			}
+			"bb_main_fullgame"
+			{
+				"gid" "143FD7C84F41C4F435E3FCBEB289631B"
+				"size" "81E92C711A456543A0DE3E538C736153"
+				"download" "5C2BFEF1929786350C5BE6C0BC0F690B"
+			}
+			"bb_main_gymmaps"
+			{
+				"gid" "7D0EECDC80C4B69172044E38A5693958"
+				"size" "C91F563AF5E75855DC04360CC48A5BD8"
+				"download" "74DD2372B9AB308FDEFC2CE14BF8F586"
+			}
+			"bb_milestone_fullgame"
+			{
+				"gid" "6AD29E40DFF708F750EEB60D2585A7F9"
+				"size" "C239327D1497DA6653298AA102BC5D4D"
+				"download" "0B266F6F80F47566FCD2DC3427C95D2C"
+			}
+			"bb_milestone_gymmaps"
+			{
+				"gid" "C321025DA763F7BEF94D44E8F16A2D95"
+				"size" "B6BFFB7FA7A5BE8AD8D430BD102873EC"
+				"download" "9E8F661A793A3F066BF5F6EBC4DD7BC4"
+			}
+			"bb_preview_fullgame"
+			{
+				"gid" "EF1C05F85791ED2DE175444FC68AAC2F"
+				"size" "7AA9D96D99246517FBDA751AED8DFB25"
+				"download" "F93C0C7B0101F88AFCC34EA982069C50"
+			}
+			"dne_prod"
+			{
+				"gid" "3537C86AD1155BCD1A8555DD30A6AB8A"
+				"size" "88C9B30830179B0356BDE95A9A85A4CA"
+				"download" "95F373659C85C9546A87A14FC5789B25"
+			}
+			"dne_qa"
+			{
+				"gid" "C73D5DFBC37818563A4841498CB8458F"
+				"size" "1A5502D3F12D556E7585BD472E2D113A"
+				"download" "EE56BA280817A3D63C9D91E5990FF46D"
+			}
+			"dne_qa2"
+			{
+				"gid" "F7BE1C377FB5E93038320DBC4C0179C2"
+				"size" "3F57F860C72AAEF9B2C40B3753EA4B16"
+				"download" "64CE33A6E30E7A4AEC6EBC5D440B9C7C"
+			}
+			"focus"
+			{
+				"gid" "72A485E0B1B7F1DC50F60F44F97EDAC8"
+				"size" "03B35A4F470B370F5FC514C3D3CA4540"
+				"download" "E9AA3A9DE94C651C5AA890F42E07FBAD"
+			}
+			"focus_content"
+			{
+				"gid" "1C151EFC6A471065F9E0E27B09C9AE2D"
+				"size" "B55591705BC6B39ABC5F9C7CF08B4071"
+				"download" "5ACC8C7006103BD7B9722ECF22BBC35E"
+			}
+			"focus_extern_presentation"
+			{
+				"gid" "C62BAC7397A669E6FB92258C30D571F8"
+				"size" "F43E881FD1870AE1FCD8F8294A84A398"
+				"download" "52076CB30F6762AB34E28BBADA691676"
+			}
+			"focus_graph"
+			{
+				"gid" "7B259F8270024B0B803AC260C0009CAE"
+				"size" "0F5D9919D36A7E26F5FBC5C2175956B2"
+				"download" "FFD0C4FE0760E67A70F29404C8335134"
+			}
+			"focus_hw"
+			{
+				"gid" "35447B4FD63DBA0126F50326F72A7D9D"
+				"size" "1EBD8EFE7C919DE3A04190D22D9BE753"
+				"download" "2CDBAA1F43ADB0EB7ACE089B5E8DAEC8"
+			}
+			"focus_qa"
+			{
+				"gid" "84EB65509D07C7721A447DFD4D69AC9E"
+				"size" "9DE9301B9875BFA837456299A83ED064"
+				"download" "E345196592CC79C7093F2E31B318F3DF"
+			}
+			"focus_qa_onboarding"
+			{
+				"gid" "27EAC69C43420FA61E121052D81C68E1"
+				"size" "F78B0072C4746CD12291A532672DCADE"
+				"download" "1CA80A9917DD3F8CBBEC224836FA52B7"
+			}
+			"focus_qa2"
+			{
+				"gid" "642C6B697F20AA40A49656C33F21D2A6"
+				"size" "CFAD3CB7001D4DE0727B72D3B52B91A8"
+				"download" "E3F9DC6A82D719A99B186BF8681D77A7"
+			}
+			"gpu_upscaling"
+			{
+				"gid" "60DF6C0DCE487DAEA1F4457B0739A123"
+				"size" "B57A9236EBD82FC2149526FA8130742C"
+				"download" "AE9A81CAFC929E1B7C96F0E12013BE9A"
+			}
+			"ms_41"
+			{
+				"gid" "255DDAA7415EE5396DAD4317CF292C75"
+				"size" "4675D30F8C5E33E70122559C933357E7"
+				"download" "08829F2A7FE9986FAB6274842A48F39B"
+			}
+			"ms_42"
+			{
+				"gid" "0B187C6206AFFFCF4C8E96CEE6606C2F"
+				"size" "3C623586428C08FFB9306952A4C02891"
+				"download" "C291617AD32E5128417F1DC3061EF910"
+			}
+			"ms_43"
+			{
+				"gid" "674B867753B0F8C659AC1327CE9E2398"
+				"size" "FD746E05ED6CDEB487A333C40E87A39B"
+				"download" "A831C4A8AD0CBFFB1CBE9AC43BFCD86D"
+			}
+			"ms_44"
+			{
+				"gid" "FF989E69272EE9B881AB49A7B59F806E"
+				"size" "B78F2636F16AE6DEC2307B2B67BA5576"
+				"download" "51A959DF11D7FF11EDDC61B2C2205068"
+			}
+			"ms_45"
+			{
+				"gid" "7B9D4AEAC15F40BF071C6DA3448ED453"
+				"size" "E92E3BF0D97460F31BEB549555591D82"
+				"download" "2EBB9913C93829F921E5C705C9859061"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13377408"
+			"timeupdated" "1707403859"
+		}
+		"bb_gamescom_fullgame"
+		{
+			"buildid" "11800886"
+			"pwdrequired" "1"
+			"timeupdated" "1690455212"
+		}
+		"bb_main_fullgame"
+		{
+			"buildid" "13620523"
+			"pwdrequired" "1"
+			"timeupdated" "1709359691"
+		}
+		"bb_main_gymmaps"
+		{
+			"buildid" "13016704"
+			"pwdrequired" "1"
+			"timeupdated" "1703130190"
+		}
+		"bb_milestone_fullgame"
+		{
+			"buildid" "13620452"
+			"pwdrequired" "1"
+			"timeupdated" "1709358480"
+		}
+		"bb_milestone_gymmaps"
+		{
+			"buildid" "10041774"
+			"pwdrequired" "1"
+			"timeupdated" "1669752228"
+		}
+		"bb_preview_fullgame"
+		{
+			"buildid" "9753167"
+			"pwdrequired" "1"
+			"timeupdated" "1666175467"
+		}
+		"dne_prod"
+		{
+			"buildid" "10976869"
+			"pwdrequired" "1"
+			"timeupdated" "1681220108"
+		}
+		"dne_qa"
+		{
+			"buildid" "13377408"
+			"pwdrequired" "1"
+			"timeupdated" "1707218491"
+		}
+		"dne_qa2"
+		{
+			"buildid" "13174018"
+			"pwdrequired" "1"
+			"timeupdated" "1706278741"
+		}
+		"focus"
+		{
+			"buildid" "13195621"
+			"pwdrequired" "1"
+			"timeupdated" "1705497340"
+		}
+		"focus_content"
+		{
+			"buildid" "10966143"
+			"pwdrequired" "1"
+			"timeupdated" "1681720203"
+		}
+		"focus_extern_presentation"
+		{
+			"buildid" "12627143"
+			"pwdrequired" "1"
+			"timeupdated" "1700059181"
+		}
+		"focus_graph"
+		{
+			"buildid" "12163923"
+			"pwdrequired" "1"
+			"timeupdated" "1694515801"
+		}
+		"focus_hw"
+		{
+			"buildid" "13377408"
+			"pwdrequired" "1"
+			"timeupdated" "1707299510"
+		}
+		"focus_qa"
+		{
+			"buildid" "13554109"
+			"pwdrequired" "1"
+			"timeupdated" "1708931697"
+		}
+		"focus_qa_onboarding"
+		{
+			"buildid" "12997418"
+			"pwdrequired" "1"
+			"timeupdated" "1704962471"
+		}
+		"focus_qa2"
+		{
+			"buildid" "13584982"
+			"pwdrequired" "1"
+			"timeupdated" "1709111160"
+		}
+		"gpu_upscaling"
+		{
+			"buildid" "12937561"
+			"pwdrequired" "1"
+			"timeupdated" "1702396918"
+		}
+		"ms_41"
+		{
+			"buildid" "11828330"
+			"pwdrequired" "1"
+			"timeupdated" "1690809541"
+		}
+		"ms_42"
+		{
+			"buildid" "12170829"
+			"pwdrequired" "1"
+			"timeupdated" "1694591382"
+		}
+		"ms_43"
+		{
+			"buildid" "12997418"
+			"pwdrequired" "1"
+			"timeupdated" "1702979993"
+		}
+		"ms_44"
+		{
+			"buildid" "13304610"
+			"pwdrequired" "1"
+			"timeupdated" "1706606693"
+		}
+		"ms_45"
+		{
+			"buildid" "13377408"
+			"pwdrequired" "1"
+			"timeupdated" "1707325764"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Banishers Ghosts of New Eden/Saved/SaveGames/Steam/{64BitSteamID}"
+			"pattern" "BNS*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Banishers Ghosts of New Eden/Saved/SaveGames/Steam/{64BitSteamID}"
+			"pattern" "UserSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "22597369"
+"_sha" "4d01a4cf230df675959247400866c5f0c2d4f260"
+"_size" "18416"
