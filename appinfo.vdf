@@ -1,0 +1,429 @@
+"appid" "1458140"
+"common"
+{
+	"name" "Pacific Drive"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "ff0ed291691a44b23684a8a43a32ac95da34012f"
+	"clienttga" "50c1c20236e2ea767adf9a4279010aec25cd7749"
+	"icon" "bea29dede5c446d40700fd6c2c74abb933559716"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "超自然车旅 Pacific Drive"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.93024983692794"
+			"height_pct" "74.23327974860925"
+		}
+	}
+	"store_asset_mtime" "1708606322"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ironwood Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kepler Interactive"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "9"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708588758"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1458140"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "19"
+		"2" "1662"
+		"3" "3942"
+		"4" "21"
+		"5" "3834"
+		"6" "3978"
+		"7" "1702"
+		"8" "1644"
+		"9" "4166"
+		"10" "3839"
+		"11" "3835"
+		"12" "10383"
+		"13" "7332"
+		"14" "3810"
+		"15" "4191"
+		"16" "599"
+		"17" "4106"
+		"18" "1643"
+		"19" "8369"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Ironwood Studios"
+	"publisher" "Kepler Interactive"
+	"homepage" "https://www.pacificdrivegame.com"
+	"listofdlc" "2646730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Pacific Drive"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PenDriverPro.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Pacific Drive DX12 (Recommended)"
+			}
+			"description" "Pacific Drive DX12 (Recommended)"
+		}
+		"1"
+		{
+			"executable" "PenDriverPro.exe"
+			"arguments" "-d3d11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Pacific Drive DX11"
+			}
+			"description" "Pacific Drive DX11"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65534"
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1458141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7988302360395178313"
+				"size" "19456431191"
+				"download" "18180691616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "48AFF91528FA09D32A753BE8D93F8C0E"
+				"size" "58CD04930AA21F6E8D03F2A2EBC98B7E"
+				"download" "B521A079E216B76C4FA50222AF37CDF6"
+			}
+			"latest-dev"
+			{
+				"gid" "2B6DE83362B6B5C430E7B633C29DC4AA"
+				"size" "43CDD99A59B440F71C98E17C1B25D2A5"
+				"download" "00D583C5D33DB2D249CB735CEB7948B0"
+			}
+			"latest-test"
+			{
+				"gid" "45B2D692BCCD05BEA0AE1414A0C662FA"
+				"size" "F5D00C191F4B769BF2DEB074B5D3BD84"
+				"download" "37BD1B49F6B1B19AAA56C3405E8C29D4"
+			}
+			"nightly-dev"
+			{
+				"gid" "4E50C9CDC1B4E58A970DF3A8AB163525"
+				"size" "B99881A7A82594E5CB88B094BE2B1509"
+				"download" "191D22E994859E256AE65D94D5C500C0"
+			}
+			"nightly-ship"
+			{
+				"gid" "F88877A21A9B894F3C2C226990C3D6A4"
+				"size" "AF3ABD3D8ECDB85B9C0C85423EA5C9DD"
+				"download" "2656DD612013361DD2652FBDC746415C"
+			}
+			"nightly-test"
+			{
+				"gid" "01A707F2CF9D3BF647C489416DAE4C8A"
+				"size" "AA712E7E73D8C8D259AA0BFFA7AAB9C3"
+				"download" "106763A0BBC441099721CF4C948A7E40"
+			}
+			"staging-dev"
+			{
+				"gid" "C538DB9ED24086F7ADE6940A14A7F681"
+				"size" "146B8367FF0B87E1E93DE45BEFBEDA9A"
+				"download" "F614BC14545C09E5159618D455E41EFB"
+			}
+			"staging-ship"
+			{
+				"gid" "AA5944397569565D606C371E3DD19EB7"
+				"size" "5E8DF4672995D26DD4911B78162D528A"
+				"download" "EC6E79DF78641FF171EFE24F6235170C"
+			}
+			"staging-test"
+			{
+				"gid" "15C1BF9E2880D494330E82A74A381B19"
+				"size" "8BB7C80843A472D493079E9A304D773B"
+				"download" "BD73435271CFEC24C3FAFC51FA023AF4"
+			}
+			"trailer"
+			{
+				"gid" "64E7C0906F4A67330A83837CB786796D"
+				"size" "27D4E237E3413CFEC53D2EB8D7B5C95D"
+				"download" "3CC1E8CCF4E4DABFF5A4EF3E7DAC4C67"
+			}
+			"wacky-dev"
+			{
+				"gid" "E4D0E5FCE6C0C7015CF7E78E9D036565"
+				"size" "BD6017E2DCFED1FC469B275E25701B6B"
+				"download" "CB9CDD2B4C6AA91B06AF7E8374A995C9"
+			}
+			"wacky-test"
+			{
+				"gid" "9D36D4EFA2B065181FE52995038A7BBD"
+				"size" "CD44A4662959CCAF349C9566056AC4C1"
+				"download" "45F0F135343D290D2542E22F60905766"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13607171"
+			"timeupdated" "1709263395"
+		}
+		"experimental"
+		{
+			"buildid" "13607269"
+			"pwdrequired" "1"
+			"timeupdated" "1709263440"
+		}
+		"latest-dev"
+		{
+			"buildid" "13618038"
+			"pwdrequired" "1"
+			"timeupdated" "1709329969"
+		}
+		"latest-test"
+		{
+			"buildid" "13617953"
+			"pwdrequired" "1"
+			"timeupdated" "1709329354"
+		}
+		"nightly-dev"
+		{
+			"buildid" "13591477"
+			"pwdrequired" "1"
+			"timeupdated" "1709144890"
+		}
+		"nightly-ship"
+		{
+			"buildid" "13591382"
+			"pwdrequired" "1"
+			"timeupdated" "1709144167"
+		}
+		"nightly-test"
+		{
+			"buildid" "13591394"
+			"pwdrequired" "1"
+			"timeupdated" "1709144233"
+		}
+		"staging-dev"
+		{
+			"buildid" "13607260"
+			"pwdrequired" "1"
+			"timeupdated" "1709250290"
+		}
+		"staging-ship"
+		{
+			"buildid" "13607171"
+			"pwdrequired" "1"
+			"timeupdated" "1709249669"
+		}
+		"staging-test"
+		{
+			"buildid" "13607269"
+			"pwdrequired" "1"
+			"timeupdated" "1709250346"
+		}
+		"trailer"
+		{
+			"buildid" "13504107"
+			"pwdrequired" "1"
+			"timeupdated" "1708457264"
+		}
+		"wacky-dev"
+		{
+			"buildid" "13592687"
+			"pwdrequired" "1"
+			"timeupdated" "1709153654"
+		}
+		"wacky-test"
+		{
+			"buildid" "13592620"
+			"pwdrequired" "1"
+			"timeupdated" "1709153014"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "PenDriverPro/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "PenDriverPro/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22590649"
+"_sha" "a7286371b2e5a0a863fa224d78b884432313435c"
+"_size" "8101"
