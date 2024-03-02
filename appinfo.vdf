@@ -1,0 +1,1291 @@
+"appid" "201310"
+"common"
+{
+	"name" "X3: Albion Prelude"
+	"type" "Game"
+	"logo" "1e28a44372759d6e60a3b76b7377df735920fcbf"
+	"logo_small" "1e28a44372759d6e60a3b76b7377df735920fcbf_thumb"
+	"clienticon" "96ea4fb781b23f1cd4089c706dd4ab2be12ae168"
+	"clienttga" "33e279e93a9e64160f894835ab0f028686480dd2"
+	"icon" "0a56b4bf737c11beabe52496ed018800f37ec310"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"linuxclienticon" "7757584c9b57181957afb51d07e1d9494ed5b460"
+	"oslist" "windows,macos,linux"
+	"sortas" "X3.2"
+	"metacritic_name" "X3: Albion Prelude"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.784650630011456"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1671097673"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Egosoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Egosoft"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1323994500"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/x3-albion-prelude\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "201310"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1755"
+		"2" "19"
+		"3" "3810"
+		"4" "3942"
+		"5" "4202"
+		"6" "4182"
+		"7" "16598"
+		"8" "4695"
+		"9" "1669"
+		"10" "1695"
+		"11" "4161"
+		"12" "1756"
+		"13" "9"
+		"14" "3965"
+		"15" "21"
+		"16" "1670"
+		"17" "8075"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"dependantonapp" "2820"
+	"developer" "Egosoft"
+	"gamedir" "X3AP"
+	"homepage" "http://store.steampowered.com/sale/xfranchise"
+	"icon" ""
+	"installscript" "installscript-x3ap.vdf"
+	"mustownapptopurchase" "2820"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "201311"
+	"sdk_notownedbydefault" "1"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "Egosoft"
+	"gamemanualurl" "https://store.steampowered.com/manual/201310/"
+	"listofdlc" "235960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "x3ap.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "testandlaunch"
+			"arguments" "X3AP_config"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "X3 - Albion Prelude.app"
+			"description" "Launch newest version"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "x3 terran conflict"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"201311"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2167353564634231096"
+				"size" "895685895"
+				"download" "767274368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "78838FE99EE62553EC413197EECF629D"
+				"size" "2959C67FEC86D77D70F1B25B15709C5D"
+				"download" "DD896C61D5A3DE462C5DC82F360531C6"
+			}
+		}
+	}
+	"2821"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4571596043939966618"
+				"size" "7678163143"
+				"download" "6350936464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "AF034347BF3EE90E8E1A170C51324942"
+				"size" "18E6553CB2EF969761130DDFD683C1F8"
+				"download" "A0768D46C77FF7FFD9FD8D2A6D4F030B"
+			}
+		}
+	}
+	"235960"
+	{
+		"dlcappid" "235960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1156545196710126487"
+				"size" "2170060"
+				"download" "2159472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "457AFDC6CD2FCE4CA5CB40B0EB0DE4CF"
+				"size" "40941CAFEF7BF281FF81412CEF92BAB3"
+				"download" "92DEBD94AF7B6158CA940097D1AC3A39"
+			}
+		}
+	}
+	"2822"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5904076903935520543"
+				"size" "311208095"
+				"download" "302057936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "DE3E1BD76A20A8CE1A35009DD6B0967C"
+				"size" "DEAA5434C07F635598A6DBBDB438E715"
+				"download" "93076CD87126510B6BAB497ACBD6BDBA"
+			}
+		}
+	}
+	"2823"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6944571675475707313"
+				"size" "260735347"
+				"download" "252535584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "86FD350488A9BC360ECDA5F435A1189D"
+				"size" "8A39F86E6E7E009EF4D4CAAF42384EFB"
+				"download" "0F4C3FED908376AABBE76F3E42CE4FB4"
+			}
+		}
+	}
+	"2824"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4487446513069688130"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "644876A0EB3B99BAC327CF79FB37BE00"
+				"size" "DB857BE489E795139F2D85FD2ECA8908"
+				"download" "5284E08661F62BD795DD2360F8DF92EF"
+			}
+		}
+	}
+	"2825"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "419643549810218030"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "455E5C4E6142F766E890D5901C6C5FD1"
+				"size" "DB857BE489E795139F2D85FD2ECA8908"
+				"download" "5284E08661F62BD795DD2360F8DF92EF"
+			}
+		}
+	}
+	"2828"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "828302822341641812"
+				"size" "576599072"
+				"download" "451629152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "974005F2FFC38F3537C1D57697B56C8F"
+				"size" "6446D64FA72D76B6B9DD140C1C797E02"
+				"download" "9121BD78106690FCC725EA7AAA812A1E"
+			}
+		}
+	}
+	"2829"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3606314388738915297"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "9916BE2C810B86F99D801282100DD31C"
+				"size" "DB857BE489E795139F2D85FD2ECA8908"
+				"download" "5284E08661F62BD795DD2360F8DF92EF"
+			}
+		}
+	}
+	"207311"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2601193916248056330"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "E1D0048B288A64CE04007A8ED2A82634"
+				"size" "DB857BE489E795139F2D85FD2ECA8908"
+				"download" "5284E08661F62BD795DD2360F8DF92EF"
+			}
+		}
+	}
+	"207313"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2934857449112272061"
+				"size" "297674988"
+				"download" "264451616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "1422E086ABE9ABEFEDF17EC2C4CDC308"
+				"size" "1CCBEA08DAE77C1F8FD5DC8713178478"
+				"download" "B01302A87719CA7496F13C5AF620028E"
+			}
+		}
+	}
+	"207314"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6646266648853799100"
+				"size" "297674988"
+				"download" "264451616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "00E846EDFF926ED34BFF0B14D5D7BF8E"
+				"size" "1CCBEA08DAE77C1F8FD5DC8713178478"
+				"download" "B01302A87719CA7496F13C5AF620028E"
+			}
+		}
+	}
+	"207315"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4814546802455153787"
+				"size" "280028545"
+				"download" "263208816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "1349D6D09C11BC8986F88534E6EBA1B0"
+				"size" "E36D109ACC9C6F00EBE9946A5EA023C0"
+				"download" "7D162B4C97A31C716135FAE901D9DECB"
+			}
+		}
+	}
+	"201312"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2271681618421019552"
+				"size" "289944890"
+				"download" "281451936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "672FF1CBFEEA61FD1329A08EC4BE747F"
+				"size" "1436E7210D3E3027FEF4FA646E2B8474"
+				"download" "74A782DC07D18B10404C1E08B3BC0636"
+			}
+		}
+	}
+	"201313"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8519630879393933804"
+				"size" "333905500"
+				"download" "324119360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "C7C7B40D67CBB24484C29CD274BD63D2"
+				"size" "280B17466358AA11554A6E362F269392"
+				"download" "0A549B9796144B20905228CB502ADC81"
+			}
+		}
+	}
+	"201314"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3034973458329881673"
+				"size" "275086139"
+				"download" "266504304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "3346F3DBB90E4BA0199C5250F780B228"
+				"size" "41E4F91CF254FCC6866457CB16ED3BA0"
+				"download" "A6231066D555310A5134ECBFBF0F4F9A"
+			}
+		}
+	}
+	"201315"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4659937202919092134"
+				"size" "289944890"
+				"download" "281451936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "C0571612C21117ACA950A28A3D98749D"
+				"size" "1436E7210D3E3027FEF4FA646E2B8474"
+				"download" "74A782DC07D18B10404C1E08B3BC0636"
+			}
+		}
+	}
+	"201316"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1143797964899650212"
+				"size" "552932307"
+				"download" "534613392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "BD5207C48733FC3723C9CF30EF4755D1"
+				"size" "8F8E09E682BA52F4B835F609360D1ED6"
+				"download" "45FCD68BA8028382248A308BF652A831"
+			}
+		}
+	}
+	"201317"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2098421016094634521"
+				"size" "289944890"
+				"download" "281451936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "434229069B640FC739ACDFE3F24AC3EC"
+				"size" "1436E7210D3E3027FEF4FA646E2B8474"
+				"download" "74A782DC07D18B10404C1E08B3BC0636"
+			}
+		}
+	}
+	"201318"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1830976855502939501"
+				"size" "320364793"
+				"download" "284833392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "555B283DE90E2241450E729E057EC1FD"
+				"size" "D90A4540D7A1B92067DA6C0BBB7E3BEF"
+				"download" "0C7C205CC29CF6C3AC3E4212BD80403D"
+			}
+		}
+	}
+	"201319"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4257554039136389519"
+				"size" "320364793"
+				"download" "284833392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "462EBF744FAD221924DD4501CA60FB24"
+				"size" "D90A4540D7A1B92067DA6C0BBB7E3BEF"
+				"download" "0C7C205CC29CF6C3AC3E4212BD80403D"
+			}
+		}
+	}
+	"201320"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2859916085621437251"
+				"size" "289944890"
+				"download" "281451936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "59E6097DC8F60E4A8AEB9AA9693AEB99"
+				"size" "1436E7210D3E3027FEF4FA646E2B8474"
+				"download" "74A782DC07D18B10404C1E08B3BC0636"
+			}
+		}
+	}
+	"201322"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6188338500596280086"
+				"size" "302571892"
+				"download" "283403840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "BBC18E72B3FF18EB2AA16D071A77D09D"
+				"size" "F7D1CF2AA4BC2C39577435FE82B33907"
+				"download" "202E747E42F55C8CAB193C1D4A234026"
+			}
+		}
+	}
+	"229389"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"235941"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229390"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229391"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229392"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229381"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229382"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229383"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229384"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229386"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229387"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229388"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos,linux"
+		}
+		"depotfromapp" "2820"
+		"sharedinstall" "2"
+	}
+	"229431"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7984571552864445457"
+				"size" "340645146"
+				"download" "304859776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "B16697835E0A0FA3204BF110429B3FA6"
+				"size" "002F20AB00A7556B36E755F77649C669"
+				"download" "21CE4A9A628B8716453DD62494A09285"
+			}
+		}
+	}
+	"235961"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4379790330806757753"
+				"size" "639773081"
+				"download" "622895552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "7749E6A9945B962919A2D2C06E9F0490"
+				"size" "801BAC2F1FE25CF1E0BDEC21CE671FCD"
+				"download" "883829249BB62AEF8A4D3B4896271B1B"
+			}
+		}
+	}
+	"229432"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4214311615143727985"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "E3BEB35FF05BFC4824976FD19FE6F399"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"229433"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1606882781310955426"
+				"size" "381246981"
+				"download" "375952304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "756184AD67950843896B8C0523BC316B"
+				"size" "4CB6FA79EDED289B350BB7DD305AAAA1"
+				"download" "ED38B70E04A287F8B42D7B61442D3F39"
+			}
+		}
+	}
+	"229434"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2881954754054563038"
+				"size" "307760473"
+				"download" "303896384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "6BB61E12559F5378D1B513245211957A"
+				"size" "C64F6C796F5E3018CE919A6171DFBDC9"
+				"download" "D70206E1A8F8984AFA64BC239E237E31"
+			}
+		}
+	}
+	"229435"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5400920928591311421"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "5CB3850E55DB6D9EB6B11D2172E228F3"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"229436"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4546996114507113247"
+				"size" "380405241"
+				"download" "375399216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "37B3178FA79EC4C737D782D5AEA01234"
+				"size" "FDDAF0C23CEAA5DED5A179D9A026D415"
+				"download" "C45F4F8ACD941C563D4E36C497E979AA"
+			}
+		}
+	}
+	"229437"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1650657047057000324"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "4072492E65971E6C9D0F344540669376"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"229438"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3698678274211280922"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "313FD068EFE256E2DDEFBA31634C6902"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"229439"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7757287763032634975"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "9C7CAE96CFB7238622DB04F24F8837D9"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"229440"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1828561100472160912"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "29BCBE1EE48234E25EAC69AF54C6E8DE"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"229441"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7470939025212580433"
+				"size" "326464054"
+				"download" "322152000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "5DEAA8A7630A1670594E01404922C6E2"
+				"size" "F5383F14D23CAA07279E0A92305BB3B1"
+				"download" "23BB048A5A14E46C787F1B6ED479494E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13476649"
+			"timeupdated" "1708092097"
+		}
+		"public_beta"
+		{
+			"buildid" "13476649"
+			"pwdrequired" "1"
+			"timeupdated" "1708091507"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X3AP\\save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X3AP/save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"2"
+		{
+			"root" "MacDocuments"
+			"path" "EgoSoft/X3AP/save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22374679"
+"_sha" "be0a3fdc9e05bff678254633636e5352ea18e9f3"
+"_size" "21448"
