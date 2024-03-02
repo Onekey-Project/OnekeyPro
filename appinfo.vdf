@@ -1,0 +1,449 @@
+"appid" "1483870"
+"common"
+{
+	"name" "Draw & Guess"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"clienticon" "15bacb75ba0b1408de53ce2de61ed7c3fdb8a5f0"
+	"clienttga" "410bb1ff823e8f2bb814b66a571c2353df40b920"
+	"icon" "ddc6fc49b28e24ac7d16a8d34577089eb64e8e85"
+	"logo" "1eb1e3c0b3b43a44d655543dfbdec72b60527f73"
+	"logo_small" "1eb1e3c0b3b43a44d655543dfbdec72b60527f73_thumb"
+	"name_localized"
+	{
+		"schinese" "Draw & Guess - 你画我猜"
+		"tchinese" "Draw & Guess - 你畫我猜"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1662508800"
+		"tested_build_id" "9435648"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "81.2135355892649"
+			"height_pct" "77.96247922108763"
+		}
+	}
+	"store_asset_mtime" "1708967216"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Acureus"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Acureus"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_29" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1615544566"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1483870"
+	"store_tags"
+	{
+		"0" "7108"
+		"1" "3859"
+		"2" "4136"
+		"3" "597"
+		"4" "3843"
+		"5" "7178"
+		"6" "1654"
+		"7" "1719"
+		"8" "3871"
+		"9" "1775"
+		"10" "6730"
+		"11" "4726"
+		"12" "4305"
+		"13" "4195"
+		"14" "4562"
+		"15" "6815"
+		"16" "1685"
+		"17" "4182"
+		"18" "71389"
+		"19" "1664"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Acureus"
+	"publisher" "Acureus"
+	"homepage" "https://drawandguess.com"
+}
+"config"
+{
+	"installdir" "Draw & Guess"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "beta/Draw&Guess.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Draw & Guess"
+				"schinese" "你画我猜"
+			}
+			"description" "Draw & Guess"
+		}
+		"1"
+		{
+			"executable" "beta/Draw&Guess"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Draw & Guess"
+				"schinese" "你画我猜"
+			}
+			"description" "Draw & Guess"
+		}
+		"2"
+		{
+			"executable" "beta/Draw&Guess.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Draw & Guess"
+				"schinese" "你画我猜"
+			}
+			"description" "Draw & Guess"
+		}
+		"3"
+		{
+			"executable" "Draw&Guess.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Draw & Guess (Legacy)"
+				"schinese" "你画我猜 (老的)"
+			}
+			"description" "Draw & Guess (Legacy)"
+		}
+		"4"
+		{
+			"executable" "Draw&Guess"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Draw & Guess (Legacy)"
+				"schinese" "你画我猜 (老的)"
+			}
+			"description" "Draw & Guess (Legacy)"
+		}
+		"5"
+		{
+			"executable" "Draw&Guess.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Draw & Guess (Legacy)"
+				"schinese" "你画我猜 (老的)"
+			}
+			"description" "Draw & Guess (Legacy)"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese"
+	"1483871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6721247504922850035"
+				"size" "549358056"
+				"download" "356654768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "C3DCF1C11A4F8C755E26B48CAEFB4FEB"
+				"size" "ADFE75CC80E7A35533E661F5306A75C9"
+				"download" "BA420A06D9672C1E266F60416268BB25"
+			}
+			"revamp"
+			{
+				"gid" "C32A7902348F8EC8C369D46CEA72A00F"
+				"size" "FF023D6E3061FBA5DB1B5C40C1D7382D"
+				"download" "5E06FE241E907663495CBC98E750C07D"
+			}
+		}
+	}
+	"1483872"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5557532114357509157"
+				"size" "648635584"
+				"download" "359747728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "89F469473E13CAF0F5BE98DCA6FCB248"
+				"size" "DD111F96DFF5C1E8CA4B0BBB91AF26B2"
+				"download" "76018006B62E776CE5B4B63293A9116E"
+			}
+			"revamp"
+			{
+				"gid" "EE258D76BAA872F058B8891FFD54A9C6"
+				"size" "764D8577419F400C052449845BDDCABE"
+				"download" "06744FFFB9F08043CEB971824439D797"
+			}
+		}
+	}
+	"1483873"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "811064482830115080"
+				"size" "576146030"
+				"download" "360890960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4AD44520FB7F17B40410F52D5D7AA2B8"
+				"size" "B02955EE0AEE6D401B63F2169D6CD09D"
+				"download" "978593ABE8F5F7C0E925DACE027FC4AF"
+			}
+			"revamp"
+			{
+				"gid" "5347B76B691373B5010F6CBC648168E3"
+				"size" "D9071D7737DEF41E5E5A7877777BF9D3"
+				"download" "B5AC4C506150E77DC5877DE17EC7DC27"
+			}
+		}
+	}
+	"workshopdepot" "1483870"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13603855"
+			"timeupdated" "1709228200"
+		}
+		"alpha"
+		{
+			"buildid" "13193467"
+			"pwdrequired" "1"
+			"timeupdated" "1705480600"
+		}
+		"revamp"
+		{
+			"buildid" "13603855"
+			"pwdrequired" "1"
+			"timeupdated" "1709226747"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22564918"
+"_sha" "7a95456c7f45bf8c0de806e551b185a4184e040a"
+"_size" "8259"
