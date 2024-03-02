@@ -1,0 +1,297 @@
+"appid" "530870"
+"common"
+{
+	"name" "Empyrion - Galactic Survival Dedicated Server"
+	"type" "Tool"
+	"parent" "383120"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "83ec4e8f167d27a5325864ca72f9fe7ee2b6145c"
+	"logo_small" "83ec4e8f167d27a5325864ca72f9fe7ee2b6145c_thumb"
+	"icon" "2fe06be467a7a1e536555b1699a23344e7792b25"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "ee56b41cf2455b4be44516dd30e99b4b0a0179c9"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "530870"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Empyrion - Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EmpyrionLauncher.exe"
+			"arguments" "-startDediWithGfx"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1923798258558304932"
+				"size" "44194776"
+				"download" "13804528"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4884950798805348056"
+				"size" "73781292"
+				"download" "20270768"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"530871"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2376382702074867642"
+				"size" "18463072235"
+				"download" "11073873536"
+			}
+			"alpha10"
+			{
+				"gid" "4139613444459975471"
+				"size" "9586051634"
+				"download" "4822995088"
+			}
+			"alpha11"
+			{
+				"gid" "7348305962190994729"
+				"size" "9473159304"
+				"download" "4847082976"
+			}
+			"alpha12"
+			{
+				"gid" "2395002668044090563"
+				"size" "10481371305"
+				"download" "5342098272"
+			}
+			"alpha5"
+			{
+				"gid" "6843577062821720454"
+				"size" "3205681487"
+				"download" "1337156544"
+			}
+			"alpha6"
+			{
+				"gid" "4907152130322703793"
+				"size" "4290306468"
+				"download" "1712341216"
+			}
+			"alpha7"
+			{
+				"gid" "5310005512522126015"
+				"size" "8224509631"
+				"download" "3421576800"
+			}
+			"alpha8"
+			{
+				"gid" "9130500877719341038"
+				"size" "8060991488"
+				"download" "3705749536"
+			}
+			"alpha9"
+			{
+				"gid" "98967298642520364"
+				"size" "8841902806"
+				"download" "3954029296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedalpha"
+			{
+				"gid" "D525EB9355D003D28E595F018EAB5AEE"
+				"size" "5098546AA5CE2E8634B07CC5643CE1DE"
+				"download" "1C7761F1AE26767A8CD152027FEB67D8"
+			}
+			"eleononly"
+			{
+				"gid" "52A0EEDA9DA38B6CDE8C8A4479D0BEE7"
+				"size" "9149C9FE14BE4DB9B8D99F8A37DE9FB9"
+				"download" "9656C0615E61E9CF10A44AC3C44B5D5E"
+			}
+			"eleontest"
+			{
+				"gid" "E1706611D416C12FA1FD1E0EF87BC2FF"
+				"size" "C5F896740F0CA43F31E10B38411E0814"
+				"download" "9569F322E14D2DA8DAB9CF71BACCD62E"
+			}
+			"experimental"
+			{
+				"gid" "2B574D75B0AE3682ADF43157D3A88B7B"
+				"size" "2ED3B74A3EC41C0C143CC59E8307BA60"
+				"download" "B1DB90BDF4B6C75ED1ECDEB634652678"
+			}
+			"internal"
+			{
+				"gid" "9EFFFAF4795445AC47D72B1628ECB6D6"
+				"size" "CEEC21DDCC4907C8A73C5B928EA1FC71"
+				"download" "B9F48115049A49B8C0A0DD113D8B7092"
+			}
+			"steamtest"
+			{
+				"gid" "1C27D4E300792244B735DA5FDAA9213E"
+				"size" "B4F898F4ED28F0CC52693F7D88DD54DC"
+				"download" "3F9060314D39739E30630F016C8E25B6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13500186"
+			"timeupdated" "1708424197"
+		}
+		"alpha10"
+		{
+			"buildid" "4347212"
+			"description" "Archive: Alpha 10"
+			"timeupdated" "1574350441"
+		}
+		"alpha11"
+		{
+			"buildid" "4993648"
+			"description" "Archive: Alpha 11"
+			"timeupdated" "1592243716"
+		}
+		"alpha12"
+		{
+			"buildid" "5347793"
+			"description" "Archive: Alpha 12"
+			"timeupdated" "1596619825"
+		}
+		"alpha5"
+		{
+			"buildid" "1664273"
+			"description" "Archive: Alpha 5"
+			"timeupdated" "1551601487"
+		}
+		"alpha6"
+		{
+			"buildid" "2145114"
+			"description" "Archive: Alpha 6"
+			"timeupdated" "1508405756"
+		}
+		"alpha7"
+		{
+			"buildid" "2535891"
+			"description" "Archive: Alpha 7"
+			"timeupdated" "1528720111"
+		}
+		"alpha8"
+		{
+			"buildid" "3313728"
+			"description" "Archive: Alpha 8"
+			"timeupdated" "1545046813"
+		}
+		"alpha9"
+		{
+			"buildid" "3799912"
+			"description" "Archive: Alpha 9"
+			"timeupdated" "1560769269"
+		}
+		"closedalpha"
+		{
+			"buildid" "13500186"
+			"pwdrequired" "1"
+			"timeupdated" "1708370928"
+		}
+		"eleononly"
+		{
+			"buildid" "13616506"
+			"pwdrequired" "1"
+			"timeupdated" "1709318126"
+		}
+		"eleontest"
+		{
+			"buildid" "13616506"
+			"pwdrequired" "1"
+			"timeupdated" "1709320093"
+		}
+		"experimental"
+		{
+			"buildid" "12942018"
+			"pwdrequired" "1"
+			"timeupdated" "1702401191"
+		}
+		"internal"
+		{
+			"buildid" "13613767"
+			"pwdrequired" "1"
+			"timeupdated" "1709300669"
+		}
+		"steamtest"
+		{
+			"buildid" "13002687"
+			"pwdrequired" "1"
+			"timeupdated" "1703006330"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22586870"
+"_sha" "8409095c329f867493503605b7cf42260db3d4d0"
+"_size" "5509"
