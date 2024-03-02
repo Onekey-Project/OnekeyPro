@@ -1,0 +1,609 @@
+"appid" "597180"
+"common"
+{
+	"name" "Old World"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"clienticon" "6bf096367e72c698286ce7532223173274227bcb"
+	"clienttga" "44c6500f825ce26f483388041b3e46772b41a100"
+	"icon" "7329ebc3a65e8093a6bef52cb8e8118338d10f74"
+	"clienticns" "ca6376d108e02515edc437f5f8e48d712c3890af"
+	"logo" "90145067d6b7cdfb81ef0e7810700921a0505cae"
+	"logo_small" "90145067d6b7cdfb81ef0e7810700921a0505cae_thumb"
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "旧世界 Old World"
+		"tchinese" "舊世界 Old World"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1689465600"
+		"tested_build_id" "11630884"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Old World"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja,zh-tw,ru,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "ja,zh-cn,en,zh-tw,ko,ru"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.24837967180291"
+			"height_pct" "59.63713134388868"
+		}
+	}
+	"store_asset_mtime" "1703400945"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mohawk Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1652943590"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/old-world\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "597180"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "4364"
+		"3" "3859"
+		"4" "3987"
+		"5" "1670"
+		"6" "1741"
+		"7" "1678"
+		"8" "1708"
+		"9" "12472"
+		"10" "4695"
+		"11" "3810"
+		"12" "4182"
+		"13" "1677"
+		"14" "1685"
+		"15" "4168"
+		"16" "1669"
+		"17" "4711"
+		"18" "6310"
+		"19" "4598"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Mohawk Games"
+	"publisher" "Hooded Horse"
+	"homepage" "https://mohawkgames.com/oldworld/"
+	"listofdlc" "1952840,2261870,2587410,2587430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Old World"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OldWorld.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "OldWorld.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "OldWorld"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2989368975"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,async_internal,async_public,demo,dev_internal,dev_public,next_version,qa_internal,qa_public,test"
+			"use_action_block" "true"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish,schinese,tchinese,russian,japanese"
+	"workshopdepot" "597180"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"597181"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1129896874145012075"
+				"size" "9022182674"
+				"download" "3791622256"
+			}
+			"test"
+			{
+				"gid" "3663240519528320421"
+				"size" "7229366464"
+				"download" "3427660208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"async_internal"
+			{
+				"gid" "181E896DADF42E083A8982881D84F75A"
+				"size" "635B50E93B0642294F413197851BCAD3"
+				"download" "9D26F4D62B613188526AB866BE0B2A1C"
+			}
+			"async_public"
+			{
+				"gid" "D0ABB9E38DF8085D10F5E4CF137F5973"
+				"size" "DAAB1F11E6208C6EAF28D4EB6EDAF58D"
+				"download" "61E0D1DB9331F097FEB76E7F921BEBC7"
+			}
+			"dev_internal"
+			{
+				"gid" "6B16C7D3702EE40FD5AFF3BBA72E1D9D"
+				"size" "49B87B24CFF53688C9575CF6B0C5DF96"
+				"download" "DAB1CE40D3886BEE3F0DF179DC57FA00"
+			}
+			"dev_public"
+			{
+				"gid" "DAB837C862832C58EEC0869D4DF12F29"
+				"size" "CD87E8FAD95D117E6387BF0DDCF72799"
+				"download" "B80F8C7CC705D0A0CFB6B9BB261B61C1"
+			}
+			"next_version"
+			{
+				"gid" "B162438BA43464ED7C4A7DD76E4628D9"
+				"size" "67C2184EA1B725429D5F53F81EFE4EEA"
+				"download" "B7D204FE8EE62D9AE503238AC8CDCD73"
+			}
+			"qa_internal"
+			{
+				"gid" "90A21476843E48724D434DC1CCFA3CD8"
+				"size" "9E029ACAC9E67EB77B1168AFBE265826"
+				"download" "1401117E1894986CAD49D69CADE51A74"
+			}
+			"qa_public"
+			{
+				"gid" "AAF4503E40F3A2CC8EF8A56BBA7878B6"
+				"size" "2BDE8A0F2B8CEF516E5D585E3F6D4CB3"
+				"download" "43D39C903A52FB18DF2D2A90700AB866"
+			}
+		}
+	}
+	"597182"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4373877306626771687"
+				"size" "8643364195"
+				"download" "3572004608"
+			}
+			"test"
+			{
+				"gid" "4840296643789962508"
+				"size" "6983821517"
+				"download" "3225062208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"async_internal"
+			{
+				"gid" "8562D998A6FAAC48E06AC680032DDF16"
+				"size" "C0D9A93A2E04F1ABC62F6BFB7E9680F3"
+				"download" "6F57A799A2EC33F891A395B109FB8BCA"
+			}
+			"async_public"
+			{
+				"gid" "DD970EC02DE53499059FC3752E4E2238"
+				"size" "846458845D0471B388974ACB8E1A5015"
+				"download" "11EBA655A7FC28465235CC0FC933C681"
+			}
+			"dev_internal"
+			{
+				"gid" "6901F805C0C2F8B2F7783B3091283BC5"
+				"size" "090B7FE46EF4A40FFCE4E0401CDD77A5"
+				"download" "A3981524259586612EE5AA973B66786D"
+			}
+			"dev_public"
+			{
+				"gid" "3E3A71AB1995D5923D72E19516243897"
+				"size" "0B6816642F64B6E9225F7B2D0D770972"
+				"download" "00B30E5C89B29665A525105E66266FAE"
+			}
+			"next_version"
+			{
+				"gid" "17555196F2D41ECF5040C1131CD14D3E"
+				"size" "07C32061ABD1B108984A19A5DB351A59"
+				"download" "A165FA057F4B3CB7B97D57BC37619BB6"
+			}
+			"qa_internal"
+			{
+				"gid" "AC26B487FD34924E20E3BE7423C780C5"
+				"size" "586F8A7B3A9A0A9D3C3FDEE8C58C49DE"
+				"download" "8CD793429FAA6A37E7DDAFA3573C53D5"
+			}
+			"qa_public"
+			{
+				"gid" "A262BF7C460FCBF816CADE7B67F92B2E"
+				"size" "569C91E3F2A5683A09B0D3D8A8516965"
+				"download" "BD166D0E922D434A06424A7C27AB72C7"
+			}
+		}
+	}
+	"597183"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8169948183415493261"
+				"size" "8673781325"
+				"download" "3567906992"
+			}
+			"test"
+			{
+				"gid" "2287339416390050242"
+				"size" "6908557579"
+				"download" "3203493520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"async_public"
+			{
+				"gid" "D3DFDEE1C45A2B2C32E13DE56607715A"
+				"size" "5B8183567A566952678D4BEFE1D5E801"
+				"download" "68940235E035E2E90C5286244B186C6F"
+			}
+			"dev_internal"
+			{
+				"gid" "DFC099B6BF26CEAD36C4CD3B2C888C0B"
+				"size" "4909F85C062EDB8C61530C467393FCDE"
+				"download" "E9826AB37D8B9E234555038B381036D1"
+			}
+			"next_version"
+			{
+				"gid" "3A235EF664130A705AFD1B79BA5B0CD5"
+				"size" "C35D76D12FA230DC56A6F67EB66D90A6"
+				"download" "4341AFC1502C1EEE379CDA41AAB0B221"
+			}
+			"qa_internal"
+			{
+				"gid" "C01ED110526C7844EB7569C1A24A5B17"
+				"size" "0DD34DA641DA817970515768A2365890"
+				"download" "E1E11FDEC930BEFC5F96F42A1F15CB84"
+			}
+			"qa_public"
+			{
+				"gid" "60AB4D786D48335188A23B6A0E39AC88"
+				"size" "511FC36E8650F0DAE92F1A615C4D45BF"
+				"download" "2A299690AC4E9E895276B4A92B4B2160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13368527"
+			"timeupdated" "1707158089"
+		}
+		"async_internal"
+		{
+			"buildid" "7652754"
+			"pwdrequired" "1"
+			"timeupdated" "1635975181"
+		}
+		"async_public"
+		{
+			"buildid" "13247070"
+			"pwdrequired" "1"
+			"timeupdated" "1706004164"
+		}
+		"dev_internal"
+		{
+			"buildid" "13610524"
+			"pwdrequired" "1"
+			"timeupdated" "1709280269"
+		}
+		"dev_public"
+		{
+			"buildid" "4891754"
+			"pwdrequired" "1"
+			"timeupdated" "1586784880"
+		}
+		"next_version"
+		{
+			"buildid" "8802478"
+			"pwdrequired" "1"
+			"timeupdated" "1653429657"
+		}
+		"qa_internal"
+		{
+			"buildid" "13617902"
+			"pwdrequired" "1"
+			"timeupdated" "1709328986"
+		}
+		"qa_public"
+		{
+			"buildid" "13603700"
+			"pwdrequired" "1"
+			"timeupdated" "1709225693"
+		}
+		"test"
+		{
+			"buildid" "13617902"
+			"description" "Testing Branch for the next version"
+			"timeupdated" "1709329242"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/OldWorld/Saves"
+			"pattern" "*.zip"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/OldWorld/Saves"
+			"pattern" "*.xml"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "My Games/OldWorld/Saves"
+					"replace" "OldWorld/Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "My Games/OldWorld/Saves"
+					"replace" "OldWorld/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22590262"
+"_sha" "c2ecbcc5cd00497290ddcf46659d8653a7a4a4bd"
+"_size" "12445"
