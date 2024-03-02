@@ -1,0 +1,1089 @@
+"appid" "2820"
+"common"
+{
+	"name" "X3: Terran Conflict"
+	"logo" "024707ebab6dc10c057d87e53282aad5d89c0857"
+	"logo_small" "779eae6b3220248222f4dbdc88e4fa28969d08ee"
+	"icon" "df0df7b67ebae96d5e580d43f4a784e265ba9c38"
+	"clienticon" "9a60a6bb2428496cd057b81d33145399cfb47c7c"
+	"clienttga" "7ea0061d602312273b55d1824645d771b810f774"
+	"metacritic_url" "pc/x3terranconflict"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows,macos,linux"
+	"linuxclienticon" "b529dbe313423c9baf5ef48c224caa7e7841e950"
+	"sortas" "X3.1"
+	"requireskbmouse" "1"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1691798400"
+		"tested_build_id" "6966238"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "X3: Terran Conflict"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "60.560093348891485"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1671033446"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Egosoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Egosoft"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "X"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1224140400"
+	"steam_release_date" "1224140400"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/x3-terran-conflict\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2820"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "599"
+		"2" "3810"
+		"3" "3942"
+		"4" "9"
+		"5" "16598"
+		"6" "1695"
+		"7" "4202"
+		"8" "4182"
+		"9" "4695"
+		"10" "19"
+		"11" "4845"
+		"12" "15045"
+		"13" "1756"
+		"14" "1669"
+		"15" "3834"
+		"16" "1670"
+		"17" "4166"
+		"18" "12472"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Egosoft"
+	"dlcavailableonstore" "1"
+	"dlcpurchasefromingame" "0"
+	"gamedir" "X3 Terran Conflict"
+	"gamemanualurl" "http://store.steampowered.com/manual/2820/"
+	"hasexternalregistrationurl" "1"
+	"showcdkeyinmenu" "1"
+	"homepage" "http://www.egosoft.com/games/x3tc/info_en.php"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"legacykeydisklocation" "serial.txt"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "2821"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"legacykeylinkedexternally" "1"
+	"hadthirdpartycdkey" "1"
+	"publisher" "Egosoft"
+	"listofdlc" "2826,2827,235940"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "X3 Terran Conflict"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "X3TC.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "testandlaunch"
+			"arguments" "X3TC_config"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "X3 - Terran Conflict.app"
+			"description" "Launch newest version"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"externalregistrationurl"
+	{
+		"english" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=english&steamcode=%cdkey%"
+		"czech" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=czech&steamcode=%cdkey%"
+		"french" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=french&steamcode=%cdkey%"
+		"german" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=german&steamcode=%cdkey%"
+		"hungarian" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=hungarian&steamcode=%cdkey%"
+		"italian" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=italian&steamcode=%cdkey%"
+		"polish" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=polish&steamcode=%cdkey%"
+		"russian" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=russian&steamcode=%cdkey%"
+		"spanish" "http://www.egosoft.com/x3tc/register/STEAM/index.php\?lang=spanish&steamcode=%cdkey%"
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2821"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4571596043939966618"
+				"size" "7678163143"
+				"download" "6350936464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "0FAB6216372899129221E2B412131853"
+				"size" "E374CBA01D68D749A6E0A98BE39416C1"
+				"download" "29FB6940A189A104C09864C996AD3037"
+			}
+		}
+	}
+	"229389"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9001090755008083245"
+				"size" "312345029"
+				"download" "278817808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "08215DB5A2E6583F6010F17F8FEE73D6"
+				"size" "4A03CD30F02B06C78C77582B97BF7569"
+				"download" "4D4F48048AB4711EDE8FC2EF43BE83DF"
+			}
+		}
+	}
+	"2826"
+	{
+		"optional" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "2826"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2922034356428210668"
+				"size" "569034"
+				"download" "539728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "B1CE74455614A03632081BB485230DF8"
+				"size" "EA79DB8523820E18BA5EF1AA15B38C32"
+				"download" "AD469A6ED34C6FE574300B30B729C6DE"
+			}
+		}
+	}
+	"2827"
+	{
+		"optional" "1"
+		"dlcappid" "2827"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8903563702817739294"
+				"size" "1717"
+				"download" "1872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "9C937197BB549AB63A595FB284E75D17"
+				"size" "54868ECC2B1F3BC2C966262E7D0AD587"
+				"download" "D68B3B4ED77E7007A55940277535ECF8"
+			}
+		}
+	}
+	"235940"
+	{
+		"dlcappid" "235940"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216595307647535683"
+				"size" "1386332"
+				"download" "1239408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "1EC6EEC994C565E8852C0A9DE878418D"
+				"size" "8E47F00EBF14AA2BC41F347B5792380D"
+				"download" "1E5200D86CD71D2E5DDAB1AF489A461F"
+			}
+		}
+	}
+	"2822"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5904076903935520543"
+				"size" "311208095"
+				"download" "302057936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "7F8C1E24AE2DB740770AD20201FB16AA"
+				"size" "1BB8FD06AD78E848E2C5486550D501BD"
+				"download" "6856FE4A5A87AE489C3FCD1CAF447C99"
+			}
+		}
+	}
+	"2823"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6944571675475707313"
+				"size" "260735347"
+				"download" "252535584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "FC6D7359C38691158FFC379BEA90C6C8"
+				"size" "8C617E4CD3DA9612BFAE6DAB414E2024"
+				"download" "88851093ABC0FAED90BA510CDF0C1B7F"
+			}
+		}
+	}
+	"2824"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4487446513069688130"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "E0615D29FB02B3CBA113C561A4597610"
+				"size" "CC243C40F340DD5FCB6E53A365F1F3B6"
+				"download" "09588435CA7238785AB6516AC7C65C28"
+			}
+		}
+	}
+	"2825"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "419643549810218030"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "5BC5F7C36AE756F1750D1D9F50A183CA"
+				"size" "CC243C40F340DD5FCB6E53A365F1F3B6"
+				"download" "09588435CA7238785AB6516AC7C65C28"
+			}
+		}
+	}
+	"2828"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "828302822341641812"
+				"size" "576599072"
+				"download" "451629152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "24AEB540029BE8DE309ABD70D5EE7A0F"
+				"size" "0139E6F9710D817C9E6912A1F28FD775"
+				"download" "883305343C962A53B51F1F2CD7EBEACD"
+			}
+		}
+	}
+	"2829"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3606314388738915297"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "08560B8B89875D928E4A12DEB8F1D50D"
+				"size" "CC243C40F340DD5FCB6E53A365F1F3B6"
+				"download" "09588435CA7238785AB6516AC7C65C28"
+			}
+		}
+	}
+	"207311"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2601193916248056330"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "26EDA09726932E7B50495F1A195C5473"
+				"size" "CC243C40F340DD5FCB6E53A365F1F3B6"
+				"download" "09588435CA7238785AB6516AC7C65C28"
+			}
+		}
+	}
+	"207312"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7395632196623364940"
+				"size" "269633867"
+				"download" "261700416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "DB1C23150ADA8856AF87D8CE75514109"
+				"size" "CC243C40F340DD5FCB6E53A365F1F3B6"
+				"download" "09588435CA7238785AB6516AC7C65C28"
+			}
+		}
+	}
+	"207313"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2934857449112272061"
+				"size" "297674988"
+				"download" "264451616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "1D2B95BB320591366B05AC36B3BF6AEF"
+				"size" "EAB3B63CD32484EEA17B2878B1374F5C"
+				"download" "D9A84AFDC3244877ACFD157CDB0F6FBB"
+			}
+		}
+	}
+	"207314"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6646266648853799100"
+				"size" "297674988"
+				"download" "264451616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "A53C69AEA290A0B5689B0FD59D98E366"
+				"size" "EAB3B63CD32484EEA17B2878B1374F5C"
+				"download" "D9A84AFDC3244877ACFD157CDB0F6FBB"
+			}
+		}
+	}
+	"207315"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4814546802455153787"
+				"size" "280028545"
+				"download" "263208816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "089B1C2B0DC50EBAF9CD9402B09EB781"
+				"size" "B3318D3698FBB6161D150D828F779850"
+				"download" "90C00463492B5C31BBE3248A3A6148B8"
+			}
+		}
+	}
+	"235941"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "936852204344306804"
+				"size" "592602085"
+				"download" "575840464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "C5C5FBB2745C3113602FAAD89E41D041"
+				"size" "CEAC85148209E19810DF65E66805060A"
+				"download" "22D3C50D46EE6F65C7BBF4F630349219"
+			}
+		}
+	}
+	"229390"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "860322241960964237"
+				"size" "355180352"
+				"download" "350262704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "2C141255ABB9B186236713D20C05D525"
+				"size" "9574BAE051B2D8DC1A62AB3EC8C5F703"
+				"download" "0B78AFE8849A285422F750F5B104545E"
+			}
+		}
+	}
+	"229391"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "878659847836389323"
+				"size" "291397069"
+				"download" "287749904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "3E0BEBC90115838A03F60991BCB20CBD"
+				"size" "A484E9817499ADADCAB60F1A0278D26F"
+				"download" "AFD04784E14CA50A1CE936B077E743DC"
+			}
+		}
+	}
+	"229392"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3691373940361021004"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "E0B9FB62C6F2C297141D65BDC7DB16D0"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229381"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3757522022214182985"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "225EDA39D7E8F5107D8DEE186825B316"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229382"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "621247179248362105"
+				"size" "351519545"
+				"download" "346898080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "97FDDB6D3116585E427F5500A03B03E3"
+				"size" "780056C4FCAD57040A315AD3F7790876"
+				"download" "61E2961F9CB45C769A247EB23A9D574B"
+			}
+		}
+	}
+	"229383"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4262111734254535056"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "5A9609170A23D9186F20F5AE00AADC96"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229384"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4747656007006527623"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "ADCF00D3976F8A2C06697704BB4BFAC5"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229385"
+	{
+		"config"
+		{
+			"language" "czech"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "37094450773341160"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "BAD2BE40D6545407DA04D674ED0782E0"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229386"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1706518292678967950"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "B95CA1C6FFD98A3960FB3884481C6643"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229387"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5315881311567316279"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "32CD2A604FF415DE6420836C49C9E54E"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"229388"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3306788036035193002"
+				"size" "303268109"
+				"download" "299276384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"public_beta"
+			{
+				"gid" "EF05E4BA96160A3C1EEF944F2C70A495"
+				"size" "42E065694AF2EF8E975E34A1D66E7B93"
+				"download" "AEA1A2ECAD18D5340BFD73DA01A5AF36"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13476636"
+			"timeupdated" "1708092056"
+		}
+		"public_beta"
+		{
+			"buildid" "13476636"
+			"pwdrequired" "1"
+			"timeupdated" "1708091481"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X3TC\\save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X3TC/save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"2"
+		{
+			"root" "MacDocuments"
+			"path" "EgoSoft/X3TC/save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22374667"
+"_sha" "5847af22a891cf5f8f3174bffbf89eadf88c8dcf"
+"_size" "19632"
