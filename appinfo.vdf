@@ -1,0 +1,339 @@
+"appid" "1605220"
+"common"
+{
+	"name" "Dune: Spice Wars"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "895ed1b183c8fdf8bc3979daaae5eb716e367bd8"
+	"clienttga" "80a9ea72b5be0b35c47c6e4ee1bef7c19bf556b6"
+	"icon" "c089b45f04289ae6e9025ec0f6f468e262cd87ca"
+	"logo" "303b2588318730afb788d0cd5596c3c9fa1105f1"
+	"logo_small" "303b2588318730afb788d0cd5596c3c9fa1105f1_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669680000"
+		"tested_build_id" "9579274"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "24.45085010748484"
+			"height_pct" "71.39098327132642"
+		}
+	}
+	"store_asset_mtime" "1709201812"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shiro Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Shiro Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1694700086"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1605220"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "4182"
+		"2" "3942"
+		"3" "9"
+		"4" "1676"
+		"5" "1670"
+		"6" "599"
+		"7" "4364"
+		"8" "3813"
+		"9" "1643"
+		"10" "1708"
+		"11" "4695"
+		"12" "1678"
+		"13" "6310"
+		"14" "3859"
+		"15" "7332"
+		"16" "1685"
+		"17" "1775"
+		"18" "6730"
+		"19" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Shiro Games"
+	"publisher" "Funcom"
+	"homepage" "https://spicewars.dunegames.com/"
+	"listofdlc" "2807090"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "D4X"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "D4X.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Dune: Spice Wars"
+			}
+			"description" "Dune: Spice Wars"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1605221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1918420346038221446"
+				"size" "5441174366"
+				"download" "1617429808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cert-other"
+			{
+				"gid" "924823F75EDE3C104B57D6BC2CDE0146"
+				"size" "7A467BD68E30182A7F68DE0A6B91C5E4"
+				"download" "BFA036979E3C87313983ECD6F1254E95"
+			}
+			"closed-beta"
+			{
+				"gid" "96D99FB4AFE69501F3891B1460AB3F2B"
+				"size" "983B07A389EC85AB4BCA9A6B8B961F77"
+				"download" "2A840A13EEE74EB2C93887C6B1634084"
+			}
+			"nostalgia"
+			{
+				"gid" "908BC18CC134F5FF43F15FF549AEA9B3"
+				"size" "108549315AA7267E717F54BFAF2FD2FE"
+				"download" "2D546DAEC2E6318F7F864A428AECDA5B"
+			}
+			"press"
+			{
+				"gid" "AE378C35D09DC7F612176825A74390C7"
+				"size" "63CD52C4305F035A1A00951FC87401CF"
+				"download" "5E6178492A02DC7226CB664FA2897499"
+			}
+			"shiro"
+			{
+				"gid" "8D9B2919864D41B9AD7462655302D0B0"
+				"size" "BD2ABF4DE4A48258A60024A8F77F5740"
+				"download" "F71F4ADF87C9C182C0DBC40D757FE2F7"
+			}
+			"tournament"
+			{
+				"gid" "FF6A0B1B34AA7EDC5F20600328C64F79"
+				"size" "440BFC95586E566AB6D36D10DC219327"
+				"download" "593C18DC29D136B0B6DB787B3C34DEBF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12963605"
+			"timeupdated" "1702571081"
+		}
+		"cert-other"
+		{
+			"buildid" "12880957"
+			"pwdrequired" "1"
+			"timeupdated" "1701791719"
+		}
+		"closed-beta"
+		{
+			"buildid" "13613401"
+			"pwdrequired" "1"
+			"timeupdated" "1709310654"
+		}
+		"nostalgia"
+		{
+			"buildid" "6571218"
+			"pwdrequired" "1"
+			"timeupdated" "1636734525"
+		}
+		"press"
+		{
+			"buildid" "13613401"
+			"pwdrequired" "1"
+			"timeupdated" "1709299864"
+		}
+		"shiro"
+		{
+			"buildid" "13613401"
+			"pwdrequired" "1"
+			"timeupdated" "1709298048"
+		}
+		"tournament"
+		{
+			"buildid" "12963605"
+			"pwdrequired" "1"
+			"timeupdated" "1702571116"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "512000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22583466"
+"_sha" "78145826336eb28fc4ca056bdc06e5ef1c91c7dc"
+"_size" "6185"
