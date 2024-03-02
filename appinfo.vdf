@@ -1,0 +1,721 @@
+"appid" "1061090"
+"common"
+{
+	"name" "Jump King"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a55d3eacf184ccacebfea90192d11dc2c6fcecfc"
+	"logo" "ba3f0d032b364f5d8f5bc46f86c3daf0b2df6da6"
+	"logo_small" "ba3f0d032b364f5d8f5bc46f86c3daf0b2df6da6_thumb"
+	"clienticon" "2278d0cb4b408a17929d662ca4845c56027d4c44"
+	"clienttga" "268dd58e5043f8061be471b6de830e4b20666fed"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "6122886"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Jump King"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.96969027266235"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708096826"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nexile"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nexile"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Jump King"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1556902740"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1061090"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "4026"
+		"2" "3877"
+		"3" "492"
+		"4" "3964"
+		"5" "21"
+		"6" "19"
+		"7" "1625"
+		"8" "3871"
+		"9" "4182"
+		"10" "4004"
+		"11" "4172"
+		"12" "4166"
+		"13" "4136"
+		"14" "15277"
+		"15" "1667"
+		"16" "5923"
+		"17" "1684"
+		"18" "29482"
+		"19" "3798"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Nexile"
+	"publisher" "Nexile"
+	"homepage" "https://nexile.se/jump-king/"
+}
+"config"
+{
+	"installdir" "Jump King"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JumpKing.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1868235633"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"workshopdepot" "1061090"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1061091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6180800026061158272"
+				"size" "1691943039"
+				"download" "789093152"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1655205056957315372"
+				"size" "1673097958"
+				"download" "785215200"
+			}
+			"workshop_beta"
+			{
+				"gid" "6180800026061158272"
+				"size" "1691943039"
+				"download" "789093152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "263177F7AB83BDE68128C53D25D3BF34"
+				"size" "DBC183778AA43B1F37E83F24F238074A"
+				"download" "18E72CB038FE1A3D6E02CA401687BF72"
+			}
+			"speedrun_beta"
+			{
+				"gid" "AAB8DAA24F6B725A6B8235352B736795"
+				"size" "0F57F156C47E2E16BAEE97369C0F545A"
+				"download" "F5E6CF0173699A702EE4D038381AAE5D"
+			}
+		}
+	}
+	"2334961"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3081896381948462075"
+				"size" "1692307583"
+				"download" "789144688"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "4451684538156382093"
+				"size" "1691980099"
+				"download" "789050256"
+			}
+			"workshop_beta"
+			{
+				"gid" "3081896381948462075"
+				"size" "1692307583"
+				"download" "789144688"
+			}
+		}
+	}
+	"1061092"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8965942987217952967"
+				"size" "2047699"
+				"download" "173744"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "4252163108649715314"
+				"size" "23811875"
+				"download" "14118608"
+			}
+			"workshop_beta"
+			{
+				"gid" "8965942987217952967"
+				"size" "2047699"
+				"download" "173744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "20D6AF4D01C78F33DA4EAEA7E2A36F22"
+				"size" "7A527B3F4FB6497B53FAD1DB792E99A2"
+				"download" "735A6B85FCE8BFEDA50718E043813E86"
+			}
+		}
+	}
+	"1061093"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7765489681002469071"
+				"size" "363722"
+				"download" "78304"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "3384611054220987111"
+				"size" "360138"
+				"download" "77184"
+			}
+			"workshop_beta"
+			{
+				"gid" "7765489681002469071"
+				"size" "363722"
+				"download" "78304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "48CB273CA78170CCA828EAD89AF9D576"
+				"size" "FF4ED066CE8C5E14F3158FAD5B332BB2"
+				"download" "AAE17851EF113509B86C5B98130F4F1C"
+			}
+		}
+	}
+	"1061094"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5995497554351547469"
+				"size" "375998"
+				"download" "80064"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "5161455332004361421"
+				"size" "372414"
+				"download" "78928"
+			}
+			"workshop_beta"
+			{
+				"gid" "5995497554351547469"
+				"size" "375998"
+				"download" "80064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "17F772D29334044369255FE551A3C8D6"
+				"size" "8C9EBD0174AE74E1D52B6A67AE01A5B5"
+				"download" "897FC503DA68B56ACE5A6AB9C0CC7DEB"
+			}
+		}
+	}
+	"1061095"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8064132818326528828"
+				"size" "615839"
+				"download" "98320"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1956340730946248587"
+				"size" "18326762"
+				"download" "13537472"
+			}
+			"workshop_beta"
+			{
+				"gid" "8064132818326528828"
+				"size" "615839"
+				"download" "98320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "15EF69F939C7533D7F3D896FC92345BB"
+				"size" "9B549A69FEECA4B540314A5A0615344C"
+				"download" "29DC4E633DABD2BF802B08C435F0956F"
+			}
+		}
+	}
+	"1061096"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4462489667360521467"
+				"size" "377022"
+				"download" "82384"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "6814055949973951137"
+				"size" "373438"
+				"download" "81264"
+			}
+			"workshop_beta"
+			{
+				"gid" "4462489667360521467"
+				"size" "377022"
+				"download" "82384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "671CFF9AAD9A140516735E2572A3377C"
+				"size" "7355CF01F123D82841F6D83B52E59DC7"
+				"download" "DEEBD282BE5E6EF3A7D533AEE63516D2"
+			}
+		}
+	}
+	"1061097"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5213074891135884517"
+				"size" "365759"
+				"download" "79728"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "4553807079660696540"
+				"size" "362175"
+				"download" "78544"
+			}
+			"workshop_beta"
+			{
+				"gid" "5213074891135884517"
+				"size" "365759"
+				"download" "79728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "F80F133E5DCB7E281D818E3098EF8A0B"
+				"size" "36DEFFE9F04AD56762B81BF1B0D53D16"
+				"download" "A94423383C9F476F8954F9E85C001125"
+			}
+		}
+	}
+	"1061098"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3779616896323801422"
+				"size" "2049580"
+				"download" "178464"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1771852470087369652"
+				"size" "23834844"
+				"download" "14166048"
+			}
+			"workshop_beta"
+			{
+				"gid" "3779616896323801422"
+				"size" "2049580"
+				"download" "178464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "AADA05F6344875414DFC5E3928D8FA99"
+				"size" "7870CE10578ED56341D2980C6DCF96D1"
+				"download" "EC4331C5551FCF54E86C82404A4E9628"
+			}
+		}
+	}
+	"1061099"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7310317808478170977"
+				"size" "2524603"
+				"download" "201888"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "1104881476613730805"
+				"size" "22936700"
+				"download" "13962320"
+			}
+			"workshop_beta"
+			{
+				"gid" "7310317808478170977"
+				"size" "2524603"
+				"download" "201888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "FC42745990A68B179C142C4BF6D22190"
+				"size" "CBD30753522436F8DF4CEFEC41A5522B"
+				"download" "710E997649E3FB7F7D9400BE7F026CE2"
+			}
+		}
+	}
+	"2334960"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "70667494849931740"
+				"size" "1642256"
+				"download" "112880"
+			}
+			"jump_king_legacy"
+			{
+				"gid" "70667494849931740"
+				"size" "1642256"
+				"download" "112880"
+			}
+			"workshop_beta"
+			{
+				"gid" "70667494849931740"
+				"size" "1642256"
+				"download" "112880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13615507"
+			"timeupdated" "1709310569"
+		}
+		"beta"
+		{
+			"buildid" "7185819"
+			"pwdrequired" "1"
+			"timeupdated" "1628862266"
+		}
+		"jump_king_legacy"
+		{
+			"buildid" "13544216"
+			"description" "The Old Jump King build, before workshop update"
+			"timeupdated" "1708697915"
+		}
+		"speedrun_beta"
+		{
+			"buildid" "4040679"
+			"pwdrequired" "1"
+			"timeupdated" "1563980376"
+		}
+		"workshop_beta"
+		{
+			"buildid" "13615507"
+			"description" "Workshop update beta branch"
+			"timeupdated" "1709310524"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Content/Saves/"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Content/SavesPerma/"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22583440"
+"_sha" "2801ca4e44df34bb2dcaf498dd83e2f77b0670c0"
+"_size" "12619"
