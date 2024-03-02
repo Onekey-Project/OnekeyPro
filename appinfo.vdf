@@ -1,0 +1,884 @@
+"appid" "2138330"
+"common"
+{
+	"name" "Cyberpunk 2077: Phantom Liberty"
+	"type" "DLC"
+	"parent" "1091500"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"english" "Cyberpunk 2077: Phantom Liberty"
+		"polish" "Cyberpunk 2077: Widmo wolności"
+		"ukrainian" "Cyberpunk 2077: Ілюзія свободи"
+		"russian" "Cyberpunk 2077: Призрачная свобода"
+		"japanese" "サイバーパンク2077：仮初めの自由"
+		"schinese" "《赛博朋克 2077：往日之影》"
+		"tchinese" "《電馭叛客 2077：自由幻局》"
+		"koreana" "사이버펑크 2077: 팬텀 리버티"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"polish" "header_polish.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"store_asset_mtime" "1705670847"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CD PROJEKT RED"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CD PROJEKT RED"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1695682912"
+	"gameid" "2138330"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1695"
+		"2" "4115"
+		"3" "12095"
+		"4" "1742"
+		"5" "6650"
+		"6" "4667"
+		"7" "4345"
+		"8" "4182"
+		"9" "4166"
+		"10" "3839"
+		"11" "1663"
+		"12" "4747"
+		"13" "19"
+		"14" "4231"
+		"15" "1774"
+		"16" "6426"
+		"17" "1667"
+		"18" "1687"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"dlcforappid" "1091500"
+	"mustownapptopurchase" "1091500"
+	"developer" "CD PROJEKT RED"
+	"publisher" "CD PROJEKT RED"
+	"homepage" "https://www.cyberpunk.net"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2138330"
+	{
+		"dlcappid" "2138330"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5094071097429923087"
+				"size" "24743240495"
+				"download" "23647174944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "05F094361DD03727D99D6DA43D983B16"
+				"size" "033EC7E5F87A76F4D8FC39D48F43ED91"
+				"download" "69A012E05F7D18BA6F039209D77F66A5"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "ABCD410F0AF2B0BB3EADD327B9ECD9E2"
+				"size" "00CD07910F9CC24B633D097D4D3412EC"
+				"download" "B96DE22856F19FD7801DBCC437464B8B"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "FAA565825DA18F3ACEDC4C668B26A393"
+				"size" "5AD62096FF9A5FEBBA528AA1AB64BE78"
+				"download" "6F4935DE1AF26F95C18D8FB54D819016"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "640CF2CD7A2509CECEF99A4E371E6B09"
+				"size" "7F07A7725EE3FF4E8040500CCB593D69"
+				"download" "A5D08778FF1E3927D2922C9F6DA3C0C4"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "843E802B6B78A8B626A788EE3E3CD5B5"
+				"size" "5793571A53EAF0C9CE1BB12237C08BC6"
+				"download" "B7A81E1ED55FA105674038237B12B984"
+			}
+			"test"
+			{
+				"gid" "8612D121B1197BB318C6ADE5DB3E0B65"
+				"size" "19A7B8AE3B95396EFD4C5244E3410239"
+				"download" "DEA5168526FD50EB75214CC7A6EF97B6"
+			}
+		}
+	}
+	"2138331"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "781283383458573073"
+				"size" "2025201664"
+				"download" "1961419024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "E660A1737E8FCD49949FE00A29F37148"
+				"size" "331F5667285B58B05EC0D2510708F225"
+				"download" "37EC1AC53E61FBDD2F114A31AFE62FE5"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "F24D2FFE0716180C655F38B5F1CAA2FF"
+				"size" "AD4A059365886C6D4F596F216B6566A9"
+				"download" "D69F9BB16DFB5776E8AAEA1730B3A68F"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "2C9AF314715CECC3890358D66007D5F9"
+				"size" "798DB04A5B5D182F8A6E0888AD278F9E"
+				"download" "D8E336B9437D08222A8E8FA412A27319"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "0FF2387AD1E749645A9C626B899F8845"
+				"size" "65F63EA0D9E53A52D33E5BBE087D1FD5"
+				"download" "477C59B91343D46A4860D2446707CBF5"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "74337A3C134FD1F1410CA18D56340808"
+				"size" "E28E3E4526E6615EFD975B0AF3475AFA"
+				"download" "496BA12CCE7C95DE23DF1B8CC98747BC"
+			}
+			"test"
+			{
+				"gid" "D804E9EC54577CEFAF6E5E50F7BFB14F"
+				"size" "B8A8017C4DB3E55E88E3A3197B0E4ADD"
+				"download" "3ED97176D4EA1027602D91DFD8F4F382"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138332"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2506459317086392895"
+				"size" "1770672128"
+				"download" "1706942976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "37C5D5955E6AEBFC1C323807E9ACBD98"
+				"size" "D8F3708E9DDB90D7CEF869970DCEB5A2"
+				"download" "5B4C8F6247FA0392ABC4D03FC822AEAC"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "592727BBBA5E32812D53F94FED37C4CB"
+				"size" "FC50E4AD06BB09E681F8536C2C9169BA"
+				"download" "8EC23E52ADE13D28EBB05F753BC3186C"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "5EA96AD6487B14EF44C99216D3D3416E"
+				"size" "0E014950A7E714AF66885C6CC3130604"
+				"download" "E2D9D11EA3D3DFA2904810FB2BA803CF"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "049D73747A6654EF2A08190A8970260B"
+				"size" "865C199F8279908AA4B970502DCE2324"
+				"download" "D124678E2B1EE2DB337EAEEACA9F6A1A"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "4278135E56861AB094254243D8D96FA7"
+				"size" "DADAD6610E7D4916796980C327F5DF26"
+				"download" "78A4C90B2AB9DCDEBF63C5B6A0637466"
+			}
+			"test"
+			{
+				"gid" "E42AF184FDBAF537F25758244CA58DCD"
+				"size" "3D400B6B574FA4AA8D9E873E7A094A88"
+				"download" "B6AC41090CB631EAF40A14457FBB3314"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138333"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "695571406283132317"
+				"size" "1690636288"
+				"download" "1626270016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "214DFE7F0B7221440BE4984EFAD19CDF"
+				"size" "738919AEE82BA586E8EF5FE0E41060C8"
+				"download" "0045E04081C41F0D871121F7AB1D4F62"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "8D47A9E2B3DC5EA6735F1538D46D50FA"
+				"size" "0F3407D88C9BD82CFB62CD47CBABD746"
+				"download" "90B7EC85BB2C23180A9C07590268580D"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "39AB020D61CCFF4B90B130A3902044F4"
+				"size" "8D30B9E1CF86D693C7EA6A2CCAE72B8D"
+				"download" "F0274F4165FA4D6EDE88127536051E85"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "5C2BC3324F4063750E876F7A03766F81"
+				"size" "F249820D53EB77346457E0C0823BB59F"
+				"download" "EE6ABC70914B9C3BCF60C69B9696B731"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "033C6655D72CDA744520FE0B5C9FD3B8"
+				"size" "081C9247C27071930A90ABEDE4F00BB3"
+				"download" "B0642AB7DE23E18712C603BACBA3794C"
+			}
+			"test"
+			{
+				"gid" "0A21F58DD5AF2A1289B2EF9AFC397B94"
+				"size" "1163EB80E4BDA415123BC5E00A46A1B2"
+				"download" "B2A87FD98CF10FCE79765AC14E5C4C9B"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138334"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2839991916154164543"
+				"size" "1706594304"
+				"download" "1643234416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "A7097200CE8D343E90AF3E3EF91D666E"
+				"size" "082E0ED4F030FBE8B0F4C42901AD7925"
+				"download" "239A700629A3226E7326D1AB2A136279"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "9BB75AD951067FEC652AED1F789C39EA"
+				"size" "7BC308E0D63DAA052E93019AEDFF7938"
+				"download" "364945AD20EA34112853E64DE37392C7"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "D4940E50D9F4108E83190E5A7EB8A933"
+				"size" "DB2971BF6CDD2910A2BFDA03CB4C95F6"
+				"download" "16346D8C7619B5387076D7DA7F061235"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "8532E97D146C21067AB792701FBA800C"
+				"size" "7D4F584FE11242499E9621F963328D15"
+				"download" "83CFC183D118E847538EAAF892B24D9D"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "80192E568EC119CC4C5E91AEB6E81BFC"
+				"size" "BD0672F1BF38C57A8043988BED942A75"
+				"download" "65379AD28F81231687AAACABA0E0C259"
+			}
+			"test"
+			{
+				"gid" "20FB2E8FDE551B5BFBE3BB8E612FFB7F"
+				"size" "9FD11686792289EDAD9328FA45F1E193"
+				"download" "AA4262BCC6CF498D21CF9E002FB6A176"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138335"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8316307084834852093"
+				"size" "1878884352"
+				"download" "1813626032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "D1F8EB6A1DE8147F7F9ABFB0F8AB1D01"
+				"size" "61A725F696555BE56C4DC42FB312B9A2"
+				"download" "C030F4630E6AAA45CF238BFB14C42912"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "E0686059E465AEDD2145B78A53D43370"
+				"size" "966725DE0716C32605080CD704D4EC4A"
+				"download" "5758F8EE8CB1C420B0701C2B9FB4843A"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "FDA2A2EF7C9E8437522BE50E95773A61"
+				"size" "2D66C3F6AB5807367E520FE4E1D06C9F"
+				"download" "A41EA0820403C753ABA2C7A7464478CE"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "0326291A8CE9B03278E6C0E0C7E8B1F7"
+				"size" "11380CEA69C6F89BAFE547F1682ECB5E"
+				"download" "C61A2CAB14B6E8C509669F172CF3ABAA"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "1B3C2F6D34D9295B694BAFD999BA3AD9"
+				"size" "8B09FA6E2EFFCAA8C050D25CB25EE8AD"
+				"download" "C9C25815211F46E56414C16B38BB0466"
+			}
+			"test"
+			{
+				"gid" "4B3C3D6C24538CA56E14624341F880FC"
+				"size" "7F31A47783384D4F5AB813E68FFFD906"
+				"download" "44FAD99A622D487F528E18B68AB74CDA"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138336"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "712278886235526499"
+				"size" "1636634624"
+				"download" "1573244416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "45FB5C394AAE0D9AEC99D9B15A935446"
+				"size" "9D64951E63373149AE2C6879907F8A16"
+				"download" "3CF8879580F5CB6E35155D0304C78C94"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "1852F08151687A2546CBD3B7F275E006"
+				"size" "F510C8BE4B42E9994DF6484550E5B65A"
+				"download" "BD8B8C7E59A245F417BB7B0480C08FB9"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "4B96A70ECD25310BA9D1D60A21BC8D12"
+				"size" "BC50CB4394BCD13F934EABF6C96C5D4D"
+				"download" "51A0196CABD73E0F8EAD13BD785E04CA"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "0FA06B1C8610F7A44B1B34A30AE99D4F"
+				"size" "F91A0BED5929033FC6EE3CEC48BE41B1"
+				"download" "E2AF4D13EC0BD398182052567BAFE592"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "AF866C6D861FBAEBEFDB92D3ED249862"
+				"size" "E1C02584B38FDA53A032951C145D7D27"
+				"download" "34E21CED4BFDDECDE6E5932443EE044A"
+			}
+			"test"
+			{
+				"gid" "FC798BC9D86A005C8A4405CAAEBFF601"
+				"size" "4173CD3C8D25E078242345971AC8BC7C"
+				"download" "29D835263529AA2E7B6DA60F880F94B9"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138337"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7427138624942960668"
+				"size" "1761579008"
+				"download" "1697630672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "E3E6FC503A81FCDE3E00913613C702A8"
+				"size" "CFA527474FFDF50C8956C492A16C0BC0"
+				"download" "2AD9BBE0B459B9D7D15EB8AA6B38DE51"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "2B7C42A1490EECEAD8795B312634E1F4"
+				"size" "157F3CD954EFEB0DF029878E22C627C9"
+				"download" "26180C64F135AA135FA149FE8411A293"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "BB58B4E7FE22E30B1C13D561BEA0722B"
+				"size" "D6F7C6D2359ADED9A0B5BAB71805C11E"
+				"download" "39BAAD5017EFA0BF8400A21C850E8770"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "3CDC641C76B6E90E174CEF161B95BE27"
+				"size" "D2EC0556CC4A09EC9F70BE9BE3A227F3"
+				"download" "36E2708C6878736261879B80EF3D925C"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "83FBB33A8F2AD9826E52FFF0F684FC0A"
+				"size" "58A7115BD3ECC1BCAC923A9B84274109"
+				"download" "BB033A7B3B2E2D24B6B5E66D8E6F9FBC"
+			}
+			"test"
+			{
+				"gid" "B075512E78C07FE50C830E173B947F6D"
+				"size" "36A11D9470652C67DFC85E2154707068"
+				"download" "BC6411F612492FDB201AC5E8391CB94A"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138338"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5016898539511776017"
+				"size" "1794711552"
+				"download" "1730136592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "45C9619B7F306774AD21D79907D73DA7"
+				"size" "50580F4C88023EF1E6E00AA5EBC9AD36"
+				"download" "BC19778E4E3C3CDE0A7799267249632B"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "A2F14B1CBB8DB25A31F4DE84EF810457"
+				"size" "67EBC19E619E708FDB893A22EA139DA3"
+				"download" "F00FCB5BE2D473ECEBE466404041FD1E"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "C2D8BC271A2B6ABDE01D7DCEDF40B011"
+				"size" "E978E1B56147F7F9DF9AAD6D0A182117"
+				"download" "D08D671A7227E71FB09CFD2E19204F93"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "8E465C5E76670A3A1BAA190475BC0BFD"
+				"size" "6FFDA331C513AF25E155C5C49027F972"
+				"download" "E2B82BCADD6E24B90349CAD8912C1E97"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "251DA49118D4716CD9E6F162BC51F233"
+				"size" "03B16F3B9E1CD37076DE4E320839A588"
+				"download" "35DFC6C96DDF9E05DD76DEBBB491BCB2"
+			}
+			"test"
+			{
+				"gid" "928BF6AB96E7C4C54ED7C7037FECB861"
+				"size" "B82B15E4428D5A06E8FC49A396349F42"
+				"download" "8D488CD0CFEB63E1C80FA671D4C8F44A"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2138339"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2290796573560588320"
+				"size" "1589682176"
+				"download" "1525788832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "20DEF0491258866F94792BEB20DB9C86"
+				"size" "0EC5DBBE5C9C58458F8D448AD55609FB"
+				"download" "B428858C66A12371DC3195DC01690CCB"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "0DC7238F9A43EC3036D73999529DB8ED"
+				"size" "5BD15752A0EB9A31FF933385DCBB0D4F"
+				"download" "8ECD295CCF0CCA14B5B745CA6D6A48E8"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "A3C6F867353DD952DBD326E91746EAA9"
+				"size" "26E7B77D31DB137C592A392498025E1D"
+				"download" "8465113B1F06EEE0D49885A010A7AE80"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "44CEADFB7B5C6643BD34E26087D51164"
+				"size" "74FF7DA6DE3AE9055A485BB8745E3AA8"
+				"download" "5F12CB284F9149D855ED165354E7AEF3"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "B0EAB1A5089725AFD3096203B168A182"
+				"size" "052A3584F9896D3D443672F426516FCD"
+				"download" "4097222916C13303819C9B1A7496B47F"
+			}
+			"test"
+			{
+				"gid" "DE63415F526D1BCAAE317EB4E3271686"
+				"size" "A783B9A4748CE0176C2D31C552E57525"
+				"download" "A3412C722728DBC5054671288744C1F8"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"2224070"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3421707574222199970"
+				"size" "1846870016"
+				"download" "1782361120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdpr_amd_dev"
+			{
+				"gid" "37199BEDEEE5C811C8002AD21661E7D6"
+				"size" "55C8BB5193806D9DBAC5AEE63E6EE52D"
+				"download" "2417F20D7886E767576A1BBF2775A25A"
+			}
+			"cdpr_internal_dev5"
+			{
+				"gid" "1A95DBCD89BDAC7618F234519F682F11"
+				"size" "B69D541EC70CB67F04578FE2B19D76A0"
+				"download" "C9A7C3B8E77475D90E860FBE23E10CCB"
+			}
+			"cdpr_internal_qa"
+			{
+				"gid" "70568929ADD38C5CEE89EE47E84058D8"
+				"size" "91F7D04CA1A1962AB0D6CEECA2867A94"
+				"download" "2BE12D9733AC511B36C60B3DF05ECAD2"
+			}
+			"cdpr_partner_dev0"
+			{
+				"gid" "285ED43E88F28F7A100C856EBB59F673"
+				"size" "C2806CC0B4FB09E890F6FB337799B211"
+				"download" "69175BA9DCD342177B1CAACEB7573D89"
+			}
+			"ep1_press_preview"
+			{
+				"gid" "33EB2FAB71B5979E0CA233293BE071F7"
+				"size" "31CE3D4849161F6451002AB6836F57EB"
+				"download" "AE3689E65FC9CF9217AB64B6A93D8801"
+			}
+			"test"
+			{
+				"gid" "B1B1B55E3007979DA0CBA021C29A72F3"
+				"size" "3BC66FA39D23D27918D85D87D7F99369"
+				"download" "106130A4B012432455D747A740D36067"
+			}
+		}
+		"dlcappid" "2138330"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13577823"
+			"timeupdated" "1709204291"
+		}
+		"cdpr_amd_dev"
+		{
+			"buildid" "12191666"
+			"pwdrequired" "1"
+			"timeupdated" "1695026544"
+		}
+		"cdpr_internal_dev5"
+		{
+			"buildid" "13602128"
+			"pwdrequired" "1"
+			"timeupdated" "1709216420"
+		}
+		"cdpr_internal_qa"
+		{
+			"buildid" "13577823"
+			"pwdrequired" "1"
+			"timeupdated" "1709049669"
+		}
+		"cdpr_partner_dev0"
+		{
+			"buildid" "12611886"
+			"pwdrequired" "1"
+			"timeupdated" "1699014534"
+		}
+		"ep1_press_preview"
+		{
+			"buildid" "12191666"
+			"pwdrequired" "1"
+			"timeupdated" "1694793780"
+		}
+		"test"
+		{
+			"buildid" "11899123"
+			"pwdrequired" "1"
+			"timeupdated" "1691571591"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22561719"
+"_sha" "5c455bc47dd1d177c7ba8410a106428470898ad7"
+"_size" "19570"
