@@ -1,0 +1,797 @@
+"appid" "1190970"
+"common"
+{
+	"name" "House Flipper 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "1b2d7e7824627c605cb4ddb29e3be200fccd8438"
+	"clienticon" "e15cabb55cb3219e885e56fcae6c4ee6d13071e0"
+	"clienttga" "2782f82977c8db645e88a8eb4c12d2fdd150a174"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"koreana" "하우스 플리퍼 2"
+		"russian" "Хаус Флиппер 2"
+		"japanese" "ハウスフリッパー２"
+		"schinese" "房产达人 2"
+		"tchinese" "房產達人2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1190970_eula_0"
+			"name" "House Flipper 2 EULA"
+			"url" "https://store.steampowered.com//eula/1190970_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1702512000"
+		"tested_build_id" "12952387"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "House Flipper 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1702563968"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frozen District"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Empyrean"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Frozen District"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "House Flipper"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1702558380"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/house-flipper-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1190970"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1643"
+		"2" "84"
+		"3" "597"
+		"4" "1654"
+		"5" "3810"
+		"6" "5363"
+		"7" "5350"
+		"8" "9204"
+		"9" "1036"
+		"10" "3839"
+		"11" "4191"
+		"12" "492"
+		"13" "12472"
+		"14" "4182"
+		"15" "7332"
+		"16" "4305"
+		"17" "4711"
+		"18" "4695"
+		"19" "4175"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Frozen District"
+	"publisher" "Frozen District"
+	"homepage" "https://houseflipper2.com/"
+	"listofdlc" "2649200"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "House Flipper 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HouseFlipper2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Digital Deluxe Edition DLC\\BrowseCurrentDir.bat"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "2649200"
+			}
+			"description_loc"
+			{
+				"english" "Deluxe DLC Content Browser"
+			}
+			"description" "Deluxe DLC Content Browser"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamcontrollertouchtemplateindex" "9"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,norwegian,turkish,brazilian,ukrainian,latam"
+	"1190971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7709169146271155261"
+				"size" "6211989379"
+				"download" "5243722080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"akali"
+			{
+				"gid" "08004810DDD4BEBA740C14D130BC70E3"
+				"size" "8A7CCAF682FDF0238DD95A2D0F52902A"
+				"download" "EC3C39CA4A77E1E943F7C45BC87B0254"
+			}
+			"amd-testing"
+			{
+				"gid" "CBE6DCC75E16C3D9BD8AF8A2D81803BB"
+				"size" "7D2DBBACB60FF23F04ABEBE61D62A901"
+				"download" "03CBADDE43FD12DC8D0FD925B75B2A77"
+			}
+			"annie"
+			{
+				"gid" "685658C1ADCF366F8C35A4F8FB886623"
+				"size" "86209810EE4B1F5FD275587E790B9FCB"
+				"download" "F91C99C7C81C24E0226CD93A4425079B"
+			}
+			"bleeding-develop"
+			{
+				"gid" "5AFFB92FF3925EC5E760D5C83EEEC0CE"
+				"size" "38D7257C36CD5F0DE553B1EDCF270259"
+				"download" "778DC698D4BFD87016581830B8FC7E0D"
+			}
+			"bleeding-master"
+			{
+				"gid" "99E862599203652683A2700262EDB58D"
+				"size" "7503CF37D9C55CEFCC8770E2A6CAA839"
+				"download" "F7BAA64344C61A241C0027B0B23F8235"
+			}
+			"garen"
+			{
+				"gid" "CC072C36BB51CC8980A269ABB6D7C63E"
+				"size" "6D8E8697A8930B55C4108C60E675AD0B"
+				"download" "CC445A2F28CAD327A2BF8C01EBAF800F"
+			}
+			"jaximus"
+			{
+				"gid" "B78944FCBAFE8720D050A4B0EC208AB6"
+				"size" "5B73FED8D6AAAD71D0DC001EB120B116"
+				"download" "85419155EE2F7EACADB630494E7EE9C5"
+			}
+			"malzahar"
+			{
+				"gid" "06AA2BDD8DCD4CBF23BB1D99A67767C0"
+				"size" "F9BD2AD4F39D71D99391AF41BF1C4DAF"
+				"download" "87EDA4DEB7E891720070904FE88947D4"
+			}
+			"manual-build"
+			{
+				"gid" "3D1E89C57E3F2905E6C5ABA78612E44A"
+				"size" "FAEA5F7FB84972C676B5C889BDADCC9D"
+				"download" "B91BF5EF3C037E15085D36685377536A"
+			}
+			"pw-playtest"
+			{
+				"gid" "23FFD32CC28E0E2796BF759D060C3ADD"
+				"size" "508F120B247E927D8588A38340DB2917"
+				"download" "BAF7362D753E16E8937A288282E0C072"
+			}
+			"release"
+			{
+				"gid" "3E4CDB77A6DAD401A0EE26D915F213C7"
+				"size" "35000B56DDB8BE50AC2E69C899169749"
+				"download" "AC9A86016BB762273282F2C3D3ED464A"
+			}
+			"stale-develop"
+			{
+				"gid" "A5EC6D4DCFAEE1C9A92F4559F4C4AB00"
+				"size" "E0EC508E81E8AC5A6A08F6AC091320AC"
+				"download" "C9494FD8DE4349FE9DF698DD74E2452A"
+			}
+			"teemo"
+			{
+				"gid" "A3E162D48839C91B622C019827A33F95"
+				"size" "47CAA74256F450EF83FAC09D1C8CB31E"
+				"download" "B8B7A072E9BB033E51D651AAC05E9F70"
+			}
+			"translations"
+			{
+				"gid" "47F72DC45B7001C0444D789B94F0EBC5"
+				"size" "61E7716D1A9F485223BBD433A54D92DE"
+				"download" "E2FE6594977B95A3381A533DDEF9D24D"
+			}
+			"tryndamare"
+			{
+				"gid" "D13B7E9532DFD1A443919939A183E96E"
+				"size" "8F534087032A5BCD0516D36D2049B2EC"
+				"download" "7CF069709B6093C2AE10CBF6409B40EA"
+			}
+			"wskrzybalski"
+			{
+				"gid" "B6FF83E9BE9E6B8D32B3226007037EA5"
+				"size" "869A2AA1DBD603E94525F087CFC252F4"
+				"download" "D565F9BF79D2E5C008A7290D4357F5F4"
+			}
+			"ziggs"
+			{
+				"gid" "A86EE82BC3C3BC3A9539C0F7F54CA490"
+				"size" "161737D28118FCC0B0EDBBC3AD36EF8B"
+				"download" "EB9568D3812126F93EC84DDCFA43C763"
+			}
+		}
+	}
+	"1190972"
+	{
+		"dlcappid" "1193140"
+	}
+	"2649200"
+	{
+		"dlcappid" "2649200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2894455407820860002"
+				"size" "3767259672"
+				"download" "3798965904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"akali"
+			{
+				"gid" "6F1B29603ED925C5B44B6C1E735EBFBA"
+				"size" "72D23F3F29210AE5FED2746D2B569A6D"
+				"download" "25720A86743D017E3E957F5A2694F7A5"
+			}
+			"amd-testing"
+			{
+				"gid" "6BBA3F215007DD26F59B500F06CB66F3"
+				"size" "62A6B1B3CC1A42E9B67752B5C591B123"
+				"download" "2E31EFEDD9DD4198387045C3E2486629"
+			}
+			"annie"
+			{
+				"gid" "364CA9DF1D478E63B2A6017A66B86696"
+				"size" "E5170B5BA88F55E38C84E86222CD3EC0"
+				"download" "23B5D91539843D7E638BB7AE95DBF5EA"
+			}
+			"bleeding-develop"
+			{
+				"gid" "EAE7C2E047EF6982C405E1F7ACC61C63"
+				"size" "9C4225AA97F08AFC519653646390CC9C"
+				"download" "112EB34F652AB3FB32DD19B829753EBD"
+			}
+			"bleeding-master"
+			{
+				"gid" "7621B1652762071DCBA43616555857CD"
+				"size" "A56404AD7F4707064C2D2CFADBD256B3"
+				"download" "83DEDBC11D55AFD46724AE70C11936E6"
+			}
+			"garen"
+			{
+				"gid" "F37C363AE881D283E7BCA7A29A2A68A8"
+				"size" "BB7B7F2A3F2DE038B159F31D7EC518B8"
+				"download" "F7C4F979E264A40E9078BEF69648472E"
+			}
+			"jaximus"
+			{
+				"gid" "E909BA28D4A1F0C6CBDBDD6BC7E3E2E0"
+				"size" "BEC607542070543E490DB64C9F4B08D6"
+				"download" "8A49FA33E1C5CACD7C8769227D46E7B8"
+			}
+			"malzahar"
+			{
+				"gid" "6C11B0912A20E8DE5395362B7BF30346"
+				"size" "5479A02727DC6E8BB2D648A2DD3EC5C7"
+				"download" "6D59C96C037375644EABC77BE728FE7D"
+			}
+			"manual-build"
+			{
+				"gid" "7331913628140B650044B4CE16205F11"
+				"size" "5637B35D17A2741053E066A92FB53621"
+				"download" "A461361DA393352206C569D6BA95A9C6"
+			}
+			"pw-playtest"
+			{
+				"gid" "24C6F33C56A96BBAFC34097F09FD13C7"
+				"size" "9BE81BC51B06D3140C77D90A07823780"
+				"download" "F1DC607139249EF1AEB7AAECCE757D7B"
+			}
+			"release"
+			{
+				"gid" "C6F51DE77A362B20B37BE836EE977D6C"
+				"size" "1F9F88966C958B5C3988EFFF57BFCBA6"
+				"download" "4F08CCF4FF5F86E8FCF3294062176DE3"
+			}
+			"stale-develop"
+			{
+				"gid" "FA7747117582452BE34D2C37153373BB"
+				"size" "F48C69A613A855567A1056103E1BAE2B"
+				"download" "B5B1114826C67519B55594C51BDE6929"
+			}
+			"teemo"
+			{
+				"gid" "1CA0423F1B7BCD623F247BA8457F907A"
+				"size" "853109BA240CE787996F67BEFD902C6E"
+				"download" "16986E769C57CC68446B004333B0D6F3"
+			}
+			"translations"
+			{
+				"gid" "01EA3301C9BDEF3148110FB6D96B2AD0"
+				"size" "B950AF25B137A37DA4525EB7B3A89D3D"
+				"download" "F0C328874E05D190F6AA7FE1E888BBB4"
+			}
+			"tryndamare"
+			{
+				"gid" "E559D9F89362152E3BF6953B16F69815"
+				"size" "67B88784A41290C48F1ACAE9E1AFDE77"
+				"download" "AD9F58EC32613D62CBC0812DC58369E0"
+			}
+			"wskrzybalski"
+			{
+				"gid" "81B19B8C2BD7A29350575B9FAFD230A0"
+				"size" "1DDDFB5C18FC3CB70FB726DC881EE130"
+				"download" "9F1305D4FE20A6B7DE4A2D3C79B9AF41"
+			}
+			"ziggs"
+			{
+				"gid" "3F6EBDECED2A1C7580849D1AE0A7F392"
+				"size" "845883BA82EF914CA25E2425B7B644DE"
+				"download" "1E9A5D78A90B86C18342D16BCA9D93A0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13443641"
+			"timeupdated" "1707987761"
+		}
+		"akali"
+		{
+			"buildid" "13255817"
+			"pwdrequired" "1"
+			"timeupdated" "1706071362"
+		}
+		"amd-testing"
+		{
+			"buildid" "13568392"
+			"pwdrequired" "1"
+			"timeupdated" "1709024751"
+		}
+		"annie"
+		{
+			"buildid" "13580339"
+			"pwdrequired" "1"
+			"timeupdated" "1709066309"
+		}
+		"bleeding-develop"
+		{
+			"buildid" "13621115"
+			"pwdrequired" "1"
+			"timeupdated" "1709370762"
+		}
+		"bleeding-master"
+		{
+			"buildid" "13620079"
+			"pwdrequired" "1"
+			"timeupdated" "1709351513"
+		}
+		"garen"
+		{
+			"buildid" "13333519"
+			"pwdrequired" "1"
+			"timeupdated" "1706777081"
+		}
+		"jaximus"
+		{
+			"buildid" "13477306"
+			"pwdrequired" "1"
+			"timeupdated" "1708095294"
+		}
+		"malzahar"
+		{
+			"buildid" "13511371"
+			"pwdrequired" "1"
+			"timeupdated" "1708456994"
+		}
+		"manual-build"
+		{
+			"buildid" "12959735"
+			"pwdrequired" "1"
+			"timeupdated" "1702545289"
+		}
+		"pw-playtest"
+		{
+			"buildid" "13600351"
+			"pwdrequired" "1"
+			"timeupdated" "1709214080"
+		}
+		"release"
+		{
+			"buildid" "13443641"
+			"pwdrequired" "1"
+			"timeupdated" "1707831063"
+		}
+		"stale-develop"
+		{
+			"buildid" "13555813"
+			"pwdrequired" "1"
+			"timeupdated" "1708832160"
+		}
+		"teemo"
+		{
+			"buildid" "13568392"
+			"pwdrequired" "1"
+			"timeupdated" "1708981380"
+		}
+		"translations"
+		{
+			"buildid" "12959747"
+			"pwdrequired" "1"
+			"timeupdated" "1702545345"
+		}
+		"tryndamare"
+		{
+			"buildid" "13510010"
+			"pwdrequired" "1"
+			"timeupdated" "1708446582"
+		}
+		"wskrzybalski"
+		{
+			"buildid" "13531545"
+			"pwdrequired" "1"
+			"timeupdated" "1708608629"
+		}
+		"ziggs"
+		{
+			"buildid" "13329525"
+			"pwdrequired" "1"
+			"timeupdated" "1706740648"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "House Flipper 2/Profiles"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "House Flipper 2"
+			"pattern" "recovery*"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "House Flipper 2"
+			"pattern" "user*"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "House Flipper 2/Pictures"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "House Flipper 2/Override"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "House Flipper 2/Timelines"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2/Profiles"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2"
+			"pattern" "recovery*"
+		}
+		"11"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2"
+			"pattern" "user*"
+		}
+		"12"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2/Pictures"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"13"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2/Override"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"14"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2/Timelines"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"15"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2"
+			"pattern" "migrated"
+		}
+		"16"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2"
+			"pattern" "status.txt"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22598520"
+"_sha" "0d26102186a3ff8266e75433229c7b26d198311e"
+"_size" "16622"
