@@ -1,0 +1,510 @@
+"appid" "795420"
+"common"
+{
+	"name" "The Darkside Detective: A Fumble in the Dark"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "2b5ce1b71d463cc32bd5dd7da98605168586e010"
+	"logo_small" "2b5ce1b71d463cc32bd5dd7da98605168586e010_thumb"
+	"icon" "66efda2667cf8cb38070c7050d922eadfd982cdf"
+	"clienttga" "a78ca5de4c5666fe2538ae66314bbb69c6257a99"
+	"clienticon" "347851c71bdb9332f289c4cad603c95ad9542cfd"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7856889"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "The Darkside Detective: A Fumble in the Dark"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "89.90665110851808"
+			"height_pct" "74.69722156257421"
+		}
+	}
+	"store_asset_mtime" "1668525451"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spooky Doorway"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Akupara Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Akupara Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Darkside Detective"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1618491619"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-darkside-detective-a-fumble-in-the-dark\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "795420"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "5613"
+		"2" "3964"
+		"3" "1698"
+		"4" "1719"
+		"5" "5716"
+		"6" "1664"
+		"7" "4166"
+		"8" "597"
+		"9" "31275"
+		"10" "3871"
+		"11" "19995"
+		"12" "21"
+		"13" "3799"
+		"14" "8369"
+		"15" "3834"
+		"16" "11014"
+		"17" "4136"
+		"18" "5923"
+		"19" "4004"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Spooky Doorway"
+	"publisher" "Akupara Games"
+	"homepage" "http://darksidedetective.com/"
+}
+"config"
+{
+	"installdir" "The Darkside Detective Season 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Darkside Detective 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "The Darkside Detective 2.app/Contents/MacOS/The Darkside Detective 2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "The Darkside Detective 2.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65524"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"795421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9130991132204996284"
+				"size" "1450522968"
+				"download" "283053712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"anthology_marketing_demo"
+			{
+				"gid" "43DF38F8C7ADC3FAEAA3ABA8C35A2B60"
+				"size" "2D5603E8E60C2B0EC7CB367EC7759934"
+				"download" "4D1F64FE49BEDF97BB7F39A6FC53FF99"
+			}
+			"development"
+			{
+				"gid" "2AB7EBEB6CF27B38DDC4549265D59CE1"
+				"size" "082552467F5362DC4D4872ED0BF0083B"
+				"download" "796714C097813EA12134C0C7FDFE664E"
+			}
+			"development_debug"
+			{
+				"gid" "D8D38BA0647D735366257D114C5B281F"
+				"size" "E0B9367485376426B0BAACDE560CF006"
+				"download" "2648EC7DDF583B19C12BC95A0CE755C0"
+			}
+			"lqa_testing"
+			{
+				"gid" "6CEE8C527862CAAD5649911E5914D11B"
+				"size" "99AC183BCF1C049ACBD52499B1236A5B"
+				"download" "7B2C71814A59A126EA1DFD6A739DD547"
+			}
+			"staging"
+			{
+				"gid" "60B71ED0DC10C20C9338C495901BFFFF"
+				"size" "E9251504ADFD2202559181A94DE6E45C"
+				"download" "FF2474ED40340B8FFD89C4025D39DC14"
+			}
+			"touchscreen-testing"
+			{
+				"gid" "5264BBA14E40E9806F2AB86F708A1EE7"
+				"size" "C291CA915CC1C78D1149C8327F3AB0C3"
+				"download" "8A87A9F5A00DB84DB94C525CF943E4B2"
+			}
+		}
+	}
+	"795422"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7414699254312185356"
+				"size" "1481297905"
+				"download" "289175600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"anthology_marketing_demo"
+			{
+				"gid" "2610821FE4C3ECEB2D50E1B16EEFC9BD"
+				"size" "2AE862AECB158E76B56F58047D840124"
+				"download" "ED9FFB11348FF7A542EC98DE3F2536E1"
+			}
+			"development"
+			{
+				"gid" "B73010DD49CDF8D3BE91A807EBC4BB43"
+				"size" "1500D894CFA3BD4FE948C52886E5AC72"
+				"download" "90A52D24836014DE37788C9FE5F106BE"
+			}
+			"development_debug"
+			{
+				"gid" "8A6D1F9E7D32E80BE36D2B90E6DAAB9B"
+				"size" "EE42EEF4C80F7FCEC0EC15883CB9A855"
+				"download" "6C6E25B20F0602FCB7489BAED3F5C2D3"
+			}
+			"lqa_testing"
+			{
+				"gid" "59E1E10FC4397C862A94987E88628EAA"
+				"size" "68FDBACF4C471CA6A79AD225CDF38FA8"
+				"download" "D02ADF5FF05777162D1E1F4D843258CB"
+			}
+			"staging"
+			{
+				"gid" "A2C1613AE4077491FCB1AB13BA630669"
+				"size" "17EB34F79A50C514390BA24D45F8A001"
+				"download" "3B483F553EE821104B584B83F50DBCBD"
+			}
+			"touchscreen-testing"
+			{
+				"gid" "A16A4000A77C43B0A326FEC2D0F3CA8F"
+				"size" "E86BAD26212E5E54F5FBA9A5515F5C20"
+				"download" "91C17746F47F87FBA261B85F010CD24B"
+			}
+		}
+	}
+	"795423"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5789855680962118119"
+				"size" "1455440517"
+				"download" "283594896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"anthology_marketing_demo"
+			{
+				"gid" "B41C24A19708BA4620902BE4218A1F6F"
+				"size" "5C2531D0E5ACB9EC7A16DA39D6686658"
+				"download" "4930A4D9C1097C6399D6C11053D4884E"
+			}
+			"development"
+			{
+				"gid" "D9124A03809B92D2229D03D8EDF02639"
+				"size" "2BED3ED93BA4DB80B13288B82143E196"
+				"download" "DE89729A97552EEB0EFBC7032B14AEAD"
+			}
+			"development_debug"
+			{
+				"gid" "22A4A3C2A1112B4431E3F59C5DB4FB26"
+				"size" "71EA629C6F868F7D2D866751DDF56B0E"
+				"download" "CF0A4D869FD261BF0BB505CA471B25F7"
+			}
+			"lqa_testing"
+			{
+				"gid" "E226F83DC119590EA210378B51251362"
+				"size" "6A80118DD501ABB07FB805BD04949D2C"
+				"download" "348CA02F0B5392A17DFB67ECFB18F1C8"
+			}
+			"staging"
+			{
+				"gid" "FCAD0CBECC045DEE16EA785F3451A891"
+				"size" "5C7C2B059CE3FFCD0A092C04981F337C"
+				"download" "75F1EF7FC37226DDDE13D6041B55A262"
+			}
+			"touchscreen-testing"
+			{
+				"gid" "E303A2D2D46D8B703D7F2481E8E220F3"
+				"size" "216CC24E269AF05CB8E8487D2F003D25"
+				"download" "0D1812BCE0193373BE61B4D8B77F43C6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13124371"
+			"timeupdated" "1706616248"
+		}
+		"anthology_marketing_demo"
+		{
+			"buildid" "9432770"
+			"pwdrequired" "1"
+			"timeupdated" "1662040550"
+		}
+		"development"
+		{
+			"buildid" "13620122"
+			"pwdrequired" "1"
+			"timeupdated" "1709352477"
+		}
+		"development_debug"
+		{
+			"buildid" "9793541"
+			"pwdrequired" "1"
+			"timeupdated" "1666691248"
+		}
+		"lqa_testing"
+		{
+			"buildid" "9534600"
+			"pwdrequired" "1"
+			"timeupdated" "1663376978"
+		}
+		"staging"
+		{
+			"buildid" "13380765"
+			"pwdrequired" "1"
+			"timeupdated" "1707224260"
+		}
+		"touchscreen-testing"
+		{
+			"buildid" "12124756"
+			"pwdrequired" "1"
+			"timeupdated" "1694020450"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Spooky Doorway/The Darkside Detective 2"
+			"pattern" "*.save"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Spooky Doorway/The Darkside Detective 2"
+			"pattern" "DarksideOptions"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Spooky Doorway/The Darkside Detective 2"
+					"replace" "com.spookydoorway.dsds2"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Spooky Doorway/The Darkside Detective 2"
+					"replace" ".config/unity3d/Spooky Doorway/The Darkside Detective 2"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22596566"
+"_sha" "36fc1a7114ccaae8505af84c256b6d261ad2da8f"
+"_size" "10495"
