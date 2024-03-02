@@ -1,0 +1,732 @@
+"appid" "1129580"
+"common"
+{
+	"name" "Medieval Dynasty"
+	"type" "Game"
+	"clienticon" "98e966e80fe4a264cdc45b4aed0421e2934a77db"
+	"clienttga" "d28a0607006212887917dbe5f7506e2fc950799e"
+	"icon" "2bc2abbf62765ad587a399f67d8ca89a8f486e7b"
+	"logo" "d6cbf2a2e89c6bb9b60164a1503139b06ce53c08"
+	"logo_small" "d6cbf2a2e89c6bb9b60164a1503139b06ce53c08_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "中世纪王朝"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1651881600"
+		"tested_build_id" "8606070"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Medieval Dynasty"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "56.42119673168156"
+			"height_pct" "67.58880570695959"
+		}
+	}
+	"store_asset_mtime" "1708641581"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Render Cube"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Toplitz Productions"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dynasty"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Render Cube"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1632391320"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/medieval-dynasty\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1129580"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "1685"
+		"2" "4172"
+		"3" "1695"
+		"4" "1662"
+		"5" "122"
+		"6" "4166"
+		"7" "4182"
+		"8" "7332"
+		"9" "599"
+		"10" "4175"
+		"11" "3839"
+		"12" "3987"
+		"13" "21"
+		"14" "19"
+		"15" "12472"
+		"16" "492"
+		"17" "3810"
+		"18" "1654"
+		"19" "6041"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Render Cube"
+	"publisher" "Toplitz Productions"
+	"homepage" "https://rendercube.pl"
+	"listofdlc" "1418980,1766020,1766021,1766022"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Medieval Dynasty"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Medieval_Dynasty.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"1129581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4001847945825881776"
+				"size" "9899194157"
+				"download" "4865828752"
+			}
+			"pre_co-op"
+			{
+				"gid" "1173791062572629702"
+				"size" "6515255044"
+				"download" "3413916528"
+			}
+			"public_testing"
+			{
+				"gid" "902849730196427145"
+				"size" "9924779765"
+				"download" "4882552448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugging"
+			{
+				"gid" "EAB236D233307D8FD8B64E79E1028CB0"
+				"size" "D161F0C0494DE4519BE60E3E69DD4F7D"
+				"download" "D0750291209BC95F5E392B02DA825698"
+			}
+			"internal_dev"
+			{
+				"gid" "819C4C547ABEE68F97D4FB1960892ED9"
+				"size" "8E16783689E2A15CA14CC7CB43988F9D"
+				"download" "B44C3B8F2323BC4041A2DEDB685096EF"
+			}
+			"internal_fixing"
+			{
+				"gid" "C42F8039757E6423BB0350CFAD192654"
+				"size" "5ABD9DB5EA7C2A49514D85CBFB895579"
+				"download" "9128E2FDB5E93279A05D17AC8B602E32"
+			}
+			"internal_only"
+			{
+				"gid" "92AF110F8D24A6F1DA12CB64CA197DF6"
+				"size" "CAED08D3D8A1DA1C4F6EFFDCBC4CA7EC"
+				"download" "9EBCEECAA1184A8386FA87EEE063EEA2"
+			}
+			"internal_testing"
+			{
+				"gid" "B59AE0843923F815C0E5F9EE45C52482"
+				"size" "D7F1F9939C125918384AC164A9D696E7"
+				"download" "60FDA3A885A3EF2CAC610E7575DC2C58"
+			}
+			"last_ea"
+			{
+				"gid" "1916EDDF8065A10B9705A8A9F0275FAD"
+				"size" "A32480D982B8263020CE3E53B1AF7EFA"
+				"download" "36DFB8244FA8CFE01A614BE43CC18A80"
+			}
+			"public_alternative"
+			{
+				"gid" "D0B9F8BF51962433A320F91FE9210096"
+				"size" "F8E4369A96B7AC3E389D9A5B6019DEC0"
+				"download" "BF282E80F32288C1553630B9115DA5A9"
+			}
+		}
+	}
+	"1418980"
+	{
+		"dlcappid" "1418980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2012596330947774"
+				"size" "3430563972"
+				"download" "3439075760"
+			}
+			"pre_co-op"
+			{
+				"gid" "3320973450896394566"
+				"size" "4508099989"
+				"download" "4527552272"
+			}
+			"public_testing"
+			{
+				"gid" "2012596330947774"
+				"size" "3430563972"
+				"download" "3439075760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugging"
+			{
+				"gid" "B9DE254D91E16AFFFE1CAEAEC6F584DA"
+				"size" "0CAC1281E90ADDEF3EFB79465C4D1701"
+				"download" "BF341C284F9A1C6605B427D85D2350BE"
+			}
+			"internal_dev"
+			{
+				"gid" "13DD1B5DA34CEFECF355C4D985AC4462"
+				"size" "46596D0DCBD988F343E34064E1EF11C0"
+				"download" "1A44FB697ADB256B02AC57AC766B975D"
+			}
+			"internal_fixing"
+			{
+				"gid" "91D2494C305F1A14CCF9838F4D3470C2"
+				"size" "266D25B4FA2D4E3D94E5490575423EAA"
+				"download" "DDFA4FDB514849E00A2F99956B75CD6B"
+			}
+			"internal_testing"
+			{
+				"gid" "45AED15CE4AC5D3BA559CEBED0E3C499"
+				"size" "B63226FE928EFDB30068CD4B77D32777"
+				"download" "2584805168BC5BC499A2B08836904F61"
+			}
+			"last_ea"
+			{
+				"gid" "3A938D09D4FEB6AFC01D64FDA7937A38"
+				"size" "F84CDA335EB2D2E8056F899D958199EC"
+				"download" "D332C3E652E6FF202A0ACA39BDD50F91"
+			}
+			"public_alternative"
+			{
+				"gid" "EE86121176C1737852C0F767A6C345AE"
+				"size" "CDE68E319C77CB8C6BF1F2EB0CD42CB3"
+				"download" "703B9C805FBB459BCDD8F3643BB84A8F"
+			}
+		}
+	}
+	"1766020"
+	{
+		"dlcappid" "1766020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3455912862725522371"
+				"size" "136422509"
+				"download" "121679600"
+			}
+			"pre_co-op"
+			{
+				"gid" "3455912862725522371"
+				"size" "136422509"
+				"download" "121679600"
+			}
+			"public_testing"
+			{
+				"gid" "3455912862725522371"
+				"size" "136422509"
+				"download" "121679600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugging"
+			{
+				"gid" "D81CD128FB0E99581134F61C236F35D5"
+				"size" "AFA60080B0DC9E6E97316BF49F90A8CF"
+				"download" "63B8AD4019B0D68D515A7756490D96EE"
+			}
+			"internal_dev"
+			{
+				"gid" "7A9FE987E51506A762B7277E7DBD6FF9"
+				"size" "37A616267B92A027A8133AE6355AEC1B"
+				"download" "E631F4D59A360CEB6881BC1A7A210CDD"
+			}
+			"internal_fixing"
+			{
+				"gid" "7FB5CD524F06551BD74F5867356CAF2B"
+				"size" "EEE645E7C77BF6F72EF18BD2F7422A92"
+				"download" "5F1DA7D933483A8C3B913574EB3D507D"
+			}
+			"internal_testing"
+			{
+				"gid" "DE94666A4C59E664E33C782E4CCA428C"
+				"size" "776ACCC10A703228616E4A84468C55B6"
+				"download" "DEED87E0E729E894AB7B7D9E43EA39E6"
+			}
+			"last_ea"
+			{
+				"gid" "B21F7C711EC2DBEEB1FEB502566E76BB"
+				"size" "1085415CDFC1AED25F39BC43AA0280A1"
+				"download" "38A1AAB6F8A0710C7B8AB66917359FC1"
+			}
+			"public_alternative"
+			{
+				"gid" "91654D0FFAEB3E70CEA240F4C6944C97"
+				"size" "D7279C8BC4378A293DE51C8E962993DD"
+				"download" "4C9E664F88A3FCB5F48061876EAFDBCC"
+			}
+		}
+	}
+	"1766021"
+	{
+		"dlcappid" "1766021"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3320086066342330262"
+				"size" "52043844"
+				"download" "49754768"
+			}
+			"pre_co-op"
+			{
+				"gid" "3320086066342330262"
+				"size" "52043844"
+				"download" "49754768"
+			}
+			"public_testing"
+			{
+				"gid" "3320086066342330262"
+				"size" "52043844"
+				"download" "49754768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugging"
+			{
+				"gid" "242CAD7B7F9073506BC16972CADB1EBB"
+				"size" "827BA178845419FFA239AD1717F28C16"
+				"download" "46A6A95823FCA57306AB38004492BF0D"
+			}
+			"internal_dev"
+			{
+				"gid" "FD99D7AFCDD1779500BC2FF84445B364"
+				"size" "6BFE584E398849D0B93FE12232598C29"
+				"download" "9105F799A95E15B76075A6D8BA583AD7"
+			}
+			"internal_fixing"
+			{
+				"gid" "D38CD6AD9F1942610FC2EEFED10CD942"
+				"size" "3E911A43E542CBCFDAE9452FD6733E1B"
+				"download" "4DFDC5CDCF4FB677847B7D0C7A1E63B6"
+			}
+			"internal_testing"
+			{
+				"gid" "CF0760DFD7BCDFB5074857AC6F2C4EFF"
+				"size" "3767DD666B542F11A9A248EDB70F47BA"
+				"download" "C68EC858BCCFF67758D328C08CB42F91"
+			}
+			"last_ea"
+			{
+				"gid" "4CD80D9D609E446D6463913DDB6B62BA"
+				"size" "EAB29667622B7096346850BB821BE7A6"
+				"download" "6AB322397653C9C53E2CE74962860391"
+			}
+			"public_alternative"
+			{
+				"gid" "3A4DC745760C9FBB417BB7CECEDEC58C"
+				"size" "1DCFC5D756AF3C7D9695A5971E2E7F1A"
+				"download" "9CA57931759B9636A8D1F5FEF56EEED8"
+			}
+		}
+	}
+	"1766022"
+	{
+		"dlcappid" "1766022"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9195790049611468482"
+				"size" "329581592"
+				"download" "130719200"
+			}
+			"pre_co-op"
+			{
+				"gid" "9195790049611468482"
+				"size" "329581592"
+				"download" "130719200"
+			}
+			"public_testing"
+			{
+				"gid" "9195790049611468482"
+				"size" "329581592"
+				"download" "130719200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugging"
+			{
+				"gid" "B543FF634EA3DAE2AF8BFE4515533C43"
+				"size" "89B0EA2A75E376AF9F486E1412278A2B"
+				"download" "4C515A6C27D5CE5164261E4FB76CF829"
+			}
+			"internal_dev"
+			{
+				"gid" "4C4F0CB2F1138115A7BEABBEB9A9617D"
+				"size" "F72117EBEB64168FDEC1B0B2CA12A62D"
+				"download" "10927E238F66118995107ED22BF75E78"
+			}
+			"internal_fixing"
+			{
+				"gid" "1A6F67FB38DB3BB344EBFF9625B83E37"
+				"size" "82F611E2C061B58568CCCFA31D786A9A"
+				"download" "A16F406B08DAF39F1CC93E8EDF36C3CD"
+			}
+			"internal_testing"
+			{
+				"gid" "2853B7BFEF4898F8354E39D872D286E0"
+				"size" "9AB10F789DFCCD684B16CADE4CBBFBAE"
+				"download" "79BD592036A3EE8A130314913F16D7D7"
+			}
+			"last_ea"
+			{
+				"gid" "23C1148653E4D1684FC6DBBCB03AA73E"
+				"size" "FA591959589D3A83756531D9CEA53AEE"
+				"download" "0971F3BF1C7348C9D7EC4028CDA56A89"
+			}
+			"public_alternative"
+			{
+				"gid" "7B7871FD71B3CB4782A698AE9A9DE4A3"
+				"size" "09E31183D046DDBD43C7AF955C0B2BAD"
+				"download" "09D090ED9981DE9BB8209223C276282C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13519296"
+			"timeupdated" "1708519081"
+		}
+		"debugging"
+		{
+			"buildid" "13601816"
+			"pwdrequired" "1"
+			"timeupdated" "1709214653"
+		}
+		"internal_dev"
+		{
+			"buildid" "13346885"
+			"pwdrequired" "1"
+			"timeupdated" "1706876161"
+		}
+		"internal_fixing"
+		{
+			"buildid" "11543048"
+			"pwdrequired" "1"
+			"timeupdated" "1702385438"
+		}
+		"internal_only"
+		{
+			"buildid" "13603022"
+			"pwdrequired" "1"
+			"timeupdated" "1709290301"
+		}
+		"internal_testing"
+		{
+			"buildid" "13604134"
+			"pwdrequired" "1"
+			"timeupdated" "1709228484"
+		}
+		"last_ea"
+		{
+			"buildid" "12940118"
+			"pwdrequired" "1"
+			"timeupdated" "1702385849"
+		}
+		"pre_co-op"
+		{
+			"buildid" "11595403"
+			"description" "Last public version before Co-Op release"
+			"timeupdated" "1702385380"
+		}
+		"public_alternative"
+		{
+			"buildid" "13520015"
+			"pwdrequired" "1"
+			"timeupdated" "1708523419"
+		}
+		"public_testing"
+		{
+			"buildid" "13604053"
+			"description" "Public testing branch before public release"
+			"timeupdated" "1709227900"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "214"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Medieval_Dynasty\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22576547"
+"_sha" "f3c8f00a315f1d3ac580625559e9db52305d2cef"
+"_size" "15162"
