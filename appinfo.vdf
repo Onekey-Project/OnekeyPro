@@ -1,0 +1,1818 @@
+"appid" "400750"
+"common"
+{
+	"name" "Call to Arms - Gates of Hell: Ostfront"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "8c31fcdc5204f7e9c90519497d2d14bdb2e37170"
+	"logo_small" "8c31fcdc5204f7e9c90519497d2d14bdb2e37170_thumb"
+	"icon" "43bd67ff013be5ae9665a6f8fe7c5661960463ed"
+	"clienttga" "6f30dfd797523c8b00084679351c136a9ca7994d"
+	"clienticon" "8d3905ad9865dcc00cb7ed7014e208fa3996e569"
+	"linuxclienticon" "3380070b973eb22d03b0192694f5e58c7d6e9a0c"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1706140800"
+		"tested_build_id" "13077002"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "19.760923069016485"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1701282847"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Barbedwire Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Digitalmindsoft"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Digitalmindsoft"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_17" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_25" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1623430740"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "400750"
+	"store_tags"
+	{
+		"0" "4150"
+		"1" "9"
+		"2" "3813"
+		"3" "1676"
+		"4" "1678"
+		"5" "4182"
+		"6" "3987"
+		"7" "4175"
+		"8" "8122"
+		"9" "6730"
+		"10" "1775"
+		"11" "3859"
+		"12" "1685"
+		"13" "4168"
+		"14" "4684"
+		"15" "4791"
+		"16" "3843"
+		"17" "19"
+		"18" "13276"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Barbedwire Studios"
+	"publisher" "Digitalmindsoft"
+	"homepage" "https://www.barbed-wire.eu/"
+	"gamemanualurl" "https://store.steampowered.com/manual/400750/"
+	"listofdlc" "1911520,2123890,2447590"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Call to Arms - Gates of Hell"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "binaries/x64/call_to_arms.exe"
+			"description" "Launch"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "binaries/x64/call_to_arms_ed.exe"
+			"type" "none"
+			"description_loc"
+			{
+				"english" "Editor"
+			}
+			"description" "Editor"
+		}
+		"2"
+		{
+			"executable" "binaries/x64/call_to_arms.exe"
+			"arguments" "-safe"
+			"type" "none"
+			"description_loc"
+			{
+				"english" "Safe mode"
+			}
+			"description" "Safe mode"
+		}
+		"3"
+		{
+			"executable" "binaries/x64/call_to_arms.exe"
+			"arguments" "-no_mods"
+			"type" "none"
+			"description_loc"
+			{
+				"english" "Safe mode (no mods)"
+			}
+			"description" "Safe mode (no mods)"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "400750"
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229020"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"400751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4448677881254595480"
+				"size" "65062807934"
+				"download" "29131106368"
+			}
+			"1.016"
+			{
+				"gid" "8926551096001162247"
+				"size" "29781618026"
+				"download" "12972139120"
+			}
+			"1.017"
+			{
+				"gid" "1855875726390321147"
+				"size" "29847889096"
+				"download" "12996820624"
+			}
+			"1.018"
+			{
+				"gid" "1025035911484353943"
+				"size" "29928645654"
+				"download" "13035560048"
+			}
+			"1.019"
+			{
+				"gid" "4699331660092757282"
+				"size" "30451512256"
+				"download" "13217454016"
+			}
+			"1.020"
+			{
+				"gid" "3566590543890412496"
+				"size" "30467900083"
+				"download" "13227660800"
+			}
+			"1.021"
+			{
+				"gid" "3227299912698528259"
+				"size" "44623205982"
+				"download" "19295573312"
+			}
+			"1.023"
+			{
+				"gid" "4208462025240970703"
+				"size" "44804167317"
+				"download" "19404038928"
+			}
+			"1.024"
+			{
+				"gid" "2093942500823200051"
+				"size" "45417085008"
+				"download" "19532505952"
+			}
+			"1.025"
+			{
+				"gid" "5749037110365722515"
+				"size" "46012562843"
+				"download" "19691238192"
+			}
+			"1.026"
+			{
+				"gid" "2425594444333812024"
+				"size" "48904779461"
+				"download" "20780571440"
+			}
+			"1.027"
+			{
+				"gid" "8448588272374694671"
+				"size" "47801585511"
+				"download" "20693357952"
+			}
+			"1.028"
+			{
+				"gid" "1101887145549324863"
+				"size" "48106212698"
+				"download" "21032849760"
+			}
+			"1.029"
+			{
+				"gid" "4557459142772865500"
+				"size" "46779563318"
+				"download" "20418915936"
+			}
+			"1.035"
+			{
+				"gid" "2421351875069538267"
+				"size" "64730977508"
+				"download" "28939736576"
+			}
+			"legacy_version"
+			{
+				"gid" "2472141533424302992"
+				"size" "26309536155"
+				"download" "11646061984"
+			}
+			"open_beta"
+			{
+				"gid" "4448677881254595480"
+				"size" "65062807934"
+				"download" "29131106368"
+			}
+			"test_launch2"
+			{
+				"gid" "2940886366170370096"
+				"size" "65062818174"
+				"download" "29100270960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "B762A349FBA883851C4C3061637EBBFF"
+				"size" "1B5F01A95DD4109426DD10CF5321D646"
+				"download" "B5A1747DA20A424EADC5F454634A9406"
+			}
+			"launch_test"
+			{
+				"gid" "D5E37BADB870377804FD85F85298B067"
+				"size" "189B80EBC89ADFF71A7D2C17B677CBF0"
+				"download" "CD644A5182658D666F2BA3D4F326D6DD"
+			}
+			"pointer"
+			{
+				"gid" "B9FEE53472A4584BB8C5894B3D2A9218"
+				"size" "629A31A467063EF46BA10BB6FDBA7DF1"
+				"download" "B648F4FC3998E12448F05F65EF19E6D2"
+			}
+			"validation"
+			{
+				"gid" "9BA0CE69C58A457025AECBC71DF50F4A"
+				"size" "DD9F686A9DD999AD3FE00EDF637E4E64"
+				"download" "8326E4AFE5B4A5DB154BF07540CC3921"
+			}
+		}
+	}
+	"400752"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2381920988763709629"
+				"size" "2573239"
+				"download" "388896"
+			}
+			"1.016"
+			{
+				"gid" "8041753280648681525"
+				"size" "1323593"
+				"download" "238800"
+			}
+			"1.017"
+			{
+				"gid" "1458763176500192311"
+				"size" "1323529"
+				"download" "238928"
+			}
+			"1.018"
+			{
+				"gid" "4485825240739907851"
+				"size" "1323187"
+				"download" "238880"
+			}
+			"1.019"
+			{
+				"gid" "5978234266744288144"
+				"size" "1331824"
+				"download" "240016"
+			}
+			"1.020"
+			{
+				"gid" "6793873317168658135"
+				"size" "1332092"
+				"download" "240128"
+			}
+			"1.021"
+			{
+				"gid" "2488077804219170033"
+				"size" "1625953"
+				"download" "280944"
+			}
+			"1.023"
+			{
+				"gid" "2488077804219170033"
+				"size" "1625953"
+				"download" "280944"
+			}
+			"1.024"
+			{
+				"gid" "4284845634987129993"
+				"size" "1655982"
+				"download" "282512"
+			}
+			"1.025"
+			{
+				"gid" "4412423391987375089"
+				"size" "1658614"
+				"download" "282800"
+			}
+			"1.026"
+			{
+				"gid" "3048797655578467990"
+				"size" "1795832"
+				"download" "306624"
+			}
+			"1.027"
+			{
+				"gid" "7603373278463763483"
+				"size" "1799666"
+				"download" "305824"
+			}
+			"1.028"
+			{
+				"gid" "1230628205162014428"
+				"size" "1804195"
+				"download" "306272"
+			}
+			"1.029"
+			{
+				"gid" "8889546401921270180"
+				"size" "1816431"
+				"download" "309568"
+			}
+			"1.035"
+			{
+				"gid" "8078133397524594910"
+				"size" "2570708"
+				"download" "388672"
+			}
+			"legacy_version"
+			{
+				"gid" "7520864529382547642"
+				"size" "1300113"
+				"download" "234784"
+			}
+			"open_beta"
+			{
+				"gid" "2381920988763709629"
+				"size" "2573239"
+				"download" "388896"
+			}
+			"test_launch2"
+			{
+				"gid" "2381920988763709629"
+				"size" "2573239"
+				"download" "388896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "A5E9116E4D93AA0750357FCA9E74B7F9"
+				"size" "99DA02F5276226168CFFB76C20CB96F7"
+				"download" "55FA182D55F451DE308CF7F83040AE2C"
+			}
+			"launch_test"
+			{
+				"gid" "69FF27F357F742945DD79E72DC8ECCDA"
+				"size" "0026913E74B48CEBE19630FC37E35AA8"
+				"download" "BCEED1F788E4549727C1318090B2120C"
+			}
+			"pointer"
+			{
+				"gid" "56622E58EB8BAE6FD44021E39DC87F12"
+				"size" "6679A3F58F2A415BDAA55920E0BF1744"
+				"download" "D54EE6E1B31AF70E514BB534E016258D"
+			}
+			"validation"
+			{
+				"gid" "7241CD3012B51B8044FD272A83F84BFD"
+				"size" "C9AF0BE7250F035BC71330D5957D3DCD"
+				"download" "AE983411D794721BE356E4E7DCE0E924"
+			}
+		}
+	}
+	"400753"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2618866297041922869"
+				"size" "2144061"
+				"download" "326688"
+			}
+			"1.016"
+			{
+				"gid" "4993498464205336818"
+				"size" "1317641"
+				"download" "239408"
+			}
+			"1.017"
+			{
+				"gid" "4770474609894185065"
+				"size" "1319602"
+				"download" "239520"
+			}
+			"1.018"
+			{
+				"gid" "4895805969909738898"
+				"size" "1319267"
+				"download" "239392"
+			}
+			"1.019"
+			{
+				"gid" "2123467248035902783"
+				"size" "1327298"
+				"download" "240400"
+			}
+			"1.020"
+			{
+				"gid" "2293372915380483033"
+				"size" "1327901"
+				"download" "240464"
+			}
+			"1.021"
+			{
+				"gid" "1213499551402761155"
+				"size" "1333221"
+				"download" "240880"
+			}
+			"1.023"
+			{
+				"gid" "1213499551402761155"
+				"size" "1333221"
+				"download" "240880"
+			}
+			"1.024"
+			{
+				"gid" "1525368090535675105"
+				"size" "1334366"
+				"download" "240048"
+			}
+			"1.025"
+			{
+				"gid" "1537684309932353034"
+				"size" "1334699"
+				"download" "239984"
+			}
+			"1.026"
+			{
+				"gid" "1145265988643562644"
+				"size" "1340887"
+				"download" "240384"
+			}
+			"1.027"
+			{
+				"gid" "7169230870139497202"
+				"size" "1343622"
+				"download" "239280"
+			}
+			"1.028"
+			{
+				"gid" "5593897720108414756"
+				"size" "1348069"
+				"download" "239488"
+			}
+			"1.029"
+			{
+				"gid" "8790084823738997045"
+				"size" "1352846"
+				"download" "241104"
+			}
+			"1.035"
+			{
+				"gid" "6859907647449193237"
+				"size" "2142756"
+				"download" "326464"
+			}
+			"legacy_version"
+			{
+				"gid" "6344514384340199785"
+				"size" "1294783"
+				"download" "235632"
+			}
+			"open_beta"
+			{
+				"gid" "2618866297041922869"
+				"size" "2144061"
+				"download" "326688"
+			}
+			"test_launch2"
+			{
+				"gid" "2618866297041922869"
+				"size" "2144061"
+				"download" "326688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "7C46256AE596EC14EBC36776A55CABD7"
+				"size" "686534EB7E56F52FBA7F4C2EBA8F04B0"
+				"download" "995DA92BDE5E000095CBB26A08682B1C"
+			}
+			"launch_test"
+			{
+				"gid" "11EE01D9EE64E552F1DB3C0192747E09"
+				"size" "B42293C898DF1C12E522E28EC56B2741"
+				"download" "282F714528771750AA280CEC19C70B90"
+			}
+			"pointer"
+			{
+				"gid" "99B8C7F54224035E872470D5FC490E3E"
+				"size" "8B0800EF207EB2B64CF21914FDF27EC1"
+				"download" "B08968192689E78DC959C834DD7BF283"
+			}
+			"validation"
+			{
+				"gid" "D22155F14C4FD7EE1BA8BEF2A60544C2"
+				"size" "7CB5F3D320A5AAC5920C766C3577E4EB"
+				"download" "1C51E230787036BB97AFD309B9D871CC"
+			}
+		}
+	}
+	"400754"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3894066733816530628"
+				"size" "2606244"
+				"download" "399856"
+			}
+			"1.016"
+			{
+				"gid" "437577642777192157"
+				"size" "1350802"
+				"download" "247696"
+			}
+			"1.017"
+			{
+				"gid" "9095225898760154853"
+				"size" "1352709"
+				"download" "247872"
+			}
+			"1.018"
+			{
+				"gid" "1935522711285885377"
+				"size" "1352424"
+				"download" "247760"
+			}
+			"1.019"
+			{
+				"gid" "5461630908231859288"
+				"size" "1360622"
+				"download" "248800"
+			}
+			"1.020"
+			{
+				"gid" "361203234755791132"
+				"size" "1360894"
+				"download" "248752"
+			}
+			"1.021"
+			{
+				"gid" "4131992694023141022"
+				"size" "1665634"
+				"download" "288704"
+			}
+			"1.023"
+			{
+				"gid" "4131992694023141022"
+				"size" "1665634"
+				"download" "288704"
+			}
+			"1.024"
+			{
+				"gid" "8573533582464471637"
+				"size" "1695156"
+				"download" "289936"
+			}
+			"1.025"
+			{
+				"gid" "2943591740728654438"
+				"size" "1697722"
+				"download" "290336"
+			}
+			"1.026"
+			{
+				"gid" "1533593835224426679"
+				"size" "1843530"
+				"download" "315920"
+			}
+			"1.027"
+			{
+				"gid" "8024019422479044003"
+				"size" "1847333"
+				"download" "315088"
+			}
+			"1.028"
+			{
+				"gid" "7454261410192790988"
+				"size" "1852548"
+				"download" "315792"
+			}
+			"1.029"
+			{
+				"gid" "6144272763875611421"
+				"size" "1864450"
+				"download" "319344"
+			}
+			"1.035"
+			{
+				"gid" "4174739938242583825"
+				"size" "2604736"
+				"download" "399504"
+			}
+			"legacy_version"
+			{
+				"gid" "8044769069714233115"
+				"size" "1328146"
+				"download" "243760"
+			}
+			"open_beta"
+			{
+				"gid" "3894066733816530628"
+				"size" "2606244"
+				"download" "399856"
+			}
+			"test_launch2"
+			{
+				"gid" "3894066733816530628"
+				"size" "2606244"
+				"download" "399856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "0CA395AA1562F52F58D77CFFA298C7B1"
+				"size" "9D9711C55C6C03DEBFEEC156466333D0"
+				"download" "B46B98AB0A72063B6C4D52CBF1F4EF12"
+			}
+			"launch_test"
+			{
+				"gid" "E761AEFC4FA36F9A21994E8A004B280E"
+				"size" "BDC8F5CB7612B5F5B47B1DBD3750F1E8"
+				"download" "CFBA0FBC11BAE2E486BFDB0C468298A2"
+			}
+			"pointer"
+			{
+				"gid" "1F80F75A81A1E51F6289527FDFD062E8"
+				"size" "8E6A6BFE4562F494CF02EF4EA0B28ABF"
+				"download" "D6C07E3B8E5EBF4E13D6205B69E36158"
+			}
+			"validation"
+			{
+				"gid" "950B2A39DBEEB63361A5FE70B1F9932A"
+				"size" "525F9BD1A3E8FE8F4035FA02675DE919"
+				"download" "6E74EE4CFB147FFCCBDB1E09B5BAFE63"
+			}
+		}
+	}
+	"400755"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5989356105124350021"
+				"size" "2540477"
+				"download" "391088"
+			}
+			"1.016"
+			{
+				"gid" "6581102643590650781"
+				"size" "1256741"
+				"download" "234128"
+			}
+			"1.017"
+			{
+				"gid" "5340553009442293614"
+				"size" "1257627"
+				"download" "234256"
+			}
+			"1.018"
+			{
+				"gid" "1005875336310596167"
+				"size" "1257439"
+				"download" "234224"
+			}
+			"1.019"
+			{
+				"gid" "3112324937097929405"
+				"size" "1291330"
+				"download" "237376"
+			}
+			"1.020"
+			{
+				"gid" "8099292379813443767"
+				"size" "1291602"
+				"download" "237440"
+			}
+			"1.021"
+			{
+				"gid" "7939254790313421035"
+				"size" "1583384"
+				"download" "277456"
+			}
+			"1.023"
+			{
+				"gid" "7939254790313421035"
+				"size" "1583384"
+				"download" "277456"
+			}
+			"1.024"
+			{
+				"gid" "5311270763465931574"
+				"size" "1613270"
+				"download" "279488"
+			}
+			"1.025"
+			{
+				"gid" "3034568750347694593"
+				"size" "1615781"
+				"download" "279888"
+			}
+			"1.026"
+			{
+				"gid" "3875682948433733599"
+				"size" "1742925"
+				"download" "305568"
+			}
+			"1.027"
+			{
+				"gid" "1516467006211161211"
+				"size" "1746909"
+				"download" "304624"
+			}
+			"1.028"
+			{
+				"gid" "361709317109442208"
+				"size" "1752071"
+				"download" "305040"
+			}
+			"1.029"
+			{
+				"gid" "206733196484281442"
+				"size" "1762427"
+				"download" "308400"
+			}
+			"1.035"
+			{
+				"gid" "4456576821329336812"
+				"size" "2538981"
+				"download" "390736"
+			}
+			"legacy_version"
+			{
+				"gid" "5889800296735728617"
+				"size" "1234076"
+				"download" "230224"
+			}
+			"open_beta"
+			{
+				"gid" "5989356105124350021"
+				"size" "2540477"
+				"download" "391088"
+			}
+			"test_launch2"
+			{
+				"gid" "5989356105124350021"
+				"size" "2540477"
+				"download" "391088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "8DB2C70B96B7691BF525B25442746AE7"
+				"size" "FEE36D82E745A19FE83C1CFF5C02241C"
+				"download" "085AE650C3738CE856CFC816CA423F38"
+			}
+			"launch_test"
+			{
+				"gid" "ABE3144487D918CF9DA3E68C04F12A67"
+				"size" "41BD43F33A5B74585D7647EC2B2FA223"
+				"download" "784C5C3D9F847C8B69D28C334DDEF3CB"
+			}
+			"pointer"
+			{
+				"gid" "00764B9CC7E6D195B7523B30835E8FB4"
+				"size" "50FB69C51C08EB36FF471BD4B3F56E38"
+				"download" "A1E1C2BF7C05B86627785A7078652487"
+			}
+			"validation"
+			{
+				"gid" "C77634AA9E9D81298F2D0705D7B06B57"
+				"size" "6A6A8488B492DB0512FCB41CA05E1BA6"
+				"download" "C73D95226E3525581329C07717A8ACD6"
+			}
+		}
+	}
+	"400756"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1934143088403622282"
+				"size" "3561396292"
+				"download" "3412230496"
+			}
+			"1.016"
+			{
+				"gid" "6900101401429902826"
+				"size" "1064108191"
+				"download" "985588864"
+			}
+			"1.017"
+			{
+				"gid" "4885819764261239928"
+				"size" "1064113109"
+				"download" "985588000"
+			}
+			"1.018"
+			{
+				"gid" "7681443147161980203"
+				"size" "1064112448"
+				"download" "985587872"
+			}
+			"1.019"
+			{
+				"gid" "4849387668269123452"
+				"size" "1064122199"
+				"download" "985589216"
+			}
+			"1.020"
+			{
+				"gid" "6788206994457056287"
+				"size" "1064122632"
+				"download" "985589568"
+			}
+			"1.021"
+			{
+				"gid" "3846130274102858068"
+				"size" "1064452818"
+				"download" "985629856"
+			}
+			"1.023"
+			{
+				"gid" "3846130274102858068"
+				"size" "1064452818"
+				"download" "985629856"
+			}
+			"1.024"
+			{
+				"gid" "3060096599983041960"
+				"size" "1639886627"
+				"download" "1546718160"
+			}
+			"1.025"
+			{
+				"gid" "1827210875153842329"
+				"size" "1639958010"
+				"download" "1546724432"
+			}
+			"1.026"
+			{
+				"gid" "4106245389850283697"
+				"size" "2391500097"
+				"download" "2267342816"
+			}
+			"1.027"
+			{
+				"gid" "6575150357801238189"
+				"size" "2391506532"
+				"download" "2267342592"
+			}
+			"1.028"
+			{
+				"gid" "118835265207852336"
+				"size" "2391512048"
+				"download" "2267343232"
+			}
+			"1.029"
+			{
+				"gid" "9063439106572177671"
+				"size" "2391518378"
+				"download" "2267347136"
+			}
+			"1.035"
+			{
+				"gid" "2231778567811721428"
+				"size" "2969063101"
+				"download" "2832758688"
+			}
+			"legacy_version"
+			{
+				"gid" "8786751869250029171"
+				"size" "881231937"
+				"download" "809498816"
+			}
+			"open_beta"
+			{
+				"gid" "1934143088403622282"
+				"size" "3561396292"
+				"download" "3412230496"
+			}
+			"test_launch2"
+			{
+				"gid" "1934143088403622282"
+				"size" "3561396292"
+				"download" "3412230496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "1B48FC5A49C58653EE9598C67D4DA2C5"
+				"size" "998F19AA8AB36148A4A8F51F08C25FE6"
+				"download" "184A4506373F778F6C1A7B50525D3103"
+			}
+			"launch_test"
+			{
+				"gid" "0F73256533D8CE64950B364DD74B5524"
+				"size" "AEE8771D680B9C54B93473CD4A0C75A1"
+				"download" "576DA0A4FB8573ED6762F668E3CB29DB"
+			}
+			"pointer"
+			{
+				"gid" "833770BA615DBC4909D740292E4C2971"
+				"size" "FDA59508AD8D5EF02411DF4A191A507A"
+				"download" "C1017CE590C85269244E9FD6327C395E"
+			}
+			"validation"
+			{
+				"gid" "22EFE0300E6AE3766E564C7C85F407B5"
+				"size" "87F151B34279B106C569A8570E923791"
+				"download" "0CD40FBF152CFEA58B1B4F9656A79A66"
+			}
+		}
+	}
+	"400757"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2739698077923771539"
+				"size" "3698087604"
+				"download" "3591598416"
+			}
+			"1.016"
+			{
+				"gid" "4165848071926791451"
+				"size" "960039864"
+				"download" "938297168"
+			}
+			"1.017"
+			{
+				"gid" "6707565321845993934"
+				"size" "960041923"
+				"download" "938297696"
+			}
+			"1.018"
+			{
+				"gid" "236904279445681805"
+				"size" "960041638"
+				"download" "938297344"
+			}
+			"1.019"
+			{
+				"gid" "3152775120335508116"
+				"size" "960049505"
+				"download" "938298400"
+			}
+			"1.020"
+			{
+				"gid" "4821934798198469632"
+				"size" "960049866"
+				"download" "938298848"
+			}
+			"1.021"
+			{
+				"gid" "3048028396114732491"
+				"size" "1221986291"
+				"download" "1186888944"
+			}
+			"1.023"
+			{
+				"gid" "3048028396114732491"
+				"size" "1221986291"
+				"download" "1186888944"
+			}
+			"1.024"
+			{
+				"gid" "218635059248733881"
+				"size" "1777293022"
+				"download" "1728983776"
+			}
+			"1.025"
+			{
+				"gid" "2130919838002426850"
+				"size" "1777226964"
+				"download" "1728982048"
+			}
+			"1.026"
+			{
+				"gid" "760116980178558370"
+				"size" "2528801743"
+				"download" "2449156064"
+			}
+			"1.027"
+			{
+				"gid" "4034411978855035239"
+				"size" "2528802960"
+				"download" "2449154912"
+			}
+			"1.028"
+			{
+				"gid" "668202702693818432"
+				"size" "2528808285"
+				"download" "2449155616"
+			}
+			"1.029"
+			{
+				"gid" "6890223471381339089"
+				"size" "2528819372"
+				"download" "2449159936"
+			}
+			"1.035"
+			{
+				"gid" "2044250273710868197"
+				"size" "3105784343"
+				"download" "3012190608"
+			}
+			"legacy_version"
+			{
+				"gid" "5603054098001032461"
+				"size" "1240903"
+				"download" "234512"
+			}
+			"open_beta"
+			{
+				"gid" "2739698077923771539"
+				"size" "3698087604"
+				"download" "3591598416"
+			}
+			"test_launch2"
+			{
+				"gid" "2739698077923771539"
+				"size" "3698087604"
+				"download" "3591598416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "E6BDCF38514BA18E986B02FD28DD0DB9"
+				"size" "07C867FB479F7E49FA63CFFE17B8556B"
+				"download" "40E018420FA6D7D336418DCB4E909C9B"
+			}
+			"launch_test"
+			{
+				"gid" "F6C60D859F4EE15870605F0D2AAC09A8"
+				"size" "CAEFE86BB53A7245781D95E8BFD43AAE"
+				"download" "B4B2FA3423119CDF0A74CDB4492C9DC5"
+			}
+			"pointer"
+			{
+				"gid" "20A8BC8AD38068F9A259D5E022AF12B6"
+				"size" "F6C8A811AA11DFD7A7435D2180E9161E"
+				"download" "8CFB82EED0A4BB48EEF500F4FB9AA43A"
+			}
+			"validation"
+			{
+				"gid" "5B539979F5BE7B6C72D6ECEFC38E1C0F"
+				"size" "D1ABC1C1E29C17731D36BB6AAB28CB8A"
+				"download" "89F9C8793F9A1146D8A2AC6BD79FB0D5"
+			}
+		}
+	}
+	"1911520"
+	{
+		"dlcappid" "1911520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "56598210367029579"
+				"size" "3739358896"
+				"download" "877888736"
+			}
+			"1.021"
+			{
+				"gid" "6826589914490786772"
+				"size" "2742322918"
+				"download" "451947360"
+			}
+			"1.023"
+			{
+				"gid" "6025550659550583767"
+				"size" "3428695787"
+				"download" "848940000"
+			}
+			"1.024"
+			{
+				"gid" "508749214030292434"
+				"size" "3736506290"
+				"download" "882736320"
+			}
+			"1.025"
+			{
+				"gid" "1201286117592202747"
+				"size" "3754344193"
+				"download" "883502240"
+			}
+			"1.026"
+			{
+				"gid" "3806543305440280666"
+				"size" "3755103913"
+				"download" "886512000"
+			}
+			"1.027"
+			{
+				"gid" "5354487344875421979"
+				"size" "3755220085"
+				"download" "886486512"
+			}
+			"1.028"
+			{
+				"gid" "3993873339238352097"
+				"size" "3751734983"
+				"download" "886356928"
+			}
+			"1.029"
+			{
+				"gid" "986656951123583992"
+				"size" "3740515889"
+				"download" "877924144"
+			}
+			"1.035"
+			{
+				"gid" "7724849399978050569"
+				"size" "3739073648"
+				"download" "877874272"
+			}
+			"open_beta"
+			{
+				"gid" "56598210367029579"
+				"size" "3739358896"
+				"download" "877888736"
+			}
+			"test_launch2"
+			{
+				"gid" "56598210367029579"
+				"size" "3739358896"
+				"download" "877888736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "F409BAE18872D146DFC1F20A1B4A806E"
+				"size" "E8A9A3ED64AC57E4D05828B4F8EF17A0"
+				"download" "5C29871B121696B4980904CAB50AB5B0"
+			}
+			"launch_test"
+			{
+				"gid" "524FB030849D938486E32D6407B0F213"
+				"size" "5E7F089F49C8B0B670A999DBC1E99CB4"
+				"download" "8A6EECCE1F1519E676C068DF53A63DC6"
+			}
+			"pointer"
+			{
+				"gid" "52394545D3040B123EAA561560F67CF8"
+				"size" "B2AE05DF7179FBAFA994CCADC7F84C42"
+				"download" "10A76D2472BB98DF232515C8A266F41B"
+			}
+			"validation"
+			{
+				"gid" "2816CD66B2BFBBF153E2B1FA06FFD422"
+				"size" "9F8B032BD1585CA82DA6AE6BF88B6C46"
+				"download" "FF685D4E7F496C1F7C80E9C462A329BC"
+			}
+		}
+	}
+	"2123890"
+	{
+		"dlcappid" "2123890"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8856853266423311135"
+				"size" "1215510415"
+				"download" "766425440"
+			}
+			"1.026"
+			{
+				"gid" "4388172981798647293"
+				"size" "1212623335"
+				"download" "766426112"
+			}
+			"1.027"
+			{
+				"gid" "2205235844340571219"
+				"size" "1215249153"
+				"download" "766403408"
+			}
+			"1.028"
+			{
+				"gid" "37789429638615455"
+				"size" "1215347066"
+				"download" "766418256"
+			}
+			"1.029"
+			{
+				"gid" "7316223788080244596"
+				"size" "1215506093"
+				"download" "766431696"
+			}
+			"1.035"
+			{
+				"gid" "96322743688737643"
+				"size" "1215510415"
+				"download" "766425360"
+			}
+			"open_beta"
+			{
+				"gid" "8856853266423311135"
+				"size" "1215510415"
+				"download" "766425440"
+			}
+			"test_launch2"
+			{
+				"gid" "8856853266423311135"
+				"size" "1215510415"
+				"download" "766425440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "074E2DF0B0F5BD6CA8C128AE08A36846"
+				"size" "69231591AB50A9EF06692D1A058502EE"
+				"download" "90D808A4167638CF42CDBFCD5F41C8D9"
+			}
+			"launch_test"
+			{
+				"gid" "0D20CB49E9B2254639B84327B227D3C8"
+				"size" "48A882CE188782A05D6B385AD871931C"
+				"download" "3F076D1C98362D04CBDE038A9B84EDF8"
+			}
+			"pointer"
+			{
+				"gid" "FC227B86FD780F6AA3646C2C07942804"
+				"size" "A2B9B6F58E67E6D680D615B23FE350C9"
+				"download" "204CF34B2527907F6CFAAA95215D65E7"
+			}
+			"validation"
+			{
+				"gid" "5B6CFC71E6474C59BEAC5B784C41EE0F"
+				"size" "C2CDC87C53D8454E68097660CB277DBA"
+				"download" "43EAF299AE31A0BC5A0EAB5B84276F28"
+			}
+		}
+	}
+	"400758"
+	{
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3400182886071912028"
+				"size" "3555821085"
+				"download" "3467125200"
+			}
+			"1.028"
+			{
+				"gid" "7630467861722420681"
+				"size" "2386808822"
+				"download" "2324196320"
+			}
+			"1.029"
+			{
+				"gid" "7630467861722420681"
+				"size" "2386808822"
+				"download" "2324196320"
+			}
+			"1.035"
+			{
+				"gid" "1424119602064532883"
+				"size" "2963473000"
+				"download" "2887604640"
+			}
+			"open_beta"
+			{
+				"gid" "3400182886071912028"
+				"size" "3555821085"
+				"download" "3467125200"
+			}
+			"test_launch2"
+			{
+				"gid" "3400182886071912028"
+				"size" "3555821085"
+				"download" "3467125200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "4997BC6B10A79FBEBA1F531CFDAD8B8E"
+				"size" "479DF5DCAFAF552329C028ED77E193FC"
+				"download" "354A68D9076ADC3169E0B5ECB48F492E"
+			}
+			"launch_test"
+			{
+				"gid" "99E2503C529C58A71BBF2E7AC547000C"
+				"size" "F0186350C1DB005EBACAF51EA3C86FAD"
+				"download" "9142105B58007F00BCF08DEF628C2346"
+			}
+			"pointer"
+			{
+				"gid" "79FDF76A1DE0D4861758C1DC05A9876C"
+				"size" "77CBF9A1A838B789A80D58EA3022E13B"
+				"download" "95F10F3FEA4AE715EB7CC6A4DCBCEE77"
+			}
+			"validation"
+			{
+				"gid" "C36F4B2547BFF93E918EAFE5D1327E41"
+				"size" "416F97FAF7D05C576FA3BF944A339E88"
+				"download" "0C0B566A686AEC860214FA28497A7892"
+			}
+		}
+	}
+	"400759"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "753546722844683581"
+				"size" "2390573799"
+				"download" "2339806672"
+			}
+			"1.028"
+			{
+				"gid" "6469584242648032280"
+				"size" "2389868376"
+				"download" "2339730032"
+			}
+			"1.029"
+			{
+				"gid" "6469584242648032280"
+				"size" "2389868376"
+				"download" "2339730032"
+			}
+			"1.035"
+			{
+				"gid" "2354527065171811107"
+				"size" "2390571604"
+				"download" "2339806768"
+			}
+			"open_beta"
+			{
+				"gid" "753546722844683581"
+				"size" "2390573799"
+				"download" "2339806672"
+			}
+			"test_launch2"
+			{
+				"gid" "753546722844683581"
+				"size" "2390573799"
+				"download" "2339806672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "6AE6BF2F0D38D46695A806CF29EDEC85"
+				"size" "379982889821FFD38E273C44232731FD"
+				"download" "6D5CAAF8D8FE0D23459455B389872941"
+			}
+			"launch_test"
+			{
+				"gid" "BD92FCABD5ACED3FB3C514AA2238F14A"
+				"size" "7273D2F2F7CE2818AA51081B658D708F"
+				"download" "3B5A447BDDFAFF8CDC1490887517567D"
+			}
+			"pointer"
+			{
+				"gid" "3139692B41990CB851BB35C5280E7A6B"
+				"size" "DC92EC7A725627583F1AA8888468AC86"
+				"download" "6FB220F20706115BA4F01626F71432C7"
+			}
+			"validation"
+			{
+				"gid" "E2576373F06A8EB102BB24B662DCD66E"
+				"size" "F419D06BE5C1BC230C8B306211D13A43"
+				"download" "61BFD9E02F92DB95957C6C4591871685"
+			}
+		}
+	}
+	"2447590"
+	{
+		"dlcappid" "2447590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8280773206725308262"
+				"size" "4117751759"
+				"download" "1402006352"
+			}
+			"1.035"
+			{
+				"gid" "1263335978229492085"
+				"size" "3525948753"
+				"download" "822544544"
+			}
+			"open_beta"
+			{
+				"gid" "8280773206725308262"
+				"size" "4117751759"
+				"download" "1402006352"
+			}
+			"test_launch2"
+			{
+				"gid" "8280773206725308262"
+				"size" "4117751759"
+				"download" "1402006352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "2019B5F7A69F81140888ADD43B85BBE6"
+				"size" "98CFB3DE824F8F90868BCE077136054D"
+				"download" "94805665ADB0E2D8DBA01F9C4DBA332B"
+			}
+			"launch_test"
+			{
+				"gid" "5E9E352D5822083DE0AAA21EF8C76F63"
+				"size" "FF6BEFD3B1D095A081CD2FA284F30E36"
+				"download" "509297779CF2FEF8C7C264FDC089315C"
+			}
+			"pointer"
+			{
+				"gid" "F6B7860C7D56DD58F15C69BB44AFABF4"
+				"size" "6FC03B78FF01E8EBD8E24BA24B834DCA"
+				"download" "9A95FF73AD5D8EAF7BF3632D16CB8DD9"
+			}
+			"validation"
+			{
+				"gid" "DC61ACCA0667CF5709C4587A19084A82"
+				"size" "F515BA24F62C1608AF44D1BC40902F1A"
+				"download" "C6D358579599CEFA94553D4CE14D98C8"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13077002"
+			"timeupdated" "1704294303"
+		}
+		"1.016"
+		{
+			"buildid" "7633221"
+			"description" "Version 1.016"
+			"timeupdated" "1647219755"
+		}
+		"1.017"
+		{
+			"buildid" "7935508"
+			"description" "Version 1.017"
+			"timeupdated" "1647219657"
+		}
+		"1.018"
+		{
+			"buildid" "8173595"
+			"description" "Version 1.018"
+			"timeupdated" "1647219461"
+		}
+		"1.019"
+		{
+			"buildid" "8362188"
+			"description" "Version 1.019 (LAST VERSION WITH CHEAT-TRAINERS ALLOWED)"
+			"timeupdated" "1648084129"
+		}
+		"1.020"
+		{
+			"buildid" "8427468"
+			"description" "Version 1.020"
+			"timeupdated" "1654478858"
+		}
+		"1.021"
+		{
+			"buildid" "8907459"
+			"description" "Version 1.021"
+			"timeupdated" "1659026834"
+		}
+		"1.023"
+		{
+			"buildid" "9177165"
+			"description" "Version 1.023"
+			"timeupdated" "1661878375"
+		}
+		"1.024"
+		{
+			"buildid" "9415310"
+			"description" "Version 1.024"
+			"timeupdated" "1664840538"
+		}
+		"1.025"
+		{
+			"buildid" "9636609"
+			"description" "Version 1.025"
+			"timeupdated" "1668787557"
+		}
+		"1.026"
+		{
+			"buildid" "9994566"
+			"description" "Version 1.026"
+			"timeupdated" "1672150061"
+		}
+		"1.027"
+		{
+			"buildid" "10243209"
+			"description" "Version 1.027"
+			"timeupdated" "1678993416"
+		}
+		"1.028"
+		{
+			"buildid" "11351104"
+			"description" "\tVersion 1.028"
+			"timeupdated" "1685458924"
+		}
+		"1.029"
+		{
+			"buildid" "11336696"
+			"description" "\tVersion 1.029"
+			"timeupdated" "1693227985"
+		}
+		"1.035"
+		{
+			"buildid" "12904598"
+			"description" "Version 1.035 (previous version)"
+			"timeupdated" "1703164388"
+		}
+		"beta"
+		{
+			"buildid" "13511393"
+			"pwdrequired" "1"
+			"timeupdated" "1708460198"
+		}
+		"launch_test"
+		{
+			"buildid" "13325185"
+			"pwdrequired" "1"
+			"timeupdated" "1706711621"
+		}
+		"legacy_version"
+		{
+			"buildid" "7428229"
+			"description" "Legacy Version"
+			"timeupdated" "1640086429"
+		}
+		"open_beta"
+		{
+			"buildid" "13077002"
+			"description" "Open Beta"
+			"timeupdated" "1704201198"
+		}
+		"pointer"
+		{
+			"buildid" "13543003"
+			"pwdrequired" "1"
+			"timeupdated" "1708691626"
+		}
+		"test_launch2"
+		{
+			"buildid" "13197157"
+			"description" "test launch 2"
+			"timeupdated" "1705688099"
+		}
+		"validation"
+		{
+			"buildid" "13511393"
+			"pwdrequired" "1"
+			"timeupdated" "1708457307"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "22549242"
+"_sha" "42bfd3b008bff8f71132523ea2cbf8db9850d6db"
+"_size" "35532"
