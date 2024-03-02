@@ -1,0 +1,384 @@
+"appid" "1963570"
+"common"
+{
+	"name" "Cuisineer"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "2760522adfe031279e8d99fbfeb0ac188b2e2def"
+	"clienttga" "18cecf11cb89730d9cd0441239cbd82b16363794"
+	"icon" "462dd105345d8a87f5200b0518046e4b345f2063"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "Cuisineer（キュイジニア）"
+		"schinese" "Cuisineer 猫娘小厨"
+		"tchinese" "Cuisineer 貓娘小廚 "
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700179200"
+		"tested_build_id" "12676820"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.50335570469798"
+			"height_pct" "86.11111111111111"
+		}
+	}
+	"store_asset_mtime" "1704829636"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BattleBrew Productions"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Marvelous Europe"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "XSEED Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Marvelous Europe"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699550480"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1963570"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3920"
+		"2" "552282"
+		"3" "4085"
+		"4" "597"
+		"5" "1646"
+		"6" "1720"
+		"7" "12472"
+		"8" "4726"
+		"9" "7208"
+		"10" "599"
+		"11" "4434"
+		"12" "1684"
+		"13" "3959"
+		"14" "3955"
+		"15" "6815"
+		"16" "122"
+		"17" "4191"
+		"18" "5125"
+		"19" "4166"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "BattleBrew Productions"
+	"publisher" "Marvelous Europe"
+	"listofdlc" "2591650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Cuisineer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cuisineer.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1963571"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "17379468328329248"
+				"size" "4496540868"
+				"download" "1236883984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demotesting"
+			{
+				"gid" "E2D824CEFF04F30FC7B2A3573E95242C"
+				"size" "D1FDFC45651AE03D0B4E91B417BF515F"
+				"download" "B54464FA695964A0D3C832BF55747940"
+			}
+			"eventbuild"
+			{
+				"gid" "AF3665688A372B3B451BA3648EB2FC7A"
+				"size" "69D3F0BF1BE374F7385FBC8F1B7DB799"
+				"download" "B2FEE7CAFA5627AB281CA5C9E8FEA0ED"
+			}
+			"latestdevdebug"
+			{
+				"gid" "0111D86C1AD9FBFFA2E59E2BEFE1BD1B"
+				"size" "47EB9979A152E171F9CA22CF45420EDC"
+				"download" "55F8DBC855F7793128020A589093932F"
+			}
+			"latestdevrelease"
+			{
+				"gid" "68ED41F08D26BE1E0F44A65691D04CDA"
+				"size" "779BCDD335FEA5BF84F637C31A9DC9D1"
+				"download" "3F174784E7E05FC50FC3CF371C3F1F38"
+			}
+			"testing"
+			{
+				"gid" "6AB574F048E109C314FE5C51FCE4BE16"
+				"size" "1077BB902FFD25425DA2E47D86A0E4EE"
+				"download" "B41257BBCBBD91EB731D6137A3C56D11"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13543899"
+			"timeupdated" "1708942982"
+		}
+		"demotesting"
+		{
+			"buildid" "12424079"
+			"pwdrequired" "1"
+			"timeupdated" "1697545089"
+		}
+		"eventbuild"
+		{
+			"buildid" "11614949"
+			"pwdrequired" "1"
+			"timeupdated" "1690797735"
+		}
+		"latestdevdebug"
+		{
+			"buildid" "13609865"
+			"pwdrequired" "1"
+			"timeupdated" "1709273695"
+		}
+		"latestdevrelease"
+		{
+			"buildid" "13610758"
+			"pwdrequired" "1"
+			"timeupdated" "1709282439"
+		}
+		"testing"
+		{
+			"buildid" "13586726"
+			"pwdrequired" "1"
+			"timeupdated" "1709115581"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BattleBrew Productions/Cuisineer"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Battlebrew Productions/Cuisineer"
+					"replace" "unity.BattleBrewProductions.Cuisineer"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Battlebrew Productions/Cuisineer"
+					"replace" ".config/unity3d/BattleBrewProductions/Cuisineer"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22597972"
+"_sha" "8e2113cb29bb3997f224bd0d2cc9015e34152ed7"
+"_size" "7198"
