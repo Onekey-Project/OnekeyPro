@@ -1,0 +1,343 @@
+"appid" "1967630"
+"common"
+{
+	"name" "Survival: Fountain of Youth"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "b14295a319d31e5bc10d4cf9b823a63e4cd60d90"
+	"clienticon" "98d8e14dfd8059ae89bb05b497763225b014ffe5"
+	"clienttga" "e50deae35337f53ec93dd2253aaeb6fad1bd6657"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "求生岛：不老泉传说"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1699574400"
+		"tested_build_id" "12572297"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "60.32134105109651"
+			"height_pct" "87.39979010995961"
+		}
+	}
+	"store_asset_mtime" "1708510178"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Odinsoft Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Twin Sails Interactive"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "CE-Asia"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Twin Sails Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681902092"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1967630"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1100689"
+		"2" "7332"
+		"3" "3834"
+		"4" "599"
+		"5" "1702"
+		"6" "4667"
+		"7" "4182"
+		"8" "4175"
+		"9" "21"
+		"10" "493"
+		"11" "1664"
+		"12" "3810"
+		"13" "3839"
+		"14" "1695"
+		"15" "3987"
+		"16" "1643"
+		"17" "9157"
+		"18" "9204"
+		"19" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Odinsoft Inc."
+	"publisher" "Twin Sails Interactive"
+	"homepage" "https://odinsoft.com/"
+}
+"config"
+{
+	"installdir" "Survival Fountain of Youth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Survival Fountain of Youth.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1967631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "838832394118712854"
+				"size" "26058461545"
+				"download" "11096827280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "9C9D9E9D5CE0A73EF6FFE6B53829ABA3"
+				"size" "0BFC26EF189FCB4922E3D8CFF4E5D6DF"
+				"download" "480DC306E53CAB98EB80979BA256F21B"
+			}
+			"develop"
+			{
+				"gid" "6DAD075696936B5E8D643380E7E5FAFF"
+				"size" "581E5EAB20A156C5940AC0863550BE06"
+				"download" "35B3641563ABC8F2F2037F310AA9E0E9"
+			}
+			"localization"
+			{
+				"gid" "608BAB80AAC6A82F2FC41E89A157E7A5"
+				"size" "E9AA33C263D405935809791DFD2E50BC"
+				"download" "0922871BD45024FF1ECADC2F3F8B113E"
+			}
+			"ms-test"
+			{
+				"gid" "3450BFCDCE3FBB32DD6C191682084F8B"
+				"size" "5A2106971091CC4717B52F43E91D7B43"
+				"download" "137A388A6C85D3C6D7C19DC282C5A4ED"
+			}
+			"press"
+			{
+				"gid" "DEE3B7C036EB3605C749D8C9844BEA05"
+				"size" "8476CFDB3FD5A1453858BF8BEBCA2CA5"
+				"download" "9339F54FAADABDC328588D8005BEBEB3"
+			}
+			"rc-build"
+			{
+				"gid" "E1DF8A1E6C8A29097AECA2CD068610AD"
+				"size" "EBB2AF57DF2146A41370443E6FF4D549"
+				"download" "6C44D32DD61A0EFDD2BC90818F4DEF1C"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,schinese,russian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13382243"
+			"timeupdated" "1707395779"
+		}
+		"demo"
+		{
+			"buildid" "8737133"
+			"pwdrequired" "1"
+			"timeupdated" "1652489440"
+		}
+		"develop"
+		{
+			"buildid" "13620408"
+			"pwdrequired" "1"
+			"timeupdated" "1709357473"
+		}
+		"localization"
+		{
+			"buildid" "11670269"
+			"pwdrequired" "1"
+			"timeupdated" "1689062031"
+		}
+		"ms-test"
+		{
+			"buildid" "13016993"
+			"pwdrequired" "1"
+			"timeupdated" "1703258852"
+		}
+		"press"
+		{
+			"buildid" "11041819"
+			"pwdrequired" "1"
+			"timeupdated" "1681988768"
+		}
+		"rc-build"
+		{
+			"buildid" "13382243"
+			"pwdrequired" "1"
+			"timeupdated" "1707233589"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "268435456"
+	"maxnumfiles" "4096"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Odinsoft/Survival Fountain of Youth"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "22597029"
+"_sha" "a8165c16a801ff6928d6b9ec1dc29b38bc58fa12"
+"_size" "6276"
