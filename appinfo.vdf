@@ -1,0 +1,1522 @@
+"appid" "2140020"
+"common"
+{
+	"name" "Stronghold: Definitive Edition"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "2079705e18e488f1aae992fb72f16c6853da710c"
+	"clienttga" "f38099f5126f33ee288cbbe78976c56373d29cac"
+	"clienticon" "8fcfb9d5b74ce5c186f69d5d866b67f5a4501283"
+	"name_localized"
+	{
+		"schinese" "Stronghold: Definitive Edition 要塞：决定版"
+		"tchinese" "Stronghold: Definitive Edition 要塞：決定版"
+		"koreana" "스트롱홀드: 결정판"
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700265600"
+		"tested_build_id" "12662053"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Stronghold: Definitive Edition"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "81.76205176917597"
+		}
+	}
+	"store_asset_mtime" "1708352836"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FireFly Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FireFly Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Firefly Studios\' Stronghold"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699375517"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/stronghold-definitive-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2140020"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "3813"
+		"2" "9"
+		"3" "3810"
+		"4" "1643"
+		"5" "4172"
+		"6" "220585"
+		"7" "4695"
+		"8" "1676"
+		"9" "1645"
+		"10" "7332"
+		"11" "3871"
+		"12" "5851"
+		"13" "3987"
+		"14" "599"
+		"15" "4166"
+		"16" "1695"
+		"17" "8945"
+		"18" "4136"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "FireFly Studios"
+	"publisher" "FireFly Studios"
+	"homepage" "https://www.playstronghold.com/"
+	"gamemanualurl" "https://store.steampowered.com/manual/2140020/"
+	"listofdlc" "2727990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Stronghold Definitive Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Stronghold 1 Definitive Edition.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2140020"
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2140021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1158220922931493489"
+				"size" "3179498651"
+				"download" "1852252368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "9ACF526DA2E04644D17FBD2922A9D4DA"
+				"size" "FC3AEEACB8A008A4B3F37BD148050DAA"
+				"download" "C99AFAE5F3075C30ED584AEBE11AEF33"
+			}
+			"crash_test"
+			{
+				"gid" "56C75C487D165D2322E1E503587057FA"
+				"size" "7AEE8B1BC9138BE4A440902F02C4DC96"
+				"download" "617A142E35FB215E777804FC315E1B24"
+			}
+			"dev_internal"
+			{
+				"gid" "FD0A2956B6220E04C106DC4846B53219"
+				"size" "8A59AC7B7200D4E9890B0380F30EC2FC"
+				"download" "2865993B2065DC15F87657051E05C0F0"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "02D0ECF0A77DC882BDDB879BAA7E7AC6"
+				"size" "E277928D50C8B2056361B1CE40DD573F"
+				"download" "E0A8BC7EF04175B03E3D3F8E749AA038"
+			}
+			"dev_internal_old"
+			{
+				"gid" "F266379205E168188E23A9EE90206590"
+				"size" "34493D9391A81EB7ABAB569CC72EC8C4"
+				"download" "5147D0235BBE9FC97037F20211143A96"
+			}
+			"devo_china"
+			{
+				"gid" "5D5DF9316D33904A04E239C09919FCB7"
+				"size" "5B8925A06C83F2E87BB963BDD0AF0F42"
+				"download" "0A5CD0571798047B3362306D88CB6EA6"
+			}
+			"pre-alpha"
+			{
+				"gid" "B57846FDD732CED03A820363D7143A92"
+				"size" "391458754515467B8250AD2B356C4986"
+				"download" "4995F8895E0EF414EA639FB97384A57F"
+			}
+			"testing_external"
+			{
+				"gid" "2072ECA5B544FDD25D77A09E3D58907B"
+				"size" "CF84BA440B53CF3CA642A38D6ADE8B90"
+				"download" "B488F24F723EC945D678B70E3358A739"
+			}
+		}
+	}
+	"2140022"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4078675344415156978"
+				"size" "938249983"
+				"download" "709703056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "A9515D966980398AD4F333972CEF1399"
+				"size" "47DF26B558A5DD4B2F48EC79ABC16EEC"
+				"download" "1A739B76D1B582117A5A3F222C0C2A34"
+			}
+			"dev_internal"
+			{
+				"gid" "8FE922C29198E5CF8E74038E9F1FA505"
+				"size" "98D5BBA62D93012327B812EF9EA9E4BD"
+				"download" "3E33EC6EFD6F9CD14550DC5259A70341"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "8AA796E816517CB10A88CAE3B481D200"
+				"size" "1FB21C82035E523BF206B4D57E9FF348"
+				"download" "FCB04998438FB0C0695D799235BB690A"
+			}
+			"dev_internal_old"
+			{
+				"gid" "C1B5D02D338354C55B53B5C25404BA84"
+				"size" "3388F1FDF2DB2178A06FB0ABC2532BF8"
+				"download" "ACE9889BE616832F30152AE469E96015"
+			}
+			"devo_china"
+			{
+				"gid" "B2E3D2FE9D538F68A3EE0A91FEF85D88"
+				"size" "361194A049BB179D05C71153319A057F"
+				"download" "2E468E8AB00C49E7D7CA56B524E47933"
+			}
+			"testing_external"
+			{
+				"gid" "FF2A262183812CF930E75BCED843B1E0"
+				"size" "759B32900A279A30E88611D41935C3F0"
+				"download" "DD5C139C26B789FBA368219F493F9D74"
+			}
+		}
+	}
+	"2140023"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8263655820414366879"
+				"size" "774053753"
+				"download" "629692848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "04EDD83241E3C8F296D479FFA9E3B3FA"
+				"size" "96A6C708FB8C693B99BC5C088103B275"
+				"download" "FF06CBDB6EB29555DB39CA32A4A721AC"
+			}
+			"dev_internal"
+			{
+				"gid" "8E6B0AA68D56C1F9B1627557DCD3AB05"
+				"size" "42D40BB06CBF792FF784788F4254A927"
+				"download" "A17212E26763A55AB5469593F3FF9718"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "F2C904EC9DB7763C28C22FB59C35F556"
+				"size" "029CEFBDDCE018A7F89E795B44583AD7"
+				"download" "98DAE88F1865D56989926D4EA4729684"
+			}
+			"dev_internal_old"
+			{
+				"gid" "2CACE7E9832D5F50D11560555D68FBAE"
+				"size" "75CD0DF849A92229E4916778F84C1FC9"
+				"download" "05485A653A016FAF32E76201D4DD2E73"
+			}
+			"devo_china"
+			{
+				"gid" "38E146F2B813FC64BCFF073780152CA9"
+				"size" "3FE63F3B71E71A44D44A690B46328284"
+				"download" "5E58870097AB230E9F4371BD90E1585D"
+			}
+			"testing_external"
+			{
+				"gid" "9B93A9A317AB42EDC97BAC16C3598EB2"
+				"size" "9F7A91B7BCA3ECBF6DC4066E24353395"
+				"download" "0EC625B3FF1E3E61A1439872411DF74F"
+			}
+		}
+	}
+	"2140024"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1614629883056349124"
+				"size" "771801822"
+				"download" "631601696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "D517918304D6BB4C5A27E2578BDCC39A"
+				"size" "59534D056C819983A1397C6F26070285"
+				"download" "BAA1E82D5FA2A5EFDC480AFE9108D746"
+			}
+			"dev_internal"
+			{
+				"gid" "6BFAE00958F2142EFB5C2BF3342824A8"
+				"size" "99C9C40DFC5816922901942822032E01"
+				"download" "AAF33300AF3988091378532574380D26"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "43F5B81583455380357D7C8CB2C9398E"
+				"size" "4B8ED2552EFF7A93B967E458C1F2E95D"
+				"download" "5CFF54E280FF5D6881B1FFDD7938771E"
+			}
+			"dev_internal_old"
+			{
+				"gid" "D7D3EF078DF5AFA7D452E4324C2E9832"
+				"size" "085673A480388A761B1E812DF4E37D9E"
+				"download" "2C80C58275678EDC5A6820E9D2B38153"
+			}
+			"devo_china"
+			{
+				"gid" "D4A19DFF7C76B25DA454D6E838D99990"
+				"size" "2C4E75816D4A602930A56874244B0735"
+				"download" "318F8A7CB82CF5EC7D4CAC129C8E33B9"
+			}
+			"testing_external"
+			{
+				"gid" "7F71FF4FCDADFA098997B295C62B6879"
+				"size" "E98D361F4C30C97917717DE36F0A9685"
+				"download" "E0128EA7CCF625379DAE0DCE80D83168"
+			}
+		}
+	}
+	"2140025"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1808330331221093229"
+				"size" "779635500"
+				"download" "640518112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "171C5B60DBB723AA99AF3F6104A79F81"
+				"size" "27AD5D1F8F739ADB93F872F8293E0F3B"
+				"download" "997F5C866E438D954139EF6A4A3DE65D"
+			}
+			"dev_internal"
+			{
+				"gid" "2F40979F470CE09C52069C8271DB7382"
+				"size" "FACD9B5B4158B5315DEC21FF55EC21C1"
+				"download" "999F15A613BDAE1A100BB67502E55794"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "9A2A42245B31E49BCC07B085ED4DC9E0"
+				"size" "0395591436746F117F93E81484612D8B"
+				"download" "A86241A59909D30A793DEB6D71D5CD97"
+			}
+			"dev_internal_old"
+			{
+				"gid" "9EC68DBC3F2ED67269984DD236D5D665"
+				"size" "FF73BE8A0E9E086BE9AAF67B338B62C5"
+				"download" "83F1D3C66506F61A2F2729F35B10401E"
+			}
+			"devo_china"
+			{
+				"gid" "01CD80361B8D2F8C12E94EF358A751E7"
+				"size" "76AEAE931E2F54581593FF08BACEC037"
+				"download" "9D1C923DA0036635A017FDD2111F2E39"
+			}
+			"testing_external"
+			{
+				"gid" "A51F88941EB99022863E0A90F5A2CB77"
+				"size" "043C9C561BC21AC6E63024FD1DBA2CAA"
+				"download" "7C2F63994FC86A5479DD5C186C441551"
+			}
+		}
+	}
+	"2140026"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6063555371486132333"
+				"size" "764306129"
+				"download" "625696512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "21DF1CF9F180C42810E472F7A377ABA7"
+				"size" "3173B3CABD699A2BC9C060C87073F014"
+				"download" "2E3ABB6F1E48986D7C592A12B4FFB9F1"
+			}
+			"dev_internal"
+			{
+				"gid" "1885A3178D861A6D1F1858AFC3635F21"
+				"size" "220DA883E9E66F10BA3D4A195CCF068A"
+				"download" "83EFDB036C4A680FA326A35787A19992"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "F17596690A67736C4D2F8F6161DA6140"
+				"size" "11B3D96FFD72343F7C625D401AA61DA4"
+				"download" "5CF103FD076B9985DE9A9B4631ECDBCB"
+			}
+			"dev_internal_old"
+			{
+				"gid" "D1729482BB1567C2304E65A9ED4643C9"
+				"size" "A5B68DB0FBDF846D04AEBA529A5C51BD"
+				"download" "909CC60C2081AA3B823DCA428A750373"
+			}
+			"devo_china"
+			{
+				"gid" "4446EBC575DE5EF3F0244787FB5EA2C9"
+				"size" "DAE732FE75E577325B086ED4F504881F"
+				"download" "9DDBC8D79C8C4498974FA778E35BF560"
+			}
+			"testing_external"
+			{
+				"gid" "5B41F99BF37830C9F8F220DE45749548"
+				"size" "A94CAD1EF1653E40CD918389B408D122"
+				"download" "A278F0EB40AAB00A638A9C3EA0E544BC"
+			}
+		}
+	}
+	"2140027"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8091069287525825855"
+				"size" "809367092"
+				"download" "654548352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "C4BA99B7A463FF22BDD637AD495D553C"
+				"size" "E4955171E135513EE879E57A01B12402"
+				"download" "E85BB162CB5138BEC65A9E9BB1F17BF0"
+			}
+			"dev_internal"
+			{
+				"gid" "8B2C4442C0D2C69C4A6B315F0B90C8E6"
+				"size" "CB8BB2694BD297AC7D177D97336AAC5B"
+				"download" "169E51A4255C3C0F3CF9199582FDCD15"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "7092D7DFD7ED58D1E8FAAFE5D7B730C4"
+				"size" "0F4F48C0734EEEC0DECE399EC1BB3C32"
+				"download" "F3008BFE54B57F0B0210EE5EBA2F1921"
+			}
+			"dev_internal_old"
+			{
+				"gid" "1CC016925618EC5AB64A35D7673C4A08"
+				"size" "83C018866830F8AB7EC6A8B8E9584FE9"
+				"download" "E831AED87BABBCA7CF7AE5012F48789F"
+			}
+			"devo_china"
+			{
+				"gid" "F602F194A26B4D0EF58BB67EEBE196BE"
+				"size" "20AFA3074C27A26CC3CC64E9DF459183"
+				"download" "97A1EEB2C79F35E445AA51A7EDA137AA"
+			}
+			"testing_external"
+			{
+				"gid" "6EB802BB32EDF04C6B181C588A45C466"
+				"size" "105450263F7823CE6904B8707D735348"
+				"download" "8D9F87D2F8153445D878D7C267105660"
+			}
+		}
+	}
+	"2140028"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6557173480210256735"
+				"size" "801114561"
+				"download" "649993296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "888F9E35E3EA91CC1B9C6B9161997814"
+				"size" "9CA9D24DD7761D3C060D68D5DA6D32CF"
+				"download" "41F433E932DD2729F16CFBB13765FAB2"
+			}
+			"dev_internal"
+			{
+				"gid" "8FD8573EB784751EAC266AFF7D2E53FC"
+				"size" "07BDD276BB0B2B14D71CE52079E10811"
+				"download" "8575252742294FECDC3E94A6CB6EB48C"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "53A1C1AEA60DB1CD3D3081838CE19461"
+				"size" "47D86D006CC37DDC01CADCC6CE3BF81E"
+				"download" "9F70CD37AB4DDB81D98DD4AB2170B2AF"
+			}
+			"dev_internal_old"
+			{
+				"gid" "490FFC3418B68AB985A9AF2A0197F568"
+				"size" "CA621486D88917278F1DF9A9597C2395"
+				"download" "1F11ABFAA8FC1993681EBC48BC9AF0B7"
+			}
+			"devo_china"
+			{
+				"gid" "21CEDF1E5B05452CC001C1E1A5F59992"
+				"size" "1C57C2E4BBA4A5D2269CFD9113060D0D"
+				"download" "7E7F2047E0C43D47D07D98D4E3AB5802"
+			}
+			"testing_external"
+			{
+				"gid" "8A4EDF297A679D90C32617BF2462B35C"
+				"size" "68CA88DF9A60DBC38037E547D12E3C06"
+				"download" "D12C530C4BE0B56C899F2EDB4543C7FC"
+			}
+		}
+	}
+	"2140029"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4556373619624409540"
+				"size" "816466967"
+				"download" "664512560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "11B2D63AD8BD25DD58E9CC50CD52620A"
+				"size" "ECFE7CD3E4029A4EEC03F259B0C1F5D5"
+				"download" "A9AC45923E2414CE1378AEFB6C5453DF"
+			}
+			"dev_internal"
+			{
+				"gid" "6823D5A05F4DD1E16BD6C8122385AA67"
+				"size" "B692EC30103DD2EDFC3D8A7C821E051E"
+				"download" "F25D5F70940352D82031B3FC0BEDE4BE"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "6571F41E6B4EA734938034C65429E0F8"
+				"size" "BC1B6AADC0585F9B09FD433B53B73A04"
+				"download" "6C28AB1AE804C6D9EE008AD81D6F4D06"
+			}
+			"dev_internal_old"
+			{
+				"gid" "B8807AD8E99446B831C8FD6B92ADE027"
+				"size" "904D0FE521318D62E800EC508DCDDB48"
+				"download" "AE9DF306D4F3730C2C1786C7E0590FE7"
+			}
+			"devo_china"
+			{
+				"gid" "10EA30432CEDBA0EAE645DD2B260B94F"
+				"size" "E3ADFC0D249823C46D0270FE27DE0203"
+				"download" "459C26281B6C5300CC77BA5A52505239"
+			}
+			"testing_external"
+			{
+				"gid" "1125E1238D77BE27D7292D7576568853"
+				"size" "DF25CB446F86EF314F2CE1103A391C52"
+				"download" "E1DB712085C90F57A0F98A6F556BC4D3"
+			}
+		}
+	}
+	"2434350"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2260475287776267517"
+				"size" "938002483"
+				"download" "709496192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "BA3DE17FDF0C7E38D22ECBBD2041BB17"
+				"size" "C097DF95756D47C3CBB1B2F67088B8E8"
+				"download" "F442B5885AF8869AAEFF592DE38B6E30"
+			}
+			"dev_internal"
+			{
+				"gid" "A4485B3F207964ABBD2910CAFDB38DDB"
+				"size" "5700519988F69C630084EA9F216D5C42"
+				"download" "DEC65F6491EA034D66B82B16C732BE8C"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "97477CBA042F9EA6650EEA4D31B66E0A"
+				"size" "C7E2B9C70D4B0CAE055B3763F608E2F7"
+				"download" "D776D9D10BB4A1F1B0E30D8838D3C74A"
+			}
+			"dev_internal_old"
+			{
+				"gid" "AAB084F8633C2300091323A2D047A2D1"
+				"size" "702FB69BE72CF4B97D258F1F8F33F399"
+				"download" "8BC285E25376C4F03C78FA42B95B749B"
+			}
+			"devo_china"
+			{
+				"gid" "2A295E0A06C7D5C0A09A58B622A1FD3F"
+				"size" "B74B81C6D2810B8E2ABC523A1C547C98"
+				"download" "F35F73AD3E30903F5B87AC7D019E7EFC"
+			}
+			"testing_external"
+			{
+				"gid" "AC92A634A16796FB699B4C438EA2BE2A"
+				"size" "223D5BFD27CB9C5082015D404FC41576"
+				"download" "5D5D623AD617201A283DB3BD426A9BAB"
+			}
+		}
+	}
+	"2434351"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1311788303048114943"
+				"size" "937751775"
+				"download" "709265808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "FC9C556ADD80A0922A852A0F64CA5405"
+				"size" "5862434085E05FF6E492A2118984705D"
+				"download" "C64B433BAB9B7A03ED3E2E9D9A2395B4"
+			}
+			"dev_internal"
+			{
+				"gid" "F37B09A6DF681289627D646836540BB0"
+				"size" "2B8BD1602EA0A942C5A7762FF78F6F9A"
+				"download" "60883F7E1DEEBBD0FA28B91BA2EF21F2"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "9F9F06CECE8787A8E63E856B2FBD0BB6"
+				"size" "95D59A97D1EEF3D6D922AE997B5A4F39"
+				"download" "6C1BA18B22B6D59D634359CADE7AFD28"
+			}
+			"dev_internal_old"
+			{
+				"gid" "4D14F479AFE989C0F5EB185917D776D8"
+				"size" "ED1DCF2C9A8BB8A77D78F7CCB8F07D67"
+				"download" "0DAE85B58E3E04581BAAB5CF70B74F2B"
+			}
+			"devo_china"
+			{
+				"gid" "E3F37977D1873DAA6F9C03AC466ECF8D"
+				"size" "10A86F4486C82A60A5BEF2C6E99F3B5F"
+				"download" "4587D6359B4328A0279CDA615B57D260"
+			}
+			"testing_external"
+			{
+				"gid" "A63D90779273BDA0CF72F3A4F0A40022"
+				"size" "B1710C33F50487F3A0FF2B10C68A1B3B"
+				"download" "07DAA1545B46EEABE00CA617CCA82697"
+			}
+		}
+	}
+	"2434352"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "319495070841828103"
+				"size" "937869351"
+				"download" "709460976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "159D48512D6F3635B1BF81F83F23DE0D"
+				"size" "524C9AC5CD40C3DA1DF731CB9093698C"
+				"download" "F0C4BA3F2832035D6C2E6244B3F48D2F"
+			}
+			"dev_internal"
+			{
+				"gid" "00FC7A1D3FC5628921FC5618401C1B0D"
+				"size" "9560C25458C51CE3A2A734CBA99E2ABF"
+				"download" "6AA92442B87548D0451A48B4A55266C2"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "2AC98F8E03FFC808AE068C4FBF230FB6"
+				"size" "214F46A9BA4A6993A61BA9E984F3D8A8"
+				"download" "1FD5C8A11AC67F652F52E3527973A188"
+			}
+			"dev_internal_old"
+			{
+				"gid" "D8BECDB62E7632F43BB4F82E014FDB49"
+				"size" "0897B2658F5BFB0182D93EE60326DE11"
+				"download" "E1E0B79A6A452515536436FD92438110"
+			}
+			"devo_china"
+			{
+				"gid" "1AC1BC42E3C0F93BEE7495E9012AFCD6"
+				"size" "3910E4A893FF9419874E4A52C7DAE923"
+				"download" "54E817FF8A214F4F990B62FE5AEF0435"
+			}
+			"testing_external"
+			{
+				"gid" "A31F338129A4B1E911DF695D168C1646"
+				"size" "AF51A821F0FB4192F1CDF1036A320621"
+				"download" "D3C0AA3FE149DF4642714EA74ECD0382"
+			}
+		}
+	}
+	"2434353"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9170612265063263107"
+				"size" "937863297"
+				"download" "709455600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "844FCD7CB17CD432499A515B2C60CF1E"
+				"size" "D85D87455CDD9FA93AF974937546846F"
+				"download" "0F6CC148A05884F7E4A2DAC08CC2C891"
+			}
+			"dev_internal"
+			{
+				"gid" "AD65496420A2516C60D7F7393370044E"
+				"size" "F66030941A2046FB613E2BBF5B2D35F8"
+				"download" "3F51EC4D6C4CEF1320482EEE2F78028E"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "9103AA527663D7EDD2DDDE7285E993FA"
+				"size" "F20DFCDC4315A342ADAF9D6B80A1F699"
+				"download" "75DC171590E2F8C39573D6272696DB66"
+			}
+			"dev_internal_old"
+			{
+				"gid" "8500C185382CFB8A823C30BFE7A1DC6B"
+				"size" "61E22B170688FA8C1B09B64AE6A59FDE"
+				"download" "BCD6DC02EAB84698A33A68982340FAE9"
+			}
+			"devo_china"
+			{
+				"gid" "BE788885C3A5EC9842468FA8AACE8613"
+				"size" "6917AD2D4A0B7F0B6903368FEFC41195"
+				"download" "86AEA7297854E52E7BE88E2159B7E481"
+			}
+			"testing_external"
+			{
+				"gid" "D810B81AC5FEFB50B20DF21E5DC0335C"
+				"size" "9EFCFD8A3B9A4D0568F45996B9E94BE4"
+				"download" "2E3C2CB2DA5DD0C582FB23071B61E75B"
+			}
+		}
+	}
+	"2434354"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7416678889435364854"
+				"size" "937921598"
+				"download" "709491776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "6A3CEB61625A2CD23A2B434252718D8D"
+				"size" "A003D9DEE6EB97CFA52ECD8BE06F2FF2"
+				"download" "9B0427F7E4DDD78D6F871D4E0D5D5E56"
+			}
+			"dev_internal"
+			{
+				"gid" "16238C6E67AB5736A14C1EF71AF20419"
+				"size" "2F387B74FED71FD1563C609B5804C967"
+				"download" "86F54EFD302CE9C855D8DA5923986FEE"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "FC6FB0DF8E84DF7DC0373635518691FB"
+				"size" "DC524C269FFDE6CE3563D419A1FF1BD9"
+				"download" "6E8D54FA664D67C36AF82735247A003B"
+			}
+			"dev_internal_old"
+			{
+				"gid" "C89ED0757D64F8CBB1F4B7ED7CA846D3"
+				"size" "DE7B28D082C7017583B9C4A9CBCEEEE6"
+				"download" "545996EBB5C8D9FB4409E3A0CA3E8861"
+			}
+			"devo_china"
+			{
+				"gid" "50010C573C0320E1359FD20D3A594505"
+				"size" "45571F17D1479803A1221D66CE0F5E26"
+				"download" "EAB693587928BC3838894897128D848B"
+			}
+			"testing_external"
+			{
+				"gid" "D833AF9847CA108FF78530932463C703"
+				"size" "C9A64461767709AE4B39A51E65CA03C2"
+				"download" "97A992E5C119538EC78E8D5CAA1B734B"
+			}
+		}
+	}
+	"2434355"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8740749932284605231"
+				"size" "937953167"
+				"download" "709490144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "E73B5F078B59E9507C850E5293A8808C"
+				"size" "46840716DA52DAF9D2E57C6A871A52E2"
+				"download" "F9710DBCAACA38C4C79482159BB0CC3C"
+			}
+			"dev_internal"
+			{
+				"gid" "E0A96FAE966F597B47F54CB862BEDC53"
+				"size" "0CDD4476DA4EAE813EB61A80D063A2C4"
+				"download" "34EEADA2176CD291458A73DF638FAD44"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "1E22AAA9C1BD0502360D9E68D8129358"
+				"size" "26CE4B197B1202FB711C13B8A4E337AC"
+				"download" "966C0364C61E32B8F2FF0AFD8549B226"
+			}
+			"dev_internal_old"
+			{
+				"gid" "81A7242CD321AB11CAA2E62024B8490E"
+				"size" "092C66FB6605B32CDB45C5A36E3B924D"
+				"download" "1FC476318BE711AF1AC708C82E68D092"
+			}
+			"devo_china"
+			{
+				"gid" "D487405C7B1185C1F79DF014B22A74DD"
+				"size" "FF1BD69C468989706442C7A4D8F310AB"
+				"download" "4DEB92E3B17169D0D437100541FE5626"
+			}
+			"testing_external"
+			{
+				"gid" "3265CDE8ACE2B9E62B5A0EEF33A59422"
+				"size" "5AB17039132545215315205C221A3157"
+				"download" "89A1CE41F73EB08A453581018CA9E3D8"
+			}
+		}
+	}
+	"2434356"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7612094201881773323"
+				"size" "937945545"
+				"download" "709494224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "540B71C76F537F9BFAA12B4D9EFD9799"
+				"size" "09372577BADD624F84F8F78878B53D76"
+				"download" "AFA53901FF880E3D1FC7CA4F5C33AF9B"
+			}
+			"dev_internal"
+			{
+				"gid" "A0F0B547F75DE33B93531E5BE3386DE1"
+				"size" "3DE96175678505D513B35F04F8C2F0FD"
+				"download" "8B35B6AB3D015DD483879E48751B009F"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "7A24BD04D40CCF173726111172965EA0"
+				"size" "F902605CAAE2534F591DA187CFA842E4"
+				"download" "5A2679B5F70523EA81B9E35CB4A792AD"
+			}
+			"dev_internal_old"
+			{
+				"gid" "F6857AD6757986329299F694A1991D4B"
+				"size" "FBDAD2760B93C7EBFA7AC26D6B9236A4"
+				"download" "05AC431AA461154BD6A303FFE0F3D3E8"
+			}
+			"devo_china"
+			{
+				"gid" "5B76CA0C5DC13B72BB25A6A071641353"
+				"size" "3A17CE3E1EE67E476BAEA483644EAD77"
+				"download" "5FF7AEB72C0A267D7677020F465F4C6D"
+			}
+			"testing_external"
+			{
+				"gid" "C09E63B50C6BBE78F6464D38BC3AE365"
+				"size" "F0507DE9C53A8D0F5577A0DF1BA63FE5"
+				"download" "0B26A2D7ACDE30794D2290BCF48E04BD"
+			}
+		}
+	}
+	"2434357"
+	{
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1954302617816521947"
+				"size" "938484438"
+				"download" "709524928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "D9462F64ED66A5AB2E6E24971E23A28B"
+				"size" "D45CAB9C7EA3B71EA66A935C0869CFF2"
+				"download" "74A85E6A798C36B98441F6E5A138ACE9"
+			}
+			"dev_internal"
+			{
+				"gid" "EB3E60BF45A816B1CB2995A5BA657D40"
+				"size" "8327CE540CDC774B61201120C07C8798"
+				"download" "B41D484D7422BCA267A8450C99A360AE"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "244ACD48FB7986AEC17C5CEEA257C41B"
+				"size" "AAA72D337C92DB9B88ED5EB4818CC926"
+				"download" "BE38C53D81C0BC4530E6D705D9ED0013"
+			}
+			"dev_internal_old"
+			{
+				"gid" "58FB668F68DD847F7BE3E3D57A5B980D"
+				"size" "D153AFB1E2CC9D613D99DFEA9D17AFC5"
+				"download" "763A9D16E39A5000B3098DD3DBBD9896"
+			}
+			"devo_china"
+			{
+				"gid" "50B10CDEEAB0B35DA3850F31AB5C6F14"
+				"size" "07AF87B74499BC1ED22D338C1BB5AA48"
+				"download" "9C9D3BD70F9F9F7513AFF8E1315FD729"
+			}
+			"testing_external"
+			{
+				"gid" "BFC1C316448B9C70846F6E4C85D53CBD"
+				"size" "2E5CB3A746FA0835EE23D0B4286CB09C"
+				"download" "6004A3F37476B68F6DC9639857737475"
+			}
+		}
+	}
+	"2434358"
+	{
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2904414736076928585"
+				"size" "938169553"
+				"download" "709515968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "F30F3EBCD17A13AB8197962883D839E8"
+				"size" "5659E639026E5A62A5F0E5B3912F72D8"
+				"download" "D68497515E111E48F0F7EC67F106E523"
+			}
+			"dev_internal"
+			{
+				"gid" "12A44CF9F6FE538723A73FC5F2E72AF4"
+				"size" "C241DF33001534B551952AD3AE16C686"
+				"download" "5F6DAF6E9E45D475B570164771AB4768"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "F8C8DFA46095964B5A2D15F0FAC20C0B"
+				"size" "2DAAAD84C7AC3B21A39B88FAF251F437"
+				"download" "22AD5487178A5AA6D4B7D0A16313904B"
+			}
+			"dev_internal_old"
+			{
+				"gid" "B9B0598A36A953BB65E8655E243FB376"
+				"size" "1DC797C86947E0DE71E78F9CFAB3344D"
+				"download" "9002DD25E32AF7C0957BCABB36D5E2B4"
+			}
+			"devo_china"
+			{
+				"gid" "418F5F124D80B8EBE13CBC4583EC6D40"
+				"size" "D3123E300FFB80A6F95E2DF6D9ACB70C"
+				"download" "D3123E300FFB80A6F95E2DF6D9ACB70C"
+			}
+			"testing_external"
+			{
+				"gid" "A7C44B53BEFA5E49CB20DAB39A37BF2A"
+				"size" "3BE750D315DE95FE28847921D3B5A329"
+				"download" "3BE750D315DE95FE28847921D3B5A329"
+			}
+		}
+	}
+	"2727990"
+	{
+		"dlcappid" "2727990"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "602878580649987507"
+				"size" "5136036"
+				"download" "2367728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "46F8B65CAA6D52D777F92770F987E398"
+				"size" "2684B69AC67F51C03222475E21489D29"
+				"download" "EA84D36EDDB6434E0A9D7B6E40B8253F"
+			}
+			"dev_internal"
+			{
+				"gid" "F3D48F725ED193069065D59BB0990E4B"
+				"size" "1C9BFC9F14C98A4D041E6A7849A6DEAF"
+				"download" "02EFF106A14CC3BA1E047FEFA467B009"
+			}
+			"dev_internal_hotfix"
+			{
+				"gid" "8184C8D175787860D1E723E0885DE432"
+				"size" "1AFE16B7CC2169D247BDC40E3B210962"
+				"download" "FA2C98E891CFF93411D444567CBB0D9B"
+			}
+		}
+	}
+	"2728000"
+	{
+		"dlcappid" "2728000"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4504339046047611929"
+				"size" "4958148"
+				"download" "2223248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"content_creators_v1.2"
+			{
+				"gid" "1A97C8876B448E11CBFAD6C7A3A6378F"
+				"size" "B0CD92F2E055E13EDECEDF321D9092E0"
+				"download" "88BF3752C6F9307F858DA0F4E8317B37"
+			}
+			"dev_internal"
+			{
+				"gid" "A60FDA32070BC8D7E0CD751B9185761F"
+				"size" "95E0746A8BEF016A980304DCF8158AB4"
+				"download" "136ED365B062FBDBF9CBB00FBD2ADF30"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13442801"
+			"timeupdated" "1707834498"
+		}
+		"content_creators_v1.2"
+		{
+			"buildid" "13311979"
+			"pwdrequired" "1"
+			"timeupdated" "1706613964"
+		}
+		"crash_test"
+		{
+			"buildid" "10525419"
+			"pwdrequired" "1"
+			"timeupdated" "1688551724"
+		}
+		"dev_internal"
+		{
+			"buildid" "13445713"
+			"pwdrequired" "1"
+			"timeupdated" "1707844850"
+		}
+		"dev_internal_hotfix"
+		{
+			"buildid" "13577355"
+			"pwdrequired" "1"
+			"timeupdated" "1709046899"
+		}
+		"dev_internal_old"
+		{
+			"buildid" "12551223"
+			"pwdrequired" "1"
+			"timeupdated" "1698395897"
+		}
+		"devo_china"
+		{
+			"buildid" "12333694"
+			"pwdrequired" "1"
+			"timeupdated" "1696258957"
+		}
+		"pre-alpha"
+		{
+			"buildid" "10628729"
+			"pwdrequired" "1"
+			"timeupdated" "1677250271"
+		}
+		"testing_external"
+		{
+			"buildid" "12405759"
+			"pwdrequired" "1"
+			"timeupdated" "1697023801"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition/Saves"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition/Maps"
+			"pattern" "*.map"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition"
+			"pattern" "scores.cfg"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition"
+			"pattern" "settings.cfg"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition/Maps"
+			"pattern" "*.tmp"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition/UserWorkshopMaps"
+			"pattern" "*.map"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firefly Studios/Stronghold 1 Definitive Edition/UserWorkshopMaps"
+			"pattern" "*.data"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22582116"
+"_sha" "3e28d324740f5b2fdaf8d6994d82c4a72a90b9fc"
+"_size" "34193"
