@@ -1,0 +1,494 @@
+"appid" "1676840"
+"common"
+{
+	"name" "For The King II"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "b332e803c61299c2aa5efdf1883409e0bfafd034"
+	"clienticon" "44d64ce0162e4e529b7439448f7c266af8e41dee"
+	"clienttga" "fd2d32d7df784392839e33967abaa39a94eab230"
+	"name_localized"
+	{
+		"schinese" "为了吾王II / For The King II"
+		"tchinese" "為了吾王 II / For the King II"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1676840_eula_0"
+			"name" "For The King II EULA"
+			"url" "https://store.steampowered.com//eula/1676840_eula_0"
+			"version" "1"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1697760000"
+		"tested_build_id" "12456818"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "For the King II"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "25.820988676559523"
+			"height_pct" "46.079133005557544"
+		}
+	}
+	"store_asset_mtime" "1709217544"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IronOak Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Curve Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Curve Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1698944400"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/for-the-king-ii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1676840"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "122"
+		"2" "9"
+		"3" "10695"
+		"4" "1770"
+		"5" "1716"
+		"6" "3959"
+		"7" "1741"
+		"8" "17389"
+		"9" "4325"
+		"10" "3859"
+		"11" "1684"
+		"12" "1685"
+		"13" "3843"
+		"14" "1717"
+		"15" "1695"
+		"16" "3841"
+		"17" "7368"
+		"18" "4182"
+		"19" "1775"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"deckresolutionoverride" "1920x1080"
+	"developer" "IronOak Games"
+	"publisher" "Curve Games"
+	"homepage" "https://www.ironoakgames.com"
+	"listofdlc" "2594240"
+}
+"config"
+{
+	"installdir" "For The King II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "For The King II.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"1676841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5873731977844196129"
+				"size" "5658584079"
+				"download" "4288297568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"base"
+			{
+				"gid" "4D68C6D350630A0AB8749046A78141BC"
+				"size" "70C3160905B4D97AA3AB11C5072B0491"
+				"download" "D1AE6205BF1488311D035A8F1C8295B8"
+			}
+			"base_debug"
+			{
+				"gid" "EC265BA0912E1144C7B913A09F058311"
+				"size" "2124E4DC7F99534D6AEA54D17A5A9F13"
+				"download" "5D7FA82460A0A8BBDB67BF4135B3E5F1"
+			}
+			"code"
+			{
+				"gid" "0378DB4936725DBF6D3D232A4A8A3147"
+				"size" "9D95611B2F3CA17DBD51816538255EB9"
+				"download" "E6775EE2F89B890C552EBC855DB8144A"
+			}
+			"curve_qa"
+			{
+				"gid" "EE8DC252BCBE105876C4E1724119228A"
+				"size" "A85236DC701593235E7784C7F3C49B4A"
+				"download" "C1537900E4D81F2BF8CA55552D78F791"
+			}
+			"experimental"
+			{
+				"gid" "D6909A575A8D7D3BCB1EA77FA1E6C92C"
+				"size" "6D92BA7A75AC6DACF13A006AB2EF309B"
+				"download" "B13977C4068EFED81705CAA42D8B155E"
+			}
+			"external_agencies"
+			{
+				"gid" "1A2827C59309979A439766B20FF33D21"
+				"size" "157E4BAA657B6A6DCCD4E920F905688C"
+				"download" "1C9A9F8E488126C89578823B2AA439E3"
+			}
+			"privatetesting"
+			{
+				"gid" "F3E05A4F22C781032E2F4281ABD2FD10"
+				"size" "C099C0C30EB3A90629BEB3FF728EFBA7"
+				"download" "8700A7CCBE7192F7DA0BCCD86D1CC2BD"
+			}
+			"release_vip"
+			{
+				"gid" "78FA70AB72C9A12A739C77B74D433C34"
+				"size" "565E1A83210314A3A8247C61928CE7EC"
+				"download" "C1A33865FB8077476502A6A3A72EB741"
+			}
+			"resistance_staging"
+			{
+				"gid" "9A3B017B19DDCA777AF5EFFD980B85A1"
+				"size" "179A970DEEE280AD65932917C5164980"
+				"download" "3213F7E78E5D36183618AB0072606AFB"
+			}
+			"staging"
+			{
+				"gid" "DD1AF995CF5F9EF86D205B95D08AD2C1"
+				"size" "DCC1A85086B4C5B1D15005A27E2F4212"
+				"download" "723CE723F1C6759E05E55BAC05B25664"
+			}
+			"staging_release"
+			{
+				"gid" "D54839F2937C7729056629E578C76122"
+				"size" "FF8616D8EA3B5ABDA853372B42070930"
+				"download" "56834B4DEE3B36D892A52186B2C68A12"
+			}
+			"testing_iog"
+			{
+				"gid" "7C294FDFE31369AF3CE49152AAAA6975"
+				"size" "AD0A4212EF0EFBC54F465D5151AC604D"
+				"download" "D44002A995BD504CECFDEAB9CD734F33"
+			}
+			"the_resistance"
+			{
+				"gid" "4F9F5797B2E1BA2D2EF07F5891EC0085"
+				"size" "249E5D2D4A72C4D6B3EA31664BCA5366"
+				"download" "1169CD7C61AA3E49B2739C7CE289E825"
+			}
+			"troubleshoot_addressables"
+			{
+				"gid" "7C06D334EF3407FFDC4088500A641C50"
+				"size" "8ACE795800641EFBD591A76F3E2B6A8D"
+				"download" "B5CCD911A50407CEFC143F897A1759CF"
+			}
+			"vendor_qa"
+			{
+				"gid" "45699535047C8AFF8E287938D53DEFAC"
+				"size" "63BF8B7387174F5194C92DD08F0F41DE"
+				"download" "103D6E09B606FB5A747A4906991B30E2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13604494"
+			"timeupdated" "1709234870"
+		}
+		"base"
+		{
+			"buildid" "12587454"
+			"pwdrequired" "1"
+			"timeupdated" "1698973050"
+		}
+		"base_debug"
+		{
+			"buildid" "12586829"
+			"pwdrequired" "1"
+			"timeupdated" "1699282315"
+		}
+		"code"
+		{
+			"buildid" "13619118"
+			"pwdrequired" "1"
+			"timeupdated" "1709339440"
+		}
+		"curve_qa"
+		{
+			"buildid" "13619118"
+			"pwdrequired" "1"
+			"timeupdated" "1709339609"
+		}
+		"experimental"
+		{
+			"buildid" "13550652"
+			"pwdrequired" "1"
+			"timeupdated" "1708749278"
+		}
+		"external_agencies"
+		{
+			"buildid" "12439905"
+			"pwdrequired" "1"
+			"timeupdated" "1697274969"
+		}
+		"privatetesting"
+		{
+			"buildid" "11453572"
+			"pwdrequired" "1"
+			"timeupdated" "1686673078"
+		}
+		"release_vip"
+		{
+			"buildid" "13604494"
+			"pwdrequired" "1"
+			"timeupdated" "1709234906"
+		}
+		"resistance_staging"
+		{
+			"buildid" "13570507"
+			"pwdrequired" "1"
+			"timeupdated" "1708997794"
+		}
+		"staging"
+		{
+			"buildid" "13616010"
+			"pwdrequired" "1"
+			"timeupdated" "1709314507"
+		}
+		"staging_release"
+		{
+			"buildid" "13619160"
+			"pwdrequired" "1"
+			"timeupdated" "1709339724"
+		}
+		"testing_iog"
+		{
+			"buildid" "12664965"
+			"pwdrequired" "1"
+			"timeupdated" "1699653170"
+		}
+		"the_resistance"
+		{
+			"buildid" "13570507"
+			"pwdrequired" "1"
+			"timeupdated" "1708998802"
+		}
+		"troubleshoot_addressables"
+		{
+			"buildid" "12664965"
+			"pwdrequired" "1"
+			"timeupdated" "1699575201"
+		}
+		"vendor_qa"
+		{
+			"buildid" "13550533"
+			"pwdrequired" "1"
+			"timeupdated" "1708767620"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "IronOak Games/For The King II"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22594132"
+"_sha" "956623634e38081a25c07f72f7f6d9267cc4c956"
+"_size" "9832"
