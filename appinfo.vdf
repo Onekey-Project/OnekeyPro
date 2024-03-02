@@ -1,0 +1,729 @@
+"appid" "219990"
+"common"
+{
+	"name" "Grim Dawn"
+	"type" "Game"
+	"icon" "762057f2b14463ae1cbf0701a4cdb25cf94e8a0c"
+	"clienticon" "889a02bbebe088f7bd4f011ae641732481b1b3d6"
+	"clienttga" "f91bfd8ee348e5ed78eb3c64f56d14cab223e23a"
+	"oslist" "windows"
+	"logo" "8021ad6119b367593f1b1536aafd11397fb24ae9"
+	"logo_small" "8021ad6119b367593f1b1536aafd11397fb24ae9_thumb"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1648771200"
+		"tested_build_id" "6473821"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Grim Dawn"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44"
+			"height_pct" "43"
+		}
+	}
+	"store_asset_mtime" "1639672315"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crate Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crate Entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_43" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1456423200"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/grim-dawn\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "219990"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "1646"
+		"2" "4604"
+		"3" "122"
+		"4" "4236"
+		"5" "1720"
+		"6" "1685"
+		"7" "4342"
+		"8" "3859"
+		"9" "4182"
+		"10" "1684"
+		"11" "19"
+		"12" "21"
+		"13" "5851"
+		"14" "4166"
+		"15" "3835"
+		"16" "492"
+		"17" "1659"
+		"18" "5153"
+		"19" "7113"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Crate Entertainment"
+	"gamedir" "ValveTestApp219990"
+	"homepage" "http://www.grimdawn.com/"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Crate Entertainment"
+	"listofdlc" "483840,565610,642280,897670,1088290,2701090"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Grim Dawn"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "grim dawn.exe"
+			"description" "Play Grim Dawn (x86)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "x64/grim dawn.exe"
+			"description" "Play Grim Dawn (x64)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "grim dawn.exe"
+			"arguments" "/d3d9"
+			"description" "Play Grim Dawn (x86) - Legacy DX9 Renderer"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"usemms" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1735272034"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "v1.1.9.8"
+			"use_action_block" "false"
+		}
+		"1736839983"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "v1.1.9.8"
+			"use_action_block" "false"
+		}
+		"3085839264"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,internal,playtest"
+			"use_action_block" "false"
+		}
+		"3085871769"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1995929896"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"hasdepotsindlc" "0"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"219991"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8763565440991218360"
+				"size" "4631710655"
+				"download" "3383526624"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "1749162298806451998"
+				"size" "4186044787"
+				"download" "3285263424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "2C1BA8C155D7CD32CF872AF7DF0F9684"
+				"size" "FF9F724DD84EA398060D365E44FAA5CC"
+				"download" "93D60892BE0D9BEF342607CB17014C7D"
+			}
+			"legacy"
+			{
+				"gid" "CC729302D657C36759014C627DF0E5A1"
+				"size" "78955E9C8EC2C5298B64E8125DD3101D"
+				"download" "E7443F5FF634B801B68D8D777286CDDB"
+			}
+			"playtest"
+			{
+				"gid" "766513ED429DA716453D20AC887B2F63"
+				"size" "338895CA7915CBBF5555413AC1FFDCB8"
+				"download" "6B8976EE46BC01833FB053EB819C7DD4"
+			}
+		}
+	}
+	"441580"
+	{
+		"dlcappid" "441580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6219935427605252620"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "6219935427605252620"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "A139083EB16157B1AD78C2F72FB5DEF0"
+				"size" "7291AF089C674B5BAAEA13E14F4CCB58"
+				"download" "7291AF089C674B5BAAEA13E14F4CCB58"
+			}
+			"playtest"
+			{
+				"gid" "4230AEF9EBFC389EAE9221718F0456E8"
+				"size" "146D6B14BEA3ED8E2DA58FA3678E0FD5"
+				"download" "146D6B14BEA3ED8E2DA58FA3678E0FD5"
+			}
+		}
+	}
+	"450612"
+	{
+		"dlcappid" "450612"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8094290815425911095"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "8094290815425911095"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "A709DDA0B569B6DAB3ED0F0E740F5285"
+				"size" "7291AF089C674B5BAAEA13E14F4CCB58"
+				"download" "7291AF089C674B5BAAEA13E14F4CCB58"
+			}
+			"playtest"
+			{
+				"gid" "11D6A9C07EB8D204CBE7181F8F9F09EE"
+				"size" "146D6B14BEA3ED8E2DA58FA3678E0FD5"
+				"download" "146D6B14BEA3ED8E2DA58FA3678E0FD5"
+			}
+		}
+	}
+	"483840"
+	{
+		"dlcappid" "483840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7276277303264649691"
+				"size" "177176779"
+				"download" "102867488"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "5248886451706141717"
+				"size" "177965608"
+				"download" "103472896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "4C6873D251D205418C6210076F709C1D"
+				"size" "A97EFF02D31DD66E299EEBB05273D821"
+				"download" "7F81B49D97C61FE46C89D7AF30266D57"
+			}
+			"playtest"
+			{
+				"gid" "A8D2970BE0F5808B278BA2EDAB36F415"
+				"size" "BCA9836B834BE2DB9866F646A8409F84"
+				"download" "D24328B79A51DA76611A529E88A35243"
+			}
+		}
+	}
+	"642280"
+	{
+		"dlcappid" "642280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8868937608263204399"
+				"size" "2527564874"
+				"download" "1976446976"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "4988983594673412023"
+				"size" "2524936827"
+				"download" "1974591856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "B1D348175731B7A8C3D2F8457B258F3C"
+				"size" "382B2C386EAA72056A705F388E5436F3"
+				"download" "33644C845F3D662151A1B5D40B298E97"
+			}
+			"playtest"
+			{
+				"gid" "B711C7875889A4D46A1596BB6B90EF90"
+				"size" "6BBACE16D39C044D69813BA84C717BA2"
+				"download" "3A752F69641312C826F843E6ED68AEF7"
+			}
+		}
+	}
+	"642281"
+	{
+		"dlcappid" "642280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6127188301640931335"
+				"size" "19717335"
+				"download" "12045344"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "3232992913109001090"
+				"size" "19842630"
+				"download" "12063408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "BA969B52E4854C7E590A726D239E0E01"
+				"size" "05AB9EB2C36085D4E67C939289D0DA55"
+				"download" "4317BEE63BF8A8AC1FFC9C78F74B0FE8"
+			}
+			"playtest"
+			{
+				"gid" "399C45D36CB31E814CDB952FFFA78810"
+				"size" "17D3BEEABBF8C9974042B32529B9CBE3"
+				"download" "DC1678D27C0A469FFD67594CFA5B94C2"
+			}
+		}
+	}
+	"897670"
+	{
+		"dlcappid" "897670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7912880299451478591"
+				"size" "3265784799"
+				"download" "2535897376"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "8065815499583939912"
+				"size" "3264443199"
+				"download" "2546250240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "16357067E54F31B309AEF6FC9FB0E08F"
+				"size" "7A09DD9F10D1578A9390830F106E2BD6"
+				"download" "AE8C8CB0FE7C993F684F836911AE2007"
+			}
+			"playtest"
+			{
+				"gid" "F7E5E97BDE4BD77525E6C76F4AEFBC3C"
+				"size" "C5145994D2B94533B5470584D0E0799B"
+				"download" "5C8C52FD3461EB45BAA5A5B399CFD189"
+			}
+		}
+	}
+	"897671"
+	{
+		"dlcappid" "897670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5511427685965713266"
+				"size" "5447724"
+				"download" "2401248"
+			}
+			"v1.1.9.8"
+			{
+				"gid" "6762030561702967499"
+				"size" "5511272"
+				"download" "2413440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "4915F258F0AAA08C64FB8AEEE5495E9A"
+				"size" "A16CCD3D84F085064368F2A43BE59069"
+				"download" "8B5F61B471891DD5362D70E9AD783BCF"
+			}
+			"playtest"
+			{
+				"gid" "D4AC579A2AD28FA2CDC99EDC7073C56C"
+				"size" "480E7EE921B512E355B16DFAAB37F62D"
+				"download" "DB58CA5F278BB4D2543EE9E7A80BECAE"
+			}
+		}
+	}
+	"2699230"
+	{
+		"dlcappid" "2699230"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "A3C83F5B48D3A38773F3EE98A088CAEB"
+				"size" "A58363BE64E983CE06F7A44148158B37"
+				"download" "F553522C9115338D6047A4918659CD21"
+			}
+		}
+	}
+	"2699231"
+	{
+		"dlcappid" "2699230"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "3658D7ED2E18E0191FD0FB05E2E230BB"
+				"size" "71C2A843ECE3CD5762355757BD46710B"
+				"download" "0A9504FB54B96724D08C73B57C82618E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13579788"
+			"timeupdated" "1709062151"
+		}
+		"internal"
+		{
+			"buildid" "13418232"
+			"pwdrequired" "1"
+			"timeupdated" "1707509260"
+		}
+		"legacy"
+		{
+			"buildid" "12196"
+			"pwdrequired" "1"
+		}
+		"playtest"
+		{
+			"buildid" "13579788"
+			"pwdrequired" "1"
+			"timeupdated" "1709062092"
+		}
+		"v1.1.9.8"
+		{
+			"buildid" "11969118"
+			"description" "Grim Dawn v1.1.9.8"
+			"timeupdated" "1700154687"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "22580697"
+"_sha" "1c37e755411804da915dffb68d1d3a57046cb4fe"
+"_size" "13665"
