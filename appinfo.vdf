@@ -79,7 +79,7 @@
 			"height_pct" "63.298503918309166"
 		}
 	}
-	"store_asset_mtime" "1699435643"
+	"store_asset_mtime" "1709310017"
 	"associations"
 	{
 		"0"
@@ -112,6 +112,7 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_30" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -203,7 +204,7 @@
 		"19" "7368"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -550,6 +551,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22570382"
-"_sha" "d22b194b94d2c6955108b7912b368b3ce27b6d77"
-"_size" "10636"
+"_change_number" "22601422"
+"_sha" "e9e93c29bca004420b0d5d5f1316759dba6931ac"
+"_size" "10658"
