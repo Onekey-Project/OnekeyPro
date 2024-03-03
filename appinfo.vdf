@@ -1,0 +1,378 @@
+"appid" "1449070"
+"common"
+{
+	"name" "Journey to the West"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "神州志西游"
+		"tchinese" "神州誌西游"
+		"english" "Journey to the West"
+		"sc_schinese" "神州志西游"
+		"koreana" "신주지 서유"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "661ffaaadbd9c2c8a3cde6d110fbc01cb96eb988"
+	"clienttga" "ade487c47223a1e376abac8c5174e3f87db31489"
+	"icon" "8fce4cc0d1a04c309ce54938810975897f5a8b01"
+	"logo" "c07c5a90b7e57a04f70c39e205d2665fea6c2e4e"
+	"logo_small" "c07c5a90b7e57a04f70c39e205d2665fea6c2e4e_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"clienticns" "29cc16270ea4a27b1a0b3bb5f5122dbe7157b8bd"
+	"releasestatesteamchina" "prerelease"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,zh-xc,ko"
+		"library_hero" "en,zh-cn,zh-tw,ko"
+		"library_logo" "en,zh-cn,zh-tw,ko"
+		"library_header" "en,ko,zh-xc,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "73.38709677419354"
+			"height_pct" "60.1842752761942"
+		}
+	}
+	"store_asset_mtime" "1707158548"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Z Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ParasGames"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "ParasGames"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Z Studio"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_25" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1688012125"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1449070"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "122"
+		"2" "3959"
+		"3" "1716"
+		"4" "3871"
+		"5" "1666"
+		"6" "10695"
+		"7" "1741"
+		"8" "9"
+		"9" "32322"
+		"10" "6971"
+		"11" "5125"
+		"12" "1742"
+		"13" "5711"
+		"14" "4325"
+		"15" "4305"
+		"16" "6815"
+		"17" "4252"
+		"18" "1684"
+		"19" "16094"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Z Studio"
+	"publisher" "ParasGames"
+	"homepage" "http://www.zstudiousa.com"
+	"listofdlc" "2502100"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Divinity Chronicles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JTW.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "JTW.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"workshopdepot" "1449070"
+	"branches"
+	{
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+		"dlc1"
+		{
+			"sc_schinese" "ZStudio202311"
+			"buildid" "13624880"
+			"pwdrequired" "1"
+			"timeupdated" "1709445011"
+		}
+		"public"
+		{
+			"buildid" "13456603"
+			"timeupdated" "1707931327"
+		}
+		"beforedlc"
+		{
+			"buildid" "13456603"
+			"description" "无DLC版本（支持旧存档）"
+			"timeupdated" "1709401015"
+		}
+		"pre-release"
+		{
+			"buildid" "13567518"
+			"description" "正式版提前测试分支"
+			"timeupdated" "1708974638"
+		}
+		"staging"
+		{
+			"buildid" "13567518"
+			"pwdrequired" "1"
+			"timeupdated" "1708974644"
+		}
+	}
+	"hasdepotsindlc" "1"
+	"1449071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2106438506737860111"
+				"size" "4188377025"
+				"download" "1307071312"
+			}
+			"beforedlc"
+			{
+				"gid" "2106438506737860111"
+				"size" "4188377025"
+				"download" "1307071312"
+			}
+			"pre-release"
+			{
+				"gid" "2687358297841337965"
+				"size" "4188436768"
+				"download" "1307068160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc1"
+			{
+				"gid" "970849F17E7C6D06B926A45F3B1A8B31"
+				"size" "09977A464F724087596EDC3A3286A650"
+				"download" "47077391F44681B001A32EBE7EC1D9D8"
+			}
+			"staging"
+			{
+				"gid" "DCAE6CF0264532B3E441A5DD4553FD5D"
+				"size" "010B39E3B07D4E76DABC6D3294B2DCA8"
+				"download" "E19A359393D69C2D44324CCE478D446C"
+			}
+		}
+	}
+	"1449072"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2155934647540943066"
+				"size" "4211566704"
+				"download" "1314046992"
+			}
+			"beforedlc"
+			{
+				"gid" "2155934647540943066"
+				"size" "4211566704"
+				"download" "1314046992"
+			}
+			"pre-release"
+			{
+				"gid" "2155934647540943066"
+				"size" "4211566704"
+				"download" "1314046992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc1"
+			{
+				"gid" "2D846BEBF9AC3627CF4E7DACCA2C45A8"
+				"size" "AC6B25DFDD33B60A4B13B9653E61A9E7"
+				"download" "C7A9CDDB3C70A1A1C3D72CA0FBA2362E"
+			}
+			"staging"
+			{
+				"gid" "5EBDA798DE68EADAEBAB457E6A92C85C"
+				"size" "2E3112C3F99BBC1D3C4845DEC6989FE6"
+				"download" "A8BE5470785BB356F87A8E16C0A4DF61"
+			}
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Z Studio/JTW/steam_{Steam3AccountID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Z Studio/JTW"
+			"pattern" "game.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Z Studio/JTW/steam_{Steam3AccountID}"
+					"replace" "Z Studio/JTW/steam_{Steam3AccountID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Z Studio/JTW"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22606623"
+"_sha" "4ab1381475b183016f2ae9fcd269c32a3c51a1d5"
+"_size" "6930"
