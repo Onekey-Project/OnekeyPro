@@ -1,0 +1,189 @@
+"appid" "2670630"
+"common"
+{
+	"name" "Supermarket Simulator"
+	"type" "Game"
+	"icon" "b76ce5e747870bed95bf994f95103a3dd143d4da"
+	"clienticon" "65b340d6d247a9f8b5a4940b0ffde10a6f7e6f69"
+	"clienttga" "7647837177f52a688cc628b28876e67d187d6587"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.87580496780129"
+			"height_pct" "51.388888888888886"
+		}
+	}
+	"store_asset_mtime" "1708874875"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nokta Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nokta Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708452890"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2670630"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9204"
+		"2" "4695"
+		"3" "12472"
+		"4" "4845"
+		"5" "1643"
+		"6" "4202"
+		"7" "3839"
+		"8" "3810"
+		"9" "10235"
+		"10" "4191"
+		"11" "597"
+		"12" "1644"
+		"13" "4182"
+		"14" "8945"
+		"15" "4175"
+		"16" "492"
+		"17" "6276"
+		"18" "493"
+		"19" "1663"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Nokta Games"
+	"publisher" "Nokta Games"
+}
+"config"
+{
+	"installdir" "Supermarket Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Supermarket Simulator.exe"
+		}
+	}
+}
+"depots"
+{
+	"2670631"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7899135461544901887"
+				"size" "4581125876"
+				"download" "1370612016"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13569906"
+			"timeupdated" "1708993178"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22607765"
+"_sha" "6e97b8ddc5ba606b58500bf4bc44ce724df70e17"
+"_size" "2762"
