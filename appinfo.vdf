@@ -138,6 +138,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_30" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -252,15 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "1400555216691716184"
-				"size" "414181870"
-				"download" "331082976"
-			}
-			"public_beta"
-			{
-				"gid" "5425279736999902337"
-				"size" "419389008"
-				"download" "335977056"
+				"gid" "3801446134855014900"
+				"size" "418770432"
+				"download" "335335568"
 			}
 			"tournament_version"
 			{
@@ -291,12 +286,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "3512273515017943855"
-				"size" "1500076451"
-				"download" "1287498896"
-			}
-			"public_beta"
 			{
 				"gid" "3512273515017943855"
 				"size" "1500076451"
@@ -336,20 +325,14 @@
 	{
 		"public"
 		{
-			"buildid" "11379262"
-			"timeupdated" "1685703860"
+			"buildid" "13625908"
+			"timeupdated" "1709468771"
 		}
 		"press"
 		{
 			"buildid" "10628631"
 			"pwdrequired" "1"
 			"timeupdated" "1677254548"
-		}
-		"public_beta"
-		{
-			"buildid" "13491157"
-			"description" "Beta for v2.6 Great War update"
-			"timeupdated" "1708275051"
 		}
 		"rrbackup"
 		{
@@ -381,6 +364,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22397485"
-"_sha" "eaa7e23cca9e9921bfb29b296c44cee1e19604d8"
-"_size" "7084"
+"_change_number" "22608664"
+"_sha" "221d97266f6483ab2de1aea72444f428c53b9792"
+"_size" "6731"
