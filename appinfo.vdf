@@ -124,18 +124,18 @@
 		{
 			"public"
 			{
-				"gid" "5453408591482042619"
-				"size" "179996951"
-				"download" "165992400"
+				"gid" "6248001155750369909"
+				"size" "179998867"
+				"download" "165993936"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "7A947F2095A013FF267398887C3E89DD"
-				"size" "04F853A710894D6C95B0021D518797A1"
-				"download" "DCD6994661EECC4A81A163C7D074A7BB"
+				"gid" "9675EC667286384E982FD99DCF2720E0"
+				"size" "7F5C635C19DAFB6BD1DC3D84F01DC72A"
+				"download" "A2DD683FBEDA1E22D5C2F54A018DEEA0"
 			}
 		}
 		"dlcappid" "1838750"
@@ -151,18 +151,18 @@
 		{
 			"public"
 			{
-				"gid" "3213276148213174685"
-				"size" "180001762"
-				"download" "165957488"
+				"gid" "1460922259424999823"
+				"size" "180003661"
+				"download" "165959280"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "7E36536DE1AE4D6306BDEBF802633D77"
-				"size" "4FE781C166D22754E021AC89ED1F5823"
-				"download" "1C7175B52F478F05148FD5D6FB4256E3"
+				"gid" "10ABD48669C9BA747CECAED622AE0397"
+				"size" "7D5A7FE374C6406ACCE1542EAD4E010C"
+				"download" "A203D915D37E3619D3601A46B013B5E2"
 			}
 		}
 		"dlcappid" "1838750"
@@ -171,18 +171,18 @@
 	{
 		"public"
 		{
-			"buildid" "13613034"
-			"timeupdated" "1709300709"
+			"buildid" "13627066"
+			"timeupdated" "1709492392"
 		}
 		"internal"
 		{
-			"buildid" "13613034"
+			"buildid" "13627066"
 			"pwdrequired" "1"
-			"timeupdated" "1709296319"
+			"timeupdated" "1709491440"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22579118"
-"_sha" "0a1f856c23894331d33fbfd60d55ad076d8ef80c"
+"_change_number" "22611391"
+"_sha" "d366626d1dbe832c141c98fc886065fe4dd4e9a7"
 "_size" "3463"
