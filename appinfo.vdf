@@ -1,0 +1,516 @@
+"appid" "1267910"
+"common"
+{
+	"name" "Melvor Idle"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "88eca64c662c128de095b4e452881398ac71969c"
+	"logo" "d94e5758c0bcd74ea66d590926d6c58eb6ba83b8"
+	"logo_small" "d94e5758c0bcd74ea66d590926d6c58eb6ba83b8_thumb"
+	"clienttga" "35d856aeb74fc13bf5a2081cc2c4b987727b59b1"
+	"clienticon" "f020f4da65f60cc1a404893e58c1baee455ab5c4"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1267910_eula_1"
+			"name" "Melvor Idle EULA"
+			"url" "https://store.steampowered.com//eula/1267910_eula_1"
+			"version" "2"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "Melvor Idle 梅尔沃放置"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1694822400"
+		"tested_build_id" "10280779"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "48.44604663329696"
+			"height_pct" "67.80422966305179"
+		}
+	}
+	"store_asset_mtime" "1700624287"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Games by Malcs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Jagex Ltd"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Melvor Idle"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1637256847"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1267910"
+	"store_tags"
+	{
+		"0" "615955"
+		"1" "122"
+		"2" "597"
+		"3" "492"
+		"4" "21"
+		"5" "4182"
+		"6" "5981"
+		"7" "3871"
+		"8" "4094"
+		"9" "1684"
+		"10" "255534"
+		"11" "1702"
+		"12" "4562"
+		"13" "4305"
+		"14" "4057"
+		"15" "9541"
+		"16" "1698"
+		"17" "3993"
+		"18" "493"
+		"19" "15564"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Games by Malcs"
+	"publisher" "Jagex Ltd"
+	"homepage" "https://melvoridle.com/landing"
+	"listofdlc" "2055140,2129210,2492940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Melvor Idle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Melvor Idle.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Melvor Idle"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "Melvor Idle.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "Melvor Idle x64.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Melvor Idle (Intel Macs)"
+			}
+			"description" "Melvor Idle (Intel Macs)"
+		}
+	}
+}
+"depots"
+{
+	"1267911"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "349725829955010167"
+				"size" "724342889"
+				"download" "254397328"
+			}
+			"macos-client-fix"
+			{
+				"gid" "349725829955010167"
+				"size" "724342889"
+				"download" "254397328"
+			}
+			"windows-client-fix"
+			{
+				"gid" "2144876642696168024"
+				"size" "717481162"
+				"download" "253325008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"offlineclientstage1"
+			{
+				"gid" "BA05E3552CFCE21E9B43EAEA85A2ED42"
+				"size" "98034F554F4D05A766D57B83FF62C126"
+				"download" "47C3871DA3487C5C4682578AD4EF0DDF"
+			}
+			"offlineclientstage1-linux"
+			{
+				"gid" "9409D18A26ED3C6DCD54D8DC75744477"
+				"size" "07C95E63E01F81B97987C0CAF2141D79"
+				"download" "8575677727EB7BF1C8A65A3E6E2E1D52"
+			}
+			"offlineclientstage1-macos"
+			{
+				"gid" "2F8618A9E0FD3652C02A2F348C368122"
+				"size" "9A9CCB6EC3DED00DA225D5D4B55881C1"
+				"download" "6D93B39D242F17DA3F99BE68FAB04A70"
+			}
+		}
+	}
+	"1267913"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8875374614659965895"
+				"size" "831944273"
+				"download" "264410496"
+			}
+			"macos-client-fix"
+			{
+				"gid" "8875374614659965895"
+				"size" "831944273"
+				"download" "264410496"
+			}
+			"windows-client-fix"
+			{
+				"gid" "8875374614659965895"
+				"size" "831944273"
+				"download" "264410496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"offlineclientstage1"
+			{
+				"gid" "C1D23F67546E462548F71C6AF60D0929"
+				"size" "9D0847CB423A3299DE6E114D1B81B421"
+				"download" "CBFC2678BA81424B5802E864C5DBD292"
+			}
+			"offlineclientstage1-linux"
+			{
+				"gid" "965B5D0CBC8A0F907156C9D55F5CB6B4"
+				"size" "9F49F3A0A0BCE18556446EA4C0AFEDFC"
+				"download" "01948766D40C7351A3592AD21C4F5733"
+			}
+			"offlineclientstage1-macos"
+			{
+				"gid" "17FE57334C4CFE966B92F598175C985B"
+				"size" "557E56E56D5DA2B8446B6C5E7838FAF1"
+				"download" "B9A943003C2521E2C9B1B2DD05D50CBB"
+			}
+		}
+	}
+	"1267912"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8164613591265306544"
+				"size" "1222508150"
+				"download" "308539120"
+			}
+			"macos-client-fix"
+			{
+				"gid" "8164613591265306544"
+				"size" "1222508150"
+				"download" "308539120"
+			}
+			"windows-client-fix"
+			{
+				"gid" "8164613591265306544"
+				"size" "1222508150"
+				"download" "308539120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"offlineclientstage1"
+			{
+				"gid" "B10E95AB224F44F17F43343BAE04DD8F"
+				"size" "000CF8CBE3A8837183FD82900347BD10"
+				"download" "B39C512B21A270E7FB66CB581E4A6E51"
+			}
+			"offlineclientstage1-linux"
+			{
+				"gid" "D5ADB8C6F6379CCE296CDC54EBBE1C91"
+				"size" "2B00375474AB16C487B60447400CB10F"
+				"download" "92C36C6C1069B325636ACEE545D08F73"
+			}
+			"offlineclientstage1-macos"
+			{
+				"gid" "83204BBAAD882E0123E896259383F9C6"
+				"size" "2D36A5AD1D25D29600C989543A9DD8A8"
+				"download" "02B86252BF91916460BF2248A45C558A"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13311431"
+			"timeupdated" "1706684950"
+		}
+		"macos-client-fix"
+		{
+			"buildid" "13311431"
+			"description" "Client fix for MacOS"
+			"timeupdated" "1706609785"
+		}
+		"offlineclientstage1"
+		{
+			"buildid" "13254485"
+			"pwdrequired" "1"
+			"timeupdated" "1706058347"
+		}
+		"offlineclientstage1-linux"
+		{
+			"buildid" "13244702"
+			"pwdrequired" "1"
+			"timeupdated" "1705983341"
+		}
+		"offlineclientstage1-macos"
+		{
+			"buildid" "13311409"
+			"pwdrequired" "1"
+			"timeupdated" "1706609673"
+		}
+		"windows-client-fix"
+		{
+			"buildid" "13341659"
+			"description" "Client fix for Windows"
+			"timeupdated" "1706835176"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "20"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_characterselection" "Selecting Character"
+				"#status_gamemodeskilllevel" "%currentGamemode% (%skillLevel% Total Level)"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22582934"
+"_sha" "9721a7cb88ea4a0415390071696f6d9c296a3254"
+"_size" "9620"
