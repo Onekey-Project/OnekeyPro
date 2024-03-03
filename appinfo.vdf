@@ -1,0 +1,476 @@
+"appid" "2005010"
+"common"
+{
+	"name" "Warhammer 40,000: Boltgun"
+	"type" "Game"
+	"icon" "2ffcd2f993a8dac66c8523fb579234ffa2c83bdf"
+	"clienticon" "a3647fba69a50fe9ec20094e56c2e550289999a9"
+	"clienttga" "a80257a2d9360dd7c97285d1f2d6f0131029d336"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2005010_eula_0"
+			"name" "Warhammer 40,000: Boltgun EULA"
+			"url" "https://store.steampowered.com//eula/2005010_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1690243200"
+		"tested_build_id" "11665949"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "63.68909512761019"
+			"height_pct" "73.51407407407407"
+		}
+	}
+	"store_asset_mtime" "1695390565"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Auroch Digital"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Warhammer"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1684857466"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2005010"
+	"store_tags"
+	{
+		"0" "1023537"
+		"1" "1663"
+		"2" "4004"
+		"3" "1774"
+		"4" "12286"
+		"5" "19"
+		"6" "3964"
+		"7" "3916"
+		"8" "3839"
+		"9" "1773"
+		"10" "4345"
+		"11" "4667"
+		"12" "6691"
+		"13" "9541"
+		"14" "4182"
+		"15" "3942"
+		"16" "1684"
+		"17" "492"
+		"18" "5547"
+		"19" "5310"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Auroch Digital"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-entmt.com/games/warhammer-40000-boltgun"
+}
+"config"
+{
+	"installdir" "Boltgun"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Warhammer 40,000 Boltgun.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65529"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2005011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7666292685461570233"
+				"size" "4936506941"
+				"download" "4547906912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"auroch-internal-test"
+			{
+				"gid" "D34F82C0C0C212F7600B058F5D31744D"
+				"size" "6832F3205B45967B7F2BA77D68E2A5BB"
+				"download" "26B5C04685C882286EB65CA1ED6BFE61"
+			}
+			"auroch_external_partners"
+			{
+				"gid" "7B6DBC2C51BBA166B7669FC97F1B59BA"
+				"size" "7E90DD775914E619A37C9526D44A688C"
+				"download" "3226E2EDB5E87D2449A290525C479F0B"
+			}
+			"dlc_checks"
+			{
+				"gid" "4C7246F640C0831716FB0F5194526F3D"
+				"size" "01846F067447F74B32F834B48AE1D885"
+				"download" "B8CF07DB4CD1A9A0FB7444F779D11CFD"
+			}
+			"focus_specific_test"
+			{
+				"gid" "AEE998C60BAE58F00C610DC3580DAF05"
+				"size" "DCA10FA4F752A551DCC667DCD64C5A52"
+				"download" "2226F52778F67F2213520C7C4298365B"
+			}
+			"ms_delivery"
+			{
+				"gid" "FC2CE73D85923B4C6CA7E05E311F353C"
+				"size" "D11B101DE57896D91B6E6CC174E4E6F3"
+				"download" "F9F7C948DF551114E678D8ACB7BF4907"
+			}
+			"stats_testing"
+			{
+				"gid" "D75D214ABE03B39AE14A7C096B51FB5C"
+				"size" "3CBC519CE8762CAFB795439F0E2A3712"
+				"download" "EC7E3BAD0BB16801F684322E2E4DB356"
+			}
+			"test"
+			{
+				"gid" "8A6D7F87D2D77DC6A6871F746265E692"
+				"size" "C23E51C9DD16E0DD4A4B4A91D8CFFBD5"
+				"download" "4019EA2F3A871619A9472B3ABA3F17C9"
+			}
+			"test_shipping"
+			{
+				"gid" "99376FDA92ACC1E518A44EC98B91E414"
+				"size" "6F0A2C8F8FFA9532663F3A2F088E9F69"
+				"download" "DC8CFF2BD5B8710A511C8DBA3D936C14"
+			}
+			"v_review"
+			{
+				"gid" "D36037AB07D47F0020A41EFD4859FD27"
+				"size" "A1CBF95AED54D1D378D0A69CB4BFB444"
+				"download" "49678A2C31D6357D0C29754F26F8E92C"
+			}
+			"weekly_qa_delivery"
+			{
+				"gid" "739081CBD5C065AC351050893699956F"
+				"size" "6410DC832883961651DD26589A9E23F7"
+				"download" "71F26CEB587240BA18EDEC42F76A94D5"
+			}
+		}
+	}
+	"2225900"
+	{
+		"dlcappid" "2225900"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11665949"
+			"timeupdated" "1690275605"
+		}
+		"auroch-internal-test"
+		{
+			"buildid" "13116511"
+			"pwdrequired" "1"
+			"timeupdated" "1704713250"
+		}
+		"auroch_external_partners"
+		{
+			"buildid" "9918024"
+			"pwdrequired" "1"
+			"timeupdated" "1668529764"
+		}
+		"dlc_checks"
+		{
+			"buildid" "13494040"
+			"pwdrequired" "1"
+			"timeupdated" "1708320529"
+		}
+		"focus_specific_test"
+		{
+			"buildid" "11664233"
+			"pwdrequired" "1"
+			"timeupdated" "1688981815"
+		}
+		"ms_delivery"
+		{
+			"buildid" "13287553"
+			"pwdrequired" "1"
+			"timeupdated" "1706540970"
+		}
+		"stats_testing"
+		{
+			"buildid" "10670410"
+			"pwdrequired" "1"
+			"timeupdated" "1677842475"
+		}
+		"test"
+		{
+			"buildid" "13619660"
+			"pwdrequired" "1"
+			"timeupdated" "1709345063"
+		}
+		"test_shipping"
+		{
+			"buildid" "13624572"
+			"pwdrequired" "1"
+			"timeupdated" "1709438184"
+		}
+		"v_review"
+		{
+			"buildid" "11665949"
+			"pwdrequired" "1"
+			"timeupdated" "1689072636"
+		}
+		"weekly_qa_delivery"
+		{
+			"buildid" "13623995"
+			"pwdrequired" "1"
+			"timeupdated" "1709426978"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "300"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Boltgun/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Boltgun/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22606127"
+"_sha" "5346a49eae808b775f0fa47b6548dad3fbe09371"
+"_size" "8956"
