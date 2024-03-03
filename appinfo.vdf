@@ -1,0 +1,446 @@
+"appid" "1280930"
+"common"
+{
+	"name" "Astral Ascent"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"icon" "1084337121dd919622b39ec2dd0ab372dcc2b157"
+	"logo" "6e86c7ae06d728e43f0396b50eb43f632e0d72ca"
+	"logo_small" "6e86c7ae06d728e43f0396b50eb43f632e0d72ca_thumb"
+	"clienttga" "463d5188394191a38b6ad1559eec8e8fe386952d"
+	"clienticon" "71912e7c122fab4971c1203890896aa25be66728"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "星界战士"
+		"tchinese" "星界戰士"
+		"japanese" "アストラル アセント"
+		"koreana" "애스트럴 어센트"
+	}
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1689811200"
+		"tested_build_id" "11649774"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Astral Ascent"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "62.53858940869152"
+		}
+	}
+	"store_asset_mtime" "1707753716"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hibernian Workshop"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hibernian Workshop"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "MP2 Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Maple Whispering Limited"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699977240"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/astral-ascent\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1280930"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "42804"
+		"2" "3964"
+		"3" "1646"
+		"4" "5379"
+		"5" "19"
+		"6" "1625"
+		"7" "3871"
+		"8" "1716"
+		"9" "13070"
+		"10" "1684"
+		"11" "4057"
+		"12" "1685"
+		"13" "21"
+		"14" "3841"
+		"15" "4182"
+		"16" "3859"
+		"17" "7368"
+		"18" "492"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,alpha,beta.closed,beta.public,chowdren,medias"
+	"developer" "Hibernian Workshop"
+	"publisher" "Hibernian Workshop"
+	"homepage" "https://astral-ascent.com/"
+	"listofdlc" "2633220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Astral Ascent"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Astral Ascent.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "run.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "Astral Ascent.app\\Contents\\MacOS\\Chowdren"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1280931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2977273852588856609"
+				"size" "1550299602"
+				"download" "1173131344"
+			}
+			"public.beta"
+			{
+				"gid" "3934544958761771494"
+				"size" "1550994887"
+				"download" "1173416432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chowdren"
+			{
+				"gid" "144ED3EBC0A42B46A2F60299A3DB8459"
+				"size" "98F9D7F7CBBB7658893186DA1F5E7061"
+				"download" "ED0D2388320FBED9DBAD9300C56804C6"
+			}
+			"closed.beta"
+			{
+				"gid" "29F82C2F61B2A97A3B7E4060CDFF7E49"
+				"size" "8448500A9DDFB980AF1C5F97CBACD426"
+				"download" "1FB38792756F522FDF83B149AD3359C5"
+			}
+		}
+	}
+	"1280932"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9051507724684059665"
+				"size" "1524136005"
+				"download" "1191566528"
+			}
+			"public.beta"
+			{
+				"gid" "9045169310577283052"
+				"size" "1524994230"
+				"download" "1191994592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chowdren"
+			{
+				"gid" "534B083FE463D1C2DB2D8FA991010B7E"
+				"size" "38C52B583D8484983B441D4516D44365"
+				"download" "99EA45622E15E89975279429AAC121AD"
+			}
+			"closed.beta"
+			{
+				"gid" "6CCC37FCB404A6B756E2073050F90FF4"
+				"size" "62A87B14982314811A2A4604692F0F3E"
+				"download" "C18B0430DF1A2C9C6CD1E4BF8600370E"
+			}
+		}
+	}
+	"1280933"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "920010177453716843"
+				"size" "1746386514"
+				"download" "1215351232"
+			}
+			"public.beta"
+			{
+				"gid" "3894601918407874497"
+				"size" "1747849109"
+				"download" "1215624064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chowdren"
+			{
+				"gid" "7125530C33F48167828382E87E218849"
+				"size" "2A8A486DD9AD81C2D14D7897E499EF36"
+				"download" "017340D7F2D1F34A819D20960A3BB991"
+			}
+			"closed.beta"
+			{
+				"gid" "9BB13D741338FA8730D76F93210BDE7E"
+				"size" "60247C757C56EC23CB1401E35C563723"
+				"download" "5AA6BE602069930C5278BBAFCDA2FA31"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13535128"
+			"timeupdated" "1708633753"
+		}
+		"chowdren"
+		{
+			"buildid" "13617010"
+			"pwdrequired" "1"
+			"timeupdated" "1709322002"
+		}
+		"closed.beta"
+		{
+			"buildid" "13517865"
+			"pwdrequired" "1"
+			"timeupdated" "1708633713"
+		}
+		"public.beta"
+		{
+			"buildid" "13617010"
+			"description" "unstable versions"
+			"timeupdated" "1709330704"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Astral Ascent/{Steam3AccountID}"
+			"pattern" "aa_game.sav"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22590902"
+"_sha" "bc43a863f0bd2e91d64d15fbf49b56d54fff5fe9"
+"_size" "8294"
