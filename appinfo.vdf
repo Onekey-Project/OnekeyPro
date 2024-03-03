@@ -221,9 +221,9 @@
 		{
 			"public"
 			{
-				"gid" "5224532167662784982"
-				"size" "5942210520"
-				"download" "2808297088"
+				"gid" "4879640704811914534"
+				"size" "5942010363"
+				"download" "2808854208"
 			}
 			"olderversion"
 			{
@@ -239,30 +239,30 @@
 			}
 			"publictest"
 			{
-				"gid" "5111644019415877598"
-				"size" "5731348408"
-				"download" "2727037008"
+				"gid" "4879640704811914534"
+				"size" "5942010363"
+				"download" "2808854208"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"cinematic_build"
 			{
-				"gid" "5AE17C3C7E7FAEACE7F784D0D3F88E0E"
-				"size" "BCEE9D55D2D790066771330E6360AFE2"
-				"download" "2441B2B33BA1CB4B59DB7C5A065F9E2C"
+				"gid" "36DC1EA6F533BA015D909CC63DD597AD"
+				"size" "648C67E2AD6581F9678DA60F992F66A8"
+				"download" "CFF95BF50F96134E21695854EC2C1A39"
 			}
 			"internaltesting"
 			{
-				"gid" "FCA362169869F0A84D26FEFCB9494777"
-				"size" "DC10B890B3051486A71231F9F1259FF0"
-				"download" "A12B0E06A4A1B144214B778228EEC748"
+				"gid" "B3216907BDF951D5E4E0237C547FE77A"
+				"size" "230A508268D3550605A4021E1F38095E"
+				"download" "4273E090E55415424A82752E668CC264"
 			}
 			"internaltesting-releasebuild"
 			{
-				"gid" "056735F2B6D31D5C79A2E284E0DF4E4C"
-				"size" "1DE71AF7C75243855E8F5F9096EA2CC1"
-				"download" "2174C1BBAB2A527238BD585315004B84"
+				"gid" "1609FC5924157905AE16731D95308201"
+				"size" "C8CCB3F6EBEB32C26EF1505E92775F4B"
+				"download" "CEC4A0345490AE0A3DEC447EC06B2F1B"
 			}
 			"streaming"
 			{
@@ -276,26 +276,26 @@
 	{
 		"public"
 		{
-			"buildid" "13610769"
-			"timeupdated" "1709355208"
+			"buildid" "13625052"
+			"timeupdated" "1709449140"
 		}
 		"cinematic_build"
 		{
-			"buildid" "13610860"
+			"buildid" "13625009"
 			"pwdrequired" "1"
-			"timeupdated" "1709282946"
+			"timeupdated" "1709448946"
 		}
 		"internaltesting"
 		{
-			"buildid" "13610769"
+			"buildid" "13625052"
 			"pwdrequired" "1"
-			"timeupdated" "1709355320"
+			"timeupdated" "1709449152"
 		}
 		"internaltesting-releasebuild"
 		{
-			"buildid" "13610769"
+			"buildid" "13625052"
 			"pwdrequired" "1"
-			"timeupdated" "1709282879"
+			"timeupdated" "1709449166"
 		}
 		"olderversion"
 		{
@@ -311,9 +311,9 @@
 		}
 		"publictest"
 		{
-			"buildid" "13360366"
+			"buildid" "13625052"
 			"description" "for public beta test only"
-			"timeupdated" "1707071053"
+			"timeupdated" "1709449159"
 		}
 		"streaming"
 		{
@@ -332,6 +332,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22598727"
-"_sha" "0d994ba0f09ab2af9432d47eb474d4a8a76e9918"
+"_change_number" "22606978"
+"_sha" "3a886f37370aa62da5a99d08b99bbfa369953d3d"
 "_size" "6266"
