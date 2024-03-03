@@ -1,0 +1,147 @@
+"appid" "1430110"
+"common"
+{
+	"name" "Assetto Corsa Competizione Dedicated Server"
+	"type" "Tool"
+	"parent" "805550"
+	"logo" "507b26c60074fce986e8e630b7b69b7e6fad7cdd"
+	"logo_small" "507b26c60074fce986e8e630b7b69b7e6fad7cdd_thumb"
+	"icon" "7da4b9ed0125a1437c2ed1518548e436a1b4e50f"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "094e02ec0549a9cd1559a57e1720fac2317be63a"
+	"clienticon" "e80299a06573bcef4c056d199022867a2923b70f"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1430110"
+}
+"config"
+{
+	"installdir" "Assetto Corsa Competizione Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "server\\accServer.exe"
+			"description" "Assetto Corsa Competizione Dedicated Server"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1923798258558304932"
+				"size" "44194776"
+				"download" "13804528"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4884950798805348056"
+				"size" "73781292"
+				"download" "20270768"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1430111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1522197752931821719"
+				"size" "3617499"
+				"download" "1464288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ks_beta_testing"
+			{
+				"gid" "4DE456C02B66C87F7B93CA06D785BF22"
+				"size" "E6B364623601B75103412A579D0CD023"
+				"download" "3EA317B3F2F9450B30E938922B177F94"
+			}
+			"ks_latest"
+			{
+				"gid" "2FD71F6DB99FB07799BB671288624A1B"
+				"size" "82D67AD9546E421508F6F804D56E6D5C"
+				"download" "51C6AF73262610F7C510E4761E6B6628"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13321685"
+			"timeupdated" "1706776517"
+		}
+		"ks_beta_testing"
+		{
+			"buildid" "13206881"
+			"pwdrequired" "1"
+			"timeupdated" "1705577686"
+		}
+		"ks_latest"
+		{
+			"buildid" "13321685"
+			"pwdrequired" "1"
+			"timeupdated" "1706689529"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22148560"
+"_sha" "ea619f95001a040389e38b2a2944c5f941f650ee"
+"_size" "2458"
