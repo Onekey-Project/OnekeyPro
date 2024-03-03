@@ -1,0 +1,416 @@
+"appid" "2201940"
+"common"
+{
+	"name" "Ship Graveyard Simulator 2"
+	"type" "Game"
+	"clienticon" "54f33e58667b04ff7061ae8944b5eb0dbe2afd58"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "e0dedb547169938ec0341c84577d6008bfb9b2c0"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "船舶墓地模拟器2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1692921600"
+		"tested_build_id" "11936716"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708729143"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Games Incubator"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Hypnotic Ants"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Games Incubator"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Games Incubator"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692189960"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2201940"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "5363"
+		"2" "3834"
+		"3" "12472"
+		"4" "4175"
+		"5" "1643"
+		"6" "492"
+		"7" "3839"
+		"8" "1654"
+		"9" "597"
+		"10" "3810"
+		"11" "19"
+		"12" "6276"
+		"13" "4166"
+		"14" "5350"
+		"15" "21"
+		"16" "1702"
+		"17" "1036"
+		"18" "4106"
+		"19" "6910"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Games Incubator"
+	"publisher" "Games Incubator"
+	"homepage" "https://games-i.com/"
+	"listofdlc" "2504670,2628300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ship Graveyard Simulator 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShipGraveyard2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2201941"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6206843326376348628"
+				"size" "10467105205"
+				"download" "10231245648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"multiplayer-testing"
+			{
+				"gid" "96B8B193BE26BFE00C3CFB4A8674AB9C"
+				"size" "160B89FAC435F7B4CDB6C9E4D57FAE58"
+				"download" "0B2AC6076A8678C3AFB3FB62355E96F4"
+			}
+			"testing"
+			{
+				"gid" "2AFD8F00D231250A0CC8AC4A4CA9FAA3"
+				"size" "2ED631DF959AEE3611FD8F16192920DD"
+				"download" "7C476BB318533859358CEEAF532DF533"
+			}
+			"unstable-default"
+			{
+				"gid" "C349DB6787FA332723F3DEF63C36D895"
+				"size" "E37E33D7FD4D163E01E171A7C8E96E47"
+				"download" "3D56D555BFDBB33C3F7955A90EC561BA"
+			}
+		}
+	}
+	"2201942"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13599621"
+			"timeupdated" "1709286570"
+		}
+		"multiplayer-testing"
+		{
+			"buildid" "13613626"
+			"pwdrequired" "1"
+			"timeupdated" "1709299250"
+		}
+		"testing"
+		{
+			"buildid" "13599832"
+			"pwdrequired" "1"
+			"timeupdated" "1709201752"
+		}
+		"unstable-default"
+		{
+			"buildid" "13599621"
+			"pwdrequired" "1"
+			"timeupdated" "1709200449"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ShipGraveyard2/Saved"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22604137"
+"_sha" "30047057d89899254e112912681eb84566565b01"
+"_size" "6787"
