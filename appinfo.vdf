@@ -82,7 +82,8 @@
 		}
 	}
 	"metacritic_name" "Verdun"
-	"controller_support" "full"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -139,11 +140,16 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_36" "1"
-		"category_28" "1"
 		"category_49" "1"
 		"category_2" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -340,15 +346,15 @@
 		{
 			"public"
 			{
-				"gid" "5903619200250481078"
-				"size" "2236621295"
-				"download" "1520047264"
+				"gid" "7842759961099712576"
+				"size" "2229717039"
+				"download" "1520004864"
 			}
 			"opentesting"
 			{
-				"gid" "5903619200250481078"
-				"size" "2236621295"
-				"download" "1520047264"
+				"gid" "7842759961099712576"
+				"size" "2229717039"
+				"download" "1520004864"
 			}
 		}
 		"encryptedmanifests"
@@ -373,15 +379,15 @@
 		{
 			"public"
 			{
-				"gid" "8124355363866658925"
-				"size" "2267241928"
-				"download" "1528625584"
+				"gid" "7318102653382912154"
+				"size" "2255691372"
+				"download" "1526513328"
 			}
 			"opentesting"
 			{
-				"gid" "8124355363866658925"
-				"size" "2267241928"
-				"download" "1528625584"
+				"gid" "7318102653382912154"
+				"size" "2255691372"
+				"download" "1526513328"
 			}
 		}
 		"encryptedmanifests"
@@ -405,15 +411,15 @@
 		{
 			"public"
 			{
-				"gid" "777453764136412083"
-				"size" "2219453090"
-				"download" "1518513952"
+				"gid" "3933821141819026232"
+				"size" "2219472834"
+				"download" "1518520432"
 			}
 			"opentesting"
 			{
-				"gid" "777453764136412083"
-				"size" "2219453090"
-				"download" "1518513952"
+				"gid" "3933821141819026232"
+				"size" "2219472834"
+				"download" "1518520432"
 			}
 		}
 		"encryptedmanifests"
@@ -437,15 +443,15 @@
 		{
 			"public"
 			{
-				"gid" "3188345216421602928"
-				"size" "2225214060"
-				"download" "1518724096"
+				"gid" "1134181906750497296"
+				"size" "2225233804"
+				"download" "1518732880"
 			}
 			"opentesting"
 			{
-				"gid" "3188345216421602928"
-				"size" "2225214060"
-				"download" "1518724096"
+				"gid" "1134181906750497296"
+				"size" "2225233804"
+				"download" "1518732880"
 			}
 		}
 		"encryptedmanifests"
@@ -500,15 +506,15 @@
 		{
 			"public"
 			{
-				"gid" "1029592142567655255"
-				"size" "6391816843"
-				"download" "2859830192"
+				"gid" "6134690498721458801"
+				"size" "6391878403"
+				"download" "2859871552"
 			}
 			"opentesting"
 			{
-				"gid" "1029592142567655255"
-				"size" "6391816843"
-				"download" "2859830192"
+				"gid" "6134690498721458801"
+				"size" "6391878403"
+				"download" "2859871552"
 			}
 		}
 		"encryptedmanifests"
@@ -525,13 +531,13 @@
 	{
 		"public"
 		{
-			"buildid" "9070085"
-			"timeupdated" "1657291321"
+			"buildid" "13517710"
+			"timeupdated" "1709552331"
 		}
 		"opentesting"
 		{
-			"buildid" "9070085"
-			"timeupdated" "1657291317"
+			"buildid" "13517710"
+			"timeupdated" "1709552722"
 		}
 		"staging"
 		{
@@ -547,6 +553,6 @@
 	"maxnumfiles" "900"
 }
 "_missing_token" "False"
-"_change_number" "22437815"
-"_sha" "c484576c4b3a5f719f051069fd9b925d61162ece"
-"_size" "9793"
+"_change_number" "22620427"
+"_sha" "2e3bb323745753e77a123e1f9b639db781d76156"
+"_size" "9939"
