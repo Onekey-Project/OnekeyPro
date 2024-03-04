@@ -220,15 +220,15 @@
 		{
 			"public"
 			{
-				"gid" "7118893911130195045"
-				"size" "14780570029"
-				"download" "13714554640"
+				"gid" "7991194640266570248"
+				"size" "14782789629"
+				"download" "13715848992"
 			}
 			"beta"
 			{
-				"gid" "7118893911130195045"
-				"size" "14780570029"
-				"download" "13714554640"
+				"gid" "7991194640266570248"
+				"size" "14782789629"
+				"download" "13715848992"
 			}
 			"oldver"
 			{
@@ -280,14 +280,14 @@
 	{
 		"public"
 		{
-			"buildid" "13628995"
-			"timeupdated" "1709526173"
+			"buildid" "13631142"
+			"timeupdated" "1709548715"
 		}
 		"beta"
 		{
-			"buildid" "13628995"
+			"buildid" "13631142"
 			"description" "测试"
-			"timeupdated" "1709522230"
+			"timeupdated" "1709546609"
 		}
 		"oldver"
 		{
@@ -314,6 +314,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22615292"
-"_sha" "ddefff63a3c31103ef2f7a7520ba20f676b0460f"
+"_change_number" "22619428"
+"_sha" "5cbee647577a30f5c1cc14c111263611f0b75359"
 "_size" "5782"
