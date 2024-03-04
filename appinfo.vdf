@@ -194,7 +194,7 @@
 		"19" "1664"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -253,15 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "5573177204158053803"
-				"size" "199191832"
-				"download" "139464704"
-			}
-			"beta"
-			{
-				"gid" "693751729820961735"
-				"size" "200065960"
-				"download" "140257888"
+				"gid" "59875575262020556"
+				"size" "200085080"
+				"download" "140264512"
 			}
 			"classic"
 			{
@@ -282,15 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "551738480352419920"
-				"size" "257224721"
-				"download" "152422128"
-			}
-			"beta"
-			{
-				"gid" "4005543399726830297"
-				"size" "437706449"
-				"download" "334490400"
+				"gid" "7666134865251382658"
+				"size" "258117969"
+				"download" "153221936"
 			}
 			"classic"
 			{
@@ -311,15 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "7624778807769129620"
-				"size" "209008496"
-				"download" "141981344"
-			}
-			"beta"
-			{
-				"gid" "4590899235723581284"
-				"size" "209882624"
-				"download" "142774528"
+				"gid" "7784943507286390919"
+				"size" "209901744"
+				"download" "142781152"
 			}
 			"classic"
 			{
@@ -334,14 +316,8 @@
 	{
 		"public"
 		{
-			"buildid" "13018774"
-			"timeupdated" "1703152458"
-		}
-		"beta"
-		{
-			"buildid" "13577302"
-			"description" "Content Update v2.3 Beta"
-			"timeupdated" "1709046877"
+			"buildid" "13633198"
+			"timeupdated" "1709560694"
 		}
 		"classic"
 		{
@@ -385,6 +361,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22562250"
-"_sha" "2d526dce77f7bf832051867980dc9f0ad5b26bc9"
-"_size" "6722"
+"_change_number" "22622597"
+"_sha" "c1713de074e4eebeaf925db0d8571587c072a4cd"
+"_size" "6265"
