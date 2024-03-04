@@ -33,6 +33,7 @@
 		"turkish" "1"
 		"brazilian" "1"
 		"ukrainian" "1"
+		"latam" "1"
 	}
 	"oslist" "windows"
 	"osarch" ""
@@ -250,18 +251,18 @@
 		"3" "7332"
 		"4" "1643"
 		"5" "12472"
-		"6" "3810"
-		"7" "8945"
+		"6" "8945"
+		"7" "3810"
 		"8" "220585"
 		"9" "1662"
-		"10" "1669"
-		"11" "1716"
+		"10" "1716"
+		"11" "1669"
 		"12" "4695"
 		"13" "4182"
 		"14" "1695"
 		"15" "3871"
-		"16" "255534"
-		"17" "3959"
+		"16" "3959"
+		"17" "255534"
 		"18" "1684"
 		"19" "492"
 	}
@@ -297,13 +298,13 @@
 		"3136358659"
 		{
 			"controller_type" "controller_neptune"
-			"enabled_branches" "default,development,experimental_internal,steam_deck_beta"
+			"enabled_branches" "default,development,experimental,experimental_internal,external_qa,steam_deck_beta"
 			"use_action_block" "false"
 		}
-		"3092170646"
+		"3170893575"
 		{
 			"controller_type" "controller_neptune"
-			"enabled_branches" "default,development,experimental_internal,steam_deck_beta"
+			"enabled_branches" "default,development,experimental,experimental_internal,external_qa,steam_deck_beta"
 			"use_action_block" "false"
 		}
 	}
@@ -322,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "1513202028396707619"
-				"size" "5546729448"
-				"download" "3165475808"
+				"gid" "1415845506340075393"
+				"size" "5149027406"
+				"download" "2851351376"
 			}
 			"experimental"
 			{
-				"gid" "6636107114991594616"
-				"size" "5546197799"
-				"download" "3165314816"
+				"gid" "7433218514538262046"
+				"size" "5149027165"
+				"download" "2851351296"
 			}
 		}
 		"encryptedmanifests"
@@ -343,15 +344,15 @@
 			}
 			"development"
 			{
-				"gid" "885E72BE0A09F246C269C1F958E07587"
-				"size" "7271088492CD37CAC529A2F0A5E33F1D"
-				"download" "787F3AF3F78BDD39C22827B280764534"
+				"gid" "65BF55B4313D079F5624A55617B2D251"
+				"size" "96B1B3B30AE2EF30E1CEDA99C902134F"
+				"download" "1D3196E6B7CCEBD613C87BAD37763EB1"
 			}
 			"experimental_internal"
 			{
-				"gid" "B8E3B8B2F0A655208A03D65ABC28D4FB"
-				"size" "8FC5880A6387DCE9079D82773B189C4E"
-				"download" "AF42B25F9F75BA73560E1C5150ECAD09"
+				"gid" "E158AD8BEC9011F7208BA48365087442"
+				"size" "3F9DF432756B6AD7955BE2CBBD4E3F88"
+				"download" "4843EFB8A116C81C16982B4BD55496A8"
 			}
 			"external_qa"
 			{
@@ -408,8 +409,8 @@
 	{
 		"public"
 		{
-			"buildid" "13414143"
-			"timeupdated" "1707487781"
+			"buildid" "13602983"
+			"timeupdated" "1709574790"
 		}
 		"closed_alpha"
 		{
@@ -419,21 +420,21 @@
 		}
 		"development"
 		{
-			"buildid" "13602302"
+			"buildid" "13602983"
 			"pwdrequired" "1"
-			"timeupdated" "1709217217"
+			"timeupdated" "1709221459"
 		}
 		"experimental"
 		{
-			"buildid" "13414203"
+			"buildid" "13603100"
 			"description" "Experimental Branch"
-			"timeupdated" "1707487844"
+			"timeupdated" "1709574804"
 		}
 		"experimental_internal"
 		{
-			"buildid" "13602394"
+			"buildid" "13603100"
 			"pwdrequired" "1"
-			"timeupdated" "1709217850"
+			"timeupdated" "1709222067"
 		}
 		"external_qa"
 		{
@@ -505,6 +506,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22562085"
-"_sha" "ca24f0b709d3b949c4893cfe56278bea62bf80d1"
-"_size" "10212"
+"_change_number" "22626291"
+"_sha" "b3d21153e51b168ae1a82459a6eb68b267bdc862"
+"_size" "10278"
