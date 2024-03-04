@@ -231,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "6897139615831044957"
-				"size" "8981270937"
-				"download" "2464927360"
+				"gid" "1059853176016529343"
+				"size" "8897562109"
+				"download" "2475722720"
 			}
 		}
 		"encryptedmanifests"
@@ -294,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "13588901"
-			"timeupdated" "1709137387"
+			"buildid" "13632070"
+			"timeupdated" "1709565433"
 		}
 		"balans_test"
 		{
@@ -307,7 +307,7 @@
 		{
 			"buildid" "13632070"
 			"pwdrequired" "1"
-			"timeupdated" "1709553352"
+			"timeupdated" "1709563796"
 		}
 		"episode_2_wargression"
 		{
@@ -387,6 +387,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22620599"
-"_sha" "5f159d5c168d8bdd59d7e3299844c885b51a328a"
+"_change_number" "22623733"
+"_sha" "2e6a9ec6295a523b4a25167d65116152065769b6"
 "_size" "7449"
