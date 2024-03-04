@@ -159,7 +159,7 @@
 		"19" "12472"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -182,9 +182,9 @@
 		{
 			"public"
 			{
-				"gid" "5980901012694312204"
-				"size" "334954556"
-				"download" "110096160"
+				"gid" "6610885316022349531"
+				"size" "334955140"
+				"download" "110097744"
 			}
 		}
 		"encryptedmanifests"
@@ -233,14 +233,14 @@
 	{
 		"public"
 		{
-			"buildid" "12484680"
-			"timeupdated" "1697734250"
+			"buildid" "13635318"
+			"timeupdated" "1709575076"
 		}
 		"extra_testing"
 		{
-			"buildid" "13524361"
+			"buildid" "13635155"
 			"pwdrequired" "1"
-			"timeupdated" "1708553198"
+			"timeupdated" "1709573901"
 		}
 		"mac_os"
 		{
@@ -251,6 +251,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22447829"
-"_sha" "6530ae15af62c750e2ce8a8e00c396c8e101b4f1"
+"_change_number" "22626111"
+"_sha" "854462d74485eb21156f0c273f635b833dda29f1"
 "_size" "4163"
