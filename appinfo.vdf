@@ -336,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "1986820088475071030"
-				"size" "2369862914"
-				"download" "1495307664"
+				"gid" "6478453240636502777"
+				"size" "2371288869"
+				"download" "1496745344"
 			}
 			"mactest"
 			{
@@ -354,9 +354,9 @@
 			}
 			"public_test_realm"
 			{
-				"gid" "7408400266120824204"
-				"size" "2371282166"
-				"download" "1496739040"
+				"gid" "7444188356291118978"
+				"size" "2371288875"
+				"download" "1496745360"
 			}
 		}
 		"encryptedmanifests"
@@ -375,9 +375,9 @@
 			}
 			"latest"
 			{
-				"gid" "60E4C53384D558595CC54BBA7447A4C8"
-				"size" "43F0CB4B32C17A8E41B8AD47E484A687"
-				"download" "E895E2A1EF6ABE1D6D979DA5D1C1087A"
+				"gid" "77C6F48DB40B6A0A4646BB284DF36DB0"
+				"size" "5DFE00F40E16F45C1C3A7D51EEFDED9F"
+				"download" "E71634C536189064C64BA3B7703EB572"
 			}
 			"latest_2"
 			{
@@ -459,9 +459,9 @@
 		{
 			"public"
 			{
-				"gid" "7106732674537676651"
-				"size" "2489914706"
-				"download" "1513258736"
+				"gid" "5329167716613489897"
+				"size" "2491340261"
+				"download" "1514699840"
 			}
 			"mactest"
 			{
@@ -477,9 +477,9 @@
 			}
 			"public_test_realm"
 			{
-				"gid" "4994814403989906391"
-				"size" "2491333558"
-				"download" "1514690992"
+				"gid" "4434928658343687503"
+				"size" "2491340267"
+				"download" "1514699856"
 			}
 		}
 		"encryptedmanifests"
@@ -498,9 +498,9 @@
 			}
 			"latest"
 			{
-				"gid" "82F08FFD4F0F821085E03163CC67B0C9"
-				"size" "FB591000B3973C70D6220B1529DB8EBE"
-				"download" "5C450EDFCD16EC3BD56786A063D9A6CA"
+				"gid" "4BAB7E39435F5A937684DA8AD0BD32E0"
+				"size" "C783413045BE4159F6F278C753545AEE"
+				"download" "2385CD8C692056A0062248026DCEE721"
 			}
 			"latest_2"
 			{
@@ -515,8 +515,8 @@
 	{
 		"public"
 		{
-			"buildid" "13579318"
-			"timeupdated" "1709058389"
+			"buildid" "13634667"
+			"timeupdated" "1709571859"
 		}
 		"experimental"
 		{
@@ -532,9 +532,9 @@
 		}
 		"latest"
 		{
-			"buildid" "13435368"
+			"buildid" "13579318"
 			"pwdrequired" "1"
-			"timeupdated" "1707932671"
+			"timeupdated" "1709571712"
 		}
 		"latest_2"
 		{
@@ -556,9 +556,9 @@
 		}
 		"public_test_realm"
 		{
-			"buildid" "13606391"
+			"buildid" "13634513"
 			"description" "Public beta testing"
-			"timeupdated" "1709244166"
+			"timeupdated" "1709569182"
 		}
 	}
 }
@@ -617,6 +617,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22568596"
-"_sha" "0b591269f0bfe67a710dc8973f57a3f8c3289f48"
+"_change_number" "22625334"
+"_sha" "0a4531e43fedd3c46630ad7209961ecf78f69eda"
 "_size" "12019"
