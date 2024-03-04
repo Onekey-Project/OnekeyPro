@@ -1,0 +1,692 @@
+"appid" "1501750"
+"common"
+{
+	"name" "Lords of the Fallen"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "f2e5d49aab202dc9b12b6bfca1d9cf96bd2ab097"
+	"clienticon" "465967e233ba5267381b079c4e021324f4abffe2"
+	"clienttga" "ab791f11729939429e0bb4938e09ba0444531ebe"
+	"name_localized"
+	{
+		"schinese" "Lords of the Fallen 堕落之主"
+		"japanese" "Lords of the Fallen ロード　オブ ザ　フォールン"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1501750_eula_0"
+			"name" "Lords of the Fallen EULA"
+			"url" "https://store.steampowered.com//eula/1501750_eula_0"
+			"version" "4"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1698364800"
+		"tested_build_id" "12533190"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja"
+		"library_hero" "en,zh-cn,ja"
+		"library_logo" "en,zh-cn,ja"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.37955852633179"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1707143393"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HEXWORKS"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CI Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Lords of the Fallen"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697202240"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1501750"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "122"
+		"2" "4604"
+		"3" "1685"
+		"4" "19"
+		"5" "4182"
+		"6" "1775"
+		"7" "3843"
+		"8" "3854"
+		"9" "1684"
+		"10" "21"
+		"11" "4026"
+		"12" "4231"
+		"13" "4747"
+		"14" "4106"
+		"15" "4191"
+		"16" "1697"
+		"17" "3859"
+		"18" "4166"
+		"19" "1695"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "HEXWORKS"
+	"publisher" "CI Games"
+	"listofdlc" "2370550,2387870,2387880,2387890,2387920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Lords of the Fallen"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LOTF2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1501751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3363851550602720045"
+				"size" "34775899081"
+				"download" "33858966960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amdtesting"
+			{
+				"gid" "DA2D0CE01CB4711BF81FD657EF8C9998"
+				"size" "D153189745D6133E5ABFAB91AB00C41D"
+				"download" "567C3D9D8C642740EFA663A4E54CD41A"
+			}
+			"customercare"
+			{
+				"gid" "1F4E5579E538F7AAFDD17F27AF53782D"
+				"size" "A0B1A2A541161EDAB88DBF69717CC77C"
+				"download" "3835122BE1FA9F21BDE19EE6F7DB0570"
+			}
+			"day0"
+			{
+				"gid" "7BAD3E3ACDC22C08E9F67F786A52110A"
+				"size" "460565641F2DC87A5254A5B4A628E4A3"
+				"download" "BAA0B3E3C420B48E162A1B2F872E025C"
+			}
+			"gold1"
+			{
+				"gid" "FA5B925C980D94B7D1A42365CE29B22A"
+				"size" "12BA9ADFB925FA410FA73077AAF11C56"
+				"download" "225B5F6EDD9480E2A66F501AFF59E682"
+			}
+			"goldqaship"
+			{
+				"gid" "B6BDB43B8D21E7420638EE75F1C7365C"
+				"size" "3E7BBC0040A71A823F900D8E395FEAE6"
+				"download" "A08322279D8A9AB6613AF000B5E29029"
+			}
+			"goldqatest"
+			{
+				"gid" "FB59F853ED7B2C50CADAAF63E0B78D25"
+				"size" "AF71E544EE886F93F21E5FBD3F75F331"
+				"download" "A003442A5F5940FFF6A0A5AC329D39B5"
+			}
+			"goldqatest2"
+			{
+				"gid" "AC11D08F47B3294708D0422DB69C965B"
+				"size" "E7FA805F6A113D53FEFB96009A7F834A"
+				"download" "F6786F24619119EDFC65E43798667FBE"
+			}
+			"goldqatest3"
+			{
+				"gid" "A8CDB296F4EA343C0C5E17B9A7FDECE3"
+				"size" "607B9A464CBB821858889083F9FD7A5D"
+				"download" "FC2A846CD9ADE1348724963439880C44"
+			}
+			"gpudebug"
+			{
+				"gid" "5DE69843191A13D19326B3560319007C"
+				"size" "4217BF1BDE144E869F91B9509D00F533"
+				"download" "763B7A764A5B18F9C1CD30D9B1AE1368"
+			}
+			"intel"
+			{
+				"gid" "05176C592B1CCD381C4EDCCC20E83E5C"
+				"size" "33A663067F99635862E673461BE281BC"
+				"download" "5B8F66CCB4D02ACD924B688F3E66F21D"
+			}
+			"milestone0vs"
+			{
+				"gid" "2FEABE9581EBF760B4297E1769EE13E9"
+				"size" "BF138D5BF8EB80CB66A5D3211A27BA08"
+				"download" "84AB3F0C677755D593F40837C38EDBF3"
+			}
+			"milestone10"
+			{
+				"gid" "1955751AE9E80DCD272CFE834115930F"
+				"size" "9EEB4EAF36578032A6C0822C1E502960"
+				"download" "9CA536C2A95676519CA87B85BD587066"
+			}
+			"milestone11"
+			{
+				"gid" "B3B1710772828C70F00D71E4C7DBF297"
+				"size" "99BC3B20ACACDEF20DC7BC4680F32D31"
+				"download" "33898333CD6109D41547CC190ED920AD"
+			}
+			"milestone12"
+			{
+				"gid" "9883EFF90F29A662F1FE7E1D2B3D5806"
+				"size" "09355748F30952E9A0D3C6A5989DF83A"
+				"download" "99B3534AF9D1C8849530E6F6ACD9FF7B"
+			}
+			"milestone3"
+			{
+				"gid" "40144108D6AB8AA723CAD255682A3151"
+				"size" "AB602321231E3DA76FDC9561A2B19DAC"
+				"download" "D1474E9E58FCB96FE7EBE5B0F9CEB065"
+			}
+			"milestone5gc"
+			{
+				"gid" "545363EF404A1C61E4B43802A89AA20D"
+				"size" "56BD8F2EEEDF0A4604020DC0BBCB31B5"
+				"download" "9CF6BD225808EFEFE488C4C23E43859E"
+			}
+			"milestone7"
+			{
+				"gid" "689B9F8E9745D806DA1022A01BA8A3D9"
+				"size" "7B5CCE82F608019E3A69B89AADA938BB"
+				"download" "31F65548CB05CFFD6B5F0DC835A6D09C"
+			}
+			"milestone8"
+			{
+				"gid" "AD95578CFF7D5687EEF7C9D38AF4B2B5"
+				"size" "52191382022487E4A80FA158125B1CC5"
+				"download" "89EFC299A3CA50C770B708D3391C0DFB"
+			}
+			"milestone9"
+			{
+				"gid" "C4F33EEE8B8B2CBFDCD08A04B3384E57"
+				"size" "B0C67EDA4EC5F7F34A2E0008C0A68C9C"
+				"download" "C2DA92262DB9B5A1D604A9FE3AFA9CDA"
+			}
+			"prelaunch"
+			{
+				"gid" "119DFD275EDC04165BC42BA1D3556972"
+				"size" "5F8F66DE30BF0638666D6954EBD94D26"
+				"download" "350E52A5703323AF70BEDF99E8ABD161"
+			}
+			"unrealtests"
+			{
+				"gid" "D4ABF716DB0D2B7BAB7B037FEAC77805"
+				"size" "6528D6A30A7C6C076D42C368CDDAEE90"
+				"download" "3959CABAE15B15ACDC95C020642162F9"
+			}
+			"zerogoldship"
+			{
+				"gid" "71D4DF1569B96B35DB14E472F7131B2A"
+				"size" "755B7CA21B63FFA246960C403EDAAC7D"
+				"download" "76D9276E3105A0C648A9A110208F2FAD"
+			}
+			"zerogoldtest"
+			{
+				"gid" "7F823CEA9B3BB4CDB38A89951F56D427"
+				"size" "57ED36F1611359D1FB2319635ABD7142"
+				"download" "BD7062C026B19B794F8039AE7AED8D30"
+			}
+			"zeroqa"
+			{
+				"gid" "7E9519C3C00F029482A21E5BBB67B26F"
+				"size" "41D97D56E340DA7D21A1DBD5B3AD611F"
+				"download" "6A26556BC23F200730C705AA5E21F0CB"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13602274"
+			"timeupdated" "1709240154"
+		}
+		"amdtesting"
+		{
+			"buildid" "13417692"
+			"pwdrequired" "1"
+			"timeupdated" "1707503766"
+		}
+		"customercare"
+		{
+			"buildid" "12835224"
+			"pwdrequired" "1"
+			"timeupdated" "1701877226"
+		}
+		"day0"
+		{
+			"buildid" "13552085"
+			"pwdrequired" "1"
+			"timeupdated" "1708951526"
+		}
+		"gold1"
+		{
+			"buildid" "11965431"
+			"pwdrequired" "1"
+			"timeupdated" "1692279206"
+		}
+		"goldqaship"
+		{
+			"buildid" "13322822"
+			"pwdrequired" "1"
+			"timeupdated" "1706696730"
+		}
+		"goldqatest"
+		{
+			"buildid" "13618572"
+			"pwdrequired" "1"
+			"timeupdated" "1709334919"
+		}
+		"goldqatest2"
+		{
+			"buildid" "13613071"
+			"pwdrequired" "1"
+			"timeupdated" "1709296472"
+		}
+		"goldqatest3"
+		{
+			"buildid" "13548390"
+			"pwdrequired" "1"
+			"timeupdated" "1708726268"
+		}
+		"gpudebug"
+		{
+			"buildid" "12851267"
+			"pwdrequired" "1"
+			"timeupdated" "1701442773"
+		}
+		"intel"
+		{
+			"buildid" "13284090"
+			"pwdrequired" "1"
+			"timeupdated" "1706287287"
+		}
+		"milestone0vs"
+		{
+			"buildid" "6495742"
+			"pwdrequired" "1"
+			"timeupdated" "1692963198"
+		}
+		"milestone10"
+		{
+			"buildid" "11054502"
+			"pwdrequired" "1"
+			"timeupdated" "1682041723"
+		}
+		"milestone11"
+		{
+			"buildid" "11402760"
+			"pwdrequired" "1"
+			"timeupdated" "1686040814"
+		}
+		"milestone12"
+		{
+			"buildid" "11446989"
+			"pwdrequired" "1"
+			"timeupdated" "1686556387"
+		}
+		"milestone3"
+		{
+			"buildid" "7941664"
+			"pwdrequired" "1"
+			"timeupdated" "1640775664"
+		}
+		"milestone5gc"
+		{
+			"buildid" "9353254"
+			"pwdrequired" "1"
+			"timeupdated" "1692263674"
+		}
+		"milestone7"
+		{
+			"buildid" "9936269"
+			"pwdrequired" "1"
+			"timeupdated" "1668463512"
+		}
+		"milestone8"
+		{
+			"buildid" "10330636"
+			"pwdrequired" "1"
+			"timeupdated" "1673863135"
+		}
+		"milestone9"
+		{
+			"buildid" "10614117"
+			"pwdrequired" "1"
+			"timeupdated" "1680496376"
+		}
+		"prelaunch"
+		{
+			"buildid" "13602274"
+			"pwdrequired" "1"
+			"timeupdated" "1709217054"
+		}
+		"unrealtests"
+		{
+			"buildid" "13495598"
+			"pwdrequired" "1"
+			"timeupdated" "1708336789"
+		}
+		"zerogoldship"
+		{
+			"buildid" "13616203"
+			"pwdrequired" "1"
+			"timeupdated" "1709315996"
+		}
+		"zerogoldtest"
+		{
+			"buildid" "13617270"
+			"pwdrequired" "1"
+			"timeupdated" "1709323936"
+		}
+		"zeroqa"
+		{
+			"buildid" "13443645"
+			"pwdrequired" "1"
+			"timeupdated" "1707831095"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "268435456"
+	"maxnumfiles" "64"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "LOTF2/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_level" "In {#Status_Level_%levelid%}"
+				"#status_level_mainmenu" "Main Menu"
+				"#status_area" "In {#Status_Area_%areaid%}"
+				"#status_area_grovetutorial" "Defiled Sepulchre"
+				"#status_area_overgrownoutpost" "Abandoned Redcopse"
+				"#status_area_hub" "Skyrest Bridge"
+				"#status_area_cliffsidecity" "Pilgrim\'s Perch"
+				"#status_area_cliffsidegraveyard" "Path of Devotion"
+				"#status_area_swamp" "Forsaken Fen"
+				"#status_area_dilapidatedroad" "Fitzroy\'s Gorge"
+				"#status_area_lowercity" "Lower Calrath"
+				"#status_area_mines" "Sunless Skein"
+				"#status_area_ironcorebowels" "Revelation Depths"
+				"#status_area_uppercity" "Upper Calrath"
+				"#status_area_deepforest" "Fief of the Chill Curse"
+				"#status_area_manse" "Manse of the Hallowed Brothers"
+				"#status_area_penitenttower" "Tower of Penance"
+				"#status_area_womenarea" "Abbey of the Hallowed Sisters"
+				"#status_area_highsee" "The Empyrean"
+				"#status_area_rhogarcastle" "Bramis Castle"
+				"#status_area_umbraltemple" "Mother\'s Lull"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#statusmainmenu" "En el menú principal"
+				"#statusinworld" "Explorando el mundo"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22593306"
+"_sha" "86c7c7366fb7990b569d87d6f96d0183a50f9254"
+"_size" "14384"
