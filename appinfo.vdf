@@ -1,0 +1,903 @@
+"appid" "1238810"
+"common"
+{
+	"name" "Battlefield™ V"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1238810_eula_0"
+			"name" "Battlefield™ V EULA"
+			"url" "https://store.steampowered.com//eula/1238810_eula_0"
+			"version" "2"
+		}
+	}
+	"logo" "fdbc8f6758a55c56d2a116839231c76f631e57dc"
+	"logo_small" "fdbc8f6758a55c56d2a116839231c76f631e57dc_thumb"
+	"icon" "23ded6a957b5ec7525679c2e7bdac90c0653dbc8"
+	"clienticon" "efa4f81c3558c637a107e9ac36fd11996022110c"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"releasestate" "released"
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "《战地风云 5》"
+		"tchinese" "《戰地風雲 5》"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "9888676"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "80.39658038470674"
+		}
+	}
+	"store_asset_mtime" "1623272870"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DICE"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Battlefield"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1541750400"
+	"steam_release_date" "1591887300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1238810"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "3859"
+		"2" "4150"
+		"3" "4182"
+		"4" "1774"
+		"5" "1678"
+		"6" "4168"
+		"7" "3839"
+		"8" "3993"
+		"9" "1775"
+		"10" "128"
+		"11" "1695"
+		"12" "19"
+		"13" "3987"
+		"14" "5363"
+		"15" "176981"
+		"16" "4166"
+		"17" "4667"
+		"18" "12095"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "DICE"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/battlefield/battlefield-5"
+	"listofdlc" "1254580,1254581,1254582,1264170,1264171,1264172,1438690"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Battlefield V"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1238810\?platform=steam&theme=bfv"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1238811"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "14221373878016801"
+				"size" "97200369521"
+				"download" "88638895904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "9294D8EB35222C3E3D00A2A431035BC7"
+				"size" "5CB4382C7C9D0C031B5FEEC410118A3A"
+				"download" "6B00A74C22299163CDD1C03BD159D35A"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "602161119F47B531D7E86CACB58ADCE6"
+				"size" "24DDE920F4E555D22F783D0EC0393235"
+				"download" "D0312E7CA55487C6EBCDED17D78FB3B3"
+			}
+			"liveqv"
+			{
+				"gid" "1796617C6CA0D44837221045C7109677"
+				"size" "741DE5B598F1924FD580BC0DDE0BEA3F"
+				"download" "BE7C85268ADE8DA5D84E42ADEE41353F"
+			}
+		}
+	}
+	"1238812"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1017302788150672404"
+				"size" "107681"
+				"download" "25616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "CC6E98EF888A0E5E3C506FC1634AF59B"
+				"size" "AF0B7AD33AD43EA4188CBB879CF96038"
+				"download" "B81B8A6D19A17A248E576A4F9BE757CC"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "97A707F0F7AE21CD5ABCDDE423EF69E0"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "984D54CFA0C433ADB7740CC651655A8E"
+				"size" "295896A462CE467C74F4759D5D5DE413"
+				"download" "0EF58153B28353B1C6F7FAC84584E5FC"
+			}
+		}
+	}
+	"1238813"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8445463622877113249"
+				"size" "117250"
+				"download" "28080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "DBCAA4EE06226F5C307C110BCD210061"
+				"size" "5897F473F8739C9D55213B64C63D4A87"
+				"download" "5877FBF2EE6CBFB5433C3C473F12D17F"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "6D223ACA4F94B67785126AA8151AE02F"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "3B83334739113A3261949B7A2C27E87D"
+				"size" "B050D8F0E505FA67A4024515C700A49B"
+				"download" "6C71943CD287864ED998F97E129469DB"
+			}
+		}
+	}
+	"1238814"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5792981316902240956"
+				"size" "107120"
+				"download" "25296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "01A9E9086A7E1BDBAB9AB0ED3B645764"
+				"size" "1576186E0C96B8EBD21A4B2712DB3E09"
+				"download" "C4A27F118078AF685D88AC6BFC2CF9D1"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "470BBB882E1D1C60D84C5ED649462AA3"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "E15F258BF5255D6D200E67109D7F3D6F"
+				"size" "750464700A794667E2EB8DABD1BBDE21"
+				"download" "3901C3DCC5838AAD441D59DF48AF2490"
+			}
+		}
+	}
+	"1238815"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5468103793432983558"
+				"size" "125113"
+				"download" "28592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "6F4EFD383083F5A10012227ECEFF34AA"
+				"size" "1A5CEF20B17BFAFC00DE44A776EFA91F"
+				"download" "F93E62945E2D01B739581FDEBD9FC1CB"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "9D9F019C6CC53A46711292948278D0A0"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "0861CD0EAEE6266FAE4E481C78BA759C"
+				"size" "3CA9DC7D07221F65E0576D8F4468C50E"
+				"download" "A462CB19ECE6087C9765727039888E4B"
+			}
+		}
+	}
+	"1238816"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6884841044146038285"
+				"size" "112535"
+				"download" "26832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "22768D3975E9132F51362273154658EA"
+				"size" "71DE56986BEBB776349739723371892D"
+				"download" "C7C8EAE8365D8DF7ACAC446A5983495F"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "6C528917B297C0029D103215DB81ED4E"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "917616AB4F02A21847F59E20D0A5C6E8"
+			}
+			"liveqv"
+			{
+				"gid" "0F93B86BE7E894444893A45DB2F48491"
+				"size" "E33CD41DDDAB5FF0BBC1C9410D81B802"
+				"download" "723A6B7395B8C0D197447D032224D2B9"
+			}
+		}
+	}
+	"1238817"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1476835230271066414"
+				"size" "181497"
+				"download" "31328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "9A57919305BC13C522765F0170294D44"
+				"size" "0388CBABAA9C3A41237B54B3587B2C99"
+				"download" "8C3BFD60873BC2C464D79CD750382A88"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "B6AB63809E41B5D587EC3D204FB09E25"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "2BED59850D73DC3F13D7B30B09CA0B6C"
+				"size" "D0D20890C49B387CAB7425D0316129E2"
+				"download" "55071585F4242DD979F4E722E3ADF72E"
+			}
+		}
+	}
+	"1238818"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1302278156252619881"
+				"size" "116120"
+				"download" "29280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "63FCD4E15E156153039891529A87C40F"
+				"size" "D3803ADF8C1BF3F57FD04AC50052619D"
+				"download" "BDA6F62E1510EC5AAF3E030A60E89BF8"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "D414D246CF50ABF856CD0F4B6379184E"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "917616AB4F02A21847F59E20D0A5C6E8"
+			}
+			"liveqv"
+			{
+				"gid" "F61CD88E4A92D874AFAD2E5391677721"
+				"size" "444014CD89BA706CBEFF5CB866E3FFC2"
+				"download" "01846CD853CEEA86C09FEC60328EC500"
+			}
+		}
+	}
+	"1238819"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5165074602592856163"
+				"size" "195574"
+				"download" "31392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "EB2CD58C04926626410E2419025D4FAB"
+				"size" "46694FD6A237EED77197BC3F4BA2B73A"
+				"download" "73FF639C04577F1C0882809EE10D39DC"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "F27B75BE00EC9BD742FBEDB7CFE06A71"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "B53B221A91DE548937F64A84E362E8D9"
+				"size" "9E2F1232CCE3BF2DC28724A5B73DC68C"
+				"download" "E47B7D8A093976F48F4EF2BD2F620D9C"
+			}
+		}
+	}
+	"1254583"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3534727742432482785"
+				"size" "163760"
+				"download" "29296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "4BB39D6764328080431A000CEBE75907"
+				"size" "B667214DC0D1AB94938D7F366800162F"
+				"download" "4F90EEE42C287643B1AFE7E69B9C5B4C"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "9F5CD87D5DA55BBE495220E389191509"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "8933033FED0AAA65E67A533871AA7D48"
+				"size" "A243EED92333913B1F72D630A849DB5A"
+				"download" "14B26FF19DA717AF00D10362BB48C303"
+			}
+		}
+	}
+	"1254584"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "663041404062930962"
+				"size" "174862"
+				"download" "30384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "3AE1CA8FE320B37E740807F580CB5A15"
+				"size" "7EF14723799B462BE84EE0BB63F38335"
+				"download" "3B59982C68A650D675088E96B89A5B8C"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "043CF94B0BD56008A8124CF4BAB2CCD6"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "B3995AC58FA084AD00514DEF317DE923"
+				"size" "EE3050FF685146F3E160A0B00DBC2FCE"
+				"download" "657C1C94806641CFBA7E4290DF6EB28F"
+			}
+		}
+	}
+	"1254585"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6207499976396652508"
+				"size" "110418"
+				"download" "26944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "35548C932237EDFA3272D6FFCE2BE510"
+				"size" "C6DB14176E5AE30938D2E5E229AA54D9"
+				"download" "D9B47A289892A4F26F54BB3AD4DD6512"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "4459068589F961F4157C4119CB78AC94"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "84E78E314216B649FA6CEF031A34D0FF"
+				"size" "26B26CEC054F9CC53A4A948462538F38"
+				"download" "FBA4DC7B41F72EE83C62C5D71F6A9CED"
+			}
+		}
+	}
+	"1254586"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7953190408165080122"
+				"size" "120033"
+				"download" "28224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "2A3FD0E9ABDD612FA7E4817F033D2F08"
+				"size" "0AD3CC3DDEBCDE4080A792ADACF0DEF2"
+				"download" "35D97B562DE68A1EDF4B985AE1A50ED4"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "451ABAA1DB396170312F0D641254EB58"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "917616AB4F02A21847F59E20D0A5C6E8"
+			}
+			"liveqv"
+			{
+				"gid" "3751FB516D2FFA1B58E6A12028589343"
+				"size" "E1BE902B6117A299A88EA95B57C0F479"
+				"download" "E3398020FFF77516006AB6599518E046"
+			}
+		}
+	}
+	"1254587"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4056391606027528956"
+				"size" "270739"
+				"download" "31600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "867D933DFC7CE5318ECB649C90514C06"
+				"size" "CC415402CB94AAE9AFFE7A4267DF8D78"
+				"download" "060861D880D7575ECF3045A2BAD3854C"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "0E26FF0F1B60939A43A941BEF6955C83"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "CEEE774C8ACEB6C6E4B1F5290F2BCB0F"
+				"size" "D2AF1D141A28C5F788A4F5C9D7AEAF76"
+				"download" "C5BB934503599D9044F191B10157598E"
+			}
+		}
+	}
+	"1254588"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5746052836788554849"
+				"size" "388603"
+				"download" "31328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "9AEF6C58CA7500257E04759473CE9ABC"
+				"size" "B0DC80F9A5C478AF29312B253ED44A33"
+				"download" "8C3BFD60873BC2C464D79CD750382A88"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "CB7114F7A5C9251DC87963B27D0F4EFE"
+				"size" "B3FB8CD179CD565984CD3367DD739504"
+				"download" "91D73CF298153BD9245CA4BEC1340F9A"
+			}
+			"liveqv"
+			{
+				"gid" "D9AD120293750484618584443CA5C636"
+				"size" "2CE7887A5257308913F98496560AFF39"
+				"download" "55071585F4242DD979F4E722E3ADF72E"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10351919"
+			"timeupdated" "1674215998"
+		}
+		"eacc"
+		{
+			"buildid" "13522912"
+			"pwdrequired" "1"
+			"timeupdated" "1708541716"
+		}
+		"eacc_ead_stage"
+		{
+			"buildid" "13458374"
+			"pwdrequired" "1"
+			"timeupdated" "1707982720"
+		}
+		"liveqv"
+		{
+			"buildid" "13522912"
+			"pwdrequired" "1"
+			"timeupdated" "1708606803"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22602180"
+"_sha" "f0f91adeed3f75d6330ca00a77a5cd0a725da419"
+"_size" "17879"
