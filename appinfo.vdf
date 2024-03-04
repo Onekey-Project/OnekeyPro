@@ -206,6 +206,8 @@
 	"developer" "Jackto Studios"
 	"publisher" "Jackto Studios"
 	"homepage" "http://jacktostudios.com/"
+	"listofdlc" "2635010,2778020,2778030,2778040,2778050"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -301,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "7237924250215977383"
-				"size" "33230535163"
-				"download" "12143090528"
+				"gid" "4812999055772012652"
+				"size" "33275765071"
+				"download" "12245555104"
 			}
 			"1.2.4"
 			{
@@ -340,15 +342,15 @@
 		{
 			"alpha_development"
 			{
-				"gid" "DA1F0CFCE69206542E0E709CE0F33AEA"
-				"size" "72EE5B925DC1006AA9585D5ECED63E79"
-				"download" "0E260F02D41E3751515795D7F2982E14"
+				"gid" "58E21E341000D96A1F209AD63B40EB76"
+				"size" "2F12042EEF67B24209438CBD5ABCF367"
+				"download" "73BC71C742773221D94C38B3156E1398"
 			}
 			"alpha_shipping"
 			{
-				"gid" "BA27343C80E96D29B44FF0A018523142"
-				"size" "4E40FA1F115965C0E52EB5AE97DA383E"
-				"download" "94DB21CA2A7E86B9DCD2B2F6445200F9"
+				"gid" "13F4D4C4C8CCDB84420ADFEB90C4B956"
+				"size" "380F3C23561A17D9D184D95465977BE4"
+				"download" "F60D089702BE009C99FEFD92B7ABA5D1"
 			}
 			"pre-alpha"
 			{
@@ -419,8 +421,8 @@
 	{
 		"public"
 		{
-			"buildid" "12958805"
-			"timeupdated" "1702542492"
+			"buildid" "13629331"
+			"timeupdated" "1709529522"
 		}
 		"1.2.4"
 		{
@@ -454,15 +456,15 @@
 		}
 		"alpha_development"
 		{
-			"buildid" "13600713"
+			"buildid" "13629542"
 			"pwdrequired" "1"
-			"timeupdated" "1709207436"
+			"timeupdated" "1709529741"
 		}
 		"alpha_shipping"
 		{
-			"buildid" "13600223"
+			"buildid" "13629331"
 			"pwdrequired" "1"
-			"timeupdated" "1709204142"
+			"timeupdated" "1709526482"
 		}
 		"pre-alpha"
 		{
@@ -556,6 +558,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22559457"
-"_sha" "eced82279acda64a149f48bcf4be3a84f7c8618f"
-"_size" "10536"
+"_change_number" "22615707"
+"_sha" "884afae5dc28b69c7dafb3d21168595c56c30280"
+"_size" "10622"
