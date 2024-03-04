@@ -287,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "4423280885002021186"
-				"size" "1095938894"
-				"download" "227325328"
+				"gid" "8647455225787230597"
+				"size" "1095934662"
+				"download" "227329936"
 			}
 			"public-beta"
 			{
@@ -300,6 +300,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"automation-test"
+			{
+				"gid" "D30305F017BA4291396B4E5FC85B5B18"
+				"size" "77CAE91E4353AA2A508D3B8985AA5EF1"
+				"download" "DF7297B116DDF8D301D9BFB3FB42C723"
+			}
 			"beta"
 			{
 				"gid" "27244DE36D6EB75400F9F219A0C14C35"
@@ -354,9 +360,9 @@
 		{
 			"public"
 			{
-				"gid" "6228993402322243228"
+				"gid" "1835674856397537958"
 				"size" "1074929143"
-				"download" "229692432"
+				"download" "229691920"
 			}
 			"public-beta"
 			{
@@ -367,6 +373,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"automation-test"
+			{
+				"gid" "F973E03615026CFC02F87A293559124C"
+				"size" "7AA7BD1A0B49D3F39CA3EC61B06778FA"
+				"download" "ED36A0A7692C74FBCDFB20A20425DAF9"
+			}
 			"beta"
 			{
 				"gid" "564550120CF538B053F349AE8B4BAEED"
@@ -415,9 +427,9 @@
 		{
 			"public"
 			{
-				"gid" "6898292250225541403"
-				"size" "1099730286"
-				"download" "229750528"
+				"gid" "2300158263018163130"
+				"size" "1100534560"
+				"download" "229973472"
 			}
 			"public-beta"
 			{
@@ -428,6 +440,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"automation-test"
+			{
+				"gid" "14587186E7812BDCA1F22ABF8AA14829"
+				"size" "34CCF4A480AC986A75C5A8CB78CFBF27"
+				"download" "973EE7C96644E3CD537EF7150E22ED39"
+			}
 			"beta"
 			{
 				"gid" "7E90B00FA0F888D707420C77EA8A0219"
@@ -470,8 +488,14 @@
 	{
 		"public"
 		{
-			"buildid" "13567372"
-			"timeupdated" "1709199851"
+			"buildid" "13614701"
+			"timeupdated" "1709556398"
+		}
+		"automation-test"
+		{
+			"buildid" "13632882"
+			"pwdrequired" "1"
+			"timeupdated" "1709558525"
 		}
 		"beta"
 		{
@@ -575,6 +599,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22583190"
-"_sha" "4444f6834d397e79b849268023ca37348610eb46"
-"_size" "11554"
+"_change_number" "22621860"
+"_sha" "ea91566207d3490401344f00486069c8e0aa16f9"
+"_size" "12209"
