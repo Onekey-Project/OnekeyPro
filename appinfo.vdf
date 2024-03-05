@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "8257818162725622930"
-				"size" "549356518"
-				"download" "356654832"
+				"gid" "2497952300036177930"
+				"size" "549356326"
+				"download" "356654800"
 			}
 		}
 		"encryptedmanifests"
@@ -353,9 +353,9 @@
 			}
 			"revamp"
 			{
-				"gid" "3E6554D9D0DB9A56BE6320766897EE6D"
-				"size" "6A3B95EF5D5DBB70A3E0C1A6632DE841"
-				"download" "B0F4D668133046954E70D0AB495D915D"
+				"gid" "44BE1FD005B64E00FC21EA656511351E"
+				"size" "E78F4E1D6720C43034AE87CB09264228"
+				"download" "D218109A1C8D218374B7C2FC43DF464E"
 			}
 		}
 	}
@@ -369,9 +369,9 @@
 		{
 			"public"
 			{
-				"gid" "3093242741277282026"
-				"size" "648644068"
-				"download" "359748832"
+				"gid" "524014652829548746"
+				"size" "648643876"
+				"download" "359748800"
 			}
 		}
 		"encryptedmanifests"
@@ -384,9 +384,9 @@
 			}
 			"revamp"
 			{
-				"gid" "7EB0BB7C174F9DE64F9A50EDD088F11C"
-				"size" "D401CEF7C7A287B60A25B6E560BEAA1E"
-				"download" "573D79BD4E293F08B45463C26996B3B1"
+				"gid" "43BF91BB1952C363343D081739C81031"
+				"size" "C66840692AFE3D758AEFBAF8C3F274F0"
+				"download" "8FE2CA0D65427F3E47C0B502691D79C9"
 			}
 		}
 	}
@@ -400,9 +400,9 @@
 		{
 			"public"
 			{
-				"gid" "71493447387883592"
-				"size" "576149181"
-				"download" "360895392"
+				"gid" "4036841675606951471"
+				"size" "576148985"
+				"download" "360894944"
 			}
 		}
 		"encryptedmanifests"
@@ -415,9 +415,9 @@
 			}
 			"revamp"
 			{
-				"gid" "0831D77D322F503B5ADBDDA004840A02"
-				"size" "7C148C29CBC018857FB7BAAF6FC3FBD0"
-				"download" "1E2F669CB01E92D76C7471C9819D1279"
+				"gid" "AF71DB36957A60EC7D51D80B50532563"
+				"size" "BBAAB054A45B395A6DBEA42DD25A9E0F"
+				"download" "F7D0DC5B27C4522E72200347E18057FB"
 			}
 		}
 	}
@@ -426,8 +426,8 @@
 	{
 		"public"
 		{
-			"buildid" "13635051"
-			"timeupdated" "1709573433"
+			"buildid" "13643700"
+			"timeupdated" "1709631695"
 		}
 		"alpha"
 		{
@@ -437,13 +437,13 @@
 		}
 		"revamp"
 		{
-			"buildid" "13635051"
+			"buildid" "13643700"
 			"pwdrequired" "1"
-			"timeupdated" "1709573052"
+			"timeupdated" "1709631639"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22625671"
-"_sha" "a951f106a70245c0f622bf27cd7afe4ef058a5ad"
-"_size" "8258"
+"_change_number" "22636433"
+"_sha" "e5773f167480759052f70f0b4e07caa14e18a016"
+"_size" "8259"
