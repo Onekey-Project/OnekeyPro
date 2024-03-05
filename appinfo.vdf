@@ -105,9 +105,9 @@
 		{
 			"public"
 			{
-				"gid" "2376382702074867642"
-				"size" "18463072235"
-				"download" "11073873536"
+				"gid" "7041213386945429926"
+				"size" "18468704961"
+				"download" "11075175456"
 			}
 			"alpha10"
 			{
@@ -162,21 +162,21 @@
 		{
 			"closedalpha"
 			{
-				"gid" "D525EB9355D003D28E595F018EAB5AEE"
-				"size" "5098546AA5CE2E8634B07CC5643CE1DE"
-				"download" "1C7761F1AE26767A8CD152027FEB67D8"
+				"gid" "27E700FCEB60147E38C533D66310DBFE"
+				"size" "79AB26E0B0EB109F80130E9141423D31"
+				"download" "6B6A3ED57DE78B2113613C68F49152D3"
 			}
 			"eleononly"
 			{
-				"gid" "52A0EEDA9DA38B6CDE8C8A4479D0BEE7"
-				"size" "9149C9FE14BE4DB9B8D99F8A37DE9FB9"
-				"download" "9656C0615E61E9CF10A44AC3C44B5D5E"
+				"gid" "B9177C3849FABC2E8D1508FA32636B29"
+				"size" "2362C26D74EB20D26DC369498A2859DD"
+				"download" "6E522BAF45FCC88911F9540F97E3A1DA"
 			}
 			"eleontest"
 			{
-				"gid" "E1706611D416C12FA1FD1E0EF87BC2FF"
-				"size" "C5F896740F0CA43F31E10B38411E0814"
-				"download" "9569F322E14D2DA8DAB9CF71BACCD62E"
+				"gid" "51C1FE7294892F4D351EFD14493634E2"
+				"size" "4C0478D7E8634355F126E7B18A117255"
+				"download" "FABD4E1347C1480F12B17B396E8CBCD8"
 			}
 			"experimental"
 			{
@@ -186,9 +186,9 @@
 			}
 			"internal"
 			{
-				"gid" "9EFFFAF4795445AC47D72B1628ECB6D6"
-				"size" "CEEC21DDCC4907C8A73C5B928EA1FC71"
-				"download" "B9F48115049A49B8C0A0DD113D8B7092"
+				"gid" "1CD87584F549E8D20C72CA3D4FD97664"
+				"size" "9C45B7D66BBC993ADF2DBAF5B444BAE5"
+				"download" "69F56D380148015A0DE438A3FE41337F"
 			}
 			"steamtest"
 			{
@@ -202,8 +202,8 @@
 	{
 		"public"
 		{
-			"buildid" "13500186"
-			"timeupdated" "1708424197"
+			"buildid" "13645732"
+			"timeupdated" "1709655386"
 		}
 		"alpha10"
 		{
@@ -255,21 +255,21 @@
 		}
 		"closedalpha"
 		{
-			"buildid" "13500186"
+			"buildid" "13645732"
 			"pwdrequired" "1"
-			"timeupdated" "1708370928"
+			"timeupdated" "1709656309"
 		}
 		"eleononly"
 		{
-			"buildid" "13616506"
+			"buildid" "13645732"
 			"pwdrequired" "1"
-			"timeupdated" "1709318126"
+			"timeupdated" "1709644224"
 		}
 		"eleontest"
 		{
-			"buildid" "13616506"
+			"buildid" "13622161"
 			"pwdrequired" "1"
-			"timeupdated" "1709320093"
+			"timeupdated" "1709637303"
 		}
 		"experimental"
 		{
@@ -279,9 +279,9 @@
 		}
 		"internal"
 		{
-			"buildid" "13613767"
+			"buildid" "13645732"
 			"pwdrequired" "1"
-			"timeupdated" "1709300669"
+			"timeupdated" "1709644769"
 		}
 		"steamtest"
 		{
@@ -292,6 +292,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22586870"
-"_sha" "8409095c329f867493503605b7cf42260db3d4d0"
+"_change_number" "22642460"
+"_sha" "b295affd7e6d402078147b1d98e09a921932aad8"
 "_size" "5509"
