@@ -139,6 +139,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -265,18 +266,18 @@
 		{
 			"public"
 			{
-				"gid" "157648383900125146"
-				"size" "9255245112"
-				"download" "8980573664"
+				"gid" "8496185785212760195"
+				"size" "9255260134"
+				"download" "8980575600"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test_clientupdate"
 			{
-				"gid" "C8DA42CE515777D3C96B9FFA9D671999"
-				"size" "20800A16DA24D0E74562BA8C73BB0A51"
-				"download" "DD2E7F4A8B8E7E9366ACEB4E51ABBB66"
+				"gid" "A00C51B1DB592EB59F5EDA4DEFF8CEA4"
+				"size" "62F1F949767773E17D34978829F894CC"
+				"download" "AE5E99C19157B11F0B870F8E9209F648"
 			}
 			"test_dlcupdate"
 			{
@@ -492,14 +493,14 @@
 	{
 		"public"
 		{
-			"buildid" "13572533"
-			"timeupdated" "1709015971"
+			"buildid" "13641054"
+			"timeupdated" "1709607941"
 		}
 		"test_clientupdate"
 		{
-			"buildid" "13572533"
+			"buildid" "13641054"
 			"pwdrequired" "1"
-			"timeupdated" "1709015931"
+			"timeupdated" "1709607907"
 		}
 		"test_dlcupdate"
 		{
@@ -541,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22570142"
-"_sha" "7b3632d4e9a9a7c506c82592b0562503fba580f9"
-"_size" "10473"
+"_change_number" "22632344"
+"_sha" "5a5843a9f1b441acf68e4909475d0c0a19761335"
+"_size" "10496"
