@@ -265,9 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "5986442493366713206"
-				"size" "1381638081"
-				"download" "1151342752"
+				"gid" "2343200866089698002"
+				"size" "1381631972"
+				"download" "1151341040"
 			}
 			"alpha-legacy"
 			{
@@ -289,9 +289,9 @@
 			}
 			"experimental"
 			{
-				"gid" "5986442493366713206"
-				"size" "1381638081"
-				"download" "1151342752"
+				"gid" "2343200866089698002"
+				"size" "1381631972"
+				"download" "1151341040"
 			}
 			"pre-alpha-legacy"
 			{
@@ -308,6 +308,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"canary-private"
+			{
+				"gid" "37D8484E24A3C3B5D70010EB2E74A81D"
+				"size" "80D48E23A12DA6754270DC894B6C4012"
+				"download" "70D2F93F9EDABF7D2CB858818F0FB707"
+			}
 			"cheetah-private"
 			{
 				"gid" "7E73812AF81839268508160552AD85C2"
@@ -322,9 +328,9 @@
 			}
 			"dev-staging"
 			{
-				"gid" "8511E2138C846882FC5170590727CE08"
-				"size" "CC2D07A555DD1708263588178EDE42D8"
-				"download" "0A34F1DEAFB2571B9D00E0495BCF4EDB"
+				"gid" "D36601599B2146DAA458DCF121F3F387"
+				"size" "E4A58E582C374D43FA9701D969701E6F"
+				"download" "9C88A1C47E21743FD847B080A664FCA4"
 			}
 		}
 	}
@@ -340,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "2673174479640191711"
-				"size" "8447118"
-				"download" "6863968"
+				"gid" "694384496265204915"
+				"size" "8447021"
+				"download" "6864704"
 			}
 			"ea-legacy"
 			{
@@ -352,9 +358,9 @@
 			}
 			"experimental"
 			{
-				"gid" "2673174479640191711"
-				"size" "8447118"
-				"download" "6863968"
+				"gid" "694384496265204915"
+				"size" "8447021"
+				"download" "6864704"
 			}
 			"testing-fog"
 			{
@@ -365,6 +371,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"canary-private"
+			{
+				"gid" "E5108D72C8E04CF28BBB38D2E38F841F"
+				"size" "CFBC0E3CBE6483CE29AD8A40A3B45ED0"
+				"download" "1CE6E6C1732E1172F7773055F944E480"
+			}
 			"cheetah-private"
 			{
 				"gid" "2C43CB05E777EA94D854CC3159478591"
@@ -379,9 +391,9 @@
 			}
 			"dev-staging"
 			{
-				"gid" "5A394BAC5C1469D4B8C268057F120960"
-				"size" "DBDCB3C3A0DF0644F4DABAAFD7322DDC"
-				"download" "D3097D47C5C4ACBD6AA04BC5755DC472"
+				"gid" "39F2A90672B12F15A1ED335541DEA1C7"
+				"size" "453565ECD837BAB1BE3AB3CEB05EF9AC"
+				"download" "92BBA01FB465F476ABD0F0422DE2CD3F"
 			}
 		}
 	}
@@ -389,8 +401,8 @@
 	{
 		"public"
 		{
-			"buildid" "12706549"
-			"timeupdated" "1701114475"
+			"buildid" "13643163"
+			"timeupdated" "1709629155"
 		}
 		"alpha-legacy"
 		{
@@ -403,6 +415,12 @@
 			"buildid" "8074186"
 			"description" "Legacy beta build v0.3.11f"
 			"timeupdated" "1652756679"
+		}
+		"canary-private"
+		{
+			"buildid" "12706549"
+			"pwdrequired" "1"
+			"timeupdated" "1709629188"
 		}
 		"cheetah-private"
 		{
@@ -418,9 +436,9 @@
 		}
 		"dev-staging"
 		{
-			"buildid" "12706549"
+			"buildid" "13643163"
 			"pwdrequired" "1"
-			"timeupdated" "1700026615"
+			"timeupdated" "1709628183"
 		}
 		"ea-legacy"
 		{
@@ -430,9 +448,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "12706549"
+			"buildid" "13643163"
 			"description" "Testing of experimental features, not stable"
-			"timeupdated" "1700028019"
+			"timeupdated" "1709629340"
 		}
 		"pre-alpha-legacy"
 		{
@@ -477,6 +495,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22583876"
-"_sha" "ac1488b23d42056d7f21482a60f640d6d8b2f8c7"
-"_size" "8811"
+"_change_number" "22635816"
+"_sha" "bf26dfb26128741c9b6b74300cce2a4cf1d4f931"
+"_size" "9280"
