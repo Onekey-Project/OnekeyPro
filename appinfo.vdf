@@ -143,6 +143,7 @@
 		"category_58" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -252,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "17379468328329248"
-				"size" "4496540868"
-				"download" "1236883984"
+				"gid" "4261719287682782718"
+				"size" "4496547100"
+				"download" "1236883328"
 			}
 		}
 		"encryptedmanifests"
@@ -273,15 +274,15 @@
 			}
 			"latestdevdebug"
 			{
-				"gid" "0111D86C1AD9FBFFA2E59E2BEFE1BD1B"
-				"size" "47EB9979A152E171F9CA22CF45420EDC"
-				"download" "55F8DBC855F7793128020A589093932F"
+				"gid" "E380D2CE19B2882665F4F850D5B555C9"
+				"size" "6212D8345CB31766F7EBDC0C30641262"
+				"download" "52CF8DE7CD156511C5CB58A37716E60B"
 			}
 			"latestdevrelease"
 			{
-				"gid" "68ED41F08D26BE1E0F44A65691D04CDA"
-				"size" "779BCDD335FEA5BF84F637C31A9DC9D1"
-				"download" "3F174784E7E05FC50FC3CF371C3F1F38"
+				"gid" "BDFB60749540F7372F4B6725685458FC"
+				"size" "D696509C04387350BE166EDA12F6DCB8"
+				"download" "FCBAEE2313EBD8456F258F40974B3871"
 			}
 			"testing"
 			{
@@ -296,8 +297,8 @@
 	{
 		"public"
 		{
-			"buildid" "13543899"
-			"timeupdated" "1708942982"
+			"buildid" "13629690"
+			"timeupdated" "1709615946"
 		}
 		"demotesting"
 		{
@@ -313,15 +314,15 @@
 		}
 		"latestdevdebug"
 		{
-			"buildid" "13609865"
+			"buildid" "13629548"
 			"pwdrequired" "1"
-			"timeupdated" "1709273695"
+			"timeupdated" "1709529991"
 		}
 		"latestdevrelease"
 		{
-			"buildid" "13610758"
+			"buildid" "13629690"
 			"pwdrequired" "1"
-			"timeupdated" "1709282439"
+			"timeupdated" "1709532239"
 		}
 		"testing"
 		{
@@ -379,6 +380,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22597972"
-"_sha" "8e2113cb29bb3997f224bd0d2cc9015e34152ed7"
-"_size" "7198"
+"_change_number" "22633543"
+"_sha" "afb4c3fd99586ad360d320bef62e2caead298888"
+"_size" "7222"
