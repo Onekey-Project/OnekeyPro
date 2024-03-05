@@ -140,6 +140,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -296,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "6242713924243927822"
-				"size" "656300821"
-				"download" "348673440"
+				"gid" "2536144614134451205"
+				"size" "689376424"
+				"download" "369004192"
 			}
 			"public-beta"
 			{
@@ -308,9 +309,9 @@
 			}
 			"public-previous"
 			{
-				"gid" "4593126137370998619"
-				"size" "558719235"
-				"download" "284091968"
+				"gid" "6242713924243927822"
+				"size" "656300821"
+				"download" "348673440"
 			}
 		}
 		"encryptedmanifests"
@@ -359,14 +360,14 @@
 			}
 			"nightly-build"
 			{
-				"gid" "74B7CD0B052BA5E63769876839BC8870"
-				"size" "C0F74F6F53996C6794A8F2E5094C1B59"
-				"download" "CB6D1C6B1A292D7FEF1E84EB56A972C1"
+				"gid" "4AF43859823BBA11C26EBCE718AB0B84"
+				"size" "E07E9B2D3E8618EE9A0A449FB59ABA34"
+				"download" "E155E6A38964A4267D79A2564321B27A"
 			}
 			"nightly-build-2"
 			{
-				"gid" "93539E0AF6F463F5560F103989103721"
-				"size" "7A28274FFC1207238223430F8FC1A111"
+				"gid" "AE12AE8926C827B26433E0A356570B42"
+				"size" "279805E968638DFEF6C1F7DAFDA81543"
 				"download" "E34E21ABACFE2079F376586FBF79E4B4"
 			}
 			"nightly-build-3"
@@ -419,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "12547701"
-			"timeupdated" "1701194617"
+			"buildid" "13451157"
+			"timeupdated" "1709662181"
 		}
 		"cdn-test"
 		{
@@ -466,15 +467,15 @@
 		}
 		"nightly-build"
 		{
-			"buildid" "13610855"
+			"buildid" "13643174"
 			"pwdrequired" "1"
-			"timeupdated" "1709282831"
+			"timeupdated" "1709628254"
 		}
 		"nightly-build-2"
 		{
-			"buildid" "13614714"
+			"buildid" "13647066"
 			"pwdrequired" "1"
-			"timeupdated" "1709305523"
+			"timeupdated" "1709652773"
 		}
 		"nightly-build-3"
 		{
@@ -501,9 +502,9 @@
 		}
 		"public-previous"
 		{
-			"buildid" "11689336"
+			"buildid" "12547701"
 			"description" "Previous live production version"
-			"timeupdated" "1701288103"
+			"timeupdated" "1709661634"
 		}
 		"random-stuff"
 		{
@@ -526,6 +527,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22580336"
-"_sha" "e2cff97ec4faf069539234a860a109f237a846ec"
-"_size" "10398"
+"_change_number" "22644066"
+"_sha" "6c43ebdeb7f59e76628525f6518f45e2b4021631"
+"_size" "10420"
