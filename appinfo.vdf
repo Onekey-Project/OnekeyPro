@@ -134,6 +134,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -272,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "4275451408221340805"
-				"size" "11101898746"
-				"download" "8368788848"
+				"gid" "7750403742728550061"
+				"size" "10373642646"
+				"download" "8255767696"
 			}
 		}
 		"encryptedmanifests"
@@ -299,9 +300,9 @@
 			}
 			"beta_lang_test"
 			{
-				"gid" "C02210618754EC54038DA08C896891C7"
-				"size" "26B4C8D41E2CB9ADB901A04A8198FE75"
-				"download" "ABEE3BC1AC6E5CBB140E911ECFB662AC"
+				"gid" "997A414D90947514CB0C5C611A20C320"
+				"size" "08A1AC18DB3D19CEE31F6E5C6382DF3D"
+				"download" "52A87F9FD15CAF9684F4CF73AA0DC233"
 			}
 			"beta_testing"
 			{
@@ -347,9 +348,9 @@
 			}
 			"latest"
 			{
-				"gid" "5DB192EEF07ED1CA9871D3A350A83A66"
-				"size" "C0C7F3EE7FD31BAC7C596D9152D36C84"
-				"download" "A49C58675FFB0AAFBD917BD3118981C3"
+				"gid" "9C128C9956B89D54E9A64B3675BFE0C5"
+				"size" "E54D26C02C6CA94915A872F192F20BC5"
+				"download" "72F1AC0E3783E2CB57AA7EF8D7C6E92B"
 			}
 			"latest_testing"
 			{
@@ -389,9 +390,9 @@
 			}
 			"staging"
 			{
-				"gid" "ECE8DD9E401D0E254A588411010833FF"
-				"size" "50612848DB1FB0DC087F2D3FC99B8690"
-				"download" "7899FBA1E59E1444A31D802EED8DF235"
+				"gid" "79F57FC4BB67A942698F99750497943A"
+				"size" "CB3B25EC33E14FA4FCE12F8E6D229B01"
+				"download" "A32E40DF2F100799E69A5A808E60FB3E"
 			}
 			"staging_test"
 			{
@@ -817,8 +818,8 @@
 	{
 		"public"
 		{
-			"buildid" "13518964"
-			"timeupdated" "1708528556"
+			"buildid" "13607335"
+			"timeupdated" "1709604439"
 		}
 		"alpha"
 		{
@@ -840,9 +841,9 @@
 		}
 		"beta_lang_test"
 		{
-			"buildid" "13598033"
+			"buildid" "13628390"
 			"pwdrequired" "1"
-			"timeupdated" "1709187625"
+			"timeupdated" "1709513994"
 		}
 		"beta_testing"
 		{
@@ -888,9 +889,9 @@
 		}
 		"latest"
 		{
-			"buildid" "13599753"
+			"buildid" "13628291"
 			"pwdrequired" "1"
-			"timeupdated" "1709201297"
+			"timeupdated" "1709512728"
 		}
 		"latest_testing"
 		{
@@ -930,9 +931,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13429716"
+			"buildid" "13607335"
 			"pwdrequired" "1"
-			"timeupdated" "1708118072"
+			"timeupdated" "1709452467"
 		}
 		"staging_test"
 		{
@@ -974,6 +975,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22569819"
-"_sha" "1e09bd0aa538b6a41b1eb63538a2648cb497e44d"
-"_size" "21991"
+"_change_number" "22631853"
+"_sha" "8424cdb2fa4585b7f7243ef0aa43c81fc5849b0e"
+"_size" "22013"
