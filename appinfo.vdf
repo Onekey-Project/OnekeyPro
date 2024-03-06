@@ -322,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "7857638636414873763"
-				"size" "23059491822"
-				"download" "21059551136"
+				"gid" "2652712039643524793"
+				"size" "23037145372"
+				"download" "21040167104"
 			}
 		}
 		"encryptedmanifests"
@@ -349,15 +349,15 @@
 			}
 			"dailydev"
 			{
-				"gid" "E8674D0CD5E5103475F31AA7AFC8FBC3"
-				"size" "E0DF1138EFE4F07FB228D3AABD452E82"
-				"download" "17245756F912988A5A995C326416B12B"
+				"gid" "2128B39D54DB77785344BDFA1459A990"
+				"size" "A39A9BC25645BDC1525AC09A6896AB04"
+				"download" "7FBC62E8088C355B6DF264DE9E2C4317"
 			}
 			"dailyship"
 			{
-				"gid" "3F2990DFB5644E41DA13034F7068EBCD"
-				"size" "BA2695C0A4E8E31D5609C2164AE448BD"
-				"download" "3777DFEFC0141EC0B0D64372020BA598"
+				"gid" "08222C3DBB49A2E5167DE801EC6B87CB"
+				"size" "2B2C441B62809EC94580A314A765364F"
+				"download" "6E8B4E1642EF27154DFC56981F066D1E"
 			}
 			"evaluation"
 			{
@@ -439,9 +439,9 @@
 			}
 			"stableshipdaily"
 			{
-				"gid" "86D1D87A0530ECF163671FFF7B1591D9"
-				"size" "4DC7C8A5AA209A915F942D4391A41E9D"
-				"download" "157C6137C6F9C7F2DE57C9E05658C40A"
+				"gid" "91D22454B4F24A2DEF38BA514D5DE3A6"
+				"size" "328B0741C39744AFFE81BE539AB95CFA"
+				"download" "60A60F2A0DF78E146557E5F20EF11070"
 			}
 			"stableshipdaily_dlc"
 			{
@@ -534,24 +534,24 @@
 		{
 			"public"
 			{
-				"gid" "9206164393920257512"
-				"size" "450865998"
-				"download" "388853120"
+				"gid" "7407527534042325527"
+				"size" "441834990"
+				"download" "380228720"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dailydev"
 			{
-				"gid" "C6416B8E8A42F9B795EA2ED78D5BFFCB"
-				"size" "B9640790D64DCFD099E50229B445B383"
-				"download" "BC2D38393297DE8C28A4071CA7B54B13"
+				"gid" "CEDF5843ADA182B78D601086FC38C66A"
+				"size" "FE19B7E24636EEB7AE8AF5E3EB6A3E4E"
+				"download" "B43375BA16F6ADB729CA0CB47D8C4BF6"
 			}
 			"dailyship"
 			{
-				"gid" "23339A4F8A9BB5EBFADB9A5F0950E47D"
+				"gid" "C89C66A720AC402A4B181278E8D152DD"
 				"size" "2D245893D6D218FCA142F706AB2A8EF1"
-				"download" "EC6D6D5B413D7A41C9B2C1ABDB0AF7A8"
+				"download" "0FCF7240DCADA6A0F2134A4C80399E6D"
 			}
 			"loca"
 			{
@@ -585,9 +585,9 @@
 			}
 			"stableshipdaily"
 			{
-				"gid" "DA199110CCAFDE8AE2D299CC6428797A"
-				"size" "66FF03950476581A8893F14DD6F53C76"
-				"download" "16AB4FB10BDFC00BE12D31D6343F1573"
+				"gid" "B353BC897969A8820C51F247512867E8"
+				"size" "E9F81BC16C354F6C70A71F16A9C26FBD"
+				"download" "D28C5018096B6B21292BCBA4D6E25488"
 			}
 			"stableshipdaily_dlc"
 			{
@@ -613,8 +613,8 @@
 	{
 		"public"
 		{
-			"buildid" "13313871"
-			"timeupdated" "1706705818"
+			"buildid" "13592369"
+			"timeupdated" "1709733545"
 		}
 		"agerating"
 		{
@@ -636,15 +636,15 @@
 		}
 		"dailydev"
 		{
-			"buildid" "13594957"
+			"buildid" "13638966"
 			"pwdrequired" "1"
-			"timeupdated" "1709163151"
+			"timeupdated" "1709596289"
 		}
 		"dailyship"
 		{
-			"buildid" "13595006"
+			"buildid" "13638886"
 			"pwdrequired" "1"
-			"timeupdated" "1709163635"
+			"timeupdated" "1709595714"
 		}
 		"evaluation"
 		{
@@ -726,9 +726,9 @@
 		}
 		"stableshipdaily"
 		{
-			"buildid" "13592369"
+			"buildid" "13638411"
 			"pwdrequired" "1"
-			"timeupdated" "1709151024"
+			"timeupdated" "1709592204"
 		}
 		"stableshipdaily_dlc"
 		{
@@ -765,6 +765,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22558410"
-"_sha" "9287a3356c8fb2820072943fc4e86e243b4b482c"
+"_change_number" "22656014"
+"_sha" "ed3a1f5172e014748f8c3c7e0e3b21664414fcba"
 "_size" "16381"
