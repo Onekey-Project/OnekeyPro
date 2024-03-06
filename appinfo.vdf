@@ -328,9 +328,9 @@
 			}
 			"sbr_dev_internal"
 			{
-				"gid" "66FE0CA20FA14E728F4328015E28BD60"
-				"size" "7669ECC73E4BB8FE368813823C2C3B40"
-				"download" "E9F75B69B6015D4F4D2BC1D6726C3236"
+				"gid" "BB54E8462C3B295FFC059D99A7D50646"
+				"size" "9DCCAF8B6D98F5729C8D0D15877F0A95"
+				"download" "9E3CE5F46796192886B71FF441BC5E83"
 			}
 			"sbr_fhi"
 			{
@@ -370,9 +370,9 @@
 			}
 			"sbr_qa_retail"
 			{
-				"gid" "B58C09B15AC06843D8D367937EE635B4"
-				"size" "F9F6A725D7834652F6244C0110B3CB62"
-				"download" "C8030595000334E2089116770F7256D8"
+				"gid" "5A28E53F200FEA13C701CEA5B632C04A"
+				"size" "B9F315D290F58119D2345EE95C31639B"
+				"download" "F06644518F4D1E9127C9BE8EDAD016AD"
 			}
 		}
 	}
@@ -387,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "4471005191340032881"
-				"size" "42289469125"
-				"download" "27360663424"
+				"gid" "7856671401486176126"
+				"size" "42289507755"
+				"download" "27360786032"
 			}
 		}
 		"encryptedmanifests"
@@ -402,9 +402,9 @@
 			}
 			"sbr_fhi"
 			{
-				"gid" "AE80504492B209BFDE6F90C53626C953"
-				"size" "AAFABBCD42C84686E1AB409DE531C261"
-				"download" "5610495E165E9F04D41E4FF72BC8B788"
+				"gid" "BE8FF6CE5147FD94A8DC7C0859300EBC"
+				"size" "B67B4245F8AEEED4344EBC77BBA883F5"
+				"download" "41FEF102E7F105D51248AC885944A90A"
 			}
 			"sbr_mac"
 			{
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "13589985"
-			"timeupdated" "1709720099"
+			"buildid" "13658298"
+			"timeupdated" "1709741608"
 		}
 		"external_review"
 		{
@@ -447,15 +447,15 @@
 		}
 		"sbr_dev_internal"
 		{
-			"buildid" "13653921"
+			"buildid" "13656926"
 			"pwdrequired" "1"
-			"timeupdated" "1709709146"
+			"timeupdated" "1709728092"
 		}
 		"sbr_fhi"
 		{
-			"buildid" "13589985"
+			"buildid" "13658298"
 			"pwdrequired" "1"
-			"timeupdated" "1709134733"
+			"timeupdated" "1709736907"
 		}
 		"sbr_fhi_crossplay"
 		{
@@ -489,9 +489,9 @@
 		}
 		"sbr_qa_retail"
 		{
-			"buildid" "13642760"
+			"buildid" "13656667"
 			"pwdrequired" "1"
-			"timeupdated" "1709624950"
+			"timeupdated" "1709726485"
 		}
 	}
 }
@@ -501,6 +501,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "22653333"
-"_sha" "f6042a425ecc2ca73224efaaf825e8b92f93b9f8"
+"_change_number" "22657871"
+"_sha" "1f67264a4969439b5c42bb81854211ab8291894c"
 "_size" "10135"
