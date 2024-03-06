@@ -22,6 +22,7 @@
 	}
 	"osextended" ""
 	"linuxclienticon" "5aa48d2d5892776d01c7dba8b7dae3f045114684"
+	"exfgls" "1"
 	"content_descriptors"
 	{
 		"0" "2"
@@ -174,15 +175,15 @@
 		}
 	}
 	"steam_release_date" "1708534849"
-	"metacritic_score" "76"
+	"metacritic_score" "77"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/last-epoch\?ftag=MCD-06-10aaa1f"
 	"community_hub_visible" "1"
 	"gameid" "899770"
 	"store_tags"
 	{
 		"0" "4231"
-		"1" "1646"
-		"2" "4236"
+		"1" "4236"
+		"2" "1646"
 		"3" "122"
 		"4" "5851"
 		"5" "3859"
@@ -202,9 +203,9 @@
 		"19" "10679"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 	"review_score_bombs" "6"
-	"review_percentage_bombs" "75"
+	"review_percentage_bombs" "76"
 }
 "extended"
 {
@@ -271,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "8501043155687963227"
-				"size" "22475793612"
-				"download" "10416852304"
+				"gid" "8034048143431003571"
+				"size" "22475840244"
+				"download" "10416834528"
 			}
 		}
 		"encryptedmanifests"
@@ -297,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "2555027299612743739"
-				"size" "25136010506"
-				"download" "11116552752"
+				"gid" "384014564559474090"
+				"size" "25136086600"
+				"download" "11116500192"
 			}
 		}
 		"encryptedmanifests"
@@ -316,8 +317,8 @@
 	{
 		"public"
 		{
-			"buildid" "13618264"
-			"timeupdated" "1709332171"
+			"buildid" "13659689"
+			"timeupdated" "1709744561"
 		}
 		"hurdygurdy"
 		{
@@ -380,6 +381,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22595685"
-"_sha" "dee56e62d200f091b6c14cf4ea8d340dad26a322"
-"_size" "6965"
+"_change_number" "22658589"
+"_sha" "2947b51c275fe45861d79fb018275b5713ba1457"
+"_size" "6980"
