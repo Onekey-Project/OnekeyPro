@@ -123,6 +123,7 @@
 		"category_30" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -146,8 +147,8 @@
 		"4" "599"
 		"5" "5125"
 		"6" "12472"
-		"7" "7332"
-		"8" "1684"
+		"7" "1684"
+		"8" "7332"
 		"9" "4695"
 		"10" "1669"
 		"11" "21725"
@@ -223,9 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "2086086306935381257"
-				"size" "247450554"
-				"download" "237723008"
+				"gid" "2300814353303666288"
+				"size" "247469868"
+				"download" "237733632"
 			}
 			"50.08"
 			{
@@ -245,17 +246,23 @@
 				"size" "246250981"
 				"download" "236524368"
 			}
+			"50.11"
+			{
+				"gid" "2086086306935381257"
+				"size" "247450554"
+				"download" "237723008"
+			}
 			"beta"
 			{
-				"gid" "302018985079590306"
-				"size" "247469864"
-				"download" "237733664"
+				"gid" "2300814353303666288"
+				"size" "247469868"
+				"download" "237733632"
 			}
 			"experimental"
 			{
-				"gid" "302018985079590306"
-				"size" "247469864"
-				"download" "237733664"
+				"gid" "2300814353303666288"
+				"size" "247469868"
+				"download" "237733632"
 			}
 		}
 		"encryptedmanifests"
@@ -268,15 +275,15 @@
 			}
 			"quicktest"
 			{
-				"gid" "B003B9897C5C218DE6808DD1FC7EBDE2"
-				"size" "988AEA983736208E19E3B69B69AB6FD6"
-				"download" "508912A0C7B1786ACF41891E97A6EA89"
+				"gid" "5C9BC183295C9F6B3AD874EDF97CF187"
+				"size" "9A7046AC007B43892BD7479B9D3550D1"
+				"download" "B30D8DB780596D52E1EAE0A915058256"
 			}
 			"testing"
 			{
-				"gid" "7E8BBDF98537EAEF290C5B2E91D020A6"
-				"size" "B61A76B4120A61DA376DFD771AD3A0B4"
-				"download" "28F7A3E56313A706A14FCDB1B5512DFD"
+				"gid" "BA3E1786FCE20A777E7CECEFAAF8D117"
+				"size" "103045AAC89E96BBCE57AB403F1D5B8A"
+				"download" "F4808B656EE6D277AB9C9493ECD02510"
 			}
 		}
 	}
@@ -290,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "7290731218752815469"
-				"size" "27648912"
-				"download" "8879424"
+				"gid" "1461352434712686354"
+				"size" "28115856"
+				"download" "8990128"
 			}
 			"50.10"
 			{
@@ -300,17 +307,23 @@
 				"size" "27638672"
 				"download" "8879408"
 			}
+			"50.11"
+			{
+				"gid" "7290731218752815469"
+				"size" "27648912"
+				"download" "8879424"
+			}
 			"beta"
 			{
-				"gid" "5578864213981934395"
-				"size" "28115344"
-				"download" "8992240"
+				"gid" "1461352434712686354"
+				"size" "28115856"
+				"download" "8990128"
 			}
 			"experimental"
 			{
-				"gid" "5578864213981934395"
-				"size" "28115344"
-				"download" "8992240"
+				"gid" "1461352434712686354"
+				"size" "28115856"
+				"download" "8990128"
 			}
 		}
 		"encryptedmanifests"
@@ -323,15 +336,15 @@
 			}
 			"quicktest"
 			{
-				"gid" "E5F00C457394E1B81E23BF01CE841626"
-				"size" "736F50DD38DF893870BF6D00A926F66C"
-				"download" "90E9A49EE95A58494149BFC664B7F745"
+				"gid" "76170DC111F41CFC1567F76A5DEF30E4"
+				"size" "C5BBFBE3E1D7A414DDE092D83F849C92"
+				"download" "51B66C4D4C41999E492B4D1FD7F00136"
 			}
 			"testing"
 			{
-				"gid" "EEA8E7EF3F070C1F9D67939F9213AD11"
-				"size" "7EA3A127A0B46DA37DF5870C8844CB93"
-				"download" "82AAE2EFCC49D8B40BCA864843C49E6D"
+				"gid" "A13AF2E579A9DD882D2F388400ABF7FD"
+				"size" "1C88948103DC414B226137814490A257"
+				"download" "24F92C1A6A1F1344DFEF4D7DA074B86A"
 			}
 		}
 	}
@@ -345,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "5320256566678879319"
-				"size" "37489215"
-				"download" "10577536"
+				"gid" "8253629633889820503"
+				"size" "37879648"
+				"download" "10686240"
 			}
 			"50.10"
 			{
@@ -355,17 +368,23 @@
 				"size" "37504804"
 				"download" "10583776"
 			}
+			"50.11"
+			{
+				"gid" "5320256566678879319"
+				"size" "37489215"
+				"download" "10577536"
+			}
 			"beta"
 			{
-				"gid" "8511221500166239599"
-				"size" "37875354"
-				"download" "10685136"
+				"gid" "8253629633889820503"
+				"size" "37879648"
+				"download" "10686240"
 			}
 			"experimental"
 			{
-				"gid" "8511221500166239599"
-				"size" "37875354"
-				"download" "10685136"
+				"gid" "8253629633889820503"
+				"size" "37879648"
+				"download" "10686240"
 			}
 		}
 		"encryptedmanifests"
@@ -378,15 +397,15 @@
 			}
 			"quicktest"
 			{
-				"gid" "74B8DDFFA7B30A0BB26D4F5396E2D02B"
-				"size" "BF162CE4D73A5AB40EE2014D8DC69596"
-				"download" "7F0605434A7130C853253908E13FF2FB"
+				"gid" "E78B3E97FFAAB865441517D72CF681C0"
+				"size" "50A4CA5C4415A4D0A0873D2291E39AEF"
+				"download" "A34596EA15F95875E29D58A032C1C407"
 			}
 			"testing"
 			{
-				"gid" "BD804CECE9507D7196EF836B45562C37"
-				"size" "9DFBD00F5D8E2499C20CA23969EFAD79"
-				"download" "49CE7AEDE8915F0C31D37B5C6125221A"
+				"gid" "E0A932CD3C368A1FA409EA0C5F788E19"
+				"size" "1EAD13DFE767FADD981FCE70F1A569EF"
+				"download" "05190AC829FB40D24568149ACC9A1546"
 			}
 		}
 	}
@@ -394,8 +413,8 @@
 	{
 		"public"
 		{
-			"buildid" "13470733"
-			"timeupdated" "1708043135"
+			"buildid" "13655783"
+			"timeupdated" "1709751558"
 		}
 		"50.08"
 		{
@@ -415,6 +434,12 @@
 			"description" "Version 50.10"
 			"timeupdated" "1696351126"
 		}
+		"50.11"
+		{
+			"buildid" "13470733"
+			"description" "Version 50.11"
+			"timeupdated" "1709751520"
+		}
 		"adventure_test"
 		{
 			"buildid" "13516563"
@@ -423,27 +448,27 @@
 		}
 		"beta"
 		{
-			"buildid" "13541493"
+			"buildid" "13655783"
 			"description" "Public beta branch"
-			"timeupdated" "1708681998"
+			"timeupdated" "1709751530"
 		}
 		"experimental"
 		{
-			"buildid" "13541493"
+			"buildid" "13655783"
 			"description" "for experimental features early in testing"
-			"timeupdated" "1708682008"
+			"timeupdated" "1709751540"
 		}
 		"quicktest"
 		{
-			"buildid" "13541493"
+			"buildid" "13655783"
 			"pwdrequired" "1"
-			"timeupdated" "1708682017"
+			"timeupdated" "1709721065"
 		}
 		"testing"
 		{
-			"buildid" "13541493"
+			"buildid" "13655783"
 			"pwdrequired" "1"
-			"timeupdated" "1708682025"
+			"timeupdated" "1709721055"
 		}
 	}
 }
@@ -453,6 +478,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "22536975"
-"_sha" "c78ec2a18786aa9a1716c7990e81063321d0bfbc"
-"_size" "8777"
+"_change_number" "22660088"
+"_sha" "bdd70db47b5a5789a956eb0662236fda817a96bf"
+"_size" "9246"
