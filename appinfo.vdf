@@ -135,6 +135,7 @@
 		}
 	}
 	"steam_release_date" "1682060430"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1956800"
 	"store_tags"
@@ -192,9 +193,9 @@
 		{
 			"public"
 			{
-				"gid" "8943548817748044419"
-				"size" "982668404"
-				"download" "807415840"
+				"gid" "6353440638681704815"
+				"size" "982733797"
+				"download" "807417952"
 			}
 			"great-voyage"
 			{
@@ -231,9 +232,9 @@
 			}
 			"workshoptesting"
 			{
-				"gid" "2512F13411F9572661C458566651187D"
-				"size" "C970EC0A79D1642512628E66D759F2C8"
-				"download" "6E9F36A0839418E03222E9B06B7129C5"
+				"gid" "ACC0FAF692FEC4247DA568FF0E88CA07"
+				"size" "A4B26CF04BF30C1B04BB7D46B6C919FE"
+				"download" "6988702673DA508FEFB10BAF2D0A6896"
 			}
 		}
 	}
@@ -267,8 +268,8 @@
 		}
 		"public"
 		{
-			"buildid" "13608420"
-			"timeupdated" "1709259938"
+			"buildid" "13652535"
+			"timeupdated" "1709695053"
 		}
 		"devtesting"
 		{
@@ -290,9 +291,9 @@
 		}
 		"workshoptesting"
 		{
-			"buildid" "13630914"
+			"buildid" "13642877"
 			"pwdrequired" "1"
-			"timeupdated" "1709545054"
+			"timeupdated" "1709630511"
 		}
 	}
 	"workshopdepot" "1956800"
@@ -313,6 +314,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22619470"
-"_sha" "b27c06248ec05cce51300daeb9bef656b3ed23ed"
-"_size" "6113"
+"_change_number" "22649554"
+"_sha" "280d3b3586c2cb0c18780a860ca26a24dd73cdad"
+"_size" "6139"
