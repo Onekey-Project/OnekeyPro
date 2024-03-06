@@ -19,26 +19,31 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1702425600"
-		"tested_build_id" "12911599"
+		"test_timestamp" "1709078400"
+		"tested_build_id" "13431472"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 			}
 			"1"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
 			}
 			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
-			"3"
+			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -47,7 +52,7 @@
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "0"
+			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
@@ -85,7 +90,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1683628090"
+	"store_asset_mtime" "1709726431"
 	"associations"
 	{
 		"0"
@@ -277,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "1373901889752461558"
-				"size" "11824621231"
-				"download" "8726879632"
+				"gid" "6231328251487375698"
+				"size" "11856496298"
+				"download" "8751073824"
 			}
 		}
 		"encryptedmanifests"
@@ -328,9 +333,9 @@
 			}
 			"steamdecktest"
 			{
-				"gid" "90803ECBFD22C28718E6CE31FF1AFFCB"
-				"size" "D3EFF8DB457B3E8A57608473E1478A84"
-				"download" "660D5612364F680BBFEBFDC7FEEAB90C"
+				"gid" "6DAC48C2604D4B88F56419542A6F3919"
+				"size" "5354445855718821030F85EC5DC3A4B9"
+				"download" "6C8BA6359CB2C0ADD3D7CAF4B9293052"
 			}
 			"steamdecktest2"
 			{
@@ -381,8 +386,8 @@
 	{
 		"public"
 		{
-			"buildid" "12911599"
-			"timeupdated" "1702042356"
+			"buildid" "13656960"
+			"timeupdated" "1709731969"
 		}
 		"antivirustests"
 		{
@@ -428,9 +433,9 @@
 		}
 		"steamdecktest"
 		{
-			"buildid" "13431472"
+			"buildid" "13656960"
 			"pwdrequired" "1"
-			"timeupdated" "1707729687"
+			"timeupdated" "1709730150"
 		}
 		"steamdecktest2"
 		{
@@ -503,6 +508,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22562882"
-"_sha" "69360da7df74fade478206ea162bbcfb82368ecd"
-"_size" "9815"
+"_change_number" "22655697"
+"_sha" "330ddce3a55475d3df69179169353613b8809513"
+"_size" "9949"
