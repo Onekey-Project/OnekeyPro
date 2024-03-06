@@ -121,7 +121,7 @@
 			"height_pct" "67.58880570695959"
 		}
 	}
-	"store_asset_mtime" "1708641581"
+	"store_asset_mtime" "1709573729"
 	"associations"
 	{
 		"0"
@@ -166,6 +166,7 @@
 		"category_1" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -326,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "1161725934762486894"
-				"size" "9932861505"
-				"download" "4885986752"
+				"gid" "8024020349086699067"
+				"size" "9932869697"
+				"download" "4885985168"
 			}
 			"pre_co-op"
 			{
@@ -338,9 +339,9 @@
 			}
 			"public_testing"
 			{
-				"gid" "1161725934762486894"
-				"size" "9932861505"
-				"download" "4885986752"
+				"gid" "8024020349086699067"
+				"size" "9932869697"
+				"download" "4885985168"
 			}
 		}
 		"encryptedmanifests"
@@ -365,9 +366,9 @@
 			}
 			"internal_only"
 			{
-				"gid" "0AEEC42E31FE635378E402FAB1B406DD"
-				"size" "993A232439B3D585DC69F9C05DC35002"
-				"download" "FBC3C6C26896D7FF36E139B6F848ECF3"
+				"gid" "F0AB13522DA5A1A27AB84BC7311460CA"
+				"size" "8FCB117458D59E229F66527773B1A6DF"
+				"download" "A0F77968372E5114968B960B20937C8E"
 			}
 			"internal_testing"
 			{
@@ -383,9 +384,9 @@
 			}
 			"public_alternative"
 			{
-				"gid" "558ED6C9ACC9810D23FFEA0F453254F5"
-				"size" "658AB338AB0F239208F75B13FFC5D69F"
-				"download" "8EB6942144F720D0D48089B1BD64FA6D"
+				"gid" "11AEFC594451C0AFA99A359C21965B42"
+				"size" "79177A7E2D08E4C7B3FDBC485E6B8B7A"
+				"download" "554FAB6D240FD14812DA33511A4EC9E6"
 			}
 		}
 	}
@@ -649,8 +650,8 @@
 	{
 		"public"
 		{
-			"buildid" "13621620"
-			"timeupdated" "1709380209"
+			"buildid" "13660732"
+			"timeupdated" "1709751765"
 		}
 		"debugging"
 		{
@@ -672,9 +673,9 @@
 		}
 		"internal_only"
 		{
-			"buildid" "13621615"
+			"buildid" "13660677"
 			"pwdrequired" "1"
-			"timeupdated" "1709380122"
+			"timeupdated" "1709751557"
 		}
 		"internal_testing"
 		{
@@ -696,15 +697,15 @@
 		}
 		"public_alternative"
 		{
-			"buildid" "13621895"
+			"buildid" "13660737"
 			"pwdrequired" "1"
-			"timeupdated" "1709384154"
+			"timeupdated" "1709751752"
 		}
 		"public_testing"
 		{
-			"buildid" "13621620"
+			"buildid" "13660732"
 			"description" "Public testing branch before public release"
-			"timeupdated" "1709380103"
+			"timeupdated" "1709751715"
 		}
 	}
 }
@@ -727,6 +728,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22600186"
-"_sha" "ec91a0ec230818066ad8b3f70e080e726d00f3f4"
-"_size" "15163"
+"_change_number" "22660131"
+"_sha" "2c4b02919f6322944ebfea59921d8a7cd49635df"
+"_size" "15185"
