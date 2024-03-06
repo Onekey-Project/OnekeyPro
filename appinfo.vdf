@@ -117,7 +117,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1702563968"
+	"store_asset_mtime" "1709639960"
 	"associations"
 	{
 		"0"
@@ -167,6 +167,7 @@
 		"category_58" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -345,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "7709169146271155261"
-				"size" "6211989379"
-				"download" "5243722080"
+				"gid" "2269268309986073627"
+				"size" "10332034032"
+				"download" "9327649664"
 			}
 		}
 		"encryptedmanifests"
@@ -372,15 +373,15 @@
 			}
 			"bleeding-develop"
 			{
-				"gid" "5AFFB92FF3925EC5E760D5C83EEEC0CE"
-				"size" "38D7257C36CD5F0DE553B1EDCF270259"
-				"download" "778DC698D4BFD87016581830B8FC7E0D"
+				"gid" "8B8856795A993354221E1272CCCA98DF"
+				"size" "DCC0EA3284389B134B1F1C52F9677276"
+				"download" "D293D0783F2E2EEE0214FC743B328DA9"
 			}
 			"bleeding-master"
 			{
-				"gid" "99E862599203652683A2700262EDB58D"
-				"size" "7503CF37D9C55CEFCC8770E2A6CAA839"
-				"download" "F7BAA64344C61A241C0027B0B23F8235"
+				"gid" "6E0FE0F8912ABDEB78887951344956CA"
+				"size" "475FC5FF7D982741077D92057ACFDB19"
+				"download" "D452E28A64723B246045C38884F336C4"
 			}
 			"garen"
 			{
@@ -402,21 +403,21 @@
 			}
 			"manual-build"
 			{
-				"gid" "3D1E89C57E3F2905E6C5ABA78612E44A"
-				"size" "FAEA5F7FB84972C676B5C889BDADCC9D"
-				"download" "B91BF5EF3C037E15085D36685377536A"
+				"gid" "D598C5E27CF536926006296A81D7F62E"
+				"size" "F9A8B57D1E5450A91F198166969CDA81"
+				"download" "2EE3E62FE02978B005454A0031EBCB8E"
 			}
 			"pw-playtest"
 			{
-				"gid" "23FFD32CC28E0E2796BF759D060C3ADD"
-				"size" "508F120B247E927D8588A38340DB2917"
-				"download" "BAF7362D753E16E8937A288282E0C072"
+				"gid" "4A1584CBD2269A35BC2E53CE0136DFE1"
+				"size" "280DA0A3B3DEE72436215A08E7F9FE65"
+				"download" "1EB1FED238B9DA197C33C5471502FD9C"
 			}
 			"release"
 			{
-				"gid" "3E4CDB77A6DAD401A0EE26D915F213C7"
-				"size" "35000B56DDB8BE50AC2E69C899169749"
-				"download" "AC9A86016BB762273282F2C3D3ED464A"
+				"gid" "4D1F0CD67345FEF0BE5C1D2A33A899CB"
+				"size" "5DA1195795A8AF795C7F961241B7B586"
+				"download" "FCDD3C22C4047615EA399669B9207DBE"
 			}
 			"stale-develop"
 			{
@@ -438,9 +439,9 @@
 			}
 			"tryndamare"
 			{
-				"gid" "D13B7E9532DFD1A443919939A183E96E"
-				"size" "8F534087032A5BCD0516D36D2049B2EC"
-				"download" "7CF069709B6093C2AE10CBF6409B40EA"
+				"gid" "1BF7C30041AAF9FBF31D75B60D3B6C8A"
+				"size" "0C8EB4D2F6D67519274DDB7903885340"
+				"download" "0E9B63A43044C8A2779C9B0D2C8FE58D"
 			}
 			"wskrzybalski"
 			{
@@ -582,8 +583,8 @@
 	{
 		"public"
 		{
-			"buildid" "13443641"
-			"timeupdated" "1707987761"
+			"buildid" "13653866"
+			"timeupdated" "1709722884"
 		}
 		"akali"
 		{
@@ -605,15 +606,15 @@
 		}
 		"bleeding-develop"
 		{
-			"buildid" "13621115"
+			"buildid" "13652597"
 			"pwdrequired" "1"
-			"timeupdated" "1709370762"
+			"timeupdated" "1709695530"
 		}
 		"bleeding-master"
 		{
-			"buildid" "13620079"
+			"buildid" "13651473"
 			"pwdrequired" "1"
-			"timeupdated" "1709351513"
+			"timeupdated" "1709685515"
 		}
 		"garen"
 		{
@@ -635,21 +636,21 @@
 		}
 		"manual-build"
 		{
-			"buildid" "12959735"
+			"buildid" "13650427"
 			"pwdrequired" "1"
-			"timeupdated" "1702545289"
+			"timeupdated" "1709677255"
 		}
 		"pw-playtest"
 		{
-			"buildid" "13600351"
+			"buildid" "13650427"
 			"pwdrequired" "1"
-			"timeupdated" "1709214080"
+			"timeupdated" "1709677307"
 		}
 		"release"
 		{
-			"buildid" "13443641"
+			"buildid" "13653866"
 			"pwdrequired" "1"
-			"timeupdated" "1707831063"
+			"timeupdated" "1709708882"
 		}
 		"stale-develop"
 		{
@@ -671,9 +672,9 @@
 		}
 		"tryndamare"
 		{
-			"buildid" "13510010"
+			"buildid" "13648534"
 			"pwdrequired" "1"
-			"timeupdated" "1708446582"
+			"timeupdated" "1709662188"
 		}
 		"wskrzybalski"
 		{
@@ -792,6 +793,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22598520"
-"_sha" "0d26102186a3ff8266e75433229c7b26d198311e"
-"_size" "16622"
+"_change_number" "22653898"
+"_sha" "bbdbcd0a45c24c5d21ad10cb144910551620685e"
+"_size" "16645"
