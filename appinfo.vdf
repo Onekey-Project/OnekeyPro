@@ -32,6 +32,7 @@
 		"koreana" "트러블슈터: 버려진 아이들"
 		"schinese" "纷争终结者: 被遗弃的孩子们"
 		"japanese" "トラブルシューター: 捨てられた子供たち"
+		"tchinese" "紛爭終結者: 被遺棄的孩子們"
 	}
 	"osextended" ""
 	"steam_deck_compatibility"
@@ -159,6 +160,11 @@
 			"subtitles" "true"
 		}
 		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -501,8 +507,8 @@
 		{
 			"public"
 			{
-				"gid" "4365574868524849457"
-				"size" "489"
+				"gid" "4529807692992495605"
+				"size" "490"
 				"download" "480"
 			}
 		}
@@ -510,8 +516,8 @@
 		{
 			"test_clientupdate"
 			{
-				"gid" "ACE13B4613118FCFB2B0397D9EFAAFCC"
-				"size" "29F9DAB9C1A1ADDF788D0317F24AC771"
+				"gid" "3C311ADE967AF37C080A1EE5B5260BD5"
+				"size" "A6F5396401443413FB4D27F5358E4AFE"
 				"download" "B6C1C6517379E4565272A5A8D00170F3"
 			}
 		}
@@ -520,14 +526,14 @@
 	{
 		"public"
 		{
-			"buildid" "13666062"
-			"timeupdated" "1709795817"
+			"buildid" "13666319"
+			"timeupdated" "1709797835"
 		}
 		"test_clientupdate"
 		{
-			"buildid" "13666062"
+			"buildid" "13666319"
 			"pwdrequired" "1"
-			"timeupdated" "1709795734"
+			"timeupdated" "1709797809"
 		}
 		"test_dlcupdate"
 		{
@@ -569,6 +575,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22666860"
-"_sha" "5e71636644dd6ebc9a89f5eb5c368d53a343404b"
-"_size" "10959"
+"_change_number" "22667420"
+"_sha" "6aa94bbb2c3be8bb283fdd63dde510e0f23c7d0d"
+"_size" "11087"
