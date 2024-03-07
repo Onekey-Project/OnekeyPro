@@ -101,7 +101,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1709833389"
+	"store_asset_mtime" "1709840988"
 	"associations"
 	{
 		"0"
@@ -239,42 +239,42 @@
 		{
 			"public"
 			{
-				"gid" "5314159127613776488"
-				"size" "3446501841"
-				"download" "1762244544"
+				"gid" "7542930702464724040"
+				"size" "3446501713"
+				"download" "1762243856"
 			}
 			"beta"
 			{
-				"gid" "5314159127613776488"
-				"size" "3446501841"
-				"download" "1762244544"
+				"gid" "7542930702464724040"
+				"size" "3446501713"
+				"download" "1762243856"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chinesebeta"
 			{
-				"gid" "60383FE0781A72125673DED22AFA3BAA"
-				"size" "0975D533DEB4DB9F6A8199EC9CA5AF54"
-				"download" "AE73081C9B6245B47AA3DE14A3A76626"
+				"gid" "2F34C629727FF121DD9990531EEBB992"
+				"size" "6E12DCA83966CF359AD4E06FA5E21A9F"
+				"download" "1B224C2526706D49BBE12E8889F4ACAF"
 			}
 			"devbeta"
 			{
-				"gid" "90EDE450A478A015B82CC8B51FE56FFE"
-				"size" "2FFF1651C053B00E5782B09D1C967A4B"
-				"download" "C89123E3E6E87AB788D40D37C6C3CCA2"
+				"gid" "1BD311087BD07B6BF448DBD0E8125520"
+				"size" "EDA97D70BE50F1BC778EF237AF6DC85F"
+				"download" "D067B7DA1F6FE23E1A3D31A4D956F113"
 			}
 			"localizationtest"
 			{
-				"gid" "C6FDF139823F07C917145D62A9143101"
-				"size" "112932849FB78541BFA8D0CC85C1E0AD"
-				"download" "D0E1F88203B2993AD77C50E780E6F585"
+				"gid" "CF9DF9FAA0BBDB710FD69D6B678AC923"
+				"size" "147EA0FC1CDEDE8C74EE57A8B29498EC"
+				"download" "1104944B536A9AF837DA2A19539C00AA"
 			}
 			"pre-release"
 			{
-				"gid" "AE4EFA85372550CC5666F25190519656"
-				"size" "AF497B7DF999BE41E32BAF4FA362C38F"
-				"download" "B6E80E452162BCEB986866A8F3E2FFDE"
+				"gid" "0FCBAE50676BE8DF547CE4D97480600D"
+				"size" "B64BAD1AE7949B6B9465B2F31394DA1D"
+				"download" "F03993516A65FE2E56DC81E1CE846BA1"
 			}
 		}
 	}
@@ -328,37 +328,37 @@
 	{
 		"public"
 		{
-			"buildid" "13671661"
-			"timeupdated" "1709835178"
+			"buildid" "13673612"
+			"timeupdated" "1709841418"
 		}
 		"beta"
 		{
-			"buildid" "13671661"
-			"timeupdated" "1709835152"
+			"buildid" "13673612"
+			"timeupdated" "1709841373"
 		}
 		"chinesebeta"
 		{
-			"buildid" "13671661"
+			"buildid" "13673612"
 			"pwdrequired" "1"
-			"timeupdated" "1709835056"
+			"timeupdated" "1709841384"
 		}
 		"devbeta"
 		{
-			"buildid" "13671661"
+			"buildid" "13673612"
 			"pwdrequired" "1"
-			"timeupdated" "1709828898"
+			"timeupdated" "1709841235"
 		}
 		"localizationtest"
 		{
-			"buildid" "13671661"
+			"buildid" "13673612"
 			"pwdrequired" "1"
-			"timeupdated" "1709835130"
+			"timeupdated" "1709841395"
 		}
 		"pre-release"
 		{
-			"buildid" "13671661"
+			"buildid" "13673612"
 			"pwdrequired" "1"
-			"timeupdated" "1709835144"
+			"timeupdated" "1709841402"
 		}
 	}
 }
@@ -438,6 +438,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22675969"
-"_sha" "1dc2286f449fd2cdf52d46d515479bb2a9cf5d97"
+"_change_number" "22677259"
+"_sha" "5ea12e34813fc71c4da7c84e23f3491117600542"
 "_size" "8893"
