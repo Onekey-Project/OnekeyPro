@@ -197,7 +197,7 @@
 		"19" "4175"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -206,7 +206,7 @@
 	"developer" "Jackto Studios"
 	"publisher" "Jackto Studios"
 	"homepage" "http://jacktostudios.com/"
-	"listofdlc" "2635010,2778020,2778030,2778040,2778050"
+	"listofdlc" "2635010,2778020,2778030,2778040,2778050,2876890"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -303,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "451284982102700550"
-				"size" "33276936924"
-				"download" "12245025504"
+				"gid" "1598066546822034226"
+				"size" "33279095515"
+				"download" "12246622864"
 			}
 			"1.2.4"
 			{
@@ -348,9 +348,9 @@
 			}
 			"alpha_shipping"
 			{
-				"gid" "2C4B830E44F2C95D63150DABCDFFB603"
-				"size" "A29458351347BC29C0A2A190358C2E24"
-				"download" "349449B67A80B79644561DA9FF98B7F6"
+				"gid" "E43F3384135BB6BA5C0A89928D2BDF25"
+				"size" "883ECAA5CD261302D4220E2B118137F7"
+				"download" "E8F6712D3035C44A8804FD0B06DDFD4F"
 			}
 			"pre-alpha"
 			{
@@ -421,8 +421,8 @@
 	{
 		"public"
 		{
-			"buildid" "13654755"
-			"timeupdated" "1709716864"
+			"buildid" "13666498"
+			"timeupdated" "1709801281"
 		}
 		"1.2.4"
 		{
@@ -462,9 +462,9 @@
 		}
 		"alpha_shipping"
 		{
-			"buildid" "13654755"
+			"buildid" "13666498"
 			"pwdrequired" "1"
-			"timeupdated" "1709715130"
+			"timeupdated" "1709799364"
 		}
 		"pre-alpha"
 		{
@@ -558,6 +558,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22652608"
-"_sha" "6940bb286660a6508fe41513db62543067224cf5"
-"_size" "10621"
+"_change_number" "22667921"
+"_sha" "bec751fae9dda6c64fbee870ba4c67dd83a52437"
+"_size" "10630"
