@@ -30,6 +30,10 @@
 	}
 	"gameid" "2245910"
 }
+"extended"
+{
+	"disableoverlay" "1"
+}
 "config"
 {
 	"installdir" "Jump King Workshop"
@@ -80,9 +84,15 @@
 		{
 			"public"
 			{
-				"gid" "4683565595531838662"
+				"gid" "1908295675763646792"
 				"size" "397873130"
-				"download" "135637904"
+				"download" "135638048"
+			}
+			"beta"
+			{
+				"gid" "1908295675763646792"
+				"size" "397873130"
+				"download" "135638048"
 			}
 			"legacy"
 			{
@@ -91,34 +101,25 @@
 				"download" "341264"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"worldsmith"
-			{
-				"gid" "FF5EF758E9272AA09AD02FFD928DB698"
-				"size" "2D8C755193D2877067DAB93F1E33E1A9"
-				"download" "4691EF06EB89E5C63BB7B49E0C13C8B4"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13603704"
-			"timeupdated" "1709225802"
+			"buildid" "13670911"
+			"timeupdated" "1709824670"
+		}
+		"beta"
+		{
+			"buildid" "13670911"
+			"description" "Worldsmith\'s beta branch (could be unstable!)"
+			"timeupdated" "1709824839"
 		}
 		"legacy"
 		{
 			"buildid" "13529991"
 			"description" "Legacy \'Workshop Manager\' branch"
 			"timeupdated" "1708598873"
-		}
-		"worldsmith"
-		{
-			"buildid" "13603704"
-			"pwdrequired" "1"
-			"timeupdated" "1709225720"
 		}
 	}
 }
@@ -143,6 +144,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22564310"
-"_sha" "ff1ec5eff923f9b421d9aec9bfb62231c95aca5a"
-"_size" "2339"
+"_change_number" "22673318"
+"_sha" "d503dc3dd95af2b0bf7c47717ddf349fc64b74c7"
+"_size" "2320"
