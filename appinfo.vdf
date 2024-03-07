@@ -323,9 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "6632060934718980547"
-				"size" "61206798197"
-				"download" "39178638848"
+				"gid" "8422816816088858405"
+				"size" "61206798885"
+				"download" "39159784800"
 			}
 			"beta_launcher"
 			{
@@ -335,9 +335,9 @@
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "6632060934718980547"
-				"size" "61206798197"
-				"download" "39178638848"
+				"gid" "8422816816088858405"
+				"size" "61206798885"
+				"download" "39159784800"
 			}
 		}
 		"encryptedmanifests"
@@ -368,9 +368,9 @@
 			}
 			"live_mirror"
 			{
-				"gid" "218D2786ADE4FBEACB5D0F015E415B10"
-				"size" "DD130408956DB446EDCDD6E6266C5524"
-				"download" "FF9F2FFB9A2D5AB02FA6AB0980632BB0"
+				"gid" "60BCDA18E1FAAE092D291A12FE8A1BE1"
+				"size" "97C8C2FE1D05E6F53B2A0EAD0B4DBD0A"
+				"download" "EB608A7CE19B5E66FF84A96DCA3A2522"
 			}
 			"ptr_test"
 			{
@@ -392,9 +392,9 @@
 			}
 			"stable_release"
 			{
-				"gid" "084BD7A5DDF754A4F51B9191B17FD5E2"
-				"size" "9D47DFEB97EEA70CF315058E487AB5E3"
-				"download" "E496911F328879AA4E4D134FB6B813AF"
+				"gid" "99370639B85073532A6463F8F3B218C6"
+				"size" "716FEF2B2E7F8F73ACA92703E9ADE6EB"
+				"download" "28E29A4EBC2EBB1ADC6F45F658EE81BA"
 			}
 			"stable_release_2"
 			{
@@ -533,9 +533,9 @@
 		{
 			"public"
 			{
-				"gid" "6801276191310941018"
-				"size" "241693734"
-				"download" "64056192"
+				"gid" "5604215137674002548"
+				"size" "241691930"
+				"download" "64055984"
 			}
 			"beta_launcher"
 			{
@@ -545,9 +545,9 @@
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "6801276191310941018"
-				"size" "241693734"
-				"download" "64056192"
+				"gid" "5604215137674002548"
+				"size" "241691930"
+				"download" "64055984"
 			}
 		}
 		"encryptedmanifests"
@@ -578,9 +578,9 @@
 			}
 			"live_mirror"
 			{
-				"gid" "E789437ADAA4DE790C16EAA2B0459131"
-				"size" "334EB50B3BE775719FC42FF69EA5217F"
-				"download" "3145F57AB14C9F004424175446051D61"
+				"gid" "25D37C9646CD5676CFBF813EF6F2AE7E"
+				"size" "7CEE12056FC75F334E75714442770D18"
+				"download" "47816EB9ADBA5F7203B0D8A090BCF3ED"
 			}
 			"ptr_test"
 			{
@@ -602,9 +602,9 @@
 			}
 			"stable_release"
 			{
-				"gid" "8663D6981E8E5D92C5F6B4D9FECDEBFA"
-				"size" "9CB3D325F209D9576FE1FD0D7787D629"
-				"download" "A98BC00DEC3832601E9AD7FDD7460081"
+				"gid" "B551D08C06EEA8E2905F61307E60DA5F"
+				"size" "E110529D6BE260432700A22C1C7BD445"
+				"download" "DDB36B4EC84894A9F9C20828A676D3EE"
 			}
 			"stable_release_2"
 			{
@@ -638,9 +638,9 @@
 		{
 			"public"
 			{
-				"gid" "3110792298083054303"
+				"gid" "5604479295842371701"
 				"size" "291568869"
-				"download" "73884048"
+				"download" "73884096"
 			}
 			"beta_launcher"
 			{
@@ -650,9 +650,9 @@
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "3110792298083054303"
+				"gid" "5604479295842371701"
 				"size" "291568869"
-				"download" "73884048"
+				"download" "73884096"
 			}
 		}
 		"encryptedmanifests"
@@ -683,9 +683,9 @@
 			}
 			"live_mirror"
 			{
-				"gid" "B342F1827720955ED9D16F7B68F5295A"
-				"size" "BC76538F75B9E6E3AF04B00046520DF6"
-				"download" "EF2DC8F090CDD82356DB8B37E5CDB560"
+				"gid" "9D2E22509422939A56909684432609D4"
+				"size" "A4CEFE60F52074D3854E81489011C805"
+				"download" "0CC3898085EC7B671FF9F579C4A0435D"
 			}
 			"ptr_test"
 			{
@@ -707,9 +707,9 @@
 			}
 			"stable_release"
 			{
-				"gid" "84C6C7492E300C4B350C72C8B5DD0982"
+				"gid" "97425829F57A4BE23D292893DA645BA4"
 				"size" "4065976B293BDB1B654B8762F4ED2928"
-				"download" "D9C130588A62D9960C01562EA9ED317C"
+				"download" "A5BB5ED0CD3FF3A647686D8FD6F73430"
 			}
 			"stable_release_2"
 			{
@@ -858,8 +858,8 @@
 	{
 		"public"
 		{
-			"buildid" "13667479"
-			"timeupdated" "1709805643"
+			"buildid" "13671030"
+			"timeupdated" "1709825290"
 		}
 		"[pwt]"
 		{
@@ -893,9 +893,9 @@
 		}
 		"live_mirror"
 		{
-			"buildid" "13531902"
+			"buildid" "13669934"
 			"pwdrequired" "1"
-			"timeupdated" "1708610576"
+			"timeupdated" "1709819071"
 		}
 		"ptr_test"
 		{
@@ -917,9 +917,9 @@
 		}
 		"stable_release"
 		{
-			"buildid" "13665852"
+			"buildid" "13670800"
 			"pwdrequired" "1"
-			"timeupdated" "1709794177"
+			"timeupdated" "1709823991"
 		}
 		"stable_release_2"
 		{
@@ -941,9 +941,9 @@
 		}
 		"temporary_launcher_workaround"
 		{
-			"buildid" "13667465"
+			"buildid" "13671009"
 			"description" "Bypass Launcher"
-			"timeupdated" "1709805564"
+			"timeupdated" "1709825178"
 		}
 		"tools_builds_testing"
 		{
@@ -6327,6 +6327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22668871"
-"_sha" "80fc2acdb3e5f8b09d1e4d0d3233a16e3cbf399b"
+"_change_number" "22673439"
+"_sha" "ae8966d48d1f56b629ed10c120eecb725bcdd11c"
 "_size" "301867"
