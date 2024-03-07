@@ -90,6 +90,7 @@
 		"library_capsule" "en,ko,ja"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en,ko,ja"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -97,7 +98,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1701967970"
+	"store_asset_mtime" "1708351316"
 	"associations"
 	{
 		"0"
@@ -125,6 +126,7 @@
 		"category_2" "1"
 		"category_52" "1"
 		"category_54" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -183,8 +185,8 @@
 		"7" "4182"
 		"8" "4026"
 		"9" "3859"
-		"10" "19"
-		"11" "4608"
+		"10" "4608"
+		"11" "19"
 		"12" "701"
 		"13" "597"
 		"14" "4295"
@@ -232,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "4398761375819224126"
-				"size" "1365359996"
-				"download" "1163852032"
+				"gid" "1490986193481243578"
+				"size" "1327134767"
+				"download" "1178617136"
 			}
 			"1.34.2_legacy"
 			{
@@ -263,11 +265,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"1.34.6_preproduction"
+			"1.35.0_preproduction"
 			{
-				"gid" "9099252C34E3F856B9DAAC9C26413C8F"
-				"size" "5DABB3F31A2358262292499B111D0DE2"
-				"download" "36947FE376EDD931BF025C12E286998D"
+				"gid" "22085C66CB64F11F89F732FDE0F88E68"
+				"size" "5D17AB78C129978B83D806ABAF0D5EB7"
+				"download" "5FAB34B4398D838E4B356CD369A4ABD9"
 			}
 			"arcade"
 			{
@@ -283,9 +285,9 @@
 			}
 			"ciprivatejoao"
 			{
-				"gid" "CD2110B47B5B17ED8B048D0E444C26E4"
-				"size" "27DBFAD1A75D0E91C6AFA55AEB59E825"
-				"download" "D89DF4E84D6E1B625DB9248B174E1EE8"
+				"gid" "22D4059B0560FE7D1A8817DE3BC3504D"
+				"size" "1BB5ECF35AAA5E1F64CA726C97ECAF0E"
+				"download" "61B2546B3AF2B3FED3CB573292F7F522"
 			}
 			"editorprivate"
 			{
@@ -355,9 +357,9 @@
 			}
 			"qaprivate2"
 			{
-				"gid" "8363D3DDE92BD97B442CB6C1E5F17DC0"
-				"size" "56E0D1093C451CBDFB8A39D453687D0E"
-				"download" "9134B8CD5905207E87BA45F7F95FD551"
+				"gid" "D341765398F3228DF8F02A76E7CF3766"
+				"size" "04BA1BE844DBA1E88B34B1484AD78BD9"
+				"download" "DE738F7775D67CEADDF4026CBAB9C54D"
 			}
 			"qaprivate3"
 			{
@@ -387,8 +389,8 @@
 	{
 		"public"
 		{
-			"buildid" "13442529"
-			"timeupdated" "1708091470"
+			"buildid" "13541266"
+			"timeupdated" "1709826390"
 		}
 		"1.34.2_legacy"
 		{
@@ -406,11 +408,11 @@
 			"buildid" "13197585"
 			"timeupdated" "1705676266"
 		}
-		"1.34.6_preproduction"
+		"1.35.0_preproduction"
 		{
-			"buildid" "13442529"
+			"buildid" "13541266"
 			"pwdrequired" "1"
-			"timeupdated" "1708075823"
+			"timeupdated" "1709624431"
 		}
 		"arcade"
 		{
@@ -426,9 +428,9 @@
 		}
 		"ciprivatejoao"
 		{
-			"buildid" "13562614"
+			"buildid" "13658296"
 			"pwdrequired" "1"
-			"timeupdated" "1708939409"
+			"timeupdated" "1709736892"
 		}
 		"editorprivate"
 		{
@@ -504,9 +506,9 @@
 		}
 		"qaprivate2"
 		{
-			"buildid" "12890561"
+			"buildid" "13658296"
 			"pwdrequired" "1"
-			"timeupdated" "1701935296"
+			"timeupdated" "1709741826"
 		}
 		"qaprivate3"
 		{
@@ -1329,6 +1331,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22579914"
-"_sha" "201511d08a5feae4776b00e1bfee0ddc467a165c"
-"_size" "51820"
+"_change_number" "22673815"
+"_sha" "a8f1038f5b316a98f2b9ad2af3f8cb400cc0009e"
+"_size" "51874"
