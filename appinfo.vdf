@@ -226,7 +226,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,koreana,schinese,japanese"
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
 	"hasdepotsindlc" "0"
 	"228983"
 	{
@@ -266,18 +266,18 @@
 		{
 			"public"
 			{
-				"gid" "8496185785212760195"
-				"size" "9255260134"
-				"download" "8980575600"
+				"gid" "1547225929940483450"
+				"size" "9255049476"
+				"download" "8980828128"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test_clientupdate"
 			{
-				"gid" "A00C51B1DB592EB59F5EDA4DEFF8CEA4"
-				"size" "62F1F949767773E17D34978829F894CC"
-				"download" "AE5E99C19157B11F0B870F8E9209F648"
+				"gid" "279D3EE4F72C068A7133EB81C760A701"
+				"size" "DF00C56129F8A8398A1767531CB057F6"
+				"download" "618183420866970382C93E425FB62905"
 			}
 			"test_dlcupdate"
 			{
@@ -489,18 +489,45 @@
 			}
 		}
 	}
+	"470316"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4365574868524849457"
+				"size" "489"
+				"download" "480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test_clientupdate"
+			{
+				"gid" "ACE13B4613118FCFB2B0397D9EFAAFCC"
+				"size" "29F9DAB9C1A1ADDF788D0317F24AC771"
+				"download" "B6C1C6517379E4565272A5A8D00170F3"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13641054"
-			"timeupdated" "1709607941"
+			"buildid" "13666062"
+			"timeupdated" "1709795817"
 		}
 		"test_clientupdate"
 		{
-			"buildid" "13641054"
+			"buildid" "13666062"
 			"pwdrequired" "1"
-			"timeupdated" "1709607907"
+			"timeupdated" "1709795734"
 		}
 		"test_dlcupdate"
 		{
@@ -542,6 +569,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22632344"
-"_sha" "5a5843a9f1b441acf68e4909475d0c0a19761335"
-"_size" "10496"
+"_change_number" "22666860"
+"_sha" "5e71636644dd6ebc9a89f5eb5c368d53a343404b"
+"_size" "10959"
