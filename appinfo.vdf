@@ -120,6 +120,7 @@
 		"category_28" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -201,7 +202,7 @@
 	"developer" "MS GAMES"
 	"publisher" "Iceberg Interactive"
 	"homepage" "http://www.airportsim.com"
-	"listofdlc" "2726990"
+	"listofdlc" "2726990,2727000"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -300,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "6212527063156165783"
-				"size" "8874444658"
-				"download" "4232535904"
+				"gid" "2457896604671841818"
+				"size" "9144804025"
+				"download" "4146927264"
 			}
 		}
 		"encryptedmanifests"
@@ -321,21 +322,21 @@
 			}
 			"inhouse"
 			{
-				"gid" "278FAF4BF8C1D06C31CB91AD122AD3AD"
-				"size" "965CA627664CB1E725E4641CAB1A8837"
-				"download" "7BF10742CCA2B800A642DE053ECFDE40"
+				"gid" "A937A61ACB9DF4057B4CF7354989B07A"
+				"size" "5B031B4572025BB8D63B6B9CB403C553"
+				"download" "8332E3E6A86483750EB9323653C9FADD"
 			}
 			"insideras"
 			{
-				"gid" "E6DA3189B6A31D22CC217723D8464C05"
-				"size" "6C0AE21A302F4696B0C9D23B5CF048D9"
-				"download" "5EEB06436F7D4100EB1D3F04BB669898"
+				"gid" "FD6E0A64DF9F78F9B14B3B00E02CAA7E"
+				"size" "07BCEC27B8AD1ADFD918C11DC1FEF4B9"
+				"download" "CAF6BCE8923DC8D57FFDAAE86486E404"
 			}
 			"marketing_tests"
 			{
-				"gid" "B8BEC650978C513E002C3234D9752482"
-				"size" "1EF9BBA36A5D7832859E773C3BF44B64"
-				"download" "C7737504A6F4A0DEAE549A47547BF85A"
+				"gid" "C677D40A3C794ABE1C1B27F96285B142"
+				"size" "286891731E6275EDDD80B717E8B3330E"
+				"download" "26ADD619D5721C3A2408EA19D00A2F7A"
 			}
 			"press"
 			{
@@ -363,9 +364,9 @@
 			}
 			"testy"
 			{
-				"gid" "CD6B25B3FB344352A9E24D1DBC5DD2B3"
-				"size" "E20B625FA68C068ABC9618C95EE6A6A1"
-				"download" "75158739D0A352CD92C7465A0AD6177B"
+				"gid" "ACE9850CF84D149C70FC5BCA4231ACFA"
+				"size" "3CC4B46B7D1C27F9DDE8A8F9BE92C029"
+				"download" "D2DAA0ED5DAB5E727713B2DB6D3D448E"
 			}
 		}
 	}
@@ -375,8 +376,8 @@
 	{
 		"public"
 		{
-			"buildid" "13336722"
-			"timeupdated" "1706799752"
+			"buildid" "13669996"
+			"timeupdated" "1709819698"
 		}
 		"demo_steamfest"
 		{
@@ -392,21 +393,21 @@
 		}
 		"inhouse"
 		{
-			"buildid" "13632442"
+			"buildid" "13669996"
 			"pwdrequired" "1"
-			"timeupdated" "1709556151"
+			"timeupdated" "1709819540"
 		}
 		"insideras"
 		{
-			"buildid" "13632442"
+			"buildid" "13658858"
 			"pwdrequired" "1"
-			"timeupdated" "1709556190"
+			"timeupdated" "1709739916"
 		}
 		"marketing_tests"
 		{
-			"buildid" "13632442"
+			"buildid" "13646319"
 			"pwdrequired" "1"
-			"timeupdated" "1709556160"
+			"timeupdated" "1709648292"
 		}
 		"press"
 		{
@@ -434,9 +435,9 @@
 		}
 		"testy"
 		{
-			"buildid" "13611924"
+			"buildid" "13658858"
 			"pwdrequired" "1"
-			"timeupdated" "1709289957"
+			"timeupdated" "1709739884"
 		}
 	}
 }
@@ -446,6 +447,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "22621229"
-"_sha" "b0192e7a22388fdf9b0c3f90238b68f05f487e93"
-"_size" "8355"
+"_change_number" "22671958"
+"_sha" "0bc49666efb594ced3bb8809f6d0829254e283d3"
+"_size" "8385"
