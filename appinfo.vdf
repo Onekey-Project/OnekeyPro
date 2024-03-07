@@ -93,7 +93,7 @@
 			"height_pct" "74.89350648696637"
 		}
 	}
-	"store_asset_mtime" "1704971896"
+	"store_asset_mtime" "1709823239"
 	"associations"
 	{
 		"0"
@@ -149,6 +149,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -291,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "8845418424605287332"
-				"size" "39319607201"
-				"download" "26167244704"
+				"gid" "259889555165886791"
+				"size" "38056667673"
+				"download" "25599075360"
 			}
 		}
 		"encryptedmanifests"
@@ -324,9 +325,9 @@
 			}
 			"dev_daily"
 			{
-				"gid" "0F4B745462947D7578E6572C03748AD0"
-				"size" "BE2AC5619007316636E6A887F9AFECB8"
-				"download" "8A15FB98D798A0FBB8DC9EA2C7B21D7D"
+				"gid" "B9A75BF721D09B0010C3C6E3C4197322"
+				"size" "0F5B829B1EF3C9E85A934F7913164B06"
+				"download" "3DE3AC358E482B07E0F23B433DB28773"
 			}
 			"gmg_gamescom"
 			{
@@ -372,9 +373,9 @@
 			}
 			"milestone_1_2024"
 			{
-				"gid" "80611DF23FCE370240E3E1DEF910C12E"
-				"size" "5730543EE973AC484110C0C8A621C90C"
-				"download" "E6A6DE2750BC0ED3DC3179C114E0C395"
+				"gid" "7C499B69D291A71B90881B619B5ED73E"
+				"size" "D917068C1F987ABFC7873B767F971A9E"
+				"download" "221E95D09284D72FB3CFCC80E835BA51"
 			}
 			"milestone_jun"
 			{
@@ -396,9 +397,9 @@
 			}
 			"qa_testing"
 			{
-				"gid" "27C2C79CD1BBD9B7E230EA1BEEA4A092"
-				"size" "B773E243D687C433B2C36092FB1CC314"
-				"download" "A0357A0BC2649771E2B8A6E23A6AC6CE"
+				"gid" "591229160EE9B193D44723049016D170"
+				"size" "9C1A64AF993935C8E2FF711DB0066979"
+				"download" "F20D5E9469C800E44514F288D6DD807B"
 			}
 			"release_candidate"
 			{
@@ -451,8 +452,8 @@
 	{
 		"public"
 		{
-			"buildid" "13150181"
-			"timeupdated" "1705067288"
+			"buildid" "13663051"
+			"timeupdated" "1709826634"
 		}
 		"art_review"
 		{
@@ -480,9 +481,9 @@
 		}
 		"dev_daily"
 		{
-			"buildid" "13626600"
+			"buildid" "13663051"
 			"pwdrequired" "1"
-			"timeupdated" "1709494543"
+			"timeupdated" "1709768761"
 		}
 		"gmg_gamescom"
 		{
@@ -528,9 +529,9 @@
 		}
 		"milestone_1_2024"
 		{
-			"buildid" "13626600"
+			"buildid" "13663051"
 			"pwdrequired" "1"
-			"timeupdated" "1709494556"
+			"timeupdated" "1709768792"
 		}
 		"milestone_jun"
 		{
@@ -552,9 +553,9 @@
 		}
 		"qa_testing"
 		{
-			"buildid" "13626600"
+			"buildid" "13663051"
 			"pwdrequired" "1"
-			"timeupdated" "1709494570"
+			"timeupdated" "1709768777"
 		}
 		"release_candidate"
 		{
@@ -617,6 +618,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22611573"
-"_sha" "440492980cbf5877f3d6ced4a80007f208fdb016"
-"_size" "12809"
+"_change_number" "22673918"
+"_sha" "d6f417eee07972b63da836bc30a8ed1c788e28e1"
+"_size" "12830"
