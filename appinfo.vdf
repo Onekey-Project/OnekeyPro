@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "3363851550602720045"
-				"size" "34775899081"
-				"download" "33858966960"
+				"gid" "1108137720983976368"
+				"size" "34792136902"
+				"download" "33874213136"
 			}
 		}
 		"encryptedmanifests"
@@ -352,9 +352,9 @@
 			}
 			"goldqatest"
 			{
-				"gid" "FB59F853ED7B2C50CADAAF63E0B78D25"
-				"size" "AF71E544EE886F93F21E5FBD3F75F331"
-				"download" "A003442A5F5940FFF6A0A5AC329D39B5"
+				"gid" "29634126D9D48101BD958FFB290BC617"
+				"size" "06C021BE071C3160ACCA4C804C2735A3"
+				"download" "5E2B1B6861492876BED870DAB0E2C387"
 			}
 			"goldqatest2"
 			{
@@ -436,9 +436,9 @@
 			}
 			"prelaunch"
 			{
-				"gid" "119DFD275EDC04165BC42BA1D3556972"
-				"size" "5F8F66DE30BF0638666D6954EBD94D26"
-				"download" "350E52A5703323AF70BEDF99E8ABD161"
+				"gid" "62713268ABDF99D21BAA65F674E1A415"
+				"size" "CA08134720737F0DA74C2399E6898F9E"
+				"download" "70ABABD7C3C6AEC873AAEA2389146D0A"
 			}
 			"unrealtests"
 			{
@@ -448,15 +448,15 @@
 			}
 			"zerogoldship"
 			{
-				"gid" "71D4DF1569B96B35DB14E472F7131B2A"
-				"size" "755B7CA21B63FFA246960C403EDAAC7D"
-				"download" "76D9276E3105A0C648A9A110208F2FAD"
+				"gid" "C807933B831C979D49199F80B9129179"
+				"size" "1670758494A8C825BD1D9A536463C014"
+				"download" "219899636B4465A337FD646857F166DE"
 			}
 			"zerogoldtest"
 			{
-				"gid" "7F823CEA9B3BB4CDB38A89951F56D427"
-				"size" "57ED36F1611359D1FB2319635ABD7142"
-				"download" "BD7062C026B19B794F8039AE7AED8D30"
+				"gid" "B0E78B07B2539F22AE52676F66F3ACC2"
+				"size" "313EE69B3D92745DADD2FFBA0D883FE6"
+				"download" "8007AE5D2D99E5F99AA73DFFE3EF33C7"
 			}
 			"zeroqa"
 			{
@@ -471,8 +471,8 @@
 	{
 		"public"
 		{
-			"buildid" "13602274"
-			"timeupdated" "1709240154"
+			"buildid" "13668836"
+			"timeupdated" "1709837563"
 		}
 		"amdtesting"
 		{
@@ -506,9 +506,9 @@
 		}
 		"goldqatest"
 		{
-			"buildid" "13618572"
+			"buildid" "13662725"
 			"pwdrequired" "1"
-			"timeupdated" "1709334919"
+			"timeupdated" "1709765721"
 		}
 		"goldqatest2"
 		{
@@ -590,9 +590,9 @@
 		}
 		"prelaunch"
 		{
-			"buildid" "13602274"
+			"buildid" "13668836"
 			"pwdrequired" "1"
-			"timeupdated" "1709217054"
+			"timeupdated" "1709813229"
 		}
 		"unrealtests"
 		{
@@ -602,15 +602,15 @@
 		}
 		"zerogoldship"
 		{
-			"buildid" "13616203"
+			"buildid" "13672666"
 			"pwdrequired" "1"
-			"timeupdated" "1709315996"
+			"timeupdated" "1709834800"
 		}
 		"zerogoldtest"
 		{
-			"buildid" "13617270"
+			"buildid" "13661219"
 			"pwdrequired" "1"
-			"timeupdated" "1709323936"
+			"timeupdated" "1709755439"
 		}
 		"zeroqa"
 		{
@@ -687,6 +687,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22593306"
-"_sha" "86c7c7366fb7990b569d87d6f96d0183a50f9254"
+"_change_number" "22676501"
+"_sha" "09a769206e6d3bc150204b94d2401e9a6cc45bea"
 "_size" "14384"
