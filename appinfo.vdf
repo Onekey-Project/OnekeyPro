@@ -19,11 +19,15 @@
 	{
 		"english" "1"
 		"german" "1"
+		"french" "1"
+		"italian" "1"
 		"koreana" "1"
 		"spanish" "1"
 		"schinese" "1"
+		"tchinese" "1"
 		"thai" "1"
 		"japanese" "1"
+		"brazilian" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -91,7 +95,7 @@
 			"height_pct" "85.74363704416638"
 		}
 	}
-	"store_asset_mtime" "1707493617"
+	"store_asset_mtime" "1709723280"
 	"associations"
 	{
 		"0"
@@ -129,6 +133,7 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -157,6 +162,22 @@
 			"supported" "true"
 		}
 		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 		}
@@ -258,9 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "3414912731463985201"
-				"size" "636303579"
-				"download" "348373504"
+				"gid" "6402112136297853972"
+				"size" "644384591"
+				"download" "353809920"
 			}
 			"0.7.1"
 			{
@@ -274,11 +295,17 @@
 				"size" "635621300"
 				"download" "348475488"
 			}
+			"0.7.3"
+			{
+				"gid" "3414912731463985201"
+				"size" "636303579"
+				"download" "348373504"
+			}
 			"moddebug"
 			{
-				"gid" "5983011989847729724"
-				"size" "636303549"
-				"download" "348374320"
+				"gid" "2308502129108330150"
+				"size" "644384557"
+				"download" "353816240"
 			}
 		}
 		"encryptedmanifests"
@@ -291,9 +318,9 @@
 			}
 			"ambassadors"
 			{
-				"gid" "18AEF50EA22CF5EFE589CEEB7A31F947"
-				"size" "22FF28DAF5BC17D7430C09473F0463B0"
-				"download" "B0E4BC1CAB15D9E243DD0EEED0027366"
+				"gid" "44F4B8A65F08E0C0000F1C3D512FD0DA"
+				"size" "EBBBA7B2DE871B9889DDFAE242F39DB3"
+				"download" "8F42FB15ADB2BEADC333E92722F74583"
 			}
 			"compatibility"
 			{
@@ -309,9 +336,9 @@
 			}
 			"developer"
 			{
-				"gid" "D6963ED2744A8A4D28CC3A7D4DE8EEB2"
-				"size" "CD17590F1DB02D86E3EF822A4BD84EF5"
-				"download" "0B48FB905261C7007F8BE8CC8D28F22B"
+				"gid" "E2613C3FAE1CBD7E91DBA9378111E9B6"
+				"size" "B19845ED0EE12A01271A48B16C2251B0"
+				"download" "6570112DBA117480BB4F9C623BD21BA9"
 			}
 			"early_explorers"
 			{
@@ -345,15 +372,15 @@
 			}
 			"press"
 			{
-				"gid" "751F6D0F702EC9CBF54A18FE7961CA06"
-				"size" "227AEDBCAC09C4FDA05844F2DE938B30"
-				"download" "EF1203708587E5B28F9FD60F55F0ED0B"
+				"gid" "C0BE3621DF5CAAE7D81977D7F70B2FD8"
+				"size" "295AB40AF0DB42B443FC65F6F9BC784C"
+				"download" "ABF194FC17116023CE9D161FF7AF02E5"
 			}
 			"private"
 			{
-				"gid" "4650379713F514969F2F535D66C75C0E"
-				"size" "C81BE339CDB603B703D40F9FA7134D96"
-				"download" "5B3FE3D47358FB6CC7761B9BC3DBE492"
+				"gid" "EF6FF596C3BA17FF487EACDD961A31A2"
+				"size" "3EB753B1FE0B0CF48E66FD7AA5EAEF91"
+				"download" "77881B5F49DA6195BB3C7BDB84866FF3"
 			}
 			"publisher"
 			{
@@ -403,9 +430,9 @@
 		{
 			"public"
 			{
-				"gid" "4438538967916979394"
-				"size" "677408361"
-				"download" "348828656"
+				"gid" "2648624361300033837"
+				"size" "686256717"
+				"download" "354316384"
 			}
 			"0.7.1"
 			{
@@ -419,11 +446,17 @@
 				"size" "674384678"
 				"download" "348407520"
 			}
+			"0.7.3"
+			{
+				"gid" "4438538967916979394"
+				"size" "677408361"
+				"download" "348828656"
+			}
 			"moddebug"
 			{
-				"gid" "4357934325988915897"
-				"size" "677408363"
-				"download" "348827440"
+				"gid" "5099187151604171686"
+				"size" "686256707"
+				"download" "354315376"
 			}
 		}
 		"encryptedmanifests"
@@ -436,9 +469,9 @@
 			}
 			"ambassadors"
 			{
-				"gid" "30BF9239ED03B3C273DEA5619CE9F734"
-				"size" "CE13B0D88F27B8E58D706937D8581AC5"
-				"download" "4867F4404859AEAA385560B6B51EC357"
+				"gid" "3F5DABFB053248EF4AC7DD46ED52A9CB"
+				"size" "15F95CCA2F428727D9FCD2A84B081DD2"
+				"download" "B65E56317A699BAA8F7B7F75BB82F702"
 			}
 			"compatibility"
 			{
@@ -454,9 +487,9 @@
 			}
 			"developer"
 			{
-				"gid" "C281541B283DA451EE6AB46C20632010"
-				"size" "1367848F3156DD87501FE8D20CA72B3F"
-				"download" "3CB9C3BFC0632A3CC72BBE72462065C6"
+				"gid" "87E4EF72C049DD3C88E69C0D9177FBA2"
+				"size" "E9F55E36D87E445E6BB1D76E5659035E"
+				"download" "F2F4B15095AEBE92637E15FD5E3328F8"
 			}
 			"early_explorers"
 			{
@@ -490,15 +523,15 @@
 			}
 			"press"
 			{
-				"gid" "CADF91B58A274D89FC39ADD980EBA178"
-				"size" "BA41D396C4478148A606068B19254C1C"
-				"download" "A044B135E278C19FFF80415CD34F49EE"
+				"gid" "2B3870D41BA5B3540BB2AC7BD1B93C93"
+				"size" "3149CAB364E73477E29922A294A8197C"
+				"download" "476EF609CDA5F55C5987F6DD7D9A4F31"
 			}
 			"private"
 			{
-				"gid" "9392535332D9277EA132D958605BE56F"
-				"size" "AF967A8E67277446B4547B34B3B0AB14"
-				"download" "1F3BFEAE347980DA68FB23DF0B0831EC"
+				"gid" "29F36BB7E0C38EE116A41E191010F72D"
+				"size" "048208F375AFEED00F3678ECC7E76DB2"
+				"download" "66AD44EF4C6564F240BF01C9E7532C44"
 			}
 			"publisher"
 			{
@@ -542,8 +575,8 @@
 	{
 		"public"
 		{
-			"buildid" "13462550"
-			"timeupdated" "1707990541"
+			"buildid" "13661025"
+			"timeupdated" "1709891676"
 		}
 		"0.7.1"
 		{
@@ -557,6 +590,12 @@
 			"description" "Legacy build - 12959740"
 			"timeupdated" "1706694750"
 		}
+		"0.7.3"
+		{
+			"buildid" "13462550"
+			"description" "Legacy build - 13462550"
+			"timeupdated" "1709891529"
+		}
 		"age_ratings"
 		{
 			"buildid" "12373687"
@@ -565,9 +604,9 @@
 		}
 		"ambassadors"
 		{
-			"buildid" "13462550"
+			"buildid" "13661025"
 			"pwdrequired" "1"
-			"timeupdated" "1707990429"
+			"timeupdated" "1709891368"
 		}
 		"compatibility"
 		{
@@ -583,9 +622,9 @@
 		}
 		"developer"
 		{
-			"buildid" "13604152"
+			"buildid" "13661025"
 			"pwdrequired" "1"
-			"timeupdated" "1709230770"
+			"timeupdated" "1709754429"
 		}
 		"early_explorers"
 		{
@@ -613,9 +652,9 @@
 		}
 		"moddebug"
 		{
-			"buildid" "13462591"
+			"buildid" "13661545"
 			"description" "For mod debugging"
-			"timeupdated" "1707990600"
+			"timeupdated" "1709891726"
 		}
 		"nightly"
 		{
@@ -625,15 +664,15 @@
 		}
 		"press"
 		{
-			"buildid" "13462550"
+			"buildid" "13661025"
 			"pwdrequired" "1"
-			"timeupdated" "1707990443"
+			"timeupdated" "1709891557"
 		}
 		"private"
 		{
-			"buildid" "13462550"
+			"buildid" "13661025"
 			"pwdrequired" "1"
-			"timeupdated" "1707990495"
+			"timeupdated" "1709891578"
 		}
 		"publisher"
 		{
@@ -839,6 +878,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22565841"
-"_sha" "b4cd12c7c3b265d38a41f0970d7229418d963be0"
-"_size" "19679"
+"_change_number" "22685110"
+"_sha" "da2d67162b330b59b1783fc69ee020c5e4c3423e"
+"_size" "20313"
