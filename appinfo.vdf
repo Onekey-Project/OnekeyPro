@@ -90,7 +90,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1709203696"
+	"store_asset_mtime" "1709834607"
 	"associations"
 	{
 		"0"
@@ -317,18 +317,18 @@
 		{
 			"public"
 			{
-				"gid" "5730761716847252487"
-				"size" "1325831574"
-				"download" "301934800"
+				"gid" "2767883269807189609"
+				"size" "1325510278"
+				"download" "301969840"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "06FC17E873331CC384B6CE904DB3FE0C"
-				"size" "465AD9EE84CAB00DB9DA2C0027F72FAF"
-				"download" "78AF124BF07C2A76D6E666B4785274F7"
+				"gid" "677D227B43BEA918ECF3AEA13E646F94"
+				"size" "91DD8FDF4FFB703A2B4EB2ADE95114BD"
+				"download" "F4B9EDDBEE723DD6F7C1DF6303E060F2"
 			}
 			"craftersissuetest"
 			{
@@ -344,9 +344,9 @@
 			}
 			"privatetest"
 			{
-				"gid" "F075E6D7460E70C34520B4883FCC25AB"
-				"size" "77894DFBE6591496CB8C83980C2284A5"
-				"download" "ABD4757ECD5A30680759722D615A35EB"
+				"gid" "2422BBC4C89454EE633E02DB7F7A65F5"
+				"size" "C0AFA290D00F6E93F122F71E3FAF4B80"
+				"download" "BB2B944A4D6CBDCD34AE2D6EA5EF474A"
 			}
 		}
 	}
@@ -354,14 +354,14 @@
 	{
 		"public"
 		{
-			"buildid" "13671618"
-			"timeupdated" "1709829241"
+			"buildid" "13681556"
+			"timeupdated" "1709905356"
 		}
 		"beta"
 		{
-			"buildid" "13671618"
+			"buildid" "13681556"
 			"pwdrequired" "1"
-			"timeupdated" "1709829199"
+			"timeupdated" "1709905333"
 		}
 		"craftersissuetest"
 		{
@@ -377,9 +377,9 @@
 		}
 		"privatetest"
 		{
-			"buildid" "13671618"
+			"buildid" "13681556"
 			"pwdrequired" "1"
-			"timeupdated" "1709828571"
+			"timeupdated" "1709904919"
 		}
 	}
 }
@@ -404,6 +404,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22674417"
-"_sha" "b3b750e7068b5fde63e670fca058efd221cc2675"
+"_change_number" "22687523"
+"_sha" "df8dbd4ea654f99aa86f687e0c2eb6496d8a0461"
 "_size" "7332"
