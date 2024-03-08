@@ -84,7 +84,7 @@
 			"height_pct" "79.56761245269996"
 		}
 	}
-	"store_asset_mtime" "1709029756"
+	"store_asset_mtime" "1709735315"
 	"associations"
 	{
 		"0"
@@ -131,7 +131,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1708440393"
+	"steam_release_date" "1708440360"
 	"metacritic_score" "90"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/balatro\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -150,8 +150,8 @@
 		"8" "6426"
 		"9" "4711"
 		"10" "597"
-		"11" "1741"
-		"12" "3964"
+		"11" "3964"
+		"12" "1741"
 		"13" "3959"
 		"14" "4026"
 		"15" "3871"
@@ -207,15 +207,15 @@
 		{
 			"public"
 			{
-				"gid" "1528018835135646913"
-				"size" "65800585"
-				"download" "59288208"
+				"gid" "187344458525485506"
+				"size" "65802172"
+				"download" "59290256"
 			}
 			"public_experimental"
 			{
-				"gid" "1528018835135646913"
-				"size" "65800585"
-				"download" "59288208"
+				"gid" "187344458525485506"
+				"size" "65802172"
+				"download" "59290256"
 			}
 		}
 		"encryptedmanifests"
@@ -240,9 +240,9 @@
 			}
 			"internal_experimental"
 			{
-				"gid" "560C3AFB9DD2DA8801594517E4A443AE"
-				"size" "452FE3B6B971991C1AA79CF1DD6C0980"
-				"download" "705E6DE16A49C9E538F4452CF46E245C"
+				"gid" "4D8A61E6242672011B655083E7D13377"
+				"size" "2DC55A800990BA7E7B233B68EC1D8CEC"
+				"download" "D6150E665EE74947F40812D50584BCC9"
 			}
 			"mac_experimental"
 			{
@@ -258,9 +258,9 @@
 			}
 			"playtesters"
 			{
-				"gid" "FE8FE21F8B71CB3B27097F91CC841D4E"
-				"size" "846BFB968A86965C096D9EFD518239D0"
-				"download" "C936E9295D5B1FB66E2B76480C14680B"
+				"gid" "E747D2CC7180A61471826D2D915FBD37"
+				"size" "242FF42BA36F120D80388C412C4E2EB1"
+				"download" "093A0905331842108199BFE91301731E"
 			}
 		}
 	}
@@ -274,15 +274,15 @@
 		{
 			"public"
 			{
-				"gid" "1947098062386805833"
-				"size" "84906451"
-				"download" "64537248"
+				"gid" "7373952069135802683"
+				"size" "84218294"
+				"download" "64474192"
 			}
 			"public_experimental"
 			{
-				"gid" "1947098062386805833"
-				"size" "84906451"
-				"download" "64537248"
+				"gid" "7373952069135802683"
+				"size" "84218294"
+				"download" "64474192"
 			}
 		}
 		"encryptedmanifests"
@@ -307,9 +307,9 @@
 			}
 			"internal_experimental"
 			{
-				"gid" "D0A91179D30380378EF03CC17171CBF8"
-				"size" "F49F8584EF565D374329BBE9472D56DC"
-				"download" "F290C65F560BB37E744D5E69C9D91926"
+				"gid" "3D8808B1D631727AC31093BDF1129E28"
+				"size" "FE921D755F0ED7C0ABBFC93D3663D483"
+				"download" "2B284AAD52BDFB7BFAB1EB5282A361E9"
 			}
 			"mac_experimental"
 			{
@@ -325,9 +325,9 @@
 			}
 			"playtesters"
 			{
-				"gid" "0EE7B4CBBBA283253491F312979B5C2B"
-				"size" "B71AB1840C037B0994BCAF19E6021C5D"
-				"download" "6E62901FB42582E6983A721DA45B827E"
+				"gid" "CD37BBEC5AE97FF7ACF77D3E9F09E7F1"
+				"size" "58D5E2D1F5A23A251102D5CFF0DF2B5A"
+				"download" "1555EA58BFA843B6C2142CAE81CC29AC"
 			}
 		}
 	}
@@ -335,8 +335,8 @@
 	{
 		"public"
 		{
-			"buildid" "13615277"
-			"timeupdated" "1709311954"
+			"buildid" "13672650"
+			"timeupdated" "1709865289"
 		}
 		"demo_experimental"
 		{
@@ -358,9 +358,9 @@
 		}
 		"internal_experimental"
 		{
-			"buildid" "13615277"
+			"buildid" "13672650"
 			"pwdrequired" "1"
-			"timeupdated" "1709309657"
+			"timeupdated" "1709834794"
 		}
 		"mac_experimental"
 		{
@@ -376,15 +376,15 @@
 		}
 		"playtesters"
 		{
-			"buildid" "13615277"
+			"buildid" "13672650"
 			"pwdrequired" "1"
-			"timeupdated" "1709309917"
+			"timeupdated" "1709834802"
 		}
 		"public_experimental"
 		{
-			"buildid" "13615277"
+			"buildid" "13672650"
 			"description" "Public Experimental build"
-			"timeupdated" "1709311985"
+			"timeupdated" "1709840836"
 		}
 	}
 }
@@ -402,8 +402,19 @@
 			"recursive" "1"
 		}
 	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "22600382"
-"_sha" "f236bf73bb92abf543e3f5e95833123ef591e127"
-"_size" "8386"
+"_change_number" "22681058"
+"_sha" "2c57bcf3685f63674a7ffb853f0b9768992b05a4"
+"_size" "8550"
