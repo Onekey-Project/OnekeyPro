@@ -317,18 +317,18 @@
 		{
 			"public"
 			{
-				"gid" "2767883269807189609"
+				"gid" "1474511161276727374"
 				"size" "1325510278"
-				"download" "301969840"
+				"download" "301969456"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "677D227B43BEA918ECF3AEA13E646F94"
+				"gid" "BF5262BCD1ED041428585C894AFD4FA1"
 				"size" "91DD8FDF4FFB703A2B4EB2ADE95114BD"
-				"download" "F4B9EDDBEE723DD6F7C1DF6303E060F2"
+				"download" "3B01E0A5816C61159515A2AE67AEA15D"
 			}
 			"craftersissuetest"
 			{
@@ -338,15 +338,15 @@
 			}
 			"inputtest"
 			{
-				"gid" "69EFDDE295D3DD751ADFC1060D719C03"
-				"size" "24D24E3ADEE6F7A27A055160DD49B901"
-				"download" "D0C45501E826377288E3338D1286C501"
+				"gid" "A1E2F5121B8D2B4F97DA75799494FCF4"
+				"size" "47F7F7B671B409AA3890214A01D467AD"
+				"download" "39A3AB55A40BA7DEB687BDB64833C4AA"
 			}
 			"privatetest"
 			{
-				"gid" "2422BBC4C89454EE633E02DB7F7A65F5"
+				"gid" "88EA2BBB9BA169E350B449C6566E1A7F"
 				"size" "C0AFA290D00F6E93F122F71E3FAF4B80"
-				"download" "BB2B944A4D6CBDCD34AE2D6EA5EF474A"
+				"download" "FD698234703770D69876298CCA238F7A"
 			}
 		}
 	}
@@ -354,14 +354,14 @@
 	{
 		"public"
 		{
-			"buildid" "13681556"
-			"timeupdated" "1709905356"
+			"buildid" "13684729"
+			"timeupdated" "1709924737"
 		}
 		"beta"
 		{
-			"buildid" "13681556"
+			"buildid" "13684729"
 			"pwdrequired" "1"
-			"timeupdated" "1709905333"
+			"timeupdated" "1709924705"
 		}
 		"craftersissuetest"
 		{
@@ -371,15 +371,15 @@
 		}
 		"inputtest"
 		{
-			"buildid" "13032836"
+			"buildid" "13684729"
 			"pwdrequired" "1"
-			"timeupdated" "1703278535"
+			"timeupdated" "1709924717"
 		}
 		"privatetest"
 		{
-			"buildid" "13681556"
+			"buildid" "13684729"
 			"pwdrequired" "1"
-			"timeupdated" "1709904919"
+			"timeupdated" "1709924300"
 		}
 	}
 }
@@ -404,6 +404,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22687523"
-"_sha" "df8dbd4ea654f99aa86f687e0c2eb6496d8a0461"
+"_change_number" "22691644"
+"_sha" "b40fa6fa65355ab35e9556c7a30efa2bcf0294c3"
 "_size" "7332"
