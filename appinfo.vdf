@@ -359,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "1991406762945664510"
-				"size" "4739131432"
-				"download" "3659741280"
+				"gid" "6051956783431941865"
+				"size" "4739134504"
+				"download" "3659741696"
 			}
 			"e1.7.0"
 			{
@@ -491,9 +491,9 @@
 			}
 			"v1.2.9"
 			{
-				"gid" "1991406762945664510"
-				"size" "4739131432"
-				"download" "3659741280"
+				"gid" "6051956783431941865"
+				"size" "4739134504"
+				"download" "3659741696"
 			}
 		}
 		"encryptedmanifests"
@@ -524,9 +524,9 @@
 			}
 			"dev_shipping"
 			{
-				"gid" "14317F48393280BB3A09D2612394E030"
-				"size" "0362B0D4375F30686C2538E188BBB3EF"
-				"download" "0D073C1660A25DA897AA87DE7BA49EE6"
+				"gid" "DFF9C08AB98AE4972D1A90895A334F1D"
+				"size" "BA03EE3D7342AABCAD59562D0810E8CF"
+				"download" "FC3995E4BDB8A4BC29F7B1904EB3A246"
 			}
 			"event_demo"
 			{
@@ -536,15 +536,15 @@
 			}
 			"gfn_works"
 			{
-				"gid" "50FAD0616A412BEB7DC291A565825D2F"
-				"size" "076F54E897A1613A232615042DABBDB5"
-				"download" "3D38B78F20B0858E78C62F6C0737D79D"
+				"gid" "CF0C37C302F60AF5EE6AF9813FC33BD3"
+				"size" "AE4A80B06585FD15EC43FFCE4C2C942B"
+				"download" "9D5B886DAB0FAD1F5267DA1413949275"
 			}
 			"internal.test.a"
 			{
-				"gid" "75769D33F3E7BAF2FA9107133E677716"
-				"size" "A9D924D574DAE4C1F3E6C277F732AF76"
-				"download" "23D2B17554A7D69017E1B856F35F897F"
+				"gid" "D6BEEF8F600CA6B08641E5FEFF516492"
+				"size" "A5322A1585925D4A6587DDC40A2448BE"
+				"download" "3E54480173ED6500DC6F4B34704874E2"
 			}
 			"internal.test.b"
 			{
@@ -608,9 +608,9 @@
 		{
 			"public"
 			{
-				"gid" "5766789216878161834"
-				"size" "47553186998"
-				"download" "34668495520"
+				"gid" "3965002534922922193"
+				"size" "47553188541"
+				"download" "34668496080"
 			}
 			"e1.7.0"
 			{
@@ -746,9 +746,9 @@
 			}
 			"v1.2.9"
 			{
-				"gid" "5766789216878161834"
-				"size" "47553186998"
-				"download" "34668495520"
+				"gid" "3965002534922922193"
+				"size" "47553188541"
+				"download" "34668496080"
 			}
 		}
 		"encryptedmanifests"
@@ -803,9 +803,9 @@
 			}
 			"dev_shipping"
 			{
-				"gid" "1C11A1CF89429D5BAD7FFF60A1EBC136"
-				"size" "EEF151561D946067736A9DA3FA474C7F"
-				"download" "A11969CC544DE1E1D768FBD30C943F10"
+				"gid" "5C94E0811B2035286B1B99C1CE155AE5"
+				"size" "EBADB55C286D77845F7491308F487F3A"
+				"download" "A04BDA9D80B38C24A7D7E7BA965B8790"
 			}
 			"event_demo"
 			{
@@ -815,9 +815,9 @@
 			}
 			"gfn_works"
 			{
-				"gid" "A6D6A9532FE65CDDFB04A56F28BDBCAF"
-				"size" "10436FBA2317DC91FFD7ADE63291DDA2"
-				"download" "3409B423A1E2AA13FA66E2C94B0CE1E6"
+				"gid" "EC3EEE8AD5E858E2C074FBBB4DD92DA1"
+				"size" "1074F42B11C4C2E04ACB5FC695DB3E03"
+				"download" "CB7097512FE5A2724346D4B3EF112B77"
 			}
 			"intel.build.test"
 			{
@@ -827,9 +827,9 @@
 			}
 			"internal.test.a"
 			{
-				"gid" "4A0D097F201D0A8C07B9F7EE1041C04C"
-				"size" "2256ACC5363BB09EF1F9B5AC8445D324"
-				"download" "DD923D957CE7F8FAF1BD0B0243BAFE2B"
+				"gid" "774024C615626B63F0397EE1F6A2F9FE"
+				"size" "E9DD0186F664C2AC68D5FB7C9ABA802C"
+				"download" "D45B761D032435C04E24B98B722D30F9"
 			}
 			"internal.test.b"
 			{
@@ -897,8 +897,8 @@
 	{
 		"public"
 		{
-			"buildid" "13442478"
-			"timeupdated" "1709291496"
+			"buildid" "13666536"
+			"timeupdated" "1709901447"
 		}
 		"age_rating_build"
 		{
@@ -950,9 +950,9 @@
 		}
 		"dev_shipping"
 		{
-			"buildid" "13607274"
+			"buildid" "13675323"
 			"pwdrequired" "1"
-			"timeupdated" "1709250405"
+			"timeupdated" "1709854853"
 		}
 		"e1.7.0"
 		{
@@ -992,9 +992,9 @@
 		}
 		"gfn_works"
 		{
-			"buildid" "13610846"
+			"buildid" "13655601"
 			"pwdrequired" "1"
-			"timeupdated" "1709282761"
+			"timeupdated" "1709720009"
 		}
 		"intel.build.test"
 		{
@@ -1004,9 +1004,9 @@
 		}
 		"internal.test.a"
 		{
-			"buildid" "13344900"
+			"buildid" "13666536"
 			"pwdrequired" "1"
-			"timeupdated" "1706864627"
+			"timeupdated" "1709799708"
 		}
 		"internal.test.b"
 		{
@@ -1167,9 +1167,9 @@
 		}
 		"v1.2.9"
 		{
-			"buildid" "13442478"
+			"buildid" "13666536"
 			"description" "v1.2.9"
-			"timeupdated" "1709291515"
+			"timeupdated" "1709901486"
 		}
 		"worldmap"
 		{
@@ -1199,6 +1199,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22576906"
-"_sha" "5102494c1debb94bc7936cf93f60fdbecf29370a"
+"_change_number" "22686811"
+"_sha" "dabf2bac6de0f54d1bf1478a84f0fde40dd50f1f"
 "_size" "25024"
