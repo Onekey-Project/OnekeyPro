@@ -222,7 +222,7 @@
 		"19" "1669"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -266,20 +266,20 @@
 		}
 		"public"
 		{
-			"buildid" "13597857"
-			"timeupdated" "1709198643"
+			"buildid" "13676190"
+			"timeupdated" "1709876630"
 		}
 		"daily_build"
 		{
-			"buildid" "13597857"
+			"buildid" "13676190"
 			"description" "New features in testing."
-			"timeupdated" "1709198603"
+			"timeupdated" "1709876600"
 		}
 		"dev_team"
 		{
-			"buildid" "13597857"
+			"buildid" "13676190"
 			"pwdrequired" "1"
-			"timeupdated" "1709187086"
+			"timeupdated" "1709862331"
 		}
 		"dev_team_beta"
 		{
@@ -300,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "1989310990044933729"
-				"size" "1885789425"
-				"download" "659362112"
+				"gid" "6809925270413768731"
+				"size" "1895153022"
+				"download" "661355456"
 			}
 			"beta_version"
 			{
@@ -312,18 +312,18 @@
 			}
 			"daily_build"
 			{
-				"gid" "1989310990044933729"
-				"size" "1885789425"
-				"download" "659362112"
+				"gid" "6809925270413768731"
+				"size" "1895153022"
+				"download" "661355456"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dev_team"
 			{
-				"gid" "C7DDCE3EEE3E88D3488C15CD412CE3B3"
-				"size" "E84ADDC64FC068411C06CEC219E35845"
-				"download" "0B27BFC806BE8615D7AB3DF70E3F8A16"
+				"gid" "DB9B6645AEE8F78FD585712178CA0D8E"
+				"size" "2FCDFA786B0E079CE8D140E8D1226268"
+				"download" "B629EC4DCA29C36EE549448121D5E49C"
 			}
 			"dev_team_beta"
 			{
@@ -347,6 +347,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "22557305"
-"_sha" "4c3f6eaca20b1ca7df833f9d63b084b6ddac8e79"
+"_change_number" "22682472"
+"_sha" "6e2e961977730fe62d4efc7b9cc53335f92a1c70"
 "_size" "6767"
