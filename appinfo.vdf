@@ -267,9 +267,9 @@
 		"8" "1702"
 		"9" "1643"
 		"10" "1684"
-		"11" "5851"
-		"12" "8945"
-		"13" "4305"
+		"11" "4305"
+		"12" "5851"
+		"13" "8945"
 		"14" "4182"
 		"15" "21"
 		"16" "492"
@@ -317,18 +317,18 @@
 		{
 			"public"
 			{
-				"gid" "1474511161276727374"
-				"size" "1325510278"
-				"download" "301969456"
+				"gid" "1793740218148806258"
+				"size" "1325759278"
+				"download" "301925840"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "BF5262BCD1ED041428585C894AFD4FA1"
-				"size" "91DD8FDF4FFB703A2B4EB2ADE95114BD"
-				"download" "3B01E0A5816C61159515A2AE67AEA15D"
+				"gid" "6F222278BA0E0FE3F7E8A1BFD6F26A87"
+				"size" "3F9027B8879C3147BCD8CE0F31F9D12E"
+				"download" "BE6B8488800DFC8A04B9C90C8509EB63"
 			}
 			"craftersissuetest"
 			{
@@ -338,15 +338,15 @@
 			}
 			"inputtest"
 			{
-				"gid" "A1E2F5121B8D2B4F97DA75799494FCF4"
-				"size" "47F7F7B671B409AA3890214A01D467AD"
-				"download" "39A3AB55A40BA7DEB687BDB64833C4AA"
+				"gid" "15577C1F17FBF08D108038FF10519038"
+				"size" "49D8A03E10F0A561B2E789E9133A890F"
+				"download" "7C25566EF0DF17794A37A7070B2141C8"
 			}
 			"privatetest"
 			{
-				"gid" "88EA2BBB9BA169E350B449C6566E1A7F"
-				"size" "C0AFA290D00F6E93F122F71E3FAF4B80"
-				"download" "FD698234703770D69876298CCA238F7A"
+				"gid" "12D10A3DF382417EF11E3C24280CD519"
+				"size" "8CC54833334C71BC3EA0F7FA0220EB84"
+				"download" "742C7CFEC5E6BAAD3D006AFB5147404E"
 			}
 		}
 	}
@@ -354,14 +354,14 @@
 	{
 		"public"
 		{
-			"buildid" "13684729"
-			"timeupdated" "1709924737"
+			"buildid" "13705392"
+			"timeupdated" "1710181042"
 		}
 		"beta"
 		{
-			"buildid" "13684729"
+			"buildid" "13705392"
 			"pwdrequired" "1"
-			"timeupdated" "1709924705"
+			"timeupdated" "1710181012"
 		}
 		"craftersissuetest"
 		{
@@ -371,15 +371,15 @@
 		}
 		"inputtest"
 		{
-			"buildid" "13684729"
+			"buildid" "13705392"
 			"pwdrequired" "1"
-			"timeupdated" "1709924717"
+			"timeupdated" "1710181019"
 		}
 		"privatetest"
 		{
-			"buildid" "13684729"
+			"buildid" "13705392"
 			"pwdrequired" "1"
-			"timeupdated" "1709924300"
+			"timeupdated" "1710180741"
 		}
 	}
 }
@@ -404,6 +404,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22691644"
-"_sha" "b40fa6fa65355ab35e9556c7a30efa2bcf0294c3"
+"_change_number" "22717798"
+"_sha" "9f6c917fb9db16e60b9747769e7d05b1444079f3"
 "_size" "7332"
