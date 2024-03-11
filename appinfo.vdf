@@ -1,0 +1,222 @@
+"appid" "830640"
+"common"
+{
+	"name" "DayZ Tools"
+	"type" "Tool"
+	"parent" "221100"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "0b5eab174ef8716b4ae9da90b66aef664bbed9db"
+	"clienticon" "da020fd6554f91782017a60d09d5929521e30b11"
+	"icon" "99ee4aadea05f42f04dcb627e2bc27b0f4a56135"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "830640_eula_0"
+			"name" "DayZ Tools EULA"
+			"url" "https://store.steampowered.com//eula/830640_eula_0"
+		}
+	}
+	"logo" "3fa8a9f708f5d6bfa4087c519d06cf93670fbb7f"
+	"logo_small" "3fa8a9f708f5d6bfa4087c519d06cf93670fbb7f_thumb"
+	"metacritic_name" "DayZ Tools"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1540173837"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bohemia Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bohemia Interactive"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1541615280"
+	"gameid" "830640"
+	"exfgls" "9"
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"disableoverlayinjection" "1"
+	"developer" "Bohemia Interactive"
+	"publisher" "Bohemia Interactive"
+	"homepage" "https://www.dayz.com/"
+}
+"config"
+{
+	"installdir" "DayZ Tools"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Bin\\Launcher\\DayZToolsLauncher.exe"
+			"workingdir" "Bin\\Launcher\\"
+			"description" "DayZ Tools Launcher"
+			"type" "default"
+		}
+		"2"
+		{
+			"executable" "Bin\\Workbench\\workbenchApp.exe"
+			"workingdir" "Bin\\Workbench\\"
+			"description" "Launch Workbench"
+			"type" "none"
+		}
+		"3"
+		{
+			"executable" "Bin\\Launcher\\launcher.bat"
+			"arguments" "\"Bin\""
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Open DayZ Tools directory"
+			}
+			"description" "Open DayZ Tools directory"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"830641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1231441376900598003"
+				"size" "484009828"
+				"download" "198750864"
+			}
+			"experimental"
+			{
+				"gid" "2064356047262965762"
+				"size" "484009571"
+				"download" "198745472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "F1AFCDC9CB31C94FBBE84C7971B06F53"
+				"size" "72F05659AC7A4016DC8DC2FBDD38B28F"
+				"download" "8C825674CB9CB55788D8AAED5F956FA2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13645211"
+			"timeupdated" "1709816152"
+		}
+		"experimental"
+		{
+			"buildid" "13405689"
+			"description" "Unstable testing version"
+			"timeupdated" "1707483419"
+		}
+		"staging"
+		{
+			"buildid" "13645211"
+			"pwdrequired" "1"
+			"timeupdated" "1709641132"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22671093"
+"_sha" "8702ddba523e80d59712a38528c636d0b60efb12"
+"_size" "3711"
