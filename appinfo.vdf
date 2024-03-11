@@ -199,8 +199,8 @@
 		"9" "4182"
 		"10" "4004"
 		"11" "4172"
-		"12" "4136"
-		"13" "4166"
+		"12" "4166"
+		"13" "4136"
 		"14" "15277"
 		"15" "1667"
 		"16" "1684"
@@ -267,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "2889528233913190301"
-				"size" "1691943039"
-				"download" "789093216"
+				"gid" "8578596960875055793"
+				"size" "1691944344"
+				"download" "789093472"
 			}
 			"jump_king_legacy"
 			{
@@ -282,9 +282,9 @@
 		{
 			"beta"
 			{
-				"gid" "3382409E4B5D9346033863C44C421CC4"
-				"size" "9748FB0012C968837EA5317DE0EDC63B"
-				"download" "035694CAC5C03E022CB2A9452264F6C6"
+				"gid" "777174566B87386CD785480F85BF84DD"
+				"size" "E88BD449FEFAA35F40CD4D50D4648963"
+				"download" "9AA014D4B1D4D105E7B6425DD7957893"
 			}
 			"speedrun_beta"
 			{
@@ -305,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "7116019489494611325"
-				"size" "1692307583"
-				"download" "789144688"
+				"gid" "8383325502566994765"
+				"size" "1692308888"
+				"download" "789144960"
 			}
 			"jump_king_legacy"
 			{
@@ -320,9 +320,9 @@
 		{
 			"beta"
 			{
-				"gid" "C94F196F2D715E48E9ECCB66E9023435"
-				"size" "84B244E54EA75C8382470B46F7E62A67"
-				"download" "FE65F92D5DE37AD89A8685047C398D64"
+				"gid" "1FBB28EF5CDB3AAF816ED487EA567BCE"
+				"size" "46CD7CA0CD2EFF825111B4C43AAE9D76"
+				"download" "4DE6BDF69ED7B205866C845B41CFB331"
 			}
 		}
 	}
@@ -618,14 +618,14 @@
 	{
 		"public"
 		{
-			"buildid" "13671951"
-			"timeupdated" "1709831450"
+			"buildid" "13704892"
+			"timeupdated" "1710177787"
 		}
 		"beta"
 		{
-			"buildid" "13671951"
+			"buildid" "13704892"
 			"pwdrequired" "1"
-			"timeupdated" "1709830461"
+			"timeupdated" "1710177431"
 		}
 		"jump_king_legacy"
 		{
@@ -662,6 +662,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22674916"
-"_sha" "99b16aa83aa12a7e7dd00a23195ba4f309f68e26"
+"_change_number" "22717053"
+"_sha" "fcef6a82c4d8497021c0a0c54274102ebb16e30e"
 "_size" "11627"
