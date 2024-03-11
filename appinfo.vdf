@@ -237,15 +237,15 @@
 		{
 			"public"
 			{
-				"gid" "3628517454052250551"
-				"size" "2682340644"
-				"download" "1118784336"
+				"gid" "6365888005679010641"
+				"size" "2682402500"
+				"download" "1118853408"
 			}
 			"crossplay"
 			{
-				"gid" "3628517454052250551"
-				"size" "2682340644"
-				"download" "1118784336"
+				"gid" "6365888005679010641"
+				"size" "2682402500"
+				"download" "1118853408"
 			}
 		}
 		"encryptedmanifests"
@@ -322,8 +322,8 @@
 	{
 		"public"
 		{
-			"buildid" "13434773"
-			"timeupdated" "1707924734"
+			"buildid" "13593159"
+			"timeupdated" "1710172842"
 		}
 		"alex"
 		{
@@ -351,9 +351,9 @@
 		}
 		"crossplay"
 		{
-			"buildid" "13434773"
+			"buildid" "13593159"
 			"description" "For compatibility with current console builds"
-			"timeupdated" "1708014890"
+			"timeupdated" "1710173335"
 		}
 		"devdemo"
 		{
@@ -451,6 +451,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22608160"
-"_sha" "4888432274e7824ad5dc227d6c76c17862a075f8"
+"_change_number" "22716043"
+"_sha" "baa63e3162fa3ac8ef464a1a2b5a54e3640aca52"
 "_size" "8946"
