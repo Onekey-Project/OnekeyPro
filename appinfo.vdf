@@ -173,8 +173,8 @@
 		"15" "1721"
 		"16" "1770"
 		"17" "493"
-		"18" "12095"
-		"19" "3959"
+		"18" "3959"
+		"19" "12095"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -221,9 +221,9 @@
 		{
 			"public"
 			{
-				"gid" "9012252001627874251"
-				"size" "424750384"
-				"download" "131589504"
+				"gid" "8491788010082896726"
+				"size" "424750968"
+				"download" "131589696"
 			}
 		}
 		"encryptedmanifests"
@@ -266,9 +266,9 @@
 			}
 			"mactest"
 			{
-				"gid" "7363FB496A4737BF0C2002802F578494"
-				"size" "FD83F800880E01F653AC712205B58629"
-				"download" "96C5A62A04D10CC43EBFF780C6126776"
+				"gid" "131C2CA00823BB5911A851F968E02CEA"
+				"size" "CEA90CCD6F83EBE68EC85A4D2E4DF38E"
+				"download" "8AE943229F23B7D2FD163A6D6D68356F"
 			}
 			"neomaretestingbranch"
 			{
@@ -300,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "6130921404338682785"
-				"size" "415200941"
-				"download" "129212160"
+				"gid" "4851903176632877246"
+				"size" "415202437"
+				"download" "129244368"
 			}
 		}
 		"encryptedmanifests"
@@ -339,9 +339,9 @@
 			}
 			"mactest"
 			{
-				"gid" "4DC975258DCC2E033EEF23BC75EFD153"
-				"size" "4F861D5D2D405AE2316092080A76C446"
-				"download" "A28360A5E58D6624CF916433FBBF5D82"
+				"gid" "2BA12D2D321120AA411CF985A44CEB7E"
+				"size" "D31634D8B87D6D927000B662B605C7A3"
+				"download" "D4F78918995B8787694EC5AD761B8EAA"
 			}
 			"neomaretestingbranch"
 			{
@@ -367,8 +367,8 @@
 	{
 		"public"
 		{
-			"buildid" "13574891"
-			"timeupdated" "1709033316"
+			"buildid" "13687806"
+			"timeupdated" "1710116769"
 		}
 		"chineselocalizationtest"
 		{
@@ -408,9 +408,9 @@
 		}
 		"mactest"
 		{
-			"buildid" "11308727"
+			"buildid" "13687806"
 			"pwdrequired" "1"
-			"timeupdated" "1684947980"
+			"timeupdated" "1709995299"
 		}
 		"neomaretestingbranch"
 		{
@@ -489,6 +489,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22572981"
-"_sha" "018df2e1b0b8471d25f117e09ea60b800dfbf0b4"
+"_change_number" "22707457"
+"_sha" "5c5cc18dfb3a64f31ebfb949980e7956517602b8"
 "_size" "10567"
