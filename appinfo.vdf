@@ -211,7 +211,7 @@
 		"19" "1741"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -261,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "1246147275704133232"
-				"size" "35942481605"
-				"download" "29013538432"
+				"gid" "8006621855602030030"
+				"size" "37834150888"
+				"download" "27996375712"
 			}
 		}
 		"encryptedmanifests"
@@ -294,15 +294,15 @@
 			}
 			"owlcat-release-debug"
 			{
-				"gid" "04027933A9D27F09E5D4D1EF30AA2AAA"
-				"size" "A0A44B2FA65E8B018A22590A7F08215C"
-				"download" "5C41D4D347B9CB25F1F848AE72E3EBFB"
+				"gid" "F53D91E8470FE7C772A93ABB5C08DCF3"
+				"size" "720D5059EA1163C52930E3FF43D72339"
+				"download" "9BA3A6EE497AF2E85F7C1610EDB8FB98"
 			}
 			"owlcat-release-test"
 			{
-				"gid" "DAF92D2FE269E9FB4E136D1FA6077501"
-				"size" "3B7542B035C75666EE77A154B4E22C63"
-				"download" "8A9A63DB25FC5F6357CA7B6BC832C166"
+				"gid" "6F904BE88E37700D62BF710F0387D1F6"
+				"size" "C351E8ACBAD7FF3F3FC2E4F718B43195"
+				"download" "96828FE356E550E91139CD582D696DD7"
 			}
 			"owlcat-test"
 			{
@@ -334,24 +334,24 @@
 		{
 			"public"
 			{
-				"gid" "7497745586198671017"
-				"size" "33770473431"
-				"download" "26913743296"
+				"gid" "1501527516502447355"
+				"size" "36602147292"
+				"download" "27969920848"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"owlcat-release-debug"
 			{
-				"gid" "9C86ED2938530A3F8C593F1100848E51"
-				"size" "0795C8CD5C03D220F539BA81E2431956"
-				"download" "A10A9A7720CD7F4E3BD6430A484F70F1"
+				"gid" "31D0B8FEA587BDE086ADF292855EBA62"
+				"size" "2C3668D7FBB0E28A8E21A98D117731C0"
+				"download" "207562F39461B6E090062A638FDCE47C"
 			}
 			"owlcat-release-test"
 			{
-				"gid" "966FE2E5BC299A67CB1F5857A51E4A16"
-				"size" "B4D898C9C9DFC5EB456A0CAFCC735B33"
-				"download" "7D184BA0B3D6D48BDD5349DDAB19420A"
+				"gid" "4FEFA4694E00A130A002CBA8DF374103"
+				"size" "24E7E638EBCB2F923133B92E216BFC8E"
+				"download" "19FD8C0E10AA712099BA71255C3AACF5"
 			}
 			"test-deploy"
 			{
@@ -415,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "13529837"
-			"timeupdated" "1708597919"
+			"buildid" "13700679"
+			"timeupdated" "1710151704"
 		}
 		"media"
 		{
@@ -444,15 +444,15 @@
 		}
 		"owlcat-release-debug"
 		{
-			"buildid" "13604657"
+			"buildid" "13663531"
 			"pwdrequired" "1"
-			"timeupdated" "1709231965"
+			"timeupdated" "1709772585"
 		}
 		"owlcat-release-test"
 		{
-			"buildid" "13604431"
+			"buildid" "13663378"
 			"pwdrequired" "1"
-			"timeupdated" "1709230244"
+			"timeupdated" "1709771299"
 		}
 		"owlcat-test"
 		{
@@ -505,6 +505,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22565931"
-"_sha" "0c6bbae7ddfd49e5f0a667be0c60003611aa3671"
+"_change_number" "22711623"
+"_sha" "09bf90e887ae3c604fc5b6041073f96001bd59a2"
 "_size" "9946"
