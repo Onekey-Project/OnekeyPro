@@ -179,18 +179,30 @@
 		{
 			"public"
 			{
-				"gid" "4214991005195757598"
-				"size" "325457049"
-				"download" "160570000"
+				"gid" "8507272385460090652"
+				"size" "333328593"
+				"download" "164990128"
+			}
+			"win7"
+			{
+				"gid" "6273122593421771233"
+				"size" "325472792"
+				"download" "160585392"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"newtest"
 			{
-				"gid" "2BBA2F92D7E17E837B0020FAB9072BC5"
-				"size" "FE5DC53EA53E624E01742DD51C9582DA"
-				"download" "FC1A736FE46AC40929B1D8510CA70FE5"
+				"gid" "84EA16C267AEED93CF2CC7403C0CC4D5"
+				"size" "2F6E0EE088728B1A3C415F7763F5F106"
+				"download" "C0818C24A9D8019EEA2CFF61BED35E9F"
+			}
+			"nwjs"
+			{
+				"gid" "E23B38A08B555CCAC0E0F872179258E7"
+				"size" "9B3679E7A89AE5E7263D0AF32D8C7F87"
+				"download" "72C17F9FC7F3EFDE6A2FABFA9DA5D89E"
 			}
 			"test"
 			{
@@ -215,6 +227,12 @@
 				"size" "279281915"
 				"download" "150562000"
 			}
+			"win7"
+			{
+				"gid" "4530024233535304064"
+				"size" "279281915"
+				"download" "150562000"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -223,6 +241,12 @@
 				"gid" "9897C6A31FF67281128A78B0533B920C"
 				"size" "DA14A712E939B58493E4E9E7DEE1AD67"
 				"download" "6BE42E9DBBB8F412B402C12B8E896B9F"
+			}
+			"nwjs"
+			{
+				"gid" "BE3CE5EA7CE31D7A280C758787906291"
+				"size" "5F8E46B34E2A2E2E278994F48F4D39B8"
+				"download" "5A1C69B5AFDDC1A13C750645AAE39252"
 			}
 			"test"
 			{
@@ -236,20 +260,32 @@
 	{
 		"public"
 		{
-			"buildid" "13663556"
-			"timeupdated" "1709772715"
+			"buildid" "13699625"
+			"timeupdated" "1710142952"
 		}
 		"newtest"
 		{
-			"buildid" "13659021"
+			"buildid" "13699539"
 			"pwdrequired" "1"
-			"timeupdated" "1709740729"
+			"timeupdated" "1710142252"
+		}
+		"nwjs"
+		{
+			"buildid" "13665550"
+			"pwdrequired" "1"
+			"timeupdated" "1709791216"
 		}
 		"test"
 		{
 			"buildid" "13659016"
 			"pwdrequired" "1"
 			"timeupdated" "1709740713"
+		}
+		"win7"
+		{
+			"buildid" "13699573"
+			"description" "Win7edition"
+			"timeupdated" "1710142574"
 		}
 	}
 }
@@ -268,6 +304,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22663624"
-"_sha" "7b6bee517cd490a905e90f8ba9c34f4021d167f3"
-"_size" "4963"
+"_change_number" "22710064"
+"_sha" "13097caa68ef42b582954485afd7a5a83f8e611d"
+"_size" "5737"
