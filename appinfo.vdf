@@ -253,36 +253,36 @@
 		{
 			"public"
 			{
-				"gid" "7926815651999214917"
-				"size" "379102449"
-				"download" "323864784"
+				"gid" "8306400867347401715"
+				"size" "379103473"
+				"download" "323864272"
 			}
 			"beta"
 			{
-				"gid" "7926815651999214917"
-				"size" "379102449"
-				"download" "323864784"
+				"gid" "8306400867347401715"
+				"size" "379103473"
+				"download" "323864272"
 			}
 			"localisation"
 			{
-				"gid" "7926815651999214917"
-				"size" "379102449"
-				"download" "323864784"
+				"gid" "8306400867347401715"
+				"size" "379103473"
+				"download" "323864272"
 			}
 			"rewrite_beta"
 			{
-				"gid" "7926815651999214917"
-				"size" "379102449"
-				"download" "323864784"
+				"gid" "8306400867347401715"
+				"size" "379103473"
+				"download" "323864272"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "E3529D20241AB2149D192349DB8709D8"
-				"size" "2D6C518CB8A086D9CF6F4F1EAEEB06D2"
-				"download" "6491EC283505AC0BF187DE98F8F15C77"
+				"gid" "FAB8F5BFA0C5057F29BF5D5A2491AF10"
+				"size" "C14DF448FC084F26121985B6CE8E7540"
+				"download" "8611BEBEC5DD22D648E88201B82B36D0"
 			}
 			"internal_private"
 			{
@@ -332,36 +332,36 @@
 		{
 			"public"
 			{
-				"gid" "8718737533336903642"
+				"gid" "472668681421869222"
 				"size" "428049886"
-				"download" "335271888"
+				"download" "335272544"
 			}
 			"beta"
 			{
-				"gid" "8718737533336903642"
+				"gid" "472668681421869222"
 				"size" "428049886"
-				"download" "335271888"
+				"download" "335272544"
 			}
 			"localisation"
 			{
-				"gid" "8718737533336903642"
+				"gid" "472668681421869222"
 				"size" "428049886"
-				"download" "335271888"
+				"download" "335272544"
 			}
 			"rewrite_beta"
 			{
-				"gid" "8718737533336903642"
+				"gid" "472668681421869222"
 				"size" "428049886"
-				"download" "335271888"
+				"download" "335272544"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "76EF60754665C9377FBA942B0B36E794"
+				"gid" "19C6219F7DEB930F5CC9855F79BC12F2"
 				"size" "05E3B90661599103B602285660113AD6"
-				"download" "A230787D22FB927B633612ADE9432C57"
+				"download" "80353E1102D500E06F5EE019E3AD9477"
 			}
 			"josh"
 			{
@@ -424,19 +424,19 @@
 	{
 		"public"
 		{
-			"buildid" "13693457"
-			"timeupdated" "1710044003"
+			"buildid" "13698266"
+			"timeupdated" "1710198044"
 		}
 		"beta"
 		{
-			"buildid" "13693457"
-			"timeupdated" "1710043820"
+			"buildid" "13698266"
+			"timeupdated" "1710125641"
 		}
 		"internal"
 		{
-			"buildid" "13693457"
+			"buildid" "13701194"
 			"pwdrequired" "1"
-			"timeupdated" "1710042930"
+			"timeupdated" "1710155299"
 		}
 		"internal_private"
 		{
@@ -452,9 +452,9 @@
 		}
 		"localisation"
 		{
-			"buildid" "13693457"
+			"buildid" "13698266"
 			"description" "Branch for testing Vault of the Voids Localisation"
-			"timeupdated" "1710043827"
+			"timeupdated" "1710125665"
 		}
 		"private"
 		{
@@ -476,9 +476,9 @@
 		}
 		"rewrite_beta"
 		{
-			"buildid" "13693457"
+			"buildid" "13698266"
 			"description" "Beta testing for the new rewrite."
-			"timeupdated" "1710043989"
+			"timeupdated" "1710125673"
 		}
 		"taipei"
 		{
@@ -1119,6 +1119,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22702052"
-"_sha" "f8b9635dfa025c8a959fcadecc5463d92e035524"
-"_size" "31598"
+"_change_number" "22720880"
+"_sha" "f5501dae7c32108b09ee136ef147620de3e314e7"
+"_size" "31594"
