@@ -67,6 +67,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -74,7 +75,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1673375968"
+	"store_asset_mtime" "1710206087"
 	"associations"
 	{
 		"0"
@@ -100,6 +101,7 @@
 		"category_22" "1"
 		"category_28" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -188,18 +190,18 @@
 		{
 			"public"
 			{
-				"gid" "7956799478324182427"
-				"size" "270228260"
-				"download" "199551408"
+				"gid" "5904887559084743108"
+				"size" "303624202"
+				"download" "232279776"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"le-playtest"
 			{
-				"gid" "0D3C2AB649CF4140FD1D912DB3CF7D02"
-				"size" "B162C1EDA1D29D159D7E3D38C4A0777B"
-				"download" "C1EC6A4491BF6A0E5CE8C8ED361F4B65"
+				"gid" "49EB82DBFFBBCFBD4CC70380E28024D8"
+				"size" "CE1FD93467FCD04839304CFB48E18028"
+				"download" "9E383F003C86863C5C1F72F97C037F80"
 			}
 		}
 	}
@@ -207,14 +209,14 @@
 	{
 		"public"
 		{
-			"buildid" "12546400"
-			"timeupdated" "1698352905"
+			"buildid" "13707251"
+			"timeupdated" "1710206579"
 		}
 		"le-playtest"
 		{
-			"buildid" "13596664"
+			"buildid" "13707251"
 			"pwdrequired" "1"
-			"timeupdated" "1709175452"
+			"timeupdated" "1710193457"
 		}
 	}
 }
@@ -234,6 +236,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22553428"
-"_sha" "6477a006892e6dcf1e9b523df49f6d1bcaa1eadb"
-"_size" "4155"
+"_change_number" "22722100"
+"_sha" "00592813d8aa31a59bce5782cc38916cb4c19d12"
+"_size" "4203"
