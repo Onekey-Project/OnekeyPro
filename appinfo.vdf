@@ -194,8 +194,8 @@
 		"6" "1687"
 		"7" "1654"
 		"8" "3810"
-		"9" "1662"
-		"10" "4175"
+		"9" "4175"
+		"10" "1662"
 		"11" "3843"
 		"12" "1663"
 		"13" "13190"
@@ -214,7 +214,7 @@
 	"developer" "Expansive Worlds"
 	"publisher" "Expansive Worlds"
 	"homepage" "http://callofthewild.thehunter.com/en"
-	"listofdlc" "579670,579671,579672,602310,619790,622450,630940,640230,695680,706150,766870,767380,854070,894600,939840,986850,1011280,1028270,1052690,1070170,1076850,1093700,1108410,1146830,1164110,1179710,1252750,1316840,1433620,1450350,1463090,1546670,1608440,1776430,1843410,1931910,2064720,2167630,2197812,2197822,2198012,2198015,2198025,2198092,2198095,2198870,2198872,2198874,2199012,2199015,2199072,2199075,2299780,2383430,2532370,2631430"
+	"listofdlc" "579670,579671,579672,602310,619790,622450,630940,640230,695680,706150,766870,767380,854070,894600,939840,986850,1011280,1028270,1052690,1070170,1076850,1093700,1108410,1146830,1164110,1179710,1252750,1316840,1433620,1450350,1463090,1546670,1608440,1776430,1843410,1931910,2064720,2167630,2197810,2197812,2197822,2198012,2198015,2198025,2198092,2198095,2198870,2198872,2198874,2199012,2199015,2199072,2199075,2299780,2383430,2532370,2631430,2701860"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -336,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "1230998710507376573"
-				"size" "85201038324"
-				"download" "42358876416"
+				"gid" "5438541438127298843"
+				"size" "85265336807"
+				"download" "42402325056"
 			}
 		}
 		"encryptedmanifests"
@@ -387,21 +387,21 @@
 			}
 			"thp_main_latest"
 			{
-				"gid" "69EAFC0E6F45EC792C712A16BBD40C3A"
-				"size" "EA14542FD01ECC4F124C6070F1EED52E"
-				"download" "F3FBD3AAA75020086A36E21A3A5DBE6E"
+				"gid" "F0626A8A54371FEE1C7C7288398BDE7C"
+				"size" "B81A21365F247B9C38B04FA339720D68"
+				"download" "B662B2701F6690F555BD92284F9207B7"
 			}
 			"thp_main_stable"
 			{
-				"gid" "1C7FED6B4244420A59ACAAFB22C8F2B4"
-				"size" "84A2EC4545CF4B9E123FF0047BD8CFFE"
-				"download" "08695F1273B6BD54A64576116ED2317F"
+				"gid" "4818E30B815F67113D653CAB2501F491"
+				"size" "E782447C1444F1EDB278A4E01C9D1453"
+				"download" "F434FD97294E5A584192F7936C5A8E52"
 			}
 			"thp_marketing_1"
 			{
-				"gid" "02BC270D7F95456465B407568D6161E1"
-				"size" "C40E7AFD5FB232A0AE80AF6AC2FBED41"
-				"download" "1748A6CE01E8A306FE057E4A9D32538B"
+				"gid" "DA6BBECAEE4BF77F221136BF9EF92BA4"
+				"size" "76B2298B246F5D0EB31D266F5A2D740E"
+				"download" "2F6086C7A8A64470D716457FC9D6ED58"
 			}
 			"thp_marketing_2"
 			{
@@ -417,9 +417,9 @@
 			}
 			"thp_qa_testbranch_1"
 			{
-				"gid" "EB5D5E11489B8EB0885E770D673988B5"
-				"size" "66F85D4A7E25F2C5E61623AB6FEDCE80"
-				"download" "4C8BD206CD916933169F23B51E60F041"
+				"gid" "8BF6692DC6F73B7853CC471C89CD542C"
+				"size" "F6B48B71EC1B05A204ECC40CBFA555E0"
+				"download" "84DF6E5628DFAB4C8F119124AE7FEE5C"
 			}
 			"thp_qa_testbranch_2"
 			{
@@ -429,15 +429,15 @@
 			}
 			"thp_qa_testbranch_3"
 			{
-				"gid" "75EDB696CF1610B0D49052B41DC7E0C6"
-				"size" "AE28855AF8A8945243CBBD7CD8B0FE3D"
-				"download" "2158D538C9A5C03CA882B8E70A6C0620"
+				"gid" "F1C9D643AC55ADCEF73CBBD498BB2CBC"
+				"size" "2EE16D66142352F4A7D4B82D7AE64420"
+				"download" "FAA9611718DCE5E5A8D6F97D9916D39A"
 			}
 			"thp_qa_testbranch_4"
 			{
-				"gid" "0852B8BBDD5A98C3778C3A341EB6328A"
-				"size" "87D9DE188B196CEF59473EA8711A8A3C"
-				"download" "04EDBB5F4F45EC2D3BB62A3EEB0E4D42"
+				"gid" "BF646B763025285FA7E36AE1B902823F"
+				"size" "B73E4A7341239C0476A8C7E1B073F410"
+				"download" "09C75ED6B8F27E7D175FE727F5301773"
 			}
 			"thp_rc"
 			{
@@ -546,9 +546,9 @@
 			}
 			"thp_marketing_1"
 			{
-				"gid" "9B64C5C6AD0FA90FDC09C4CF27F3162A"
-				"size" "499DBE0927DAEB3897126D3B1C7FCFF6"
-				"download" "4C0D92C2CEDD814AFCF0B7BB847D22C1"
+				"gid" "E5F46A8AEFCDF7435A2BEC6113CD0DAA"
+				"size" "E76A72DBAA709ADDAB9781AF13800721"
+				"download" "12FBD5AF1FB4522EF4B6C69ECA28091A"
 			}
 			"thp_marketing_2"
 			{
@@ -629,9 +629,9 @@
 		{
 			"public"
 			{
-				"gid" "90468835055996584"
-				"size" "1519788823"
-				"download" "262338704"
+				"gid" "5628196368822417739"
+				"size" "1529628791"
+				"download" "263589712"
 			}
 		}
 		"encryptedmanifests"
@@ -680,21 +680,21 @@
 			}
 			"thp_main_latest"
 			{
-				"gid" "2DAD3BA630530A84542136E963BB64A7"
-				"size" "E987E59CF3D5843FA7ADC9D254E280CE"
-				"download" "4D1F04F70F8E940094A3E3269D0BB106"
+				"gid" "E382E85716DA9A583187ECAC94E4FDDD"
+				"size" "57AE81008488451449A89C41C426BDDF"
+				"download" "3D7FE67D73F719C65C4A265BA41AA272"
 			}
 			"thp_main_stable"
 			{
-				"gid" "73130D67F79955AA5AF8F411F4366AE6"
-				"size" "75B70B2037D2E5A661B7580AD672BBB6"
-				"download" "EF2827DF2D778E90E88DA5C797A23EB9"
+				"gid" "C58867D6EDE2C2153D2B8980635B9964"
+				"size" "CB670C6EE362E6E1EA596462C9AD7287"
+				"download" "198B8A880D01A51B2009E387D9B9071F"
 			}
 			"thp_marketing_1"
 			{
-				"gid" "67E6F882F52D36612523B212F371152E"
-				"size" "82A5525750664595CE454CCB5F31FE46"
-				"download" "637DBB09B9D08A8F3D1E1257C12F37C3"
+				"gid" "E03D861653467A05C8422F4BD17A745A"
+				"size" "5A82315F49B895E94B5F60396F610DB0"
+				"download" "188D9CCFA0E8DCF615BFBFAB223C5F55"
 			}
 			"thp_marketing_2"
 			{
@@ -710,9 +710,9 @@
 			}
 			"thp_qa_testbranch_1"
 			{
-				"gid" "659D16C26B9B2E1A943F6152E7936E6F"
+				"gid" "7FC1A68A781FDCC29A6EE87D9B535AC9"
 				"size" "0B25DD3E2A4F9334F397074C3FA244EE"
-				"download" "3BA8F56A661B7F313F46A6BDCB37F2DE"
+				"download" "5773D167E4C192A3F4EF8D93C63FFF24"
 			}
 			"thp_qa_testbranch_2"
 			{
@@ -722,15 +722,15 @@
 			}
 			"thp_qa_testbranch_3"
 			{
-				"gid" "4B212745C1DFC5A12CFC94461A562755"
-				"size" "769D6FF7C16C0805BCC6F9984746F5AC"
-				"download" "68D1C0519E325B231A63406B78DAB777"
+				"gid" "12684794EED31B70AAC86479C22229F0"
+				"size" "8A9DC55452CDF5FA9B533648A2852243"
+				"download" "7ED3E21D31F395EEA92B1254579126AA"
 			}
 			"thp_qa_testbranch_4"
 			{
-				"gid" "43A3AE227F0C84E39858AC638AE98873"
-				"size" "CB75A96A521309071449914E935D3BE1"
-				"download" "B762A28D194641D9651006B0B2C36274"
+				"gid" "B60E1F78EE45043F12C194975FA868E3"
+				"size" "7626FD369FAD1197BC458AA1484252E5"
+				"download" "F3C5043079C2B3BE8DF0BFC0ADEC2F81"
 			}
 			"thp_rc"
 			{
@@ -768,8 +768,8 @@
 	{
 		"public"
 		{
-			"buildid" "12715374"
-			"timeupdated" "1701165450"
+			"buildid" "13446840"
+			"timeupdated" "1710237596"
 		}
 		"baseline"
 		{
@@ -815,21 +815,21 @@
 		}
 		"thp_main_latest"
 		{
-			"buildid" "13581292"
+			"buildid" "13696639"
 			"pwdrequired" "1"
-			"timeupdated" "1709215796"
+			"timeupdated" "1710142641"
 		}
 		"thp_main_stable"
 		{
-			"buildid" "12430143"
+			"buildid" "13696639"
 			"pwdrequired" "1"
-			"timeupdated" "1697186532"
+			"timeupdated" "1710159085"
 		}
 		"thp_marketing_1"
 		{
-			"buildid" "13446840"
+			"buildid" "13696639"
 			"pwdrequired" "1"
-			"timeupdated" "1708067938"
+			"timeupdated" "1710164026"
 		}
 		"thp_marketing_2"
 		{
@@ -845,9 +845,9 @@
 		}
 		"thp_qa_testbranch_1"
 		{
-			"buildid" "13570381"
+			"buildid" "13607902"
 			"pwdrequired" "1"
-			"timeupdated" "1709017425"
+			"timeupdated" "1709536238"
 		}
 		"thp_qa_testbranch_2"
 		{
@@ -857,15 +857,15 @@
 		}
 		"thp_qa_testbranch_3"
 		{
-			"buildid" "13391396"
+			"buildid" "13697847"
 			"pwdrequired" "1"
-			"timeupdated" "1707305192"
+			"timeupdated" "1710162007"
 		}
 		"thp_qa_testbranch_4"
 		{
-			"buildid" "13583894"
+			"buildid" "13698092"
 			"pwdrequired" "1"
-			"timeupdated" "1709104497"
+			"timeupdated" "1710142808"
 		}
 		"thp_rc"
 		{
@@ -922,6 +922,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22561540"
-"_sha" "91c6eb20726ab2f9811fb5e580987bb07fb0bc8f"
-"_size" "22688"
+"_change_number" "22726807"
+"_sha" "4c2c4f1a340dc9bd911c0e6b88e5d98d31e4014a"
+"_size" "22706"
