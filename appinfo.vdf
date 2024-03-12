@@ -120,7 +120,7 @@
 			"height_pct" "39.926641127122664"
 		}
 	}
-	"store_asset_mtime" "1707891070"
+	"store_asset_mtime" "1709681827"
 	"associations"
 	{
 		"0"
@@ -171,6 +171,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -280,7 +281,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1707889120"
+	"steam_release_date" "1707889080"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2478970"
@@ -295,16 +296,17 @@
 		"6" "21"
 		"7" "4182"
 		"8" "7481"
-		"9" "1664"
-		"10" "1693"
+		"9" "1693"
+		"10" "1664"
 		"11" "5708"
 		"12" "4166"
 		"13" "4667"
 		"14" "1756"
-		"15" "4026"
-		"16" "1625"
+		"15" "1625"
+		"16" "4026"
 		"17" "1742"
 		"18" "1667"
+		"19" "5611"
 	}
 	"review_score" "8"
 	"review_percentage" "87"
@@ -340,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "780596582911938715"
-				"size" "5865042017"
-				"download" "3571170560"
+				"gid" "527014612732868580"
+				"size" "5931173337"
+				"download" "3597973600"
 			}
 		}
 		"encryptedmanifests"
@@ -355,9 +357,9 @@
 			}
 			"daily_dev"
 			{
-				"gid" "FC1DC5D750AEE647733417067B112A06"
-				"size" "14AF69DC460768F78B24A62D4E589295"
-				"download" "76CE56FDE388859FA7D8FD9227666D45"
+				"gid" "38073D75A11FB38DD3EEB35D20BE8975"
+				"size" "EF218C78CD7D85565887CA837A1C8D8E"
+				"download" "D3FA0816F35421EACAB1E4157F581B17"
 			}
 			"gold"
 			{
@@ -367,9 +369,9 @@
 			}
 			"jordontest"
 			{
-				"gid" "D1059B14F52F6A4C02EEB22BD3050962"
-				"size" "57F08179EFBA39658164054CEA8CD06A"
-				"download" "0FD7D30A466367F29FF2CF7CA2D1F9AF"
+				"gid" "38B55EA92EA600EDBB7A3AA73BFA2835"
+				"size" "AE2D8494C04E56383AA1F60A11A593A0"
+				"download" "F4FCE7FF0006D564B4EF50EC954BF397"
 			}
 			"pre-gold"
 			{
@@ -385,9 +387,9 @@
 			}
 			"release"
 			{
-				"gid" "E6AAE65F10F62FAC2A83E90FB101CE2B"
-				"size" "1FBA30B06801D1EC8E5B0020E2EDB486"
-				"download" "1572B0160A19E21EDA36F4C2C554B55A"
+				"gid" "F978F632E09997CEBD783FAC3E28F02F"
+				"size" "428A18F791FF2098C4893F86DA9F9D2E"
+				"download" "1246665883E0A9BC06EE34049EA77B5A"
 			}
 			"teaser"
 			{
@@ -402,8 +404,8 @@
 	{
 		"public"
 		{
-			"buildid" "13430979"
-			"timeupdated" "1707888941"
+			"buildid" "13617493"
+			"timeupdated" "1710267207"
 		}
 		"aspyr_test"
 		{
@@ -413,9 +415,9 @@
 		}
 		"daily_dev"
 		{
-			"buildid" "13617493"
+			"buildid" "13711215"
 			"pwdrequired" "1"
-			"timeupdated" "1709325794"
+			"timeupdated" "1710229990"
 		}
 		"gold"
 		{
@@ -425,9 +427,9 @@
 		}
 		"jordontest"
 		{
-			"buildid" "13443082"
+			"buildid" "13504367"
 			"pwdrequired" "1"
-			"timeupdated" "1709085778"
+			"timeupdated" "1709653162"
 		}
 		"pre-gold"
 		{
@@ -443,9 +445,9 @@
 		}
 		"release"
 		{
-			"buildid" "13430979"
+			"buildid" "13617493"
 			"pwdrequired" "1"
-			"timeupdated" "1707846681"
+			"timeupdated" "1709834621"
 		}
 		"teaser"
 		{
@@ -474,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22597983"
-"_sha" "0e6be19b2775b184ec913a2f705656eb6d435a8f"
-"_size" "8810"
+"_change_number" "22733793"
+"_sha" "a065fefb082752cd6d1ef4c41636379d38789921"
+"_size" "8848"
