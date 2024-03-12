@@ -294,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "5832174600456487342"
-				"size" "10334954149"
-				"download" "3545708912"
+				"gid" "1872610580835820598"
+				"size" "9897391232"
+				"download" "3287662896"
 			}
 		}
 		"encryptedmanifests"
@@ -315,9 +315,9 @@
 			}
 			"betadev"
 			{
-				"gid" "831E7CE6B4AE0F48761530DE16C9AD24"
-				"size" "6E75CCF1D3F29411F3A17951B57C43D9"
-				"download" "1DAF21B66E40D04D5CF6C787726CC798"
+				"gid" "C6A2B264D626E122EE95A1F3573D0697"
+				"size" "59BF059B2F512AB9B1D3B1EF7EEF0AEA"
+				"download" "37A45D16BFEA2DCEF27575C7A02D31FA"
 			}
 			"delivery1"
 			{
@@ -345,9 +345,9 @@
 			}
 			"featuretesting1"
 			{
-				"gid" "D096A5F3C4F2E62AE97FC4D7DA9ED8C1"
-				"size" "5E01E7457B9CEE0F17FCFE9346EA1F14"
-				"download" "408F4177E48E0BAB5405E96CCEE10823"
+				"gid" "1981DB62572D22C3B33285300EFAA9CB"
+				"size" "017341ED7095D56818547D8FF4BD2CE7"
+				"download" "CA7F35003AB268B8386EAC6D2714BCBC"
 			}
 			"featuretesting2"
 			{
@@ -357,75 +357,75 @@
 			}
 			"featuretesting3"
 			{
-				"gid" "A29B56243007C54C3FB6E10B010F106E"
-				"size" "6A2516FF747B9FE3691A5500A4F78EAF"
-				"download" "74D5E3AE5DFD5F0F6347CCDE19F65116"
+				"gid" "6FB11924A34BBC66317BF54C33FD3244"
+				"size" "1920B5F8D47E1AA05334B8AFBAC069BD"
+				"download" "43AE34532B8901765CA3A27F0A2BD569"
 			}
 			"featuretesting4"
 			{
-				"gid" "AD97A50ED36DEED2231ABC647380D13A"
-				"size" "0566583CF36B1E9496EB29E4B456A672"
-				"download" "358FD1D0B4E647D5C2AEF2D7F635B5DC"
+				"gid" "EA127D2FFB96FC89A00E71AEFCD11C83"
+				"size" "3B8286A17CAC8ED2DFDCCC8875B742AC"
+				"download" "E6EBC1617D9AABCCC07FA05CC7BDD7AC"
 			}
 			"featuretesting5"
 			{
-				"gid" "F85EDEAD20579084BEF4C693ECAAB9A5"
-				"size" "69473D6DFF30FC5116963FAB72C64CE9"
-				"download" "E119B11D7AA85995979AEB0453095586"
+				"gid" "8BBE31A65424578D424272D151CD3301"
+				"size" "75D48035D249945BB9E18B5FEC010948"
+				"download" "530717AFAB830EA21FCD190974F36852"
 			}
 			"featuretesting6"
 			{
-				"gid" "2C09C3AD082B693C1F076376B5CDDF4A"
-				"size" "413EB63B59747B8D12EFD34451BBC243"
-				"download" "1715FECA4C6DC0376BC379F3FE27893A"
+				"gid" "E90F13C78FF26B48E712E708CA40547E"
+				"size" "820A5BFD3632DB8781301111D29454FE"
+				"download" "2CC507AD81FB74DE058F0D8FF83B885A"
 			}
 			"featuretesting7"
 			{
-				"gid" "FEA5D8D4BA7ECBC194F12545F677BCD3"
-				"size" "96F54D19E5C9829EF87BE7B677897DBE"
-				"download" "1BAE3E69836943F59799167FD5290BC5"
+				"gid" "410B99F06BA632B2146DC6C98A1A406F"
+				"size" "6EA1447F1365483152B7EFDC5B8AAB06"
+				"download" "6A1ADA39A553C142DA95339A18D1740F"
 			}
 			"featuretesting8"
 			{
-				"gid" "9692CA0AB9295D7F23FEDD784DBDD1CC"
-				"size" "DF0A65657B9BCBE758C2868696A17909"
-				"download" "13A33DEA0F0008ECB148ABC658417337"
+				"gid" "5F85F0CB85EAC2CB0D4B3AD604892B5B"
+				"size" "B913912EB4621B5B8453EAF9209C1CBF"
+				"download" "AC516DFAC6678F0A66618F0254B3EBD9"
 			}
 			"gamescom"
 			{
-				"gid" "605B17E3726988760FEB0B4F8C6C6FB3"
-				"size" "6278558A83FE06BAAE55F1AF82133075"
-				"download" "ED321E3CF49C516F0CE54F56B3A5266E"
+				"gid" "9B67FA84583332F12E299B55B831BCC4"
+				"size" "92DA543D87D21E2D477C33E9BDF91CF4"
+				"download" "3E00BD74D6F164AAFD6C1D60ADEAB6FC"
 			}
 			"hardeningdev"
 			{
-				"gid" "AE3B7EE770EE1E6A6AC90BD00A480B21"
-				"size" "B083515A152BD369BC1D13617FB86A28"
-				"download" "51B599B6DC7296616950C08C92C4DDFF"
+				"gid" "FAEBBC073E21D7CB2C822911A52E0BEA"
+				"size" "68CF7918ED45BF3F8FC0F6DB573AECAE"
+				"download" "B84859C4882952A46C76AA6BB416EB5C"
 			}
 			"marketing"
 			{
-				"gid" "85C9B5627B0A57775603BC4C226205D9"
-				"size" "FC007836B84C4EE945C79FBA99145671"
-				"download" "5482AD47AF0FDD85F079EAF626F8A03E"
+				"gid" "CDDA13EC100C761D945BD971126EB66B"
+				"size" "7632DE73142D2378BC9BFA5DBCE22D3B"
+				"download" "A2283836A2F085A5B4A07C8FA6DD804F"
 			}
 			"press"
 			{
-				"gid" "C7A391AB4EB901609882FF0A4F5B52F3"
-				"size" "40246C86F59DABFD02FA545296AE5F2B"
-				"download" "7681B95213799908423ED158D634F4AE"
+				"gid" "28ECC476A79EFF4CC4AC0311C97B09A8"
+				"size" "598C9ACDEFFE1496FC14D1150A344C16"
+				"download" "4F2A4FC3910489334250AB3140E50438"
 			}
 			"stablerc"
 			{
-				"gid" "554BD7A7155EEF81B4067C84F54EF1CC"
-				"size" "ED73A9E434E8BC89E6D35F0D0D6CE50B"
-				"download" "B66A3FE13CA648253D2FF0DF1B1A9609"
+				"gid" "2D2038C7BD3EBC5D0CA41AE286C72DC9"
+				"size" "B16602CC8BD46508AE3A3EC506DA4242"
+				"download" "3DC434D84221C0E7FAE73336F0254A55"
 			}
 			"stablercdev"
 			{
-				"gid" "C734E52E811016BAD71D23B5B8E1F7A2"
-				"size" "EB50EDFADD43F02C68BF6A86B823DB15"
-				"download" "E0FAB53D66CA6C29D5409FF563455787"
+				"gid" "D337A60F0F7251A4B5DEE4FE4C45E8F2"
+				"size" "64132CDB6CAD27911E9D2FED59714A00"
+				"download" "1C85E1066AED607E52FA6CE627B16C06"
 			}
 			"turtlehardeningdev"
 			{
@@ -435,9 +435,9 @@
 			}
 			"turtlehardeningrelease"
 			{
-				"gid" "308C94027EBC9F5A02E02BB95E46ABAF"
-				"size" "91A15EC6D855FEDD7107E4E324408D44"
-				"download" "B9430FE8C04ACFFBA97B7DE990B10CBE"
+				"gid" "D5E32180317A752759859DDB022CB4B0"
+				"size" "89FA91FE61CEE74A5042F7CBE204389C"
+				"download" "EEBD911D7185F9BB80563DAEE701D398"
 			}
 		}
 	}
@@ -446,8 +446,8 @@
 	{
 		"public"
 		{
-			"buildid" "12955207"
-			"timeupdated" "1702893629"
+			"buildid" "13708547"
+			"timeupdated" "1710239838"
 		}
 		"alphadev"
 		{
@@ -463,9 +463,9 @@
 		}
 		"betadev"
 		{
-			"buildid" "13606359"
+			"buildid" "13707585"
 			"pwdrequired" "1"
-			"timeupdated" "1709243863"
+			"timeupdated" "1710195996"
 		}
 		"delivery1"
 		{
@@ -493,9 +493,9 @@
 		}
 		"featuretesting1"
 		{
-			"buildid" "13530326"
+			"buildid" "13672623"
 			"pwdrequired" "1"
-			"timeupdated" "1708601056"
+			"timeupdated" "1709834528"
 		}
 		"featuretesting2"
 		{
@@ -505,75 +505,75 @@
 		}
 		"featuretesting3"
 		{
-			"buildid" "13599165"
+			"buildid" "13702719"
 			"pwdrequired" "1"
-			"timeupdated" "1709197581"
+			"timeupdated" "1710165024"
 		}
 		"featuretesting4"
 		{
-			"buildid" "13579205"
+			"buildid" "13656954"
 			"pwdrequired" "1"
-			"timeupdated" "1709057757"
+			"timeupdated" "1709728315"
 		}
 		"featuretesting5"
 		{
-			"buildid" "13612228"
+			"buildid" "13712037"
 			"pwdrequired" "1"
-			"timeupdated" "1709291431"
+			"timeupdated" "1710235188"
 		}
 		"featuretesting6"
 		{
-			"buildid" "13534464"
+			"buildid" "13669848"
 			"pwdrequired" "1"
-			"timeupdated" "1708625871"
+			"timeupdated" "1709818562"
 		}
 		"featuretesting7"
 		{
-			"buildid" "13471214"
+			"buildid" "13712408"
 			"pwdrequired" "1"
-			"timeupdated" "1708047160"
+			"timeupdated" "1710237454"
 		}
 		"featuretesting8"
 		{
-			"buildid" "13617451"
+			"buildid" "13634617"
 			"pwdrequired" "1"
-			"timeupdated" "1709325444"
+			"timeupdated" "1709569836"
 		}
 		"gamescom"
 		{
-			"buildid" "11904044"
+			"buildid" "13605295"
 			"pwdrequired" "1"
-			"timeupdated" "1691600500"
+			"timeupdated" "1709559542"
 		}
 		"hardeningdev"
 		{
-			"buildid" "13606519"
+			"buildid" "13707294"
 			"pwdrequired" "1"
-			"timeupdated" "1709245081"
+			"timeupdated" "1710193576"
 		}
 		"marketing"
 		{
-			"buildid" "12955207"
+			"buildid" "13687886"
 			"pwdrequired" "1"
-			"timeupdated" "1702889062"
+			"timeupdated" "1710149744"
 		}
 		"press"
 		{
-			"buildid" "13513308"
+			"buildid" "13708547"
 			"pwdrequired" "1"
-			"timeupdated" "1709307968"
+			"timeupdated" "1710239864"
 		}
 		"stablerc"
 		{
-			"buildid" "13513308"
+			"buildid" "13708547"
 			"pwdrequired" "1"
-			"timeupdated" "1708472051"
+			"timeupdated" "1710203834"
 		}
 		"stablercdev"
 		{
-			"buildid" "13513697"
+			"buildid" "13708710"
 			"pwdrequired" "1"
-			"timeupdated" "1708475350"
+			"timeupdated" "1710205426"
 		}
 		"turtlehardeningdev"
 		{
@@ -583,9 +583,9 @@
 		}
 		"turtlehardeningrelease"
 		{
-			"buildid" "13605396"
+			"buildid" "13663344"
 			"pwdrequired" "1"
-			"timeupdated" "1709237543"
+			"timeupdated" "1709770852"
 		}
 	}
 }
@@ -608,6 +608,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22597063"
-"_sha" "bd0452dcd646b5a4291ead5982c7e87c8bf3fd66"
-"_size" "12474"
+"_change_number" "22727319"
+"_sha" "7aef8bf747ecb4fbd25abc4e997d3af0d7ea23af"
+"_size" "12473"
