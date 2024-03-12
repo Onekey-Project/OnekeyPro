@@ -124,9 +124,9 @@
 		{
 			"public"
 			{
-				"gid" "8509674290508287027"
-				"size" "2309473013"
-				"download" "2194358656"
+				"gid" "6973701433704824303"
+				"size" "2310005931"
+				"download" "2194704784"
 			}
 		}
 		"encryptedmanifests"
@@ -163,21 +163,21 @@
 			}
 			"astromain_dailies"
 			{
-				"gid" "C9BCC8822D884903162D730D10CB2BAF"
-				"size" "FCA734A63CB074011C8446E36C5384AF"
-				"download" "A415B9FA4217F9A5DD2FD7D5535F1D6C"
+				"gid" "4711E9772D47777866BF1B1EC557D065"
+				"size" "9FA93FA6C98CED914B07B54551D7B5F4"
+				"download" "5031DF19801A8D3FFB7B99245B57458B"
 			}
 			"astromain_incremental"
 			{
-				"gid" "128918187A2A0DB8EC555000CFBFA2C9"
-				"size" "46C3F0B0C7C3FA6B07C23B0D72E4BB41"
-				"download" "0F133AFEA0B6FB93BDC90ACD087A06BA"
+				"gid" "2DB1DAAE89448CC6C03CD1809F2599F2"
+				"size" "A6AE3FF5AA70456EB370CBE31FB0D24E"
+				"download" "D92D274FBD6F5D7DF7959CD7A664F058"
 			}
 			"astromain_su"
 			{
-				"gid" "7142199BC4A153FC2AE9228111B95AF0"
-				"size" "8FF6E1505182BC02C69711420D579DFA"
-				"download" "A050CD3173953090C45E6885322C9025"
+				"gid" "B885EDAA53E946336572A9FACE6A9B27"
+				"size" "A3FA670A541087A5FD5A94081740FD80"
+				"download" "D1DB8D0C35477408F4BB53F8F2909D11"
 			}
 			"astroneer_beta"
 			{
@@ -245,8 +245,8 @@
 	{
 		"public"
 		{
-			"buildid" "13386360"
-			"timeupdated" "1707515098"
+			"buildid" "13570727"
+			"timeupdated" "1710272568"
 		}
 		"astro_ds"
 		{
@@ -280,21 +280,21 @@
 		}
 		"astromain_dailies"
 		{
-			"buildid" "13621220"
+			"buildid" "13711798"
 			"pwdrequired" "1"
-			"timeupdated" "1709372427"
+			"timeupdated" "1710234000"
 		}
 		"astromain_incremental"
 		{
-			"buildid" "13618216"
+			"buildid" "13687079"
 			"pwdrequired" "1"
-			"timeupdated" "1709331798"
+			"timeupdated" "1709943242"
 		}
 		"astromain_su"
 		{
-			"buildid" "13621325"
+			"buildid" "13712235"
 			"pwdrequired" "1"
-			"timeupdated" "1709373948"
+			"timeupdated" "1710236481"
 		}
 		"astroneer_beta"
 		{
@@ -359,6 +359,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22598978"
-"_sha" "04b45d194d7b46c904abdcb48166fda3dd2fb871"
+"_change_number" "22734688"
+"_sha" "10c511e86e9193ab8159a433362620bcb5ac1f7d"
 "_size" "7337"
