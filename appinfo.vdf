@@ -228,9 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "2909990085830114028"
-				"size" "5954016690"
-				"download" "1762549456"
+				"gid" "3876628839878012488"
+				"size" "5953916219"
+				"download" "1762071648"
 			}
 		}
 		"encryptedmanifests"
@@ -261,9 +261,9 @@
 			}
 			"shiro"
 			{
-				"gid" "6275D19BA7924015C8EAF2A99A14A7F5"
-				"size" "5D354CF5654355B0E708EBB5C5FDFDB9"
-				"download" "117E2A28A2A300EB0B1474698845F56F"
+				"gid" "2A7C6433130B9E5EDDA5FAB7275E85A3"
+				"size" "F30B53844CA29D5855B65336D679A85D"
+				"download" "635D259D807D1239C861127886693E5D"
 			}
 			"tournament"
 			{
@@ -277,8 +277,8 @@
 	{
 		"public"
 		{
-			"buildid" "13668253"
-			"timeupdated" "1709822972"
+			"buildid" "13727814"
+			"timeupdated" "1710345749"
 		}
 		"cert-other"
 		{
@@ -306,9 +306,9 @@
 		}
 		"shiro"
 		{
-			"buildid" "13668253"
+			"buildid" "13727814"
 			"pwdrequired" "1"
-			"timeupdated" "1709810079"
+			"timeupdated" "1710341172"
 		}
 		"tournament"
 		{
@@ -334,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22672866"
-"_sha" "36cb9517300a34b7234229a24dab3400a4d97e52"
+"_change_number" "22747663"
+"_sha" "db7653cf1d3a9755a565bdd49f6514d0fb258a87"
 "_size" "6185"
