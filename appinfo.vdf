@@ -228,9 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "870232375822352597"
-				"size" "5953916291"
-				"download" "1762071232"
+				"gid" "4635961693527193025"
+				"size" "5953916313"
+				"download" "1762071440"
 			}
 		}
 		"encryptedmanifests"
@@ -261,9 +261,9 @@
 			}
 			"shiro"
 			{
-				"gid" "C1DFE5B3280C42E33F88682FDC72A4D6"
-				"size" "863D79A98485D1B6091B1FEA77F503B2"
-				"download" "E7EF36774B98714AA4A2336A26568939"
+				"gid" "4304E54407A7A3ACCDCD880C1143886E"
+				"size" "A01D7540A9AC33AEC3EE91FF4BBDFB22"
+				"download" "B2848C9CB3A68EA69385AB74DF2C1309"
 			}
 			"tournament"
 			{
@@ -277,8 +277,8 @@
 	{
 		"public"
 		{
-			"buildid" "13729860"
-			"timeupdated" "1710354032"
+			"buildid" "13730470"
+			"timeupdated" "1710357205"
 		}
 		"cert-other"
 		{
@@ -306,9 +306,9 @@
 		}
 		"shiro"
 		{
-			"buildid" "13729860"
+			"buildid" "13730470"
 			"pwdrequired" "1"
-			"timeupdated" "1710352917"
+			"timeupdated" "1710356624"
 		}
 		"tournament"
 		{
@@ -334,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22749547"
-"_sha" "6141568465db087cac519c34e821e44013404ea8"
-"_size" "6184"
+"_change_number" "22750186"
+"_sha" "fe13aa04703e6aa6a20132c24ae06135f776e606"
+"_size" "6185"
