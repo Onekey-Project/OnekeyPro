@@ -217,8 +217,8 @@
 		"12" "3942"
 		"13" "4252"
 		"14" "1759"
-		"15" "4305"
-		"16" "3859"
+		"15" "3859"
+		"16" "4305"
 		"17" "3839"
 		"18" "4182"
 		"19" "1716"
@@ -281,24 +281,24 @@
 		{
 			"public"
 			{
-				"gid" "8761219670212266106"
-				"size" "4714647362"
-				"download" "4451795040"
+				"gid" "4576165800708309243"
+				"size" "4714652306"
+				"download" "4451891376"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dev_crossnetwork"
 			{
-				"gid" "3980738492241D6F1A5BF3B653041EA9"
-				"size" "86EF514EC5836099981FF343E1C35990"
-				"download" "FC5E93E2544413530F72E6BDEE9AAAA5"
+				"gid" "E5B9312F61DAED0870E0902E13493252"
+				"size" "C95D4AAA1FE3E8263E406292CFD12676"
+				"download" "4CEADFAF8118BEECE873C884C6F1AA6A"
 			}
 			"developer"
 			{
-				"gid" "2105A90E5040B6CEFA3BA9FD35416005"
-				"size" "59BC1707781B59D05BAA9249D597A63D"
-				"download" "313CD4CCA7E9F9A201D22FE048DCC495"
+				"gid" "C6B35679A6DCC52D0E0FC77B3C2F1591"
+				"size" "25CA2950B8F9F9108206EC1C03E97DED"
+				"download" "0F2146278A63F7072101D8E6A76B08D8"
 			}
 			"eos_dev"
 			{
@@ -314,15 +314,15 @@
 			}
 			"gigachad_trad"
 			{
-				"gid" "99E1D3DE96DD24AB052C23676B338D45"
-				"size" "76EED5804F563F78C206F67AAFAB2F27"
-				"download" "CE2AC1D07F9120AACF9C2AE1EB2F5DD1"
+				"gid" "CF6C26FF7DE37347EC76ED1F468E4CFC"
+				"size" "D608A117C51E7D39F4EFCDA1C211B342"
+				"download" "CA66E99637FA1AC9BE737BD53EC0C53C"
 			}
 			"gigachadquest"
 			{
-				"gid" "0ABF95594B42D76E510F8E48DCBD5FBA"
-				"size" "EDD925F6AE21D9EE547FF7AC29E82B0A"
-				"download" "3246CF6E2E498A36E419F32790C03A3C"
+				"gid" "8188FEE205951D24E0D9E2FF18BFFD2D"
+				"size" "A940CE88518F1ACAAA613B9865A567A3"
+				"download" "969AAA2FE375D35DB3FDF99651E3FCEB"
 			}
 			"jamesaroni"
 			{
@@ -368,9 +368,9 @@
 			}
 			"staging"
 			{
-				"gid" "C54B152367461E66539B512F63AB696A"
-				"size" "492E08C6D8DB200B0FD1866DF2D7B487"
-				"download" "5DECEF798A54D096751179B91227940A"
+				"gid" "2A981213FCB71B1BF0BE3F5D86975D8D"
+				"size" "BF0C28A9492ED776EFAB6A5FE42EC05D"
+				"download" "DD3180AC103F9D72918871EC62FD2362"
 			}
 		}
 	}
@@ -418,6 +418,12 @@
 				"size" "BE887B83EA4004F3E0226367C53314C6"
 				"download" "85D6863955F79E94B91EBAADA1AC4623"
 			}
+			"gigachadquest"
+			{
+				"gid" "46245484802CA27FAD2D305FFCEEBD0D"
+				"size" "782646B6E30EA473F00F00D9BED8794F"
+				"download" "9659EE971A3B639454D8B373B870BD82"
+			}
 			"staging"
 			{
 				"gid" "5392B36C4EFC045769D60A1108295175"
@@ -430,20 +436,20 @@
 	{
 		"public"
 		{
-			"buildid" "13475304"
-			"timeupdated" "1708350729"
+			"buildid" "13715511"
+			"timeupdated" "1710321795"
 		}
 		"dev_crossnetwork"
 		{
-			"buildid" "13457445"
+			"buildid" "13706145"
 			"pwdrequired" "1"
-			"timeupdated" "1707987294"
+			"timeupdated" "1710186853"
 		}
 		"developer"
 		{
-			"buildid" "13602764"
+			"buildid" "13700128"
 			"pwdrequired" "1"
-			"timeupdated" "1709220207"
+			"timeupdated" "1710148892"
 		}
 		"eos_dev"
 		{
@@ -459,15 +465,15 @@
 		}
 		"gigachad_trad"
 		{
-			"buildid" "13574923"
+			"buildid" "13683607"
 			"pwdrequired" "1"
-			"timeupdated" "1709039583"
+			"timeupdated" "1709944517"
 		}
 		"gigachadquest"
 		{
-			"buildid" "12123787"
+			"buildid" "13673524"
 			"pwdrequired" "1"
-			"timeupdated" "1694073651"
+			"timeupdated" "1709882009"
 		}
 		"jamesaroni"
 		{
@@ -513,9 +519,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13475304"
+			"buildid" "13715511"
 			"pwdrequired" "1"
-			"timeupdated" "1708099910"
+			"timeupdated" "1710255038"
 		}
 	}
 }
@@ -568,6 +574,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22583387"
-"_sha" "e18d7438e71a167d0f7c148ac7739c13c6a64cbf"
-"_size" "10972"
+"_change_number" "22742017"
+"_sha" "ddcadd493409dbae6e980894deee8ef4814b98b1"
+"_size" "11151"
