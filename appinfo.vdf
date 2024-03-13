@@ -70,6 +70,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -77,7 +78,7 @@
 			"height_pct" "66.71732445262575"
 		}
 	}
-	"store_asset_mtime" "1693580570"
+	"store_asset_mtime" "1710295872"
 	"associations"
 	{
 		"0"
@@ -112,6 +113,51 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
 			"subtitles" "true"
 		}
 	}
@@ -202,27 +248,21 @@
 		{
 			"public"
 			{
-				"gid" "7095363653312754587"
-				"size" "972850576"
-				"download" "658434416"
+				"gid" "5892232838257153572"
+				"size" "976860383"
+				"download" "657911184"
 			}
 			"betatesting"
 			{
-				"gid" "7095363653312754587"
-				"size" "972850576"
-				"download" "658434416"
+				"gid" "5892232838257153572"
+				"size" "976860383"
+				"download" "657911184"
 			}
 			"last_update"
 			{
-				"gid" "5240288530657197992"
-				"size" "960455559"
-				"download" "646611952"
-			}
-			"localization_testing"
-			{
-				"gid" "8987977773022901885"
-				"size" "980920009"
-				"download" "658870496"
+				"gid" "7095363653312754587"
+				"size" "972850576"
+				"download" "658434416"
 			}
 			"previous_version"
 			{
@@ -243,27 +283,21 @@
 		{
 			"public"
 			{
-				"gid" "2444004397137908866"
-				"size" "965532004"
-				"download" "656130592"
+				"gid" "5622764198269247543"
+				"size" "969529908"
+				"download" "655595104"
 			}
 			"betatesting"
 			{
-				"gid" "2444004397137908866"
-				"size" "965532004"
-				"download" "656130592"
+				"gid" "5622764198269247543"
+				"size" "969529908"
+				"download" "655595104"
 			}
 			"last_update"
 			{
-				"gid" "1005208285388380165"
-				"size" "953136532"
-				"download" "644305744"
-			}
-			"localization_testing"
-			{
-				"gid" "4607992056872841142"
-				"size" "973589780"
-				"download" "656555376"
+				"gid" "2444004397137908866"
+				"size" "965532004"
+				"download" "656130592"
 			}
 			"previous_version"
 			{
@@ -283,27 +317,21 @@
 		{
 			"public"
 			{
-				"gid" "6520020290007994905"
-				"size" "977149391"
-				"download" "659943552"
+				"gid" "502696682097187642"
+				"size" "981418367"
+				"download" "659448064"
 			}
 			"betatesting"
 			{
-				"gid" "6520020290007994905"
-				"size" "977149391"
-				"download" "659943552"
+				"gid" "502696682097187642"
+				"size" "981418367"
+				"download" "659448064"
 			}
 			"last_update"
 			{
-				"gid" "3437215967957706746"
-				"size" "964751887"
-				"download" "648119840"
-			}
-			"localization_testing"
-			{
-				"gid" "4952639245564407406"
-				"size" "985463860"
-				"download" "660409552"
+				"gid" "6520020290007994905"
+				"size" "977149391"
+				"download" "659943552"
 			}
 			"previous_version"
 			{
@@ -317,26 +345,20 @@
 	{
 		"public"
 		{
-			"buildid" "13244111"
-			"timeupdated" "1706202936"
+			"buildid" "13718072"
+			"timeupdated" "1710349712"
 		}
 		"betatesting"
 		{
-			"buildid" "13244111"
+			"buildid" "13718072"
 			"description" "Public branch for testing updates"
-			"timeupdated" "1705977457"
+			"timeupdated" "1710349783"
 		}
 		"last_update"
 		{
-			"buildid" "12963638"
+			"buildid" "13244111"
 			"description" "Use the last version (1.18 instead of 1.19)"
-			"timeupdated" "1706202960"
-		}
-		"localization_testing"
-		{
-			"buildid" "13616691"
-			"description" "Special beta branch for testing localization"
-			"timeupdated" "1709319639"
+			"timeupdated" "1710349802"
 		}
 		"previous_version"
 		{
@@ -406,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22586753"
-"_sha" "cddf1c2be8edf1881c3679d7670250d03dd98a6f"
-"_size" "7807"
+"_change_number" "22748641"
+"_sha" "8f7bb5028424f3139b563331d0d4731957ee797e"
+"_size" "7933"
