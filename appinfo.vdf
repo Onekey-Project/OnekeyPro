@@ -79,7 +79,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1708729143"
+	"store_asset_mtime" "1710164046"
 	"associations"
 	{
 		"0"
@@ -226,7 +226,7 @@
 		"19" "6910"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -334,18 +334,24 @@
 		{
 			"public"
 			{
-				"gid" "6206843326376348628"
-				"size" "10467105205"
-				"download" "10231245648"
+				"gid" "3916173560543621929"
+				"size" "10470401263"
+				"download" "10234590768"
+			}
+			"multiplayer-beta"
+			{
+				"gid" "1696422990392818802"
+				"size" "10607248033"
+				"download" "10372893888"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"multiplayer-testing"
 			{
-				"gid" "96B8B193BE26BFE00C3CFB4A8674AB9C"
-				"size" "160B89FAC435F7B4CDB6C9E4D57FAE58"
-				"download" "0B2AC6076A8678C3AFB3FB62355E96F4"
+				"gid" "A7B992290730C1FC7682D1B2384A982D"
+				"size" "3AD4FF06F0833C26F15B393C9534B3E3"
+				"download" "0929F8E5CC30A8F164229A9D3988AB1B"
 			}
 			"testing"
 			{
@@ -355,9 +361,9 @@
 			}
 			"unstable-default"
 			{
-				"gid" "C349DB6787FA332723F3DEF63C36D895"
-				"size" "E37E33D7FD4D163E01E171A7C8E96E47"
-				"download" "3D56D555BFDBB33C3F7955A90EC561BA"
+				"gid" "6CA1B1F037869E4F1E8B08DC9B6F007A"
+				"size" "69F0F935CAF0BA069EAA47EC62A4C935"
+				"download" "C150A150CE105DBBCB58B93EB7FE7E52"
 			}
 		}
 	}
@@ -368,14 +374,20 @@
 	{
 		"public"
 		{
-			"buildid" "13599621"
-			"timeupdated" "1709286570"
+			"buildid" "13726452"
+			"timeupdated" "1710341357"
+		}
+		"multiplayer-beta"
+		{
+			"buildid" "13703978"
+			"description" "Beta multiplayer"
+			"timeupdated" "1710172237"
 		}
 		"multiplayer-testing"
 		{
-			"buildid" "13613626"
+			"buildid" "13727599"
 			"pwdrequired" "1"
-			"timeupdated" "1709299250"
+			"timeupdated" "1710340063"
 		}
 		"testing"
 		{
@@ -385,9 +397,9 @@
 		}
 		"unstable-default"
 		{
-			"buildid" "13599621"
+			"buildid" "13726452"
 			"pwdrequired" "1"
-			"timeupdated" "1709200449"
+			"timeupdated" "1710333105"
 		}
 	}
 }
@@ -411,6 +423,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22604137"
-"_sha" "30047057d89899254e112912681eb84566565b01"
-"_size" "6787"
+"_change_number" "22746414"
+"_sha" "eff033dc161ad556974d092806c659fafbfe9e10"
+"_size" "7042"
