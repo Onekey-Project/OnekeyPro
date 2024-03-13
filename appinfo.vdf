@@ -311,15 +311,15 @@
 		{
 			"public"
 			{
-				"gid" "6804149285918281094"
-				"size" "486835280"
-				"download" "151748272"
+				"gid" "2298955791282206798"
+				"size" "487035824"
+				"download" "151829840"
 			}
 			"testingbranch"
 			{
-				"gid" "6804149285918281094"
-				"size" "486835280"
-				"download" "151748272"
+				"gid" "2298955791282206798"
+				"size" "487035824"
+				"download" "151829840"
 			}
 		}
 		"encryptedmanifests"
@@ -356,9 +356,9 @@
 			}
 			"internal"
 			{
-				"gid" "A6756205B802339C171A6E718FFF54E8"
-				"size" "D25CE0D1C9C2FEDDD5AF1806619A4D63"
-				"download" "DCD4D35B668550511962DCF7BD6AE028"
+				"gid" "351564421C675AE5BA1966A196D0ECCD"
+				"size" "1D065132F10CBE605DDD1CA2258977A2"
+				"download" "295B54D5BD366DC1EB949C7B20FE8A85"
 			}
 			"internaltesting"
 			{
@@ -374,9 +374,9 @@
 			}
 			"privatebranch"
 			{
-				"gid" "854751DD6320E1ACF775ECC1587B20F3"
-				"size" "E21B6272A5454AC4777967E5591470FE"
-				"download" "8A807E343AF945E36FC2D0D5FA6929BF"
+				"gid" "C6A3EAF73A4864AB04A53A725595D897"
+				"size" "170735EE6F7B8714689790175B9EFACD"
+				"download" "376D42ED134EEFAFC437DDD621405C98"
 			}
 			"storymodetesting"
 			{
@@ -396,15 +396,15 @@
 		{
 			"public"
 			{
-				"gid" "4915386157521946964"
-				"size" "495983484"
-				"download" "155205504"
+				"gid" "1785710720439624676"
+				"size" "496184766"
+				"download" "155297744"
 			}
 			"testingbranch"
 			{
-				"gid" "4915386157521946964"
-				"size" "495983484"
-				"download" "155205504"
+				"gid" "1785710720439624676"
+				"size" "496184766"
+				"download" "155297744"
 			}
 		}
 		"encryptedmanifests"
@@ -441,9 +441,9 @@
 			}
 			"internal"
 			{
-				"gid" "976C85C209FC2BC466AE40CF35DAB7EA"
-				"size" "711D1546DB092FB9FAEA869056E27BDD"
-				"download" "3D2F6C0DB2568A06A7AD36C14D055A98"
+				"gid" "DB8B34DCC67D3141D146DF28CE44EB5F"
+				"size" "DD8B9E7E8225924B85B01295F3FB623F"
+				"download" "29428F2198B19259808D8D2F15440CF1"
 			}
 			"internaltesting"
 			{
@@ -459,9 +459,9 @@
 			}
 			"privatebranch"
 			{
-				"gid" "64A1A1D2EDE7A8CEDDB38AB8DB2B1C15"
-				"size" "9AEEA3D52C933A7B185A20AAC49475F9"
-				"download" "33129188C43F28AE9DD9149E2412D24D"
+				"gid" "9331A1388ED9D5E69DAC132611B047CF"
+				"size" "93A586EF221077911ECF1FCCC19CF590"
+				"download" "87951E66222226C47EBAB2B37F636F17"
 			}
 			"storymodetesting"
 			{
@@ -481,15 +481,15 @@
 		{
 			"public"
 			{
-				"gid" "188981415327449782"
-				"size" "473319590"
-				"download" "147473968"
+				"gid" "7601422888701021384"
+				"size" "473520966"
+				"download" "147565440"
 			}
 			"testingbranch"
 			{
-				"gid" "188981415327449782"
-				"size" "473319590"
-				"download" "147473968"
+				"gid" "7601422888701021384"
+				"size" "473520966"
+				"download" "147565440"
 			}
 		}
 		"encryptedmanifests"
@@ -526,9 +526,9 @@
 			}
 			"internal"
 			{
-				"gid" "FA9BAC65967174E53219A75088A915F0"
-				"size" "CAE50AC8F141C47AE0566AD619463F4C"
-				"download" "24E2192FE3288970E1FBA76131463900"
+				"gid" "3B55B100C13D67D310EE5AB31F751DE7"
+				"size" "97BD144A0CBAD13E671E7FF4D9EECAFF"
+				"download" "869D122BDDB50F2273EFF55D1B502DC8"
 			}
 			"internaltesting"
 			{
@@ -544,9 +544,9 @@
 			}
 			"privatebranch"
 			{
-				"gid" "E64C5E65C17A8B02C06C5E39A518095D"
-				"size" "2EDB99BC9E1D0C403EEAB91B45EAD238"
-				"download" "9DF35799B9157973F557FA71EF5E2AED"
+				"gid" "8E448D3AEBA140572AEA5F7C17907D9F"
+				"size" "E03C1D62FF3CCE04DD2EC5C650E63268"
+				"download" "9A47D65FB5AC1244647C13857FF555E0"
 			}
 			"storymodetesting"
 			{
@@ -561,8 +561,8 @@
 	{
 		"public"
 		{
-			"buildid" "13491040"
-			"timeupdated" "1709832404"
+			"buildid" "13673823"
+			"timeupdated" "1710373053"
 		}
 		"bphlaunchreview"
 		{
@@ -596,9 +596,9 @@
 		}
 		"internal"
 		{
-			"buildid" "13491040"
+			"buildid" "13673823"
 			"pwdrequired" "1"
-			"timeupdated" "1709700415"
+			"timeupdated" "1709842973"
 		}
 		"internaltesting"
 		{
@@ -614,9 +614,9 @@
 		}
 		"privatebranch"
 		{
-			"buildid" "13491040"
+			"buildid" "13673823"
 			"pwdrequired" "1"
-			"timeupdated" "1708278524"
+			"timeupdated" "1709843136"
 		}
 		"storymodetesting"
 		{
@@ -626,9 +626,9 @@
 		}
 		"testingbranch"
 		{
-			"buildid" "13491040"
+			"buildid" "13673823"
 			"description" "Testing Branch"
-			"timeupdated" "1708278532"
+			"timeupdated" "1709843126"
 		}
 	}
 }
@@ -666,6 +666,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22675158"
-"_sha" "b0fd1524ea20ecd0f7f90ae5099ddacc886565e1"
-"_size" "13559"
+"_change_number" "22752920"
+"_sha" "a190cb3771ff464edf4556147821950018e342d1"
+"_size" "13561"
