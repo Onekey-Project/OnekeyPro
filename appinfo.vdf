@@ -401,9 +401,9 @@
 		{
 			"public"
 			{
-				"gid" "2522872867702444972"
-				"size" "2609726103"
-				"download" "1381691984"
+				"gid" "8403049013177121841"
+				"size" "2621855620"
+				"download" "1383654016"
 			}
 			"!preview-version"
 			{
@@ -522,6 +522,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"!release-candidate"
+			{
+				"gid" "F8BCB1EBB02974BB98765845EB25DB0B"
+				"size" "C2A5A8D8F4F813B763890806F67FB8FA"
+				"download" "A1642329C96C34C3A6A7F7FE0C8E9345"
+			}
 			"*experimental"
 			{
 				"gid" "E6A3C8EB58400151407F4B5D890C7F4B"
@@ -530,9 +536,9 @@
 			}
 			"nightly"
 			{
-				"gid" "DB2E9893CEC57CEBB3939C38B33ACF5A"
-				"size" "A72E16E0B696A96422548FB3F9BAC76F"
-				"download" "E6F59AB75DBF29BE67B8519547B589F5"
+				"gid" "C6A0E7E980F3F5D652068D5E6B7AE190"
+				"size" "337C0A1A92BD633BE18DA71C26CBC4B6"
+				"download" "938F94B93152C45C215C78536BD76C48"
 			}
 		}
 	}
@@ -547,9 +553,9 @@
 		{
 			"public"
 			{
-				"gid" "5317062436793966842"
-				"size" "2614014176"
-				"download" "1377842368"
+				"gid" "5440130934594855393"
+				"size" "2616825617"
+				"download" "1378410704"
 			}
 			"!preview-version"
 			{
@@ -668,6 +674,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"!release-candidate"
+			{
+				"gid" "E4FE053DDB6E5FDE64C016CEE15BB6EA"
+				"size" "3C2CD8A78A9BE4E17B21C1ADE5E9E1CA"
+				"download" "DC7B34D9CE2D1B504651B178A973AF0A"
+			}
 			"*experimental"
 			{
 				"gid" "663D49B5FD10C34C0493BD695C06D039"
@@ -676,9 +688,9 @@
 			}
 			"nightly"
 			{
-				"gid" "3225DFB0323CF1880EA52358CA2BC791"
-				"size" "6097743447DE2473066BAE756F401FAF"
-				"download" "60C7D5541883862A6E87BF7B75110C4A"
+				"gid" "65A2B2F8148029BC23BAF409137EEC63"
+				"size" "EA906A68F79D5712FB380F8843BE340A"
+				"download" "C7EB64D2A0432682255083DB15AB730E"
 			}
 		}
 	}
@@ -686,14 +698,20 @@
 	{
 		"public"
 		{
-			"buildid" "13650101"
-			"timeupdated" "1709677092"
+			"buildid" "13730482"
+			"timeupdated" "1710365689"
 		}
 		"!preview-version"
 		{
 			"buildid" "13607090"
 			"description" "Test new features still in active development. May contain bugs or errors."
 			"timeupdated" "1709250895"
+		}
+		"!release-candidate"
+		{
+			"buildid" "13730482"
+			"pwdrequired" "1"
+			"timeupdated" "1710356735"
 		}
 		"*experimental"
 		{
@@ -747,9 +765,9 @@
 		}
 		"nightly"
 		{
-			"buildid" "13642234"
+			"buildid" "13722982"
 			"pwdrequired" "1"
-			"timeupdated" "1709620092"
+			"timeupdated" "1710312023"
 		}
 		"update-20.6.3"
 		{
@@ -20934,6 +20952,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22647049"
-"_sha" "d2c07dc4d00e49e8a9d5d63e5042daa3095b54f9"
-"_size" "1148221"
+"_change_number" "22751859"
+"_sha" "42d9a3d94c0fdd81934e2873d9b90bbcd9d58d0f"
+"_size" "1148704"
