@@ -178,18 +178,18 @@
 	"gameid" "727130"
 	"store_tags"
 	{
-		"0" "122"
-		"1" "1755"
+		"0" "1755"
+		"1" "122"
 		"2" "19"
 		"3" "599"
 		"4" "492"
 		"5" "9"
 		"6" "21"
 		"7" "16598"
-		"8" "493"
-		"9" "4182"
-		"10" "3942"
-		"11" "3810"
+		"8" "4182"
+		"9" "3942"
+		"10" "3810"
+		"11" "493"
 		"12" "3959"
 		"13" "1695"
 		"14" "21725"
@@ -200,7 +200,7 @@
 		"19" "3834"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -239,42 +239,18 @@
 		{
 			"public"
 			{
-				"gid" "7542930702464724040"
-				"size" "3446501713"
-				"download" "1762243856"
-			}
-			"beta"
-			{
-				"gid" "7542930702464724040"
-				"size" "3446501713"
-				"download" "1762243856"
+				"gid" "8922118217378004690"
+				"size" "3446502153"
+				"download" "1762172816"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"chinesebeta"
-			{
-				"gid" "2F34C629727FF121DD9990531EEBB992"
-				"size" "6E12DCA83966CF359AD4E06FA5E21A9F"
-				"download" "1B224C2526706D49BBE12E8889F4ACAF"
-			}
 			"devbeta"
 			{
-				"gid" "1BD311087BD07B6BF448DBD0E8125520"
-				"size" "EDA97D70BE50F1BC778EF237AF6DC85F"
-				"download" "D067B7DA1F6FE23E1A3D31A4D956F113"
-			}
-			"localizationtest"
-			{
-				"gid" "CF9DF9FAA0BBDB710FD69D6B678AC923"
-				"size" "147EA0FC1CDEDE8C74EE57A8B29498EC"
-				"download" "1104944B536A9AF837DA2A19539C00AA"
-			}
-			"pre-release"
-			{
-				"gid" "0FCBAE50676BE8DF547CE4D97480600D"
-				"size" "B64BAD1AE7949B6B9465B2F31394DA1D"
-				"download" "F03993516A65FE2E56DC81E1CE846BA1"
+				"gid" "A2B9AEC553AA95A58F92F1B4AEC02171"
+				"size" "A0F37ABB3155EA0F65AD422D9AF63FE6"
+				"download" "B5921D7D95CEF9BFBF55116407840C9F"
 			}
 		}
 	}
@@ -288,38 +264,14 @@
 				"size" "476969704"
 				"download" "480435616"
 			}
-			"beta"
-			{
-				"gid" "5283148287648453216"
-				"size" "476969704"
-				"download" "480435616"
-			}
 		}
 		"encryptedmanifests"
 		{
-			"chinesebeta"
-			{
-				"gid" "D7D45A7BC9E77CC60E1B4F4576D5BDEB"
-				"size" "89F13137A621B85B3DA2B0EFDEA8D1E1"
-				"download" "28D970E936F127959850A9DB64BB9626"
-			}
 			"devbeta"
 			{
 				"gid" "F1A604E545C522485C8D6F0A5C62599D"
 				"size" "BD0B929B0DE30ABBC62F2CD6D808FF7D"
 				"download" "92DCB71BA4A78ABBA200CF81B0E4A2ED"
-			}
-			"localizationtest"
-			{
-				"gid" "C5F6108ADA55FDC1F01FA4005249595E"
-				"size" "4BA6AB156107158F1082A1FCF29995F3"
-				"download" "B684CB49149EBA5FFDCC9262F455D80E"
-			}
-			"pre-release"
-			{
-				"gid" "28C9599924AC4268D38B562BFF754D64"
-				"size" "17B76A07AEAB8247182F4A00094EA4AA"
-				"download" "D331203CAE17D97987A726D1584FCC33"
 			}
 		}
 		"dlcappid" "1092490"
@@ -328,37 +280,14 @@
 	{
 		"public"
 		{
-			"buildid" "13673612"
-			"timeupdated" "1709841418"
-		}
-		"beta"
-		{
-			"buildid" "13673612"
-			"timeupdated" "1709841373"
-		}
-		"chinesebeta"
-		{
-			"buildid" "13673612"
-			"pwdrequired" "1"
-			"timeupdated" "1709841384"
+			"buildid" "13728928"
+			"timeupdated" "1710348146"
 		}
 		"devbeta"
 		{
-			"buildid" "13673612"
+			"buildid" "13728928"
 			"pwdrequired" "1"
-			"timeupdated" "1709841235"
-		}
-		"localizationtest"
-		{
-			"buildid" "13673612"
-			"pwdrequired" "1"
-			"timeupdated" "1709841395"
-		}
-		"pre-release"
-		{
-			"buildid" "13673612"
-			"pwdrequired" "1"
-			"timeupdated" "1709841402"
+			"timeupdated" "1710347047"
 		}
 	}
 }
@@ -438,6 +367,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22677259"
-"_sha" "5ea12e34813fc71c4da7c84e23f3491117600542"
-"_size" "8893"
+"_change_number" "22748253"
+"_sha" "e2b518ec6e672f16c84ddeb0a879827335179398"
+"_size" "7190"
