@@ -142,6 +142,8 @@
 }
 "extended"
 {
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,le-playtest"
 	"developer" "Tour De Pizza"
 	"publisher" "Tour De Pizza"
 }
@@ -157,7 +159,7 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
-	"steamconfigurator3rdpartynative" "65533"
+	"steamconfigurator3rdpartynative" "65535"
 	"steamcontrollertemplateindex" "4"
 }
 "depots"
@@ -190,18 +192,18 @@
 		{
 			"public"
 			{
-				"gid" "5904887559084743108"
-				"size" "303624202"
-				"download" "232279776"
+				"gid" "7889646139691122592"
+				"size" "303628880"
+				"download" "232281456"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"le-playtest"
 			{
-				"gid" "49EB82DBFFBBCFBD4CC70380E28024D8"
-				"size" "CE1FD93467FCD04839304CFB48E18028"
-				"download" "9E383F003C86863C5C1F72F97C037F80"
+				"gid" "558B83C85B9194CE722E2B102337C03E"
+				"size" "BD55F88BDE3D17C124E5701FF7D5BA3D"
+				"download" "3694D686F7353FEEED4D5D21CB0C7D76"
 			}
 		}
 	}
@@ -209,14 +211,14 @@
 	{
 		"public"
 		{
-			"buildid" "13707251"
-			"timeupdated" "1710206579"
+			"buildid" "13720781"
+			"timeupdated" "1710291679"
 		}
 		"le-playtest"
 		{
-			"buildid" "13707251"
+			"buildid" "13720781"
 			"pwdrequired" "1"
-			"timeupdated" "1710193457"
+			"timeupdated" "1710290697"
 		}
 	}
 }
@@ -236,6 +238,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22722100"
-"_sha" "00592813d8aa31a59bce5782cc38916cb4c19d12"
-"_size" "4203"
+"_change_number" "22737652"
+"_sha" "07d6ad14e34593e0762fde2529a4c0ae2bf34b95"
+"_size" "4298"
