@@ -359,9 +359,9 @@
 			}
 			"shiro-qa"
 			{
-				"gid" "442AD9357FC9758329299E3E38BEB591"
-				"size" "53983B40DE90B00011E9DB09F3CC8CD0"
-				"download" "AD7F6329EDC20220DF062329E8E26EF6"
+				"gid" "709E2674DDDDD1060ACCB35B5CE032EE"
+				"size" "989222E37E26CEBDA8D8678AA746F3DB"
+				"download" "6C6C54D727CD07CD1112F68766BF28C9"
 			}
 			"shiro-test"
 			{
@@ -421,9 +421,9 @@
 		{
 			"public"
 			{
-				"gid" "5732931044705573059"
-				"size" "18873503"
-				"download" "4922720"
+				"gid" "2913402166785933335"
+				"size" "19424092"
+				"download" "5147776"
 			}
 		}
 		"encryptedmanifests"
@@ -442,9 +442,9 @@
 			}
 			"shiro-qa"
 			{
-				"gid" "822C78CC1E3CA780A4226F6D629ABF94"
-				"size" "F6282145A971569B8335FE268E62D10F"
-				"download" "E7ABE9E741F73729C8F0090B5F5E8A7A"
+				"gid" "D1FF45C9C05EB4494C37AF58C8FB0F94"
+				"size" "6931CD4992AD28B8E3BF0B509EF23280"
+				"download" "32FA4886035DB96FB07F266C07DEC6AF"
 			}
 			"shiro-test"
 			{
@@ -485,9 +485,9 @@
 			}
 			"shiro-qa"
 			{
-				"gid" "C9A1ABD22DC72998FBD721BA8E7E61E9"
-				"size" "78C0D4EE212CDF4C9E41539A2D833DE1"
-				"download" "B06C497FD22072669EEEA7F7A827505B"
+				"gid" "ACBF31B24994EA365844354B9B906C23"
+				"size" "63805E5CB911B6D6695D5F879D3A5EC6"
+				"download" "2C1C4B0FAE1D3BE1513B227CAC5B0097"
 			}
 			"shiro-test"
 			{
@@ -571,9 +571,9 @@
 			}
 			"shiro-qa"
 			{
-				"gid" "B057FDAF85CC6C9F47F4B2CD398CDF3F"
-				"size" "02110B966098F3360EB820AAE4F0E22C"
-				"download" "463D0D63D7DDED29EF73A22F7ECF837B"
+				"gid" "828438209422B9DB29626824652D8900"
+				"size" "6B7BCC6154355B9761910DA94037CE75"
+				"download" "1BC93163B6CB7F57AC35FC558CEAB6CF"
 			}
 			"shiro-test"
 			{
@@ -587,8 +587,8 @@
 	{
 		"public"
 		{
-			"buildid" "13724524"
-			"timeupdated" "1710322893"
+			"buildid" "13726006"
+			"timeupdated" "1710330547"
 		}
 		"closed-beta"
 		{
@@ -604,9 +604,9 @@
 		}
 		"shiro-qa"
 		{
-			"buildid" "13667352"
+			"buildid" "8213103"
 			"pwdrequired" "1"
-			"timeupdated" "1709804948"
+			"timeupdated" "1710330849"
 		}
 		"shiro-test"
 		{
@@ -643,6 +643,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22742240"
-"_sha" "eb874747a180a3361781111ec524601d7cf93001"
-"_size" "12673"
+"_change_number" "22743978"
+"_sha" "75e5dcad31ff5e161e9d2a9698529fb737d3894d"
+"_size" "12672"
