@@ -197,15 +197,15 @@
 	{
 		"0" "9"
 		"1" "1670"
-		"2" "122"
-		"3" "4747"
+		"2" "4747"
+		"3" "122"
 		"4" "6426"
 		"5" "17305"
 		"6" "1684"
 		"7" "1669"
 		"8" "3993"
-		"9" "3854"
-		"10" "7918"
+		"9" "7918"
+		"10" "3854"
 		"11" "3834"
 		"12" "4182"
 		"13" "4057"
@@ -217,7 +217,7 @@
 		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -296,15 +296,15 @@
 		{
 			"public"
 			{
-				"gid" "4516595738240567968"
-				"size" "17330881805"
-				"download" "9853611552"
+				"gid" "4948893924583325026"
+				"size" "17330878091"
+				"download" "9853643712"
 			}
 			"open_beta"
 			{
-				"gid" "4516595738240567968"
-				"size" "17330881805"
-				"download" "9853611552"
+				"gid" "4948893924583325026"
+				"size" "17330878091"
+				"download" "9853643712"
 			}
 		}
 		"encryptedmanifests"
@@ -359,9 +359,9 @@
 			}
 			"staging"
 			{
-				"gid" "4453105E0655176B811EE3AE86E8ACC9"
-				"size" "5F5479823F66A84200023DB5C90896B1"
-				"download" "31D41A7F4EC7876B19082AD7D9A88F08"
+				"gid" "B0121FDFC86BCAA80C6E72E510A7AF9D"
+				"size" "116C38FBD1DDF8A9CECDBE252ABB8B2E"
+				"download" "D5BCBAD9B6EC880EBBB5DE6F1AD78794"
 			}
 		}
 	}
@@ -376,15 +376,15 @@
 		{
 			"public"
 			{
-				"gid" "6106835834464997419"
-				"size" "350494222"
-				"download" "112827360"
+				"gid" "3968265330907717625"
+				"size" "350525454"
+				"download" "112851888"
 			}
 			"open_beta"
 			{
-				"gid" "6106835834464997419"
-				"size" "350494222"
-				"download" "112827360"
+				"gid" "3968265330907717625"
+				"size" "350525454"
+				"download" "112851888"
 			}
 		}
 		"encryptedmanifests"
@@ -439,9 +439,9 @@
 			}
 			"staging"
 			{
-				"gid" "3306D78CEF339D06494AA122EEF2D9DF"
-				"size" "BA7BACE88BAB119ECD6DCCB49209CB2D"
-				"download" "857EB181431132797F0CAA45FE1415DE"
+				"gid" "65A605DBBBD89562384A5952A11FF04C"
+				"size" "8C970E830FF90415F6FEF50191C4D35C"
+				"download" "FAF4FD14277D35CC48FD9CF7200FD1E6"
 			}
 		}
 	}
@@ -937,8 +937,8 @@
 	{
 		"public"
 		{
-			"buildid" "13590897"
-			"timeupdated" "1709211437"
+			"buildid" "13711765"
+			"timeupdated" "1710338288"
 		}
 		"backup"
 		{
@@ -966,9 +966,9 @@
 		}
 		"open_beta"
 		{
-			"buildid" "13590897"
+			"buildid" "13711765"
 			"description" "Branch for pre-release Testing"
-			"timeupdated" "1709211823"
+			"timeupdated" "1710338736"
 		}
 		"press"
 		{
@@ -996,9 +996,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13590897"
+			"buildid" "13711765"
 			"pwdrequired" "1"
-			"timeupdated" "1709140884"
+			"timeupdated" "1710233720"
 		}
 	}
 }
@@ -1009,6 +1009,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22560544"
-"_sha" "7bb7f8469eaa847579a721dc5a3783019567d728"
+"_change_number" "22745747"
+"_sha" "a2489517831f962eed253c9e5a02d9de1fee43d6"
 "_size" "22200"
