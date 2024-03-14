@@ -261,7 +261,7 @@
 	{
 		"0"
 		{
-			"executable" "Athena\\Binaries\\Win64\\SoTGame.exe"
+			"executable" "SeaOfThieves.exe"
 			"type" "default"
 			"config"
 			{
@@ -301,18 +301,18 @@
 		{
 			"public"
 			{
-				"gid" "4580926953396930317"
-				"size" "111879350593"
-				"download" "112570137248"
+				"gid" "925870481702194132"
+				"size" "112894362762"
+				"download" "113545402464"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"sottesting"
 			{
-				"gid" "44CDBE7F391B086A351150C9D1F1C80D"
-				"size" "005DBDEA148C0773390EF0809E09F544"
-				"download" "36D093A5D166D13637152E6755F01379"
+				"gid" "BD67BCCABC61EE6BBAAD143103DDF72C"
+				"size" "067172A6506798C849D5013609E742D7"
+				"download" "B586F5BEEEE5376DF5AE42F35E74A74E"
 			}
 		}
 	}
@@ -320,18 +320,18 @@
 	{
 		"public"
 		{
-			"buildid" "13444536"
-			"timeupdated" "1708339921"
+			"buildid" "13726405"
+			"timeupdated" "1710411836"
 		}
 		"sottesting"
 		{
-			"buildid" "13444536"
+			"buildid" "13726405"
 			"pwdrequired" "1"
-			"timeupdated" "1707836778"
+			"timeupdated" "1710335556"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22530065"
-"_sha" "ead45acddb3c1e981872643a7ad36c037d1511cf"
-"_size" "6247"
+"_change_number" "22759748"
+"_sha" "8830f088694cd0f90b56c44455c7b357d73bb82f"
+"_size" "6226"
