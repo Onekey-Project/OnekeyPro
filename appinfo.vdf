@@ -246,7 +246,7 @@
 	"developer" "Nils Jakrins"
 	"publisher" "Excalibur Games"
 	"homepage" "http://www.excalibur-games.com"
-	"listofdlc" "2449260,2649400,2649430"
+	"listofdlc" "2449260,2649400,2649410,2649430"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -286,9 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "5950011484210661819"
-				"size" "2547116410"
-				"download" "1905535088"
+				"gid" "4109336602769496165"
+				"size" "2588752235"
+				"download" "1943306560"
 			}
 			"old_map"
 			{
@@ -298,9 +298,9 @@
 			}
 			"unstable_test_branch"
 			{
-				"gid" "5950011484210661819"
-				"size" "2547116410"
-				"download" "1905535088"
+				"gid" "4109336602769496165"
+				"size" "2588752235"
+				"download" "1943306560"
 			}
 		}
 		"encryptedmanifests"
@@ -325,9 +325,9 @@
 			}
 			"internal_testing"
 			{
-				"gid" "6F9EC71EC8048F193284DCD1E4EC00D1"
-				"size" "17D9214A2559D32BA04DD9D7B70EF769"
-				"download" "3B5703984ACA3D898EB85438EBCD2A54"
+				"gid" "368779A6B8DAE6320865134E0CC770A3"
+				"size" "906F7426032CC2D58B8D8FFC04603027"
+				"download" "D7C52C2B3BD8BCDE1F376FFB2BB0CCB1"
 			}
 			"map2.0"
 			{
@@ -359,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "34066554052150443"
-				"size" "2564852449"
-				"download" "1916011344"
+				"gid" "3608505699316795953"
+				"size" "2606356030"
+				"download" "1954455984"
 			}
 			"old_map"
 			{
@@ -371,9 +371,9 @@
 			}
 			"unstable_test_branch"
 			{
-				"gid" "34066554052150443"
-				"size" "2564852449"
-				"download" "1916011344"
+				"gid" "3608505699316795953"
+				"size" "2606356030"
+				"download" "1954455984"
 			}
 		}
 		"encryptedmanifests"
@@ -398,9 +398,9 @@
 			}
 			"internal_testing"
 			{
-				"gid" "140EA207C5F2BADD5D24D7E4A3BA41B4"
-				"size" "632EA42E236F7876157B817BFF691BBE"
-				"download" "C460A6AFCF76F4AB933DBBE9A19DEA90"
+				"gid" "CDE117D2504B975C24059923E6E223EB"
+				"size" "DB6B798E16C01D9D50DEC73BB05A0F89"
+				"download" "E0879CE3DFF4B20E2129EC88ABB1DE3D"
 			}
 			"map2.0"
 			{
@@ -426,8 +426,8 @@
 	{
 		"public"
 		{
-			"buildid" "13574798"
-			"timeupdated" "1709218133"
+			"buildid" "13737753"
+			"timeupdated" "1710434656"
 		}
 		"crashfixtest"
 		{
@@ -449,9 +449,9 @@
 		}
 		"internal_testing"
 		{
-			"buildid" "13574798"
+			"buildid" "13737753"
 			"pwdrequired" "1"
-			"timeupdated" "1709032653"
+			"timeupdated" "1710412200"
 		}
 		"map2.0"
 		{
@@ -479,9 +479,9 @@
 		}
 		"unstable_test_branch"
 		{
-			"buildid" "13574798"
+			"buildid" "13737753"
 			"description" "for unstable test builds"
-			"timeupdated" "1709049337"
+			"timeupdated" "1710434624"
 		}
 	}
 }
@@ -524,6 +524,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22562152"
-"_sha" "53fad72c9a1148d4d4b098027073533b1cafbb4a"
-"_size" "10208"
+"_change_number" "22765961"
+"_sha" "f813be29e19bdc4f0e3878f43d686bed1af897d9"
+"_size" "10220"
