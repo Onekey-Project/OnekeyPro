@@ -208,8 +208,8 @@
 	"gameid" "1928980"
 	"store_tags"
 	{
-		"0" "1100689"
-		"1" "3859"
+		"0" "3859"
+		"1" "1100689"
 		"2" "1662"
 		"3" "3843"
 		"4" "1695"
@@ -289,18 +289,18 @@
 		{
 			"public"
 			{
-				"gid" "296346898563604243"
-				"size" "63436773756"
-				"download" "56052935312"
+				"gid" "5996269337899938622"
+				"size" "63436779012"
+				"download" "56053022064"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"live"
 			{
-				"gid" "0C2C3734B9EFD0ADAA5996C75040CA7F"
-				"size" "E2CB13B63BD00DC82AE43EB75CDA7D34"
-				"download" "D2F407335C1020C7EA38FC4B046107E4"
+				"gid" "A02130CB79221CF99F6C5D1B99304572"
+				"size" "75A98192D545946434CA6D72F557EAD1"
+				"download" "28009D07B27586E30CD939E59C72BA33"
 			}
 		}
 	}
@@ -308,18 +308,18 @@
 	{
 		"public"
 		{
-			"buildid" "13696803"
-			"timeupdated" "1710109506"
+			"buildid" "13731917"
+			"timeupdated" "1710435076"
 		}
 		"live"
 		{
-			"buildid" "13696803"
+			"buildid" "13731917"
 			"pwdrequired" "1"
-			"timeupdated" "1710101998"
+			"timeupdated" "1710366436"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22706953"
-"_sha" "6634d4bf9e86d93d312e3a578957451fcd547399"
-"_size" "5903"
+"_change_number" "22766093"
+"_sha" "4d1b051732df17fa1b1a3916250a57841cac8b80"
+"_size" "5904"
