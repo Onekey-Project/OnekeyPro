@@ -82,6 +82,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -89,7 +90,7 @@
 			"height_pct" "66.8481923321574"
 		}
 	}
-	"store_asset_mtime" "1702485043"
+	"store_asset_mtime" "1710405707"
 	"associations"
 	{
 		"0"
@@ -130,6 +131,7 @@
 		"category_8" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -322,9 +324,25 @@
 			}
 			"description_loc"
 			{
-				"english" "Start with DX 11 (for old Windows versions)"
+				"english" "Start with DX 11 (for old graphics cards)"
 			}
-			"description" "Start with DX 11 (for old Windows versions)"
+			"description" "Start with DX 11 (for old graphics cards)"
+		}
+		"7"
+		{
+			"executable" "\\WitchIt\\Binaries\\Win64\\PropWitchHuntModule-Win64-Shipping.exe"
+			"arguments" "-dx11 -FeatureLevelES31"
+			"workingdir" "\\WitchIt\\Binaries\\Win64\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Start with Simple Shaders (for slow PCs)"
+			}
+			"description" "Start with Simple Shaders (for slow PCs)"
 		}
 	}
 	"steamcontrollertemplateindex" "6"
@@ -360,9 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "8442633604187450572"
-				"size" "6743627230"
-				"download" "6450605904"
+				"gid" "8486488395426646073"
+				"size" "6401437705"
+				"download" "6102990320"
 			}
 		}
 		"encryptedmanifests"
@@ -381,15 +399,15 @@
 			}
 			"development"
 			{
-				"gid" "8EB5E7F302A90CF4AD1CE8BC74374A55"
-				"size" "68FC0B3203441C230F65C4EB40EAC94F"
-				"download" "7EEA3BB12771365D6AC44D475D246CC4"
+				"gid" "B67D1D5F0518D72178227976710DBE93"
+				"size" "1D5D575803B07B16DBCE84F12AC23002"
+				"download" "E8BC2335182AB97B9F031FFB9063F8C3"
 			}
 			"internal_dev_testing_a"
 			{
-				"gid" "FEBB068776F20BE1F8C692AA15F6D1FC"
-				"size" "ED4E22BDC918E3AA10F224E531FCBCD4"
-				"download" "6BBF6FF8ED455193FD63D211285954A8"
+				"gid" "72D0F343DE898223E933A1DBBB24C369"
+				"size" "682ABE3337691B78AC896E245A225669"
+				"download" "88433EF3CFC78C9B67248B625B52BF4C"
 			}
 			"internal_dev_testing_b"
 			{
@@ -399,9 +417,9 @@
 			}
 			"internaltesting"
 			{
-				"gid" "2CEE65F18B69C5F248BD0596B5F23A59"
-				"size" "F5164926033CEFD9A60346F7A416AE1C"
-				"download" "380BC2E301658A62EDEF16EAAF5590F1"
+				"gid" "63C2C0D1CAA19E302DC8140A196C044A"
+				"size" "E41CA856947F0082718B3DFB73F37F59"
+				"download" "A947561CEA561D4B611A17F0D5AE550C"
 			}
 			"lastue4build"
 			{
@@ -417,9 +435,15 @@
 			}
 			"staging"
 			{
-				"gid" "B8250E269483EA92B3C80CDAF4CF261B"
-				"size" "2036C451B34F24A036DAB9A67B5321CD"
-				"download" "7AC2B7883D52B37A878974501B41BC3D"
+				"gid" "D0E381A495F51FB80F06CD559F329A38"
+				"size" "7E9085591BEDB283E6485143B6C5C417"
+				"download" "A852F556A8717F138220D50C9C5BCE97"
+			}
+			"validation_build"
+			{
+				"gid" "E66D4C7EA2E4C660256BD6A6F5170969"
+				"size" "A637DC91E9F1B4D99E2A1CB54E7C75AB"
+				"download" "3383AB4AD7549E69F7EE880E13A482FD"
 			}
 		}
 	}
@@ -428,8 +452,8 @@
 	{
 		"public"
 		{
-			"buildid" "13390333"
-			"timeupdated" "1707298377"
+			"buildid" "13738210"
+			"timeupdated" "1710414934"
 		}
 		"connection_testing"
 		{
@@ -445,15 +469,15 @@
 		}
 		"development"
 		{
-			"buildid" "13601350"
+			"buildid" "13736751"
 			"pwdrequired" "1"
-			"timeupdated" "1709211868"
+			"timeupdated" "1710405817"
 		}
 		"internal_dev_testing_a"
 		{
-			"buildid" "13587133"
+			"buildid" "13682780"
 			"pwdrequired" "1"
-			"timeupdated" "1709117834"
+			"timeupdated" "1709912319"
 		}
 		"internal_dev_testing_b"
 		{
@@ -463,9 +487,9 @@
 		}
 		"internaltesting"
 		{
-			"buildid" "13475821"
+			"buildid" "13683537"
 			"pwdrequired" "1"
-			"timeupdated" "1708092518"
+			"timeupdated" "1709921304"
 		}
 		"lastue4build"
 		{
@@ -481,9 +505,15 @@
 		}
 		"staging"
 		{
-			"buildid" "13390333"
+			"buildid" "13738210"
 			"pwdrequired" "1"
-			"timeupdated" "1707297447"
+			"timeupdated" "1710414486"
+		}
+		"validation_build"
+		{
+			"buildid" "13706672"
+			"pwdrequired" "1"
+			"timeupdated" "1710189737"
 		}
 	}
 }
@@ -526,6 +556,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22560557"
-"_sha" "cceece245e908ced1058f48537bb58624df98ae9"
-"_size" "10174"
+"_change_number" "22760390"
+"_sha" "4e5da23fc525dd286cab6afeaf5b902953611bd8"
+"_size" "10934"
