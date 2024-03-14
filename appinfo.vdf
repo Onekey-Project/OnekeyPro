@@ -210,6 +210,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1691143094"
 	"community_visible_stats" "1"
@@ -332,24 +337,24 @@
 		{
 			"public"
 			{
-				"gid" "1669740719625003943"
-				"size" "3565309581"
-				"download" "3234447888"
+				"gid" "6590011683048945867"
+				"size" "3741475299"
+				"download" "3409726416"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"earlyaccess"
 			{
-				"gid" "21C58F907349B1E87F9BE94696781843"
-				"size" "F38ED4C9161CDA71161F6643787D2E9C"
-				"download" "76E5EAEA9BBC2BC1C4C4523452EA0DB2"
+				"gid" "36ED04DD5A6BC66A05F42C4E187160E7"
+				"size" "21DDC7AF674A31F6A98D2D0A857C287D"
+				"download" "94BB5F996043C1F1507DE2BD4F52B99F"
 			}
 			"test"
 			{
-				"gid" "363400230D437238257F9DE066319289"
-				"size" "A3B4BB7E6D6D7355FD312DD1A7D1E985"
-				"download" "39AEED971FE3C26A06346DE258B61149"
+				"gid" "C0548106BA3C2980CEDD16A035050C15"
+				"size" "CFC58DD95626BE74F2958831A1A14FE4"
+				"download" "53B86AA4322214F50F9B4F54357F147B"
 			}
 			"weplay"
 			{
@@ -372,20 +377,20 @@
 	{
 		"public"
 		{
-			"buildid" "13611654"
-			"timeupdated" "1709288787"
+			"buildid" "13726662"
+			"timeupdated" "1710414073"
 		}
 		"earlyaccess"
 		{
-			"buildid" "13611654"
+			"buildid" "13726662"
 			"pwdrequired" "1"
-			"timeupdated" "1709288255"
+			"timeupdated" "1710414054"
 		}
 		"test"
 		{
-			"buildid" "13611654"
+			"buildid" "13726662"
 			"pwdrequired" "1"
-			"timeupdated" "1709288059"
+			"timeupdated" "1710413799"
 		}
 		"weplay"
 		{
@@ -434,6 +439,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22576259"
-"_sha" "bf3811fdf2281e06ce51412f56b21f7ec43bac2a"
-"_size" "8053"
+"_change_number" "22760156"
+"_sha" "4b748460093a87d7200bb3fe71a9e97e9716b527"
+"_size" "8124"
