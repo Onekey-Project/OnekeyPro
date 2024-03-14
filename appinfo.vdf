@@ -237,7 +237,7 @@
 	"developer" "Gamepires"
 	"publisher" "Jagex Ltd"
 	"homepage" "http://www.scumgame.com"
-	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -319,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "3570046550476033859"
-				"size" "81372520858"
-				"download" "30642619472"
+				"gid" "7388486921363139075"
+				"size" "73182736543"
+				"download" "28281861200"
 			}
 		}
 		"encryptedmanifests"
@@ -346,9 +346,9 @@
 			}
 			"alpha"
 			{
-				"gid" "4E5695E85CA0B43A41985EE0431646F2"
-				"size" "EFC266BDC8A0EBEF14354C64CE0BDB30"
-				"download" "3304EFA0643059D73305058AF0718AE9"
+				"gid" "A71880404BF85BF088385EB30AB30940"
+				"size" "ABBAAB972391AF813917F315E666581F"
+				"download" "A467E77D6745C7FC9B5218DCCC5005F5"
 			}
 			"event_branch"
 			{
@@ -621,8 +621,8 @@
 	{
 		"public"
 		{
-			"buildid" "13401431"
-			"timeupdated" "1707389524"
+			"buildid" "13740650"
+			"timeupdated" "1710432023"
 		}
 		"0_6dtest"
 		{
@@ -644,9 +644,9 @@
 		}
 		"alpha"
 		{
-			"buildid" "13610516"
+			"buildid" "13740650"
 			"pwdrequired" "1"
-			"timeupdated" "1709280379"
+			"timeupdated" "1710428770"
 		}
 		"event_branch"
 		{
@@ -711,6 +711,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22574423"
-"_sha" "c81df748b8bff8a415b7b0378a9b29513317c571"
-"_size" "15171"
+"_change_number" "22765223"
+"_sha" "c6b38f89f8e641a73a68d30aa5f7d94810bde9ee"
+"_size" "15179"
