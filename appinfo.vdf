@@ -84,7 +84,7 @@
 			"height_pct" "48.95833333333334"
 		}
 	}
-	"store_asset_mtime" "1710164041"
+	"store_asset_mtime" "1710266001"
 	"associations"
 	{
 		"0"
@@ -261,36 +261,36 @@
 		{
 			"public"
 			{
-				"gid" "8827535761509643849"
-				"size" "2140106600"
-				"download" "1873465520"
+				"gid" "4271088046654648906"
+				"size" "2140114322"
+				"download" "1873474704"
 			}
 			"beta"
 			{
-				"gid" "8827535761509643849"
-				"size" "2140106600"
-				"download" "1873465520"
+				"gid" "4271088046654648906"
+				"size" "2140114322"
+				"download" "1873474704"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta-capture"
 			{
-				"gid" "CBE4928942CF6B918FFAB0C9E037FF6D"
-				"size" "9528B1400BF2FF043C0A4AFA0A8DEEEA"
-				"download" "33005E42E6B31D91A6864F0F808A76BA"
+				"gid" "8B2228BE5BEA4B3CCE65D6C7A095E74F"
+				"size" "8403088B5A9F21F09F43E1B57C6F6C97"
+				"download" "561B37B6A59989A9B34F8B8D826F0795"
 			}
 			"beta-qa"
 			{
-				"gid" "26A8BAADC8A6B1B4A947696F15483E97"
-				"size" "E9BC6D61CA51B194C9DB6F0A8AB9D7FE"
-				"download" "93444222F53533A2A45F85805259FB7B"
+				"gid" "BCD90E86ED14634FDD26D27441421A5E"
+				"size" "A8955B5D7F21AA8AB41F030D2291D962"
+				"download" "1C1BDB437B9EB88A2DC73B64120F4786"
 			}
 			"beta-staging"
 			{
-				"gid" "5330C01FE63B541148E0B41F379134AE"
-				"size" "17CACEFACC62FAF8693F03C5D75FCA09"
-				"download" "EFDE34354B54CDBEB6E86639005EEAC1"
+				"gid" "F28C9AF0BF0286EB0CD7CBB068605B97"
+				"size" "B354BB8D944845A74E1DFD888477DF07"
+				"download" "9733D1BE58C2FE7C5645872F86822D6F"
 			}
 			"capture"
 			{
@@ -300,15 +300,15 @@
 			}
 			"main-qa"
 			{
-				"gid" "5EA33ACADEE497FB7722AF1EDA244692"
-				"size" "2575190C403D28EDF434A40904C9BC81"
-				"download" "B6C685D627C0118A2A702463FC2F6A8C"
+				"gid" "83ACDA326FCFDC3BFF1D4A4D220ADDBA"
+				"size" "E35E447A700AB28028B3659DA5B8807C"
+				"download" "53298A490CF01AA9EDE8F9D46A6BC1A0"
 			}
 			"main-staging"
 			{
-				"gid" "8FB84880A1177133F5F862C184609A8A"
-				"size" "6C3DC746643117C2F93F4BE0F719CE20"
-				"download" "CAAE60200F36C280827DD7B2945786FD"
+				"gid" "8AE0C8A5D99258865B785E2FE0EA530D"
+				"size" "AAE410F676694FA4C24B5C1ABFDD2F65"
+				"download" "87B04E8ED5BDBF3DAFE162A0F8DC3616"
 			}
 			"quantic-qa"
 			{
@@ -330,15 +330,15 @@
 			}
 			"release-qa"
 			{
-				"gid" "8946802F452BE361B932AAE482AB7F24"
-				"size" "D26BB03FBBEE3BAC434A5A29EC9375A9"
-				"download" "F0A9FADDA162205AAEB83EBC62F1D2CB"
+				"gid" "BF5C1DD4EA7272DFA400AA46943041B2"
+				"size" "4D974137B4513185BC60B7D57CDADBF0"
+				"download" "5F122CBA7CDE2144EDE8BB392B093F16"
 			}
 			"release-staging"
 			{
-				"gid" "FFA2E4B60F50AB720695770B5D137D28"
-				"size" "3566B1818849A8EAD3DF9C387EEC987D"
-				"download" "7D4AE9CEC88DE0121134DA7754B61498"
+				"gid" "C5A9A7D6BC6562C86753569A3D6B9A89"
+				"size" "295C8C7C3872B4D8BA74F718A16C7EB1"
+				"download" "1009383962836250D92686B54EB95FD0"
 			}
 			"trailer-capture"
 			{
@@ -433,32 +433,32 @@
 	{
 		"public"
 		{
-			"buildid" "13712793"
-			"timeupdated" "1710239825"
+			"buildid" "13739552"
+			"timeupdated" "1710422663"
 		}
 		"beta"
 		{
-			"buildid" "13712793"
+			"buildid" "13739538"
 			"description" "Open Beta"
-			"timeupdated" "1710239854"
+			"timeupdated" "1710422603"
 		}
 		"beta-capture"
 		{
-			"buildid" "13668498"
+			"buildid" "13725011"
 			"pwdrequired" "1"
-			"timeupdated" "1709811375"
+			"timeupdated" "1710325341"
 		}
 		"beta-qa"
 		{
-			"buildid" "13712603"
+			"buildid" "13737249"
 			"pwdrequired" "1"
-			"timeupdated" "1710238686"
+			"timeupdated" "1710408968"
 		}
 		"beta-staging"
 		{
-			"buildid" "13712548"
+			"buildid" "13737252"
 			"pwdrequired" "1"
-			"timeupdated" "1710238332"
+			"timeupdated" "1710408978"
 		}
 		"capture"
 		{
@@ -468,15 +468,15 @@
 		}
 		"main-qa"
 		{
-			"buildid" "13712742"
+			"buildid" "13739748"
 			"pwdrequired" "1"
-			"timeupdated" "1710239581"
+			"timeupdated" "1710423790"
 		}
 		"main-staging"
 		{
-			"buildid" "13712801"
+			"buildid" "13739742"
 			"pwdrequired" "1"
-			"timeupdated" "1710239876"
+			"timeupdated" "1710423765"
 		}
 		"quantic-qa"
 		{
@@ -498,15 +498,15 @@
 		}
 		"release-qa"
 		{
-			"buildid" "13712694"
+			"buildid" "13737734"
 			"pwdrequired" "1"
-			"timeupdated" "1710239214"
+			"timeupdated" "1710411809"
 		}
 		"release-staging"
 		{
-			"buildid" "13712630"
+			"buildid" "13737715"
 			"pwdrequired" "1"
-			"timeupdated" "1710238818"
+			"timeupdated" "1710411719"
 		}
 		"trailer-capture"
 		{
@@ -529,6 +529,6 @@
 	"maxnumfiles" "350"
 }
 "_missing_token" "False"
-"_change_number" "22727393"
-"_sha" "b729ddcad39050e96e97647f5319768557d88721"
+"_change_number" "22762320"
+"_sha" "f77863cfd1ade51bd8850332d891ab3c6fc2afc4"
 "_size" "10662"
