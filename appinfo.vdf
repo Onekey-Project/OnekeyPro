@@ -14,9 +14,7 @@
 	"osextended" ""
 	"content_descriptors"
 	{
-		"0" "1"
-		"1" "2"
-		"2" "5"
+		"0" "5"
 	}
 	"steam_deck_compatibility"
 	{
@@ -120,6 +118,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -216,48 +215,48 @@
 		{
 			"public"
 			{
-				"gid" "6436446447014893699"
-				"size" "1043853940"
-				"download" "354130432"
+				"gid" "6806235771201386009"
+				"size" "1044421416"
+				"download" "354523408"
 			}
 			"beta"
 			{
-				"gid" "6436446447014893699"
-				"size" "1043853940"
-				"download" "354130432"
+				"gid" "6806235771201386009"
+				"size" "1044421416"
+				"download" "354523408"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "6067738536083FEB292DFC5B6C5DB178"
-				"size" "A68D54C0CE9D438DCFDEABDF106E3D53"
-				"download" "95C474E23E786FC0127EECED81B0FCCF"
+				"gid" "87430588B7996DFBD6753B0D3B6C8B29"
+				"size" "93464FBC48B5724B9D876144AFACB6CF"
+				"download" "C8A5520DC763DE35E1666BFAE7985CEC"
 			}
 			"kudosqa"
 			{
-				"gid" "94B4A2FF42B675BB4AD8CB2DEBEF5F71"
-				"size" "AB66D0C7A88827A6DF378667C5239646"
-				"download" "85920904B46AAD562484EB3EF210E1CD"
+				"gid" "4A80ECD734441190BBA4169D7F7DF557"
+				"size" "F18EBCFCECCF4510B8D6BF7422E55FD2"
+				"download" "F0745D623257C709FA7A133BE007393A"
 			}
 			"marketing"
 			{
-				"gid" "D4F19DBFB67BC75D9E4DEBCFD9E12D94"
-				"size" "8A71C04824D48E5FF6EADB3AB148810D"
-				"download" "B38BC45320D888C4384054C552928289"
+				"gid" "0A51D9F85275AFEE2345C7FB64AEE233"
+				"size" "2C89EF6A57BAF9E5489483C2614A18D8"
+				"download" "7BBA66B7E9FFA42FAFDE00BCCE78B7E1"
 			}
 			"nicktesting"
 			{
-				"gid" "D8B0047C21AEB68D7EADC167EC2C773C"
-				"size" "17F7B7EC058C08F74A26831667236B34"
-				"download" "6CC8F6C6FF8A50BA1E96E51462B76D8E"
+				"gid" "8CA5EF6158295602CE742257191D796C"
+				"size" "319DBAE30D38EAC15C9A0F7CF4B7A2BC"
+				"download" "7F4DCF8F874DF648D0534F0128E36A52"
 			}
 			"streamer"
 			{
-				"gid" "FE218F9FE88EDC864946E1BBCEDBF902"
-				"size" "7DEBDA53F5E360049EF265ED8E19B05E"
-				"download" "423728E2A09964C907C55A403BC43437"
+				"gid" "08D0C9FE143235E9F3A31E9CF9B11B6D"
+				"size" "CEA026578AE774A509C7DCC54818A1BE"
+				"download" "417604021DA33A23DFEF23C2E6FED3A7"
 			}
 		}
 	}
@@ -265,48 +264,48 @@
 	{
 		"public"
 		{
-			"buildid" "13372341"
-			"timeupdated" "1707400725"
+			"buildid" "13632762"
+			"timeupdated" "1710417577"
 		}
 		"beta"
 		{
-			"buildid" "13372341"
+			"buildid" "13632762"
 			"description" "Public Beta testing branch."
-			"timeupdated" "1707400858"
+			"timeupdated" "1710417662"
 		}
 		"development"
 		{
-			"buildid" "13606967"
+			"buildid" "13632762"
 			"pwdrequired" "1"
-			"timeupdated" "1709248048"
+			"timeupdated" "1709557882"
 		}
 		"kudosqa"
 		{
-			"buildid" "13606967"
+			"buildid" "13632762"
 			"pwdrequired" "1"
-			"timeupdated" "1709248069"
+			"timeupdated" "1709557891"
 		}
 		"marketing"
 		{
-			"buildid" "13372341"
+			"buildid" "13632762"
 			"pwdrequired" "1"
-			"timeupdated" "1707400867"
+			"timeupdated" "1710417673"
 		}
 		"nicktesting"
 		{
-			"buildid" "13606967"
+			"buildid" "13632762"
 			"pwdrequired" "1"
-			"timeupdated" "1709248082"
+			"timeupdated" "1709557902"
 		}
 		"streamer"
 		{
-			"buildid" "13372341"
+			"buildid" "13632762"
 			"pwdrequired" "1"
-			"timeupdated" "1707400876"
+			"timeupdated" "1710417680"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22569288"
-"_sha" "c770d69f9fbdcba47645dec0aa98aef829bd74a8"
-"_size" "5811"
+"_change_number" "22760902"
+"_sha" "07aab20419424d946d661cee2d5b95ff3010cf0c"
+"_size" "5809"
