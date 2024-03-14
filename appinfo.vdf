@@ -190,8 +190,8 @@
 	{
 		"0" "3843"
 		"1" "3964"
-		"2" "3810"
-		"3" "1100689"
+		"2" "1100689"
+		"3" "3810"
 		"4" "21"
 		"5" "1662"
 		"6" "1702"
@@ -266,19 +266,19 @@
 			}
 			"description_loc"
 			{
-				"english" "Core Keeper (safe mode)"
-				"german" "Core Keeper (sicherer Modus)"
-				"french" "Core Keeper (mode sécurisé)"
-				"italian" "Core Keeper (modalità sicura)"
-				"koreana" "Core Keeper (안전 모드)"
-				"spanish" "Core Keeper (modo seguro)"
-				"schinese" "Core Keeper (安全模式)"
-				"tchinese" "Core Keeper (安全模式)"
-				"thai" "Core Keeper (โหมดปลอดภัย)"
-				"japanese" "Core Keeper (セーフモード)"
-				"brazilian" "Core Keeper (modo seguro)"
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
 			}
-			"description" "Core Keeper (safe mode)"
+			"description" "Core Keeper (no mods)"
 		}
 		"4"
 		{
@@ -291,19 +291,19 @@
 			}
 			"description_loc"
 			{
-				"english" "Core Keeper (safe mode)"
-				"german" "Core Keeper (sicherer Modus)"
-				"french" "Core Keeper (mode sécurisé)"
-				"italian" "Core Keeper (modalità sicura)"
-				"koreana" "Core Keeper (안전 모드)"
-				"spanish" "Core Keeper (modo seguro)"
-				"schinese" "Core Keeper (安全模式)"
-				"tchinese" "Core Keeper (安全模式)"
-				"thai" "Core Keeper (โหมดปลอดภัย)"
-				"japanese" "Core Keeper (セーフモード)"
-				"brazilian" "Core Keeper (modo seguro)"
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
 			}
-			"description" "Core Keeper (safe mode)"
+			"description" "Core Keeper (no mods)"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -329,9 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "8498558442706086554"
-				"size" "644384562"
-				"download" "353812336"
+				"gid" "8081398058137710229"
+				"size" "644390534"
+				"download" "353817104"
 			}
 			"0.7.1"
 			{
@@ -353,9 +353,9 @@
 			}
 			"moddebug"
 			{
-				"gid" "2437515110838968533"
-				"size" "644384586"
-				"download" "353811008"
+				"gid" "8279753016355701127"
+				"size" "644390505"
+				"download" "353819840"
 			}
 		}
 		"encryptedmanifests"
@@ -368,9 +368,9 @@
 			}
 			"ambassadors"
 			{
-				"gid" "34E9BEBDDD5FB4ECF264183577DDF825"
-				"size" "AC82CAE3F89832C8D434D2A95A9C2A89"
-				"download" "4CDA4E05EE37434BCE8CFE280943C9F2"
+				"gid" "05A6D65AFCBC7A333598989BBC755321"
+				"size" "73BD367D05F884636D5470AC72797B86"
+				"download" "37002CDA785196BB3F34F054542DEBA5"
 			}
 			"compatibility"
 			{
@@ -386,9 +386,9 @@
 			}
 			"developer"
 			{
-				"gid" "E1369F9C529FBC4E5D552BC4B1A11CB6"
-				"size" "CB050E88765AF95EB08ED5296D083C20"
-				"download" "4E236A1A4E1B9FCA131E43953522EE91"
+				"gid" "7AF10CAF2654F07DC08E8EEC45815B09"
+				"size" "D6712CD4341CE88CC67B33FE057C946F"
+				"download" "9532E999F30DF5507E021A9FD4B86C11"
 			}
 			"early_explorers"
 			{
@@ -404,9 +404,9 @@
 			}
 			"externalaccess"
 			{
-				"gid" "8FC1AA53E930FA886D25302C39FC6D60"
-				"size" "B30520D630A79E539ACCF9444C450CDC"
-				"download" "A5BDA6A82040D166216D296D119F37A8"
+				"gid" "EC1A018C8D8D864BD3A951B2D480CEEC"
+				"size" "A716D950A81F53AFFC48F0DF049856EF"
+				"download" "92DD1F341AF4D292E30E8431EFB2F3A7"
 			}
 			"marketing"
 			{
@@ -422,15 +422,15 @@
 			}
 			"press"
 			{
-				"gid" "902D99FA018BB288F07D83B5DBA3BA3A"
-				"size" "18CED4FFB76801FFA14CF2AB54C52D47"
-				"download" "3312B34E38A66E73284CACB2A31F0BC2"
+				"gid" "77C85260B2F2991E7C08619E5497E8E7"
+				"size" "132E4744BF0D6EB5778B7F490429C223"
+				"download" "53DA95076A82CBA0A1F7FF6F94EF0120"
 			}
 			"private"
 			{
-				"gid" "5D29FA28FE9AF68F3EE49C8473492226"
-				"size" "5C03C3356C998159AF9A03C85B6C89F1"
-				"download" "D11A22545C7A6E4DA3DD61254F51022E"
+				"gid" "4B2174E5F120E0C76805BFF404762E1E"
+				"size" "0FB7C8CC1A07AA2F92DA42DBEA7C2D67"
+				"download" "64FAF729C5E87116809C22112A3AD069"
 			}
 			"publisher"
 			{
@@ -480,9 +480,9 @@
 		{
 			"public"
 			{
-				"gid" "1269595222659565138"
-				"size" "686256716"
-				"download" "354315792"
+				"gid" "2002433109385879485"
+				"size" "686263989"
+				"download" "354296288"
 			}
 			"0.7.1"
 			{
@@ -504,9 +504,9 @@
 			}
 			"moddebug"
 			{
-				"gid" "2835309861992508581"
-				"size" "686256701"
-				"download" "354314384"
+				"gid" "3412546589298533006"
+				"size" "686263999"
+				"download" "354295664"
 			}
 		}
 		"encryptedmanifests"
@@ -519,9 +519,9 @@
 			}
 			"ambassadors"
 			{
-				"gid" "E9258AEB25C17E9796E6419488FDF15A"
-				"size" "3E489D8E6857BE28070DA96BF1C38E97"
-				"download" "4DF14E356EFC085DB9ED9AD4D9040688"
+				"gid" "63B55E292DA702CD91A742B81B7559FD"
+				"size" "67555F172462EE597507E572895C4141"
+				"download" "5E86B9EF03BBC855391E04BC7EEFD295"
 			}
 			"compatibility"
 			{
@@ -537,9 +537,9 @@
 			}
 			"developer"
 			{
-				"gid" "A9A5C0A55B84E01EF1CD1D5A0E687EB9"
-				"size" "BC2714D507355D2D55B457355C1CAE14"
-				"download" "0868756AAFCA462BF24E0BACA27E2335"
+				"gid" "D3713DFC86506B8D867F53910DF62FA0"
+				"size" "1CA6160C671C8372990D3B2EEC88D885"
+				"download" "B5CD52FD3B95663D1DBFB7DE3932AA8F"
 			}
 			"early_explorers"
 			{
@@ -555,9 +555,9 @@
 			}
 			"externalaccess"
 			{
-				"gid" "E66BD6DEFD3B8281E61C953CEFDA68D6"
-				"size" "808522A01A7FDBF0E23DB4B59D96EA45"
-				"download" "DF8CD776509078BE6731F80841E4936A"
+				"gid" "F8D2B65846CCA9CDB0409A4360B1B738"
+				"size" "16E8CDCAEA3983BE2E701D47B6ECA802"
+				"download" "312B91290A8720C7BDEA7F180173FDD2"
 			}
 			"marketing"
 			{
@@ -573,15 +573,15 @@
 			}
 			"press"
 			{
-				"gid" "2339CB943303286BFB99862C3A63A065"
-				"size" "DA9453B668DC6B152EFAD3215D89413F"
-				"download" "61534A078F856EB0F4CF2B44C96B6E6C"
+				"gid" "2C7F180AA3B836A4278DD792B87A278F"
+				"size" "F2E8F3CC25317072AD6A622310BE99EE"
+				"download" "F4A579D5BF3674F69816EDE82924B4B1"
 			}
 			"private"
 			{
-				"gid" "82AFEE8DC095FB7A9EFB760D6F1C894C"
-				"size" "0AE2EB9F949E0BC4ECF7F180119185C6"
-				"download" "55EEF3D62B7429C7AED91ADCA9FAC55A"
+				"gid" "4AA5587C53F84661F2A3FB0DC1B68530"
+				"size" "3DA2162EF508CDA3527D732C22392EFB"
+				"download" "C56A998CEA1D5E3A4EFF7E8FD69E4512"
 			}
 			"publisher"
 			{
@@ -625,8 +625,8 @@
 	{
 		"public"
 		{
-			"buildid" "13704198"
-			"timeupdated" "1710176039"
+			"buildid" "13736477"
+			"timeupdated" "1710410079"
 		}
 		"0.7.1"
 		{
@@ -654,9 +654,9 @@
 		}
 		"ambassadors"
 		{
-			"buildid" "13704198"
+			"buildid" "13736477"
 			"pwdrequired" "1"
-			"timeupdated" "1710175814"
+			"timeupdated" "1710409903"
 		}
 		"compatibility"
 		{
@@ -672,9 +672,9 @@
 		}
 		"developer"
 		{
-			"buildid" "13704198"
+			"buildid" "13736477"
 			"pwdrequired" "1"
-			"timeupdated" "1710173566"
+			"timeupdated" "1710403820"
 		}
 		"early_explorers"
 		{
@@ -690,9 +690,9 @@
 		}
 		"externalaccess"
 		{
-			"buildid" "13704249"
+			"buildid" "13728538"
 			"pwdrequired" "1"
-			"timeupdated" "1710176157"
+			"timeupdated" "1710410112"
 		}
 		"marketing"
 		{
@@ -702,9 +702,9 @@
 		}
 		"moddebug"
 		{
-			"buildid" "13704249"
+			"buildid" "13728538"
 			"description" "For mod debugging"
-			"timeupdated" "1710176135"
+			"timeupdated" "1710410129"
 		}
 		"nightly"
 		{
@@ -714,15 +714,15 @@
 		}
 		"press"
 		{
-			"buildid" "13704198"
+			"buildid" "13736477"
 			"pwdrequired" "1"
-			"timeupdated" "1710175844"
+			"timeupdated" "1710409915"
 		}
 		"private"
 		{
-			"buildid" "13704198"
+			"buildid" "13736477"
 			"pwdrequired" "1"
-			"timeupdated" "1710175867"
+			"timeupdated" "1710409929"
 		}
 		"publisher"
 		{
@@ -928,6 +928,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22716678"
-"_sha" "b9411e39b08f856ab38d776c7d106490a6c832c6"
-"_size" "21825"
+"_change_number" "22759286"
+"_sha" "a432d649df1bc29657739710460940c8706ee223"
+"_size" "21721"
