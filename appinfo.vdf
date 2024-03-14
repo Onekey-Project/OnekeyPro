@@ -306,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "7004740399795538389"
-				"size" "11706022397"
-				"download" "7133641984"
+				"gid" "561239733851177535"
+				"size" "12673568414"
+				"download" "7660338704"
 			}
 		}
 		"encryptedmanifests"
@@ -351,15 +351,15 @@
 			}
 			"gbx_qa"
 			{
-				"gid" "BB855E9D13B7D13CE3117CD001756126"
-				"size" "E218EB633FD784CE3D66D7E7B0ACDC8C"
-				"download" "A3EF09CBE86C3E74F92056E1EFC6E6C6"
+				"gid" "0F2ACBFAE560171525E25E77A7F93DC3"
+				"size" "318B328A47BD9363BB4E6B2A84483E41"
+				"download" "326EF740A73D9510220758F59CEAA69F"
 			}
 			"gbx_qa_cheats"
 			{
-				"gid" "B7F6A4A1488D577E94FC27ED54667217"
-				"size" "43471625CE01FAC4B4F9D9858662E1C8"
-				"download" "2B251A1CCBFA2E3289D7A6E258C25E6B"
+				"gid" "715FA77D897D6712B305118A34A14170"
+				"size" "29CDEBA80EC990C200A1EFF515BCD2B9"
+				"download" "5E5F3A0892A18591375F72A8419B60DF"
 			}
 			"internal"
 			{
@@ -405,9 +405,9 @@
 			}
 			"playtest"
 			{
-				"gid" "96721B98A8BDA2CF1592CF339BF831C7"
-				"size" "087D68811FB6BEDE4FE4C426E23B55AE"
-				"download" "956EB02C1D7D7BA789EA35D1843429DC"
+				"gid" "A28F63954CFA0E071BA2E39D2009B7D2"
+				"size" "C6654BACC4CE3FE7B6D54CB67D24B10B"
+				"download" "6BFF1F0A739E3A473EDE2E8D32D9D4CD"
 			}
 			"press"
 			{
@@ -706,8 +706,8 @@
 	{
 		"public"
 		{
-			"buildid" "13188369"
-			"timeupdated" "1705439148"
+			"buildid" "13738702"
+			"timeupdated" "1710421687"
 		}
 		"artemis"
 		{
@@ -747,15 +747,15 @@
 		}
 		"gbx_qa"
 		{
-			"buildid" "13614290"
+			"buildid" "13738702"
 			"pwdrequired" "1"
-			"timeupdated" "1709302991"
+			"timeupdated" "1710417811"
 		}
 		"gbx_qa_cheats"
 		{
-			"buildid" "13614482"
+			"buildid" "13633467"
 			"pwdrequired" "1"
-			"timeupdated" "1709304085"
+			"timeupdated" "1709562503"
 		}
 		"internal"
 		{
@@ -801,9 +801,9 @@
 		}
 		"playtest"
 		{
-			"buildid" "13607733"
+			"buildid" "13738588"
 			"pwdrequired" "1"
-			"timeupdated" "1709254313"
+			"timeupdated" "1710417147"
 		}
 		"press"
 		{
@@ -942,6 +942,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22579947"
-"_sha" "36f638d456947c56783b0f6ad703b38e3b8df0b4"
-"_size" "21727"
+"_change_number" "22761799"
+"_sha" "4dbcf3c98b485fff9ce20a3d7f0555b42cf7c711"
+"_size" "21726"
