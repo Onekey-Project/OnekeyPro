@@ -346,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "2269268309986073627"
-				"size" "10332034032"
-				"download" "9327649664"
+				"gid" "931619426950428768"
+				"size" "10402781145"
+				"download" "9396743168"
 			}
 		}
 		"encryptedmanifests"
@@ -373,15 +373,15 @@
 			}
 			"bleeding-develop"
 			{
-				"gid" "8B8856795A993354221E1272CCCA98DF"
-				"size" "DCC0EA3284389B134B1F1C52F9677276"
-				"download" "D293D0783F2E2EEE0214FC743B328DA9"
+				"gid" "C0BB1D51B3BC4E2BA2423E7FD37C58DE"
+				"size" "512B11B70AC6496DFD107CC3F045697A"
+				"download" "F54FBBAA9FFE5EB58DA4C2A2A6C7675D"
 			}
 			"bleeding-master"
 			{
-				"gid" "6E0FE0F8912ABDEB78887951344956CA"
-				"size" "475FC5FF7D982741077D92057ACFDB19"
-				"download" "D452E28A64723B246045C38884F336C4"
+				"gid" "E8C0DADCC46608A0DC3E6A79FCF7B213"
+				"size" "1F93F9F7B714B7CCA1636A16EE26204E"
+				"download" "FCFBD70DC06E9CB2EC68FB6422E7EDF6"
 			}
 			"garen"
 			{
@@ -391,9 +391,9 @@
 			}
 			"jaximus"
 			{
-				"gid" "B78944FCBAFE8720D050A4B0EC208AB6"
-				"size" "5B73FED8D6AAAD71D0DC001EB120B116"
-				"download" "85419155EE2F7EACADB630494E7EE9C5"
+				"gid" "686F944A1B7080B615B247BA037D9DC0"
+				"size" "DC55237D3228F791B8628275F86C3B87"
+				"download" "45280339F2FEEAA19A72978D6708EA56"
 			}
 			"malzahar"
 			{
@@ -415,9 +415,9 @@
 			}
 			"release"
 			{
-				"gid" "4D1F0CD67345FEF0BE5C1D2A33A899CB"
-				"size" "5DA1195795A8AF795C7F961241B7B586"
-				"download" "FCDD3C22C4047615EA399669B9207DBE"
+				"gid" "6C8CEA12B6D62A46870F0365C99F755D"
+				"size" "B1FEDE950E779A95D7C625199CBA759D"
+				"download" "65E701CB4D4D089B6B715B562F48F40B"
 			}
 			"stale-develop"
 			{
@@ -439,15 +439,15 @@
 			}
 			"tryndamare"
 			{
-				"gid" "1BF7C30041AAF9FBF31D75B60D3B6C8A"
-				"size" "0C8EB4D2F6D67519274DDB7903885340"
-				"download" "0E9B63A43044C8A2779C9B0D2C8FE58D"
+				"gid" "BBC8AAB9FE1FCBABBE7913ACB66E226D"
+				"size" "9F77C239F7704401872FB700D7BEED49"
+				"download" "1053A25357A8FC7EB3B7555176ECF74D"
 			}
 			"wskrzybalski"
 			{
-				"gid" "B6FF83E9BE9E6B8D32B3226007037EA5"
-				"size" "869A2AA1DBD603E94525F087CFC252F4"
-				"download" "D565F9BF79D2E5C008A7290D4357F5F4"
+				"gid" "D8688D79FCD82EC2EFF2D1B23EFB85F0"
+				"size" "1E349A7617EF8FEDADF690C123CAAF37"
+				"download" "5F0648E2B723A46436441FC9561788CD"
 			}
 			"ziggs"
 			{
@@ -583,8 +583,8 @@
 	{
 		"public"
 		{
-			"buildid" "13653866"
-			"timeupdated" "1709722884"
+			"buildid" "13726905"
+			"timeupdated" "1710413448"
 		}
 		"akali"
 		{
@@ -606,15 +606,15 @@
 		}
 		"bleeding-develop"
 		{
-			"buildid" "13652597"
+			"buildid" "13733328"
 			"pwdrequired" "1"
-			"timeupdated" "1709695530"
+			"timeupdated" "1710377652"
 		}
 		"bleeding-master"
 		{
-			"buildid" "13651473"
+			"buildid" "13733174"
 			"pwdrequired" "1"
-			"timeupdated" "1709685515"
+			"timeupdated" "1710376541"
 		}
 		"garen"
 		{
@@ -624,9 +624,9 @@
 		}
 		"jaximus"
 		{
-			"buildid" "13477306"
+			"buildid" "13658045"
 			"pwdrequired" "1"
-			"timeupdated" "1708095294"
+			"timeupdated" "1709735418"
 		}
 		"malzahar"
 		{
@@ -648,9 +648,9 @@
 		}
 		"release"
 		{
-			"buildid" "13653866"
+			"buildid" "13726905"
 			"pwdrequired" "1"
-			"timeupdated" "1709708882"
+			"timeupdated" "1710335724"
 		}
 		"stale-develop"
 		{
@@ -672,15 +672,15 @@
 		}
 		"tryndamare"
 		{
-			"buildid" "13648534"
+			"buildid" "13703573"
 			"pwdrequired" "1"
-			"timeupdated" "1709662188"
+			"timeupdated" "1710170030"
 		}
 		"wskrzybalski"
 		{
-			"buildid" "13531545"
+			"buildid" "13666571"
 			"pwdrequired" "1"
-			"timeupdated" "1708608629"
+			"timeupdated" "1709799960"
 		}
 		"ziggs"
 		{
@@ -793,6 +793,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22653898"
-"_sha" "bbdbcd0a45c24c5d21ad10cb144910551620685e"
-"_size" "16645"
+"_change_number" "22760017"
+"_sha" "96e938a1774ad02e720cb41f2c0547aa6c4d3386"
+"_size" "16644"
