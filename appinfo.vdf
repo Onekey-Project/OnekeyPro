@@ -92,6 +92,7 @@
 		"library_capsule" "en,zh-cn"
 		"library_hero" "zh-cn,en"
 		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -99,7 +100,7 @@
 			"height_pct" "83.62816230322609"
 		}
 	}
-	"store_asset_mtime" "1708862096"
+	"store_asset_mtime" "1710407553"
 	"associations"
 	{
 		"0"
@@ -147,6 +148,7 @@
 		"category_23" "1"
 		"category_15" "1"
 		"category_33" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -274,15 +276,21 @@
 		{
 			"public"
 			{
-				"gid" "1778622951304086709"
-				"size" "5567828280"
-				"download" "682569696"
+				"gid" "6162288041414355122"
+				"size" "5476896849"
+				"download" "748238272"
 			}
 			"beta"
 			{
-				"gid" "1848084999514064708"
-				"size" "5477055497"
-				"download" "748329776"
+				"gid" "6162288041414355122"
+				"size" "5476896849"
+				"download" "748238272"
+			}
+			"v0.6"
+			{
+				"gid" "1778622951304086709"
+				"size" "5567828280"
+				"download" "682569696"
 			}
 		}
 		"encryptedmanifests"
@@ -301,9 +309,9 @@
 			}
 			"develop"
 			{
-				"gid" "AD0C2E4C8B068876B0DB203F8BFF1FA0"
-				"size" "40E737AF8616387B7F321307B53F4738"
-				"download" "34AF4C72B299D161BA007BB8997CEA8B"
+				"gid" "9CB51A14DD8CBB48AFAAAE084E3D8E85"
+				"size" "6246BB70174445E3D5AB59665BC51D1F"
+				"download" "C3B90335D13CAE7C16E8CB682875AB0F"
 			}
 			"steam_china_only"
 			{
@@ -322,10 +330,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1672459021"
 		}
+		"v0.6"
+		{
+			"sc_schinese" "游戏旧版本归档（v0.6）"
+			"buildid" "10786159"
+			"description" "Game old version archive (v0.6)"
+			"timeupdated" "1709886512"
+		}
 		"public"
 		{
-			"buildid" "10786159"
-			"timeupdated" "1678980759"
+			"buildid" "13729298"
+			"timeupdated" "1710417637"
 		}
 		"alpha"
 		{
@@ -335,9 +350,9 @@
 		}
 		"beta"
 		{
-			"buildid" "13494250"
+			"buildid" "13729298"
 			"description" "Public beta test branch"
-			"timeupdated" "1708323632"
+			"timeupdated" "1710349495"
 		}
 		"demo"
 		{
@@ -347,9 +362,9 @@
 		}
 		"develop"
 		{
-			"buildid" "13494250"
+			"buildid" "13729298"
 			"pwdrequired" "1"
-			"timeupdated" "1708323491"
+			"timeupdated" "1710349282"
 		}
 	}
 }
@@ -401,6 +416,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22497895"
-"_sha" "5a85f4f4a77d16f89c8fbedfb50ba395a234c002"
-"_size" "7401"
+"_change_number" "22760888"
+"_sha" "bb1166144b8600d6fe80a97f4c9eb89031f87f32"
+"_size" "7751"
