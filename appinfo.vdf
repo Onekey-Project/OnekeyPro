@@ -282,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "7732828379316907082"
-				"size" "9340297827"
-				"download" "5006272224"
+				"gid" "3538492335458783036"
+				"size" "9340302134"
+				"download" "5006272912"
 			}
 			"1.0.6"
 			{
@@ -382,14 +382,20 @@
 				"size" "9340297827"
 				"download" "5006272224"
 			}
+			"1.6.1"
+			{
+				"gid" "7732828379316907082"
+				"size" "9340297827"
+				"download" "5006272224"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "B8EAD8B2122AE90F760085BFE2E041D3"
-				"size" "F47D8C32B398C0C5BFEC869D464AEF48"
-				"download" "A8A5BBA07DAE0FCD655AC44D91767513"
+				"gid" "62F948A05A7C69C4A70CC2AA9C260B72"
+				"size" "8059F535F00981972C939C707E6DCF4E"
+				"download" "076288C0E2052E164C273493B17B364D"
 			}
 			"atlantis_submerging"
 			{
@@ -445,9 +451,9 @@
 		{
 			"public"
 			{
-				"gid" "6910074257618789554"
-				"size" "230629708"
-				"download" "114102320"
+				"gid" "6741285302138472235"
+				"size" "230610252"
+				"download" "114094464"
 			}
 			"1.0.6"
 			{
@@ -545,14 +551,20 @@
 				"size" "230629196"
 				"download" "114097904"
 			}
+			"1.6.1"
+			{
+				"gid" "6910074257618789554"
+				"size" "230629708"
+				"download" "114102320"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "195B5CE3071F0F6EDFB2E91BE276BFF9"
-				"size" "F740364FD9A7C0C7CEB063B5D023FE22"
-				"download" "8724A103CB42C0CDD0D4AB35D86D06D9"
+				"gid" "B60FBCE1093A88026B6BFFAA3A5CABB6"
+				"size" "CFDE6167165C988D0F7E4A33ED62BED9"
+				"download" "C4101C4B253D08C100DABBEE648C7501"
 			}
 			"atlantis_submerging"
 			{
@@ -608,9 +620,9 @@
 		{
 			"public"
 			{
-				"gid" "1996931614893009930"
-				"size" "804606693"
-				"download" "179740240"
+				"gid" "9195892874629856149"
+				"size" "804607717"
+				"download" "179707232"
 			}
 			"1.0.6"
 			{
@@ -708,14 +720,20 @@
 				"size" "804606677"
 				"download" "179730048"
 			}
+			"1.6.1"
+			{
+				"gid" "1996931614893009930"
+				"size" "804606693"
+				"download" "179740240"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "407EEBE80E8C2D2269A9C4EA64E9BCE2"
-				"size" "9D93AA0381BF14DDB734510880F3EA01"
-				"download" "44B100D6BD27656FF6C6666EE5B57B1D"
+				"gid" "A6045615DD7238445839DAEF1DD2E947"
+				"size" "25030BF4FFC77F44CF11B4128DA2BBE3"
+				"download" "88FE0D77B37956201E47C91E0DDDB8A1"
 			}
 			"atlantis_submerging"
 			{
@@ -771,9 +789,9 @@
 		{
 			"public"
 			{
-				"gid" "100680979321718816"
-				"size" "394134022"
-				"download" "129451024"
+				"gid" "5032933793483616420"
+				"size" "394146310"
+				"download" "129441648"
 			}
 			"1.0.6"
 			{
@@ -871,14 +889,20 @@
 				"size" "394138118"
 				"download" "129439056"
 			}
+			"1.6.1"
+			{
+				"gid" "100680979321718816"
+				"size" "394134022"
+				"download" "129451024"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "D214693D5A55DE54B3A95ABE8182E2E6"
-				"size" "65604CDB542937AF378455D7162AC188"
-				"download" "109AEE37A916D78D94C0B507FA519CF7"
+				"gid" "58CCD832620B093D7AED005561E72B3A"
+				"size" "38F1A5D7A80BE7B884388EE0A25D46B1"
+				"download" "8B50C1DA4EBFB0AAE16E669719798D8B"
 			}
 			"atlantis_submerging"
 			{
@@ -934,9 +958,9 @@
 		{
 			"public"
 			{
-				"gid" "2717059149524290195"
-				"size" "138124163"
-				"download" "134114144"
+				"gid" "5497334221630972445"
+				"size" "137849531"
+				"download" "133842160"
 			}
 			"1.0.6"
 			{
@@ -1034,14 +1058,20 @@
 				"size" "138124163"
 				"download" "134114144"
 			}
+			"1.6.1"
+			{
+				"gid" "2717059149524290195"
+				"size" "138124163"
+				"download" "134114144"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "6ADD49C8035D4ECD02D620217F4E5AFF"
-				"size" "BDF90E02CBDAC1B614C416A24095747A"
-				"download" "3BBA70C9BBC16BF0020DDBCFC1590272"
+				"gid" "671D51CB4B1D6455CCF12C05970F97B0"
+				"size" "CD2415F68CEA0DA722D2EBDC0D0D1B6F"
+				"download" "680AAFE23744DD76BE8813254D0F7AFC"
 			}
 			"atlantis_submerging"
 			{
@@ -1097,9 +1127,9 @@
 		{
 			"public"
 			{
-				"gid" "7984134240134589674"
-				"size" "277076286"
-				"download" "271526096"
+				"gid" "5092703422751129407"
+				"size" "277097678"
+				"download" "271541168"
 			}
 			"1.0.6"
 			{
@@ -1197,14 +1227,20 @@
 				"size" "277076286"
 				"download" "271526096"
 			}
+			"1.6.1"
+			{
+				"gid" "7984134240134589674"
+				"size" "277076286"
+				"download" "271526096"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "F28F639FDD65CB540D1B59E05D3FAFC3"
-				"size" "46738074EBF6C0ED931114F45E05F04F"
-				"download" "92C63F97E06D5BEA10917F9C689B1EAB"
+				"gid" "0B5FC30D6859EA39D2EFD2DACAC9EC7A"
+				"size" "F41124738EFF6A8C6CA8CA8721D6136F"
+				"download" "610F96623105975790A63FEDBB82273C"
 			}
 			"atlantis_submerging"
 			{
@@ -1260,9 +1296,9 @@
 		{
 			"public"
 			{
-				"gid" "8158840176525950705"
-				"size" "139764119"
-				"download" "134347440"
+				"gid" "555315901966292621"
+				"size" "139776733"
+				"download" "134357056"
 			}
 			"1.0.6"
 			{
@@ -1360,14 +1396,20 @@
 				"size" "139764119"
 				"download" "134347440"
 			}
+			"1.6.1"
+			{
+				"gid" "8158840176525950705"
+				"size" "139764119"
+				"download" "134347440"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "270024D1A8050BBEA753B323301A3806"
-				"size" "92CC7AD778C1490786A3E7CBE51B7F1F"
-				"download" "B2855BF32AC29196AE4F04CD97A1D7E7"
+				"gid" "33958D45860B7713B7211505BB249CAD"
+				"size" "35149412C5090D56BF9DBB42B07333A0"
+				"download" "423C3979D5D6B32E5ACDF79767AEF982"
 			}
 			"atlantis_submerging"
 			{
@@ -1515,6 +1557,12 @@
 				"download" "0"
 			}
 			"1.6.0"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.6.1"
 			{
 				"gid" "5897262907736816768"
 				"size" "0"
@@ -1680,6 +1728,12 @@
 				"size" "604574365"
 				"download" "582238400"
 			}
+			"1.6.1"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1840,6 +1894,12 @@
 				"size" "96255"
 				"download" "96752"
 			}
+			"1.6.1"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1988,6 +2048,12 @@
 				"size" "720381917"
 				"download" "725288608"
 			}
+			"1.6.1"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2119,6 +2185,12 @@
 				"download" "379689536"
 			}
 			"1.6.0"
+			{
+				"gid" "495038053266442867"
+				"size" "786019317"
+				"download" "379673600"
+			}
+			"1.6.1"
 			{
 				"gid" "495038053266442867"
 				"size" "786019317"
@@ -2260,6 +2332,12 @@
 				"size" "99008"
 				"download" "99744"
 			}
+			"1.6.1"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2390,6 +2468,12 @@
 				"size" "498993839"
 				"download" "115765696"
 			}
+			"1.6.1"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2490,6 +2574,12 @@
 				"size" "50100927"
 				"download" "45026912"
 			}
+			"1.6.1"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2532,7 +2622,7 @@
 		{
 			"public"
 			{
-				"gid" "268296336392156141"
+				"gid" "106030915970450331"
 				"size" "21774681"
 				"download" "3871024"
 			}
@@ -2542,12 +2632,18 @@
 				"size" "21774681"
 				"download" "3871024"
 			}
+			"1.6.1"
+			{
+				"gid" "268296336392156141"
+				"size" "21774681"
+				"download" "3871024"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"atlantis_rising"
 			{
-				"gid" "D382F74F223650AC0E77047F6D3D2109"
+				"gid" "2890AB9228233528AC668E6404E6C6E6"
 				"size" "EEDB98D15C79F3D41D3E4986F007F245"
 				"download" "B2F6FDCCE891C20F68FA6BB924CCFDE5"
 			}
@@ -2564,8 +2660,8 @@
 	{
 		"public"
 		{
-			"buildid" "13657017"
-			"timeupdated" "1709802000"
+			"buildid" "13727517"
+			"timeupdated" "1710421170"
 		}
 		"1.0.6"
 		{
@@ -2663,11 +2759,17 @@
 			"description" "1.6.0 rollback"
 			"timeupdated" "1709741777"
 		}
-		"atlantis_rising"
+		"1.6.1"
 		{
 			"buildid" "13657017"
+			"description" "1.6.1 rollback"
+			"timeupdated" "1710164440"
+		}
+		"atlantis_rising"
+		{
+			"buildid" "13727517"
 			"pwdrequired" "1"
-			"timeupdated" "1709728778"
+			"timeupdated" "1710339430"
 		}
 		"atlantis_submerging"
 		{
@@ -2734,6 +2836,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22668067"
-"_sha" "69a6988e5bf734ceebc0286b612db77aefe23058"
-"_size" "56489"
+"_change_number" "22761677"
+"_sha" "70fa14f0f0d6bfca2b58cfccd0f7a7f4606de2c7"
+"_size" "58356"
