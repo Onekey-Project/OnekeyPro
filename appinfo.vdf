@@ -276,15 +276,15 @@
 		{
 			"public"
 			{
-				"gid" "6162288041414355122"
-				"size" "5476896849"
-				"download" "748238272"
+				"gid" "6282997535849507827"
+				"size" "5476903697"
+				"download" "748072960"
 			}
 			"beta"
 			{
-				"gid" "6162288041414355122"
-				"size" "5476896849"
-				"download" "748238272"
+				"gid" "6282997535849507827"
+				"size" "5476903697"
+				"download" "748072960"
 			}
 			"v0.6"
 			{
@@ -309,9 +309,9 @@
 			}
 			"develop"
 			{
-				"gid" "9CB51A14DD8CBB48AFAAAE084E3D8E85"
-				"size" "6246BB70174445E3D5AB59665BC51D1F"
-				"download" "C3B90335D13CAE7C16E8CB682875AB0F"
+				"gid" "B5D91DE9E6AC8F534CC326CC60E7B743"
+				"size" "179CEA8CB3B60F790F2AD29FD50F758C"
+				"download" "D43942D76F119B0B4C10E9E9F491CE81"
 			}
 			"steam_china_only"
 			{
@@ -339,8 +339,8 @@
 		}
 		"public"
 		{
-			"buildid" "13729298"
-			"timeupdated" "1710417637"
+			"buildid" "13756364"
+			"timeupdated" "1710530994"
 		}
 		"alpha"
 		{
@@ -350,9 +350,9 @@
 		}
 		"beta"
 		{
-			"buildid" "13729298"
+			"buildid" "13756364"
 			"description" "Public beta test branch"
-			"timeupdated" "1710349495"
+			"timeupdated" "1710531117"
 		}
 		"demo"
 		{
@@ -362,9 +362,9 @@
 		}
 		"develop"
 		{
-			"buildid" "13729298"
+			"buildid" "13756364"
 			"pwdrequired" "1"
-			"timeupdated" "1710349282"
+			"timeupdated" "1710529979"
 		}
 	}
 }
@@ -416,6 +416,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22760888"
-"_sha" "bb1166144b8600d6fe80a97f4c9eb89031f87f32"
+"_change_number" "22786098"
+"_sha" "8cbf68ce9b1f97d9ae8be8355b011843d3b683b3"
 "_size" "7751"
