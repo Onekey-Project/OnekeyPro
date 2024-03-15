@@ -185,8 +185,8 @@
 	{
 		"0" "1662"
 		"1" "1100689"
-		"2" "7332"
-		"3" "3859"
+		"2" "3859"
+		"3" "7332"
 		"4" "3843"
 		"5" "1702"
 		"6" "3834"
@@ -272,15 +272,15 @@
 		{
 			"public"
 			{
-				"gid" "2057055473188143081"
-				"size" "77738321459"
-				"download" "32680483728"
+				"gid" "6498157560971849142"
+				"size" "77940449451"
+				"download" "32792990960"
 			}
 			"experimental"
 			{
-				"gid" "2057055473188143081"
-				"size" "77738321459"
-				"download" "32680483728"
+				"gid" "6498157560971849142"
+				"size" "77940449451"
+				"download" "32792990960"
 			}
 		}
 		"encryptedmanifests"
@@ -293,9 +293,9 @@
 			}
 			"internaltest"
 			{
-				"gid" "08246874185A2EE9883469A8F2162302"
-				"size" "D1E762CC456D005E77DA626F78C359EB"
-				"download" "C5EE15BDAA32CF1FA1E0C1C27EFB43E2"
+				"gid" "1D6F2B0576EA24B92A7098FF6CD705A4"
+				"size" "2A1EB9B6DB4731F5FDC75DEB75D3E35B"
+				"download" "3F4955BC4684C262B2D4E1FF24842783"
 			}
 			"veterans"
 			{
@@ -309,8 +309,8 @@
 	{
 		"public"
 		{
-			"buildid" "13675669"
-			"timeupdated" "1709863685"
+			"buildid" "13711229"
+			"timeupdated" "1710460560"
 		}
 		"batteries"
 		{
@@ -320,15 +320,15 @@
 		}
 		"experimental"
 		{
-			"buildid" "13675669"
+			"buildid" "13711229"
 			"description" "Predeployment Testing"
-			"timeupdated" "1709857660"
+			"timeupdated" "1710277802"
 		}
 		"internaltest"
 		{
-			"buildid" "13675669"
+			"buildid" "13711229"
 			"pwdrequired" "1"
-			"timeupdated" "1709857522"
+			"timeupdated" "1710230107"
 		}
 		"veterans"
 		{
@@ -406,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22680837"
-"_sha" "0a98e4d1d18b7c7798b52074acc72e49ea0bc875"
+"_change_number" "22772156"
+"_sha" "0bc4274a0943ed73442a484f92c47c4d43ccbdaf"
 "_size" "7567"
