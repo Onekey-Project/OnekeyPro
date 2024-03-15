@@ -196,30 +196,36 @@
 		{
 			"public"
 			{
-				"gid" "8351204670344907570"
-				"size" "1707381166"
-				"download" "1641970416"
+				"gid" "7734876748656035308"
+				"size" "1877578832"
+				"download" "1813192048"
 			}
 			"test"
 			{
-				"gid" "8351204670344907570"
-				"size" "1707381166"
-				"download" "1641970416"
+				"gid" "7734876748656035308"
+				"size" "1877578832"
+				"download" "1813192048"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"gamepulse"
 			{
-				"gid" "1DF0C3A6158E5082AB7622ABB70F81DE"
-				"size" "ECDFC3CCF4AEA552B1CBBD3994B92632"
-				"download" "68B8A40D2F811D72BAEEED26A448F28B"
+				"gid" "7C4DB48671E643E5E3C0E90D314CD098"
+				"size" "3FCAA8CA49A1E3956F41C686B1CB2969"
+				"download" "1346641C6288F909429CAE5E21028A48"
 			}
 			"privatetest"
 			{
-				"gid" "7BF2D239EC12BACAC4C212650CC2A245"
-				"size" "122464D719C22810B9F78AB139EFE8D4"
-				"download" "A9BA913043BBC6D2120CA7E99C41D250"
+				"gid" "805E02D1511545A5824812A80460CC43"
+				"size" "286D400BB43FE44DCDA9790B41F25000"
+				"download" "A0037EF9002821559641E5CE8408AFA4"
+			}
+			"reimutest"
+			{
+				"gid" "CEB678CE0400C1B42E9A6D945191C041"
+				"size" "5E555FDF4E1CBE5953F6FFE914F9D72D"
+				"download" "D48665178FE2F3D3A97E6E7972A68866"
 			}
 		}
 	}
@@ -227,26 +233,32 @@
 	{
 		"public"
 		{
-			"buildid" "13425574"
-			"timeupdated" "1707650529"
+			"buildid" "13750998"
+			"timeupdated" "1710504858"
 		}
 		"gamepulse"
 		{
-			"buildid" "13425574"
+			"buildid" "13750998"
 			"pwdrequired" "1"
-			"timeupdated" "1707624413"
+			"timeupdated" "1710499209"
 		}
 		"privatetest"
 		{
-			"buildid" "13425574"
+			"buildid" "13750998"
 			"pwdrequired" "1"
-			"timeupdated" "1707650500"
+			"timeupdated" "1710504822"
+		}
+		"reimutest"
+		{
+			"buildid" "13750870"
+			"pwdrequired" "1"
+			"timeupdated" "1710499154"
 		}
 		"test"
 		{
-			"buildid" "13425574"
+			"buildid" "13750998"
 			"description" "October Update"
-			"timeupdated" "1707650508"
+			"timeupdated" "1710504831"
 		}
 	}
 }
@@ -276,6 +288,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22470569"
-"_sha" "20dde1422ccbc5c7ded232d4906b006657cea1b6"
-"_size" "5315"
+"_change_number" "22780114"
+"_sha" "b0c095d9ea403257e10e98789b06c70daad14ab2"
+"_size" "5596"
