@@ -103,7 +103,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1709636375"
+	"store_asset_mtime" "1710490126"
 	"associations"
 	{
 		"0"
@@ -225,7 +225,7 @@
 		"16" "4136"
 		"17" "22602"
 		"18" "19"
-		"19" "492"
+		"19" "493"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -477,9 +477,9 @@
 		{
 			"public"
 			{
-				"gid" "2727230966914673508"
-				"size" "2436117040"
-				"download" "1889466288"
+				"gid" "8139060732571726346"
+				"size" "2436366226"
+				"download" "1889661744"
 			}
 		}
 		"encryptedmanifests"
@@ -522,9 +522,9 @@
 			}
 			"steam_ebirah_qa"
 			{
-				"gid" "29AAE202152491DDD864935F488CAB31"
-				"size" "B9C14EC0F4ABB8A6B211487BD6C4445A"
-				"download" "6E98EC379FCE412FC25251CF99383C90"
+				"gid" "D09A98497B5CD5EE2A32B1F973E01FDC"
+				"size" "FD9E189002FB455B5DA94FE9A281E0BC"
+				"download" "D7531E3DA8CEDC8AFF4484034806D6AE"
 			}
 			"steam_hotfix_qa"
 			{
@@ -540,9 +540,9 @@
 			}
 			"steam_qa"
 			{
-				"gid" "36F33E194F8747F867F0DE1D51419EEF"
-				"size" "C28D1F75213308A7FA9E6C5E65626F3B"
-				"download" "F5606A77991599013C7EFB86AAD6DD62"
+				"gid" "E23600BBE8EAF4557774C9CFD3A1ACA6"
+				"size" "60A55BC4BF377D2262E132D2ACCE5244"
+				"download" "0BB62BE57ADC093A6BB5C8CAFAB5C974"
 			}
 		}
 	}
@@ -556,9 +556,9 @@
 		{
 			"public"
 			{
-				"gid" "2032258771873348712"
-				"size" "2906105371"
-				"download" "1953194848"
+				"gid" "1464597191997964821"
+				"size" "2906108864"
+				"download" "1953200768"
 			}
 		}
 		"encryptedmanifests"
@@ -619,9 +619,9 @@
 			}
 			"steam_qa"
 			{
-				"gid" "BAB521A2FC09F2267626E0E0BB326947"
-				"size" "F31B67E7AA7E92EF473F0F18AD03FB9F"
-				"download" "B0E0DE9ECD1C797E43791818FD37C29C"
+				"gid" "09E6DF3283DF02061E260F1B39099FAA"
+				"size" "4E264559DE7F5BC8313BE4DBD9F90DFA"
+				"download" "919822770B425965D20B4E44D8A9A9D7"
 			}
 		}
 	}
@@ -743,9 +743,9 @@
 			}
 			"steam_ebirah_qa"
 			{
-				"gid" "A24108B49F9CDA502A68DDB38EB7FDA5"
-				"size" "41092E5EB6820C88E56D2190C4C073A4"
-				"download" "64296164A3FA28FB057CDC8994DF40D2"
+				"gid" "6000C35B139B97A4D5FBD844B26ECA89"
+				"size" "10D91D9C976A9E8638DCCB1BE8BDE92A"
+				"download" "CE835FBA3ABCCAF9CFE2DA7D490C36E7"
 			}
 			"steam_hotfix_qa"
 			{
@@ -761,9 +761,9 @@
 			}
 			"steam_qa"
 			{
-				"gid" "BB3E9CBC3E730BE1935742E6A9C04026"
-				"size" "CB52C6FE3E6325589CC1DD84196D8CCE"
-				"download" "FBB68452F89506521095ABFCA2E648AD"
+				"gid" "384F7C0352445E27D96A7A532CDE7828"
+				"size" "4866922D6B277A6087A840B76F61E31F"
+				"download" "471EF83AF130E558ECA865C2570F8600"
 			}
 		}
 	}
@@ -817,9 +817,9 @@
 			}
 			"steam_qa"
 			{
-				"gid" "8001DE9DE5E4E28A9B489303FD2B6970"
-				"size" "11C38512174EE5D5F381DCE935202735"
-				"download" "08D2A730BF33F96020D20E8D0AF45F22"
+				"gid" "96EC1F7D537380939F0084F04C6BE7ED"
+				"size" "84132D8CE363E50FEF7036201AC6EE72"
+				"download" "B5F8C62808EA549BE838347BD72A761D"
 			}
 		}
 	}
@@ -849,9 +849,9 @@
 			}
 			"steam_ebirah_qa"
 			{
-				"gid" "7CEA495081402DAF2C03528276C449C7"
-				"size" "6BAD6E453B744D13CD5DD01D42C84624"
-				"download" "C29214D4EE3DBC6BD0DBE977789A01CF"
+				"gid" "49540E5314F056043F8F406A81D1D2B0"
+				"size" "5451536CD553155927FC477F66108808"
+				"download" "6BBEE76F09EE28D915525B6AA189B50A"
 			}
 		}
 	}
@@ -867,8 +867,8 @@
 	{
 		"public"
 		{
-			"buildid" "13699181"
-			"timeupdated" "1710138971"
+			"buildid" "13753082"
+			"timeupdated" "1710511976"
 		}
 		"debug_dev"
 		{
@@ -908,9 +908,9 @@
 		}
 		"steam_ebirah_qa"
 		{
-			"buildid" "13698467"
+			"buildid" "13733721"
 			"pwdrequired" "1"
-			"timeupdated" "1710127728"
+			"timeupdated" "1710380592"
 		}
 		"steam_hotfix_qa"
 		{
@@ -926,9 +926,9 @@
 		}
 		"steam_qa"
 		{
-			"buildid" "13323270"
+			"buildid" "13753082"
 			"pwdrequired" "1"
-			"timeupdated" "1706698916"
+			"timeupdated" "1710511001"
 		}
 	}
 }
@@ -939,6 +939,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22709545"
-"_sha" "7325ee57a6b49337d1307bf4b01cb5abc70eb8a7"
+"_change_number" "22781824"
+"_sha" "6ed59d8a08658a76130ceffc9ff12e00d1d300a9"
 "_size" "19410"
