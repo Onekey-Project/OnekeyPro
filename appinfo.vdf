@@ -138,7 +138,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1696433521"
+	"store_asset_mtime" "1710437036"
 	"associations"
 	{
 		"0"
@@ -169,6 +169,7 @@
 		"category_38" "1"
 		"category_18" "1"
 		"category_56" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -306,9 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "561239733851177535"
-				"size" "12673568414"
-				"download" "7660338704"
+				"gid" "7683849529852241564"
+				"size" "12673562967"
+				"download" "7660346128"
 			}
 		}
 		"encryptedmanifests"
@@ -333,9 +334,9 @@
 			}
 			"doubledash"
 			{
-				"gid" "EB42DA7E06B7D878942A01C7643474F0"
-				"size" "342208985467D1ADABF221E837CB407D"
-				"download" "5F55F824B7837A6062F5E5F5CB14D112"
+				"gid" "EB9F5B4776209E8C7E1F25A0489B7F25"
+				"size" "9CA3C9DB784FE762738BB83CD12DFD11"
+				"download" "0EC88F7D8F8763C8E1DD994D6B1F974B"
 			}
 			"east"
 			{
@@ -405,9 +406,9 @@
 			}
 			"playtest"
 			{
-				"gid" "A28F63954CFA0E071BA2E39D2009B7D2"
-				"size" "C6654BACC4CE3FE7B6D54CB67D24B10B"
-				"download" "6BFF1F0A739E3A473EDE2E8D32D9D4CD"
+				"gid" "D917B9FE4971A68AA08539EB2C34A176"
+				"size" "E08F65A76E7A2BEA12F34A6061CB8556"
+				"download" "58D0BA9725FBD10DFE66EBE45C80CB45"
 			}
 			"press"
 			{
@@ -706,8 +707,8 @@
 	{
 		"public"
 		{
-			"buildid" "13738702"
-			"timeupdated" "1710421687"
+			"buildid" "13757255"
+			"timeupdated" "1710537638"
 		}
 		"artemis"
 		{
@@ -729,9 +730,9 @@
 		}
 		"doubledash"
 		{
-			"buildid" "13469516"
+			"buildid" "13756179"
 			"pwdrequired" "1"
-			"timeupdated" "1708033299"
+			"timeupdated" "1710528713"
 		}
 		"east"
 		{
@@ -801,9 +802,9 @@
 		}
 		"playtest"
 		{
-			"buildid" "13738588"
+			"buildid" "13757255"
 			"pwdrequired" "1"
-			"timeupdated" "1710417147"
+			"timeupdated" "1710536941"
 		}
 		"press"
 		{
@@ -942,6 +943,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22761799"
-"_sha" "4dbcf3c98b485fff9ce20a3d7f0555b42cf7c711"
-"_size" "21726"
+"_change_number" "22787166"
+"_sha" "a7e9d58a48251a5c503489773cbf32f01f8c2f73"
+"_size" "21749"
