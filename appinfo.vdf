@@ -308,18 +308,18 @@
 		{
 			"public"
 			{
-				"gid" "2544502454801062642"
-				"size" "27148406255"
-				"download" "11649312736"
+				"gid" "1852069693952204174"
+				"size" "27149691189"
+				"download" "11649583072"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "E9B00EE4914CE8EDDF1061DF2021191D"
-				"size" "C2E89C40E63FD175C8DF3588EF8E0895"
-				"download" "31B2AF5DC1AA188210738DDBC558E148"
+				"gid" "EEFE4C1D34CF64DE79930BC70687572C"
+				"size" "2EC8E88CCA548B8B738DB261AE4AEB0D"
+				"download" "2BAFCA1BE5E2F4E1C4618D481A86738D"
 			}
 			"beta_test"
 			{
@@ -336,18 +336,18 @@
 		{
 			"public"
 			{
-				"gid" "6907917361628378708"
-				"size" "2213215520"
-				"download" "2193870288"
+				"gid" "3787020020593322950"
+				"size" "2213217568"
+				"download" "2193872256"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "5D5AE0A2F4CCCC1D465228641C397FC0"
-				"size" "A1CB489578357B68F397629D7D72EAF8"
-				"download" "D11BF300642430D87877BEFD14281C02"
+				"gid" "A36A7D9BF0BAF3B770F8F28D655435DC"
+				"size" "32D896551E538AC6124850D40FF1F2DC"
+				"download" "64B02C7978DBF931895378F0978B36D0"
 			}
 			"beta_test"
 			{
@@ -364,18 +364,18 @@
 		{
 			"public"
 			{
-				"gid" "3338264751008837764"
-				"size" "4004140717"
-				"download" "3919394608"
+				"gid" "8246240577898331165"
+				"size" "4004139298"
+				"download" "3919393120"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "C3470F7CE9BD2B237BBF3FC80A153CD2"
-				"size" "D372069D0D17F281BC4101B818365661"
-				"download" "C6E79BE16F5C4F85D250E285B52314DE"
+				"gid" "1208B7C7644E12808DD46AA12D6FFF20"
+				"size" "D4B1EA8FC85D66185D2DA12BB7749769"
+				"download" "470ABCF7BEE1DDBD42A3ADDE1D5AD233"
 			}
 			"beta_test"
 			{
@@ -389,14 +389,14 @@
 	{
 		"public"
 		{
-			"buildid" "13635145"
-			"timeupdated" "1709633991"
+			"buildid" "13725694"
+			"timeupdated" "1710507764"
 		}
 		"beta"
 		{
-			"buildid" "13635145"
+			"buildid" "13725694"
 			"pwdrequired" "1"
-			"timeupdated" "1709573667"
+			"timeupdated" "1710328615"
 		}
 		"beta_test"
 		{
@@ -421,6 +421,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22636985"
-"_sha" "df1adfa7b1e78fcec8bb64bcf52266f6ee09fce5"
+"_change_number" "22780660"
+"_sha" "5eab2e0b131f42138164e1739e5dc5c6d99710bd"
 "_size" "7629"
