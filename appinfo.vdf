@@ -363,15 +363,15 @@
 		{
 			"public"
 			{
-				"gid" "2910821524904989589"
-				"size" "87117784360"
-				"download" "82788206160"
+				"gid" "6075299656165318582"
+				"size" "87116013345"
+				"download" "82786308496"
 			}
 			"public_test_realm"
 			{
-				"gid" "2910821524904989589"
-				"size" "87117784360"
-				"download" "82788206160"
+				"gid" "6075299656165318582"
+				"size" "87116013345"
+				"download" "82786308496"
 			}
 		}
 		"encryptedmanifests"
@@ -390,9 +390,9 @@
 			}
 			"continuous"
 			{
-				"gid" "026232DAE2F8E2DDF01D99F75C392F36"
-				"size" "5481CBD8A24F501AF744958DB3BA42C0"
-				"download" "02FED0755EEC334E481496C59FEB9445"
+				"gid" "7D49D39855BEC96A02F42FADD5AF0561"
+				"size" "D5088B5EDDB221C38F1AC02BFCDAE830"
+				"download" "F763C6A774B4A314CC0040ADAE89BB05"
 			}
 			"crossplay"
 			{
@@ -420,9 +420,9 @@
 			}
 			"hamoverdon"
 			{
-				"gid" "1D863F20B655AA15A3BD2A6C8EBD39F6"
-				"size" "C9E147F54417CCF3542B18CC54FAEDDD"
-				"download" "B8FE460244C439640C448CEFCC7A323E"
+				"gid" "824C001595E08470DE8C15B915D5201A"
+				"size" "19479639EF1FF52486865FD1F1615241"
+				"download" "6FBA78DE670F45CA564EF373530ED0A8"
 			}
 			"intelark"
 			{
@@ -462,15 +462,15 @@
 			}
 			"playtest1"
 			{
-				"gid" "536AA0D964B3BC2A4EC71BF04C629BE1"
-				"size" "3EE4438F818DC608462B9A644C3D682D"
-				"download" "BE5889759F8463D877D0D039A09E104C"
+				"gid" "F44DF3558695447C5366837F078532FC"
+				"size" "FBE616EF98E40594E36B48C3D78F58AF"
+				"download" "BBE8FEA4558451105838E6806D731150"
 			}
 			"qa_staging"
 			{
-				"gid" "13E3B4AB7CFC39750B3A35D58918E5F7"
-				"size" "E742E7940364356511DF6C4236B650ED"
-				"download" "B8391450E1471C6B670B5A8B27E9DF3F"
+				"gid" "78EBA035698B74B6F69E64EA25EFD805"
+				"size" "763789023DA371BAF56236E069E53E75"
+				"download" "3633AFC468B908051694614309AE65A8"
 			}
 			"rating_test"
 			{
@@ -492,15 +492,15 @@
 			}
 			"testmaps"
 			{
-				"gid" "D5C1AC72406621047B7B22A94087EF77"
-				"size" "1BB1CE295256D598553362251DA9EDC8"
-				"download" "93B88EF9F76949F79EFEEEF411FB168A"
+				"gid" "9FAF95663DD57037B27906E4B6D87DB3"
+				"size" "84A21151A74974B77B48CBC8FCA3044B"
+				"download" "ECC0EEEA56CC8F21F2F8F00F973B8623"
 			}
 			"vector"
 			{
-				"gid" "E51D1B714582044983F8DF311D3A4DE2"
-				"size" "D1C67F699A9B2EBAEF8DAB677C5D57E6"
-				"download" "0FC1015BBE33D0AC35353694FECF209E"
+				"gid" "1FFA92EF6CE4ADB20CB82486EC5D140E"
+				"size" "69CCAE4B44FAA70474C154B8906454DC"
+				"download" "49A799BA36B3218595E5ACD9C546F05F"
 			}
 			"yeoldebuild"
 			{
@@ -522,8 +522,8 @@
 	{
 		"public"
 		{
-			"buildid" "13721297"
-			"timeupdated" "1710298894"
+			"buildid" "13747705"
+			"timeupdated" "1710525787"
 		}
 		"arktx"
 		{
@@ -539,9 +539,9 @@
 		}
 		"continuous"
 		{
-			"buildid" "13424312"
+			"buildid" "13745443"
 			"pwdrequired" "1"
-			"timeupdated" "1707599474"
+			"timeupdated" "1710457155"
 		}
 		"crossplay"
 		{
@@ -569,9 +569,9 @@
 		}
 		"hamoverdon"
 		{
-			"buildid" "12647299"
+			"buildid" "13499000"
 			"pwdrequired" "1"
-			"timeupdated" "1699495124"
+			"timeupdated" "1710353676"
 		}
 		"intelark"
 		{
@@ -611,21 +611,21 @@
 		}
 		"playtest1"
 		{
-			"buildid" "13717170"
+			"buildid" "13755073"
 			"pwdrequired" "1"
-			"timeupdated" "1710263247"
+			"timeupdated" "1710521466"
 		}
 		"public_test_realm"
 		{
-			"buildid" "13721297"
+			"buildid" "13747705"
 			"description" "Try out the new stuff"
-			"timeupdated" "1710298838"
+			"timeupdated" "1710525793"
 		}
 		"qa_staging"
 		{
-			"buildid" "13721297"
+			"buildid" "13747705"
 			"pwdrequired" "1"
-			"timeupdated" "1710295038"
+			"timeupdated" "1710475245"
 		}
 		"rating_test"
 		{
@@ -647,15 +647,15 @@
 		}
 		"testmaps"
 		{
-			"buildid" "12693433"
+			"buildid" "12459505"
 			"pwdrequired" "1"
-			"timeupdated" "1700012382"
+			"timeupdated" "1710376614"
 		}
 		"vector"
 		{
-			"buildid" "12715285"
+			"buildid" "13607536"
 			"pwdrequired" "1"
-			"timeupdated" "1707358453"
+			"timeupdated" "1710347682"
 		}
 		"yeoldebuild"
 		{
@@ -671,6 +671,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "22738698"
-"_sha" "978a891c02bf57b4551ded738d1a5cc1aecf5280"
+"_change_number" "22785100"
+"_sha" "68ae6d7de8d2b4aeda6221789871726986305b6c"
 "_size" "13446"
