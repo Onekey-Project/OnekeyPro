@@ -129,6 +129,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -213,7 +214,7 @@
 	"developer" "Moon Moose"
 	"publisher" "tinyBuild"
 	"homepage" "https://www.carteltycoon.com/"
-	"listofdlc" "2081450,2081480,2316200,2348770"
+	"listofdlc" "2081450,2081480,2316200,2348770,2827980"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -262,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "6871299477818875204"
-				"size" "4033128119"
-				"download" "2769572288"
+				"gid" "5349864675858905113"
+				"size" "4031014847"
+				"download" "2767407264"
 			}
 		}
 		"encryptedmanifests"
@@ -411,8 +412,8 @@
 	{
 		"public"
 		{
-			"buildid" "13021699"
-			"timeupdated" "1703173156"
+			"buildid" "13496503"
+			"timeupdated" "1710498097"
 		}
 		"lost_global_unlocks_1"
 		{
@@ -491,6 +492,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22560092"
-"_sha" "cf7397614eff5d7870ae71937a6118944f3f3bdf"
-"_size" "9971"
+"_change_number" "22778655"
+"_sha" "71dc887a10c60fe3ce4aaa9e7c62d6ce12cbcbdc"
+"_size" "10001"
