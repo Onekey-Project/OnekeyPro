@@ -576,8 +576,8 @@
 		}
 		"public"
 		{
-			"buildid" "13735017"
-			"timeupdated" "1710391517"
+			"buildid" "13758187"
+			"timeupdated" "1710546627"
 		}
 		"1.21.3.1"
 		{
@@ -608,6 +608,12 @@
 			"description" "1.39.9.5"
 			"timeupdated" "1709159366"
 		}
+		"1.39.9.7"
+		{
+			"buildid" "13758187"
+			"description" "1.39.9.7"
+			"timeupdated" "1710546853"
+		}
 		"csgo_legacy"
 		{
 			"buildid" "12426195"
@@ -621,15 +627,15 @@
 		}
 		"dpr"
 		{
-			"buildid" "13735017"
+			"buildid" "13758187"
 			"pwdrequired" "1"
-			"timeupdated" "1710391889"
+			"timeupdated" "1710546862"
 		}
 		"dprp"
 		{
-			"buildid" "13735017"
+			"buildid" "13758187"
 			"pwdrequired" "1"
-			"timeupdated" "1710391898"
+			"timeupdated" "1710546871"
 		}
 	}
 	"workshopdepot" "730"
@@ -662,7 +668,7 @@
 		{
 			"public"
 			{
-				"gid" "7182539982078701904"
+				"gid" "5019209115618646866"
 				"size" "7"
 				"download" "64"
 			}
@@ -690,6 +696,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "5019209115618646866"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "6314304446937576250"
@@ -713,13 +725,13 @@
 			}
 			"dpr"
 			{
-				"gid" "7F3CFACCB3A8BACE1AE7741AFACBEA55"
+				"gid" "E07EBF2D3C81D5B5E6E2971AEA908791"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "D25BA2EF3DEA754959419F2AD74D912A"
+				"gid" "2A710C598B7D1941C58B8A7E76F99EAC"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -736,7 +748,7 @@
 		{
 			"public"
 			{
-				"gid" "4792480873309398024"
+				"gid" "3001952438857378841"
 				"size" "7"
 				"download" "64"
 			}
@@ -764,6 +776,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "3001952438857378841"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "7818492753742006607"
@@ -787,13 +805,13 @@
 			}
 			"dpr"
 			{
-				"gid" "6787CA08534A9C4ADE293F2461E15092"
+				"gid" "F26975816FA8C658EB0C5E2608ECBAD4"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "8CFEE8834DEE83C3EC89F40C796526AC"
+				"gid" "3E65F2D7D4D4A5D66B166EED13271A56"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -806,7 +824,7 @@
 		{
 			"public"
 			{
-				"gid" "3458884861289016195"
+				"gid" "1523757398200711618"
 				"size" "7"
 				"download" "64"
 			}
@@ -834,6 +852,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "1523757398200711618"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "1224088799001669801"
@@ -857,13 +881,13 @@
 			}
 			"dpr"
 			{
-				"gid" "07455970985C1CB7411DB91C16079232"
+				"gid" "CDF91D4CDB1878BC2513B9350B719723"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "C5C50E8BCF0659EFFE2313D07FEF35EB"
+				"gid" "81C7DA7BC46CFAA3EAB938013C9A5EFD"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -879,7 +903,7 @@
 		{
 			"public"
 			{
-				"gid" "6143196480561423275"
+				"gid" "6856114739367776740"
 				"size" "7"
 				"download" "64"
 			}
@@ -907,6 +931,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "6856114739367776740"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "3343055176458696864"
@@ -924,13 +954,13 @@
 			}
 			"dpr"
 			{
-				"gid" "7F8B4910B1B1C8DDC9BB34EC3606CF3B"
+				"gid" "8EDF4F71348FCEA25D8ED2D58238F557"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "84E0D41A4CB9EAB204F9C934DA20CA80"
+				"gid" "55BAE4B2AF2F640548C33CF85A4103B9"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -942,7 +972,7 @@
 		{
 			"public"
 			{
-				"gid" "1290554775729988970"
+				"gid" "530969015461862158"
 				"size" "7"
 				"download" "64"
 			}
@@ -970,6 +1000,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "530969015461862158"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "3867231304834558645"
@@ -981,13 +1017,13 @@
 		{
 			"dpr"
 			{
-				"gid" "1FC173A47D4FB55B201666AEA9333931"
+				"gid" "569E494DEE153505E5A49CBE2AE5DD74"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "F34EDFE45BB8B701FC5CFD521B98BE0D"
+				"gid" "7BEE1C5B1072401D68D616F93503FB83"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -999,7 +1035,7 @@
 		{
 			"public"
 			{
-				"gid" "2408214729727973092"
+				"gid" "3348601364730283312"
 				"size" "7"
 				"download" "64"
 			}
@@ -1027,6 +1063,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "3348601364730283312"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "1949918900514112752"
@@ -1038,13 +1080,13 @@
 		{
 			"dpr"
 			{
-				"gid" "42085DFFB062B15642772167737A113A"
+				"gid" "E1015CADF9B03C196BCE724694B56EC9"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "5EF374D2428FA59BF725C743B667A7A8"
+				"gid" "96D9F6596757E675FEDEEBDDE4A4544D"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -1056,7 +1098,7 @@
 		{
 			"public"
 			{
-				"gid" "7305510940496486467"
+				"gid" "4541433805281404645"
 				"size" "7"
 				"download" "64"
 			}
@@ -1084,6 +1126,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "4541433805281404645"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "8959772282070246004"
@@ -1095,13 +1143,13 @@
 		{
 			"dpr"
 			{
-				"gid" "A3849309141B5322ED3700D755ABE7E8"
+				"gid" "013784D92675A228AA91501E606D7E0D"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "FD4B35A5D4ECC21A67563A45521D6110"
+				"gid" "4F00EB6AA16AF1040C85CB2F909D9008"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -1113,7 +1161,7 @@
 		{
 			"public"
 			{
-				"gid" "968757855288378434"
+				"gid" "401308743499959920"
 				"size" "7"
 				"download" "64"
 			}
@@ -1141,6 +1189,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.7"
+			{
+				"gid" "401308743499959920"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "313951540668567317"
@@ -1152,13 +1206,13 @@
 		{
 			"dpr"
 			{
-				"gid" "194BBD24B081E24F23C95FB71CDBA5A3"
+				"gid" "43DACA49FF88BEA141358D333A848E54"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "97011BD95481E88C41DB51E4B1811063"
+				"gid" "BF27CEB3C32EFC22761A10B33B7A15AE"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -1174,9 +1228,9 @@
 		{
 			"public"
 			{
-				"gid" "2417672986637365001"
-				"size" "34887621307"
-				"download" "28774454544"
+				"gid" "4528639110662571665"
+				"size" "34908869352"
+				"download" "28779516128"
 			}
 			"1.39.9.2"
 			{
@@ -1202,20 +1256,26 @@
 				"size" "34463287228"
 				"download" "28483588224"
 			}
+			"1.39.9.7"
+			{
+				"gid" "4528639110662571665"
+				"size" "34908869352"
+				"download" "28779516128"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"dpr"
 			{
-				"gid" "2EA0D23F180739C65C11D59A5E359F27"
-				"size" "C64EB9C0B8F62B26E24C1F37AA9F7DDC"
-				"download" "A07873D5EA29EAE665B8FFC8F8FCAD46"
+				"gid" "3205AADC4358776BA5881DADDD44B143"
+				"size" "C4DA0C37D79C244199D2203BAC567F66"
+				"download" "9F9626E6CD861EF558C2F1A66681CA92"
 			}
 			"dprp"
 			{
-				"gid" "988098AB208A4ED2538A32DCB9A92664"
-				"size" "B7B92A3F4A0D8919475520F1A4DB10F1"
-				"download" "3B2281B587272B2E371A9FD85977C171"
+				"gid" "9D9F2BE757DE8605C55FE2702615A8EE"
+				"size" "DC880D47794A4EE415FD72647C0D5333"
+				"download" "C76E175B96D48B8578363427B6D659B6"
 			}
 		}
 	}
@@ -1229,9 +1289,9 @@
 		{
 			"public"
 			{
-				"gid" "5475650293647082061"
-				"size" "653751072"
-				"download" "352489520"
+				"gid" "4697953234711227227"
+				"size" "653765920"
+				"download" "352493040"
 			}
 			"1.39.9.2"
 			{
@@ -1257,20 +1317,26 @@
 				"size" "653544727"
 				"download" "351470288"
 			}
+			"1.39.9.7"
+			{
+				"gid" "4697953234711227227"
+				"size" "653765920"
+				"download" "352493040"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"dpr"
 			{
-				"gid" "CDAC328FFB46C46109B6DF158F171922"
-				"size" "4B280FDF10F4681136A8408279F53AF0"
-				"download" "B0D66A3EABD34BCA3D6227D28F2BF5C0"
+				"gid" "0789DBF442EBCA469F7E8E8573A2D955"
+				"size" "A1D0AD138C6DF4477435A3486CE3C6CF"
+				"download" "2F6DF8EBB79429AD78C0ABDF3C95B819"
 			}
 			"dprp"
 			{
-				"gid" "9536F8229ADE3BE165222E61D4AE2A86"
-				"size" "FEF9A40E680BD7FD8480DB2264BE890E"
-				"download" "BBE1E2C933E7AC520EED24DC4E9974DC"
+				"gid" "003B9831BA75B2D22024F586A3AA1246"
+				"size" "F00FE8731BCE35860553FBBD40DAA6F3"
+				"download" "9A5F31973591AA87F5F3CB4DE03A4D82"
 			}
 		}
 	}
@@ -1312,6 +1378,12 @@
 				"size" "9276"
 				"download" "1696"
 			}
+			"1.39.9.7"
+			{
+				"gid" "4427303554736365309"
+				"size" "9276"
+				"download" "1696"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1340,9 +1412,9 @@
 		{
 			"public"
 			{
-				"gid" "5318318110333783106"
-				"size" "269205464"
-				"download" "74907904"
+				"gid" "8773051982988486931"
+				"size" "269217912"
+				"download" "74908640"
 			}
 			"1.39.9.2"
 			{
@@ -1368,20 +1440,26 @@
 				"size" "269189048"
 				"download" "74918880"
 			}
+			"1.39.9.7"
+			{
+				"gid" "8773051982988486931"
+				"size" "269217912"
+				"download" "74908640"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"dpr"
 			{
-				"gid" "BDC7C37929CD5F74F14B3A447249380C"
-				"size" "B3674BB584F858BEF424E14133B8E705"
-				"download" "845B2FA67C6ED241791435D1AB98AA29"
+				"gid" "FBEF5D57DBC01A9884E5446591487DD8"
+				"size" "7B1A597548BAE590B36A8AAA5D013FAF"
+				"download" "065B404EB0D19A3B7C4C78EB485E87F2"
 			}
 			"dprp"
 			{
-				"gid" "3F17279359B59DCE08F275F86AFBCB08"
-				"size" "5F6D7454B03280392CF21FED1BC150E4"
-				"download" "86D6122A1F03E3E57D33123BC3DA4934"
+				"gid" "14026ABFA5833F67FBE82727EC202DAF"
+				"size" "7B16381E8F6EC264EB9D6D18F35151C2"
+				"download" "CB4BD880000D269A25E7988716DAD070"
 			}
 		}
 	}
@@ -1422,6 +1500,12 @@
 				"gid" "786017300933625331"
 				"size" "1015960709"
 				"download" "833946096"
+			}
+			"1.39.9.7"
+			{
+				"gid" "3365955744471187736"
+				"size" "1015961605"
+				"download" "833941296"
 			}
 		}
 		"encryptedmanifests"
@@ -1464,9 +1548,9 @@
 		{
 			"public"
 			{
-				"gid" "572595951155295423"
-				"size" "725735999"
-				"download" "175246192"
+				"gid" "1019617815824439893"
+				"size" "725747852"
+				"download" "175247952"
 			}
 			"1.39.9.2"
 			{
@@ -1492,20 +1576,26 @@
 				"size" "724657432"
 				"download" "175163808"
 			}
+			"1.39.9.7"
+			{
+				"gid" "1019617815824439893"
+				"size" "725747852"
+				"download" "175247952"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"dpr"
 			{
-				"gid" "C506AF76551C942534A51A01EF9AB5BD"
-				"size" "878F3ED4BB70A63CF76047B5F2F569D6"
-				"download" "2AC27A8C401FDC92FA0AC3A9E601D25F"
+				"gid" "EC487C9980D0D6A4BF2E12E3C62AE462"
+				"size" "E362964B49DB5574613D8B22858EB323"
+				"download" "3F5E7E7BCCDB93D15653DDBF8396C67B"
 			}
 			"dprp"
 			{
-				"gid" "6F65CE4A06260180F45351E6A4C3668B"
-				"size" "D0179BD87D3B9C36C9573EDADCD4A3E0"
-				"download" "90FA9FD563C1034DF5A96403BA4A0598"
+				"gid" "EB8F83037E9D7E60CF3A10F4550C55CB"
+				"size" "A8F40D69D71431432369608E7FAB5A87"
+				"download" "07CDD2F27A4A7E0749B1BD7BA442EB8C"
 			}
 		}
 	}
@@ -6480,6 +6570,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22755813"
-"_sha" "1bd0f2e1150df082464f1d4e3d15da38b52ae485"
-"_size" "230115"
+"_change_number" "22788553"
+"_sha" "a7b80c607e0b813ae7902047faf87376b5ba64af"
+"_size" "231709"
