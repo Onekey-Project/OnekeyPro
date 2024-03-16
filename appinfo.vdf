@@ -264,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "2616124642709113692"
-				"size" "18885506746"
-				"download" "17489347936"
+				"gid" "6743861013325914644"
+				"size" "18864751046"
+				"download" "17468294304"
 			}
 			"0.1.4.1.6"
 			{
@@ -279,6 +279,12 @@
 				"gid" "3712016403333254713"
 				"size" "16779244066"
 				"download" "15390501328"
+			}
+			"1.2.0-release"
+			{
+				"gid" "5225989298397659053"
+				"size" "18372214508"
+				"download" "16991747744"
 			}
 		}
 		"encryptedmanifests"
@@ -321,9 +327,9 @@
 			}
 			"main"
 			{
-				"gid" "A79A52AB4B623537137832C1FAAAA928"
-				"size" "12F314AE7560F2A67677283696314089"
-				"download" "F111EA4EFBC14FE440B2F6A3B1130065"
+				"gid" "FD07B0E9FDE9E3866D9682CADB698C45"
+				"size" "3FB308289FB24CC1190D229FC38D6132"
+				"download" "4B0226BBD6EEB75751D2F71865C31EB5"
 			}
 			"main-dev"
 			{
@@ -339,9 +345,9 @@
 			}
 			"next-update"
 			{
-				"gid" "E0E9C011A5A8E018EECA4F0F035BA519"
-				"size" "368B1BC9C2DA71E3A034150AE61EC5A5"
-				"download" "9FE78898B2CD368CAAC544EDA6BD0760"
+				"gid" "822A9B076A81A35B63D002C76EAC194F"
+				"size" "1619B31F6BAA4E4222384B0727876DC6"
+				"download" "9EE8692FFBE710ADFC658A16EE194D84"
 			}
 			"next-update-dev"
 			{
@@ -409,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "13740854"
-			"timeupdated" "1710443141"
+			"buildid" "13757569"
+			"timeupdated" "1710584445"
 		}
 		"0.1.4.1.6"
 		{
@@ -423,6 +429,12 @@
 			"buildid" "10394202"
 			"description" "1.1.1 public release"
 			"timeupdated" "1693833334"
+		}
+		"1.2.0-release"
+		{
+			"buildid" "12675474"
+			"description" "1.2.0 public release"
+			"timeupdated" "1710528163"
 		}
 		"baseline"
 		{
@@ -462,9 +474,9 @@
 		}
 		"main"
 		{
-			"buildid" "13647694"
+			"buildid" "13755906"
 			"pwdrequired" "1"
-			"timeupdated" "1709656584"
+			"timeupdated" "1710526737"
 		}
 		"main-dev"
 		{
@@ -480,9 +492,9 @@
 		}
 		"next-update"
 		{
-			"buildid" "13740854"
+			"buildid" "13757569"
 			"pwdrequired" "1"
-			"timeupdated" "1710429547"
+			"timeupdated" "1710539645"
 		}
 		"next-update-dev"
 		{
@@ -565,6 +577,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22768881"
-"_sha" "563e6a11e00e4e13ad4ac508acc7ab8d1ea25bb9"
-"_size" "11345"
+"_change_number" "22791866"
+"_sha" "a3b4fe6d3ba1cc1a9e45c8a13cec86383b0a7461"
+"_size" "11598"
