@@ -276,9 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "862115170991625699"
-				"size" "10835298284"
-				"download" "9357866464"
+				"gid" "2194317170746094896"
+				"size" "10929408605"
+				"download" "9433463072"
 			}
 		}
 		"encryptedmanifests"
@@ -291,9 +291,9 @@
 			}
 			"gigabashdebugtest"
 			{
-				"gid" "A9A54547D38B0113A4A8F1FF970E8FE5"
-				"size" "35310FE1EA6A00E022F6F4F31EDFE945"
-				"download" "519D8C35E986A4FA697F2799D8D9980F"
+				"gid" "F58B22B26DFA6B4B8634EE031D54187B"
+				"size" "50F0B8FF73A76C1BA8F3CD9F3AE520BE"
+				"download" "E7566B0F3E82D4548E14DB8D0D2443B9"
 			}
 			"gigabashdemotest"
 			{
@@ -309,9 +309,9 @@
 			}
 			"gigabashevent"
 			{
-				"gid" "80BB001030B158A4486FBB215A21A797"
-				"size" "F4B04C2B6CAEFA660B027E783F985321"
-				"download" "3971BC82DA221F6222BF92282D3B2AAF"
+				"gid" "43C249F17B56DCABDDFB3899F1A06466"
+				"size" "4AA39A93B0D58BAD82517262B838BAA7"
+				"download" "A108C110AA28E8F33F3A93309590CD61"
 			}
 			"gigabashexternalpartners"
 			{
@@ -345,9 +345,9 @@
 			}
 			"gigabashmodtest"
 			{
-				"gid" "F51AF0A465C2573914055935188A76AF"
-				"size" "778C22B4744DAD324212C4E8AF560608"
-				"download" "8F660B4A1F65CDAA8B717CF63C20AB0B"
+				"gid" "6EF215780F852B081FC916706C0B348D"
+				"size" "692F5E8F296EBB3E9C73E132AC190E80"
+				"download" "14DB343B723988CA177C7B001BFB5635"
 			}
 			"gigabashplatformtest"
 			{
@@ -374,8 +374,8 @@
 	{
 		"public"
 		{
-			"buildid" "13192506"
-			"timeupdated" "1705482833"
+			"buildid" "13641253"
+			"timeupdated" "1710722181"
 		}
 		"gigabashaudiotest"
 		{
@@ -385,9 +385,9 @@
 		}
 		"gigabashdebugtest"
 		{
-			"buildid" "13609909"
+			"buildid" "13641253"
 			"pwdrequired" "1"
-			"timeupdated" "1709274353"
+			"timeupdated" "1709610140"
 		}
 		"gigabashdemotest"
 		{
@@ -403,9 +403,9 @@
 		}
 		"gigabashevent"
 		{
-			"buildid" "13573464"
+			"buildid" "13645001"
 			"pwdrequired" "1"
-			"timeupdated" "1709024302"
+			"timeupdated" "1709639624"
 		}
 		"gigabashexternalpartners"
 		{
@@ -439,9 +439,9 @@
 		}
 		"gigabashmodtest"
 		{
-			"buildid" "13609909"
+			"buildid" "13641253"
 			"pwdrequired" "1"
-			"timeupdated" "1709274727"
+			"timeupdated" "1709610157"
 		}
 		"gigabashplatformtest"
 		{
@@ -538,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22573461"
-"_sha" "54989503cc58c43228b56aa62ccef98b7c9ca391"
-"_size" "11048"
+"_change_number" "22802364"
+"_sha" "5eec1a8f6dd3d5b8f1fec94d2551328e2e06c721"
+"_size" "11049"
