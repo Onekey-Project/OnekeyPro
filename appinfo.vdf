@@ -229,13 +229,13 @@
 	{
 		"0" "1100689"
 		"1" "1662"
-		"2" "1695"
-		"3" "3859"
+		"2" "3859"
+		"3" "1695"
 		"4" "3810"
 		"5" "1702"
 		"6" "21"
-		"7" "1643"
-		"8" "122"
+		"7" "122"
+		"8" "1643"
 		"9" "3834"
 		"10" "1685"
 		"11" "7332"
@@ -400,9 +400,9 @@
 		{
 			"public"
 			{
-				"gid" "9102675691797492376"
-				"size" "383812480"
-				"download" "266292208"
+				"gid" "3465009267395136471"
+				"size" "384018887"
+				"download" "266467104"
 			}
 			"v0.21.23"
 			{
@@ -470,6 +470,12 @@
 				"size" "370331256"
 				"download" "253137168"
 			}
+			"v0.24.0"
+			{
+				"gid" "9102675691797492376"
+				"size" "383812480"
+				"download" "266292208"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -481,9 +487,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "7F5584CE780143A9ADB34FD545EDBA2A"
-				"size" "2F105192BD89B1F885F262226CD06E4F"
-				"download" "EADFD48B3321DE559F18D2C8693CFD19"
+				"gid" "71D7CF0B3E23EEE06E2E869F890C40A6"
+				"size" "1B342044159E784AE7C0C9C059D53E5C"
+				"download" "112B9224FF90579229B948AC78039B9B"
 			}
 			"expo"
 			{
@@ -510,9 +516,9 @@
 		{
 			"public"
 			{
-				"gid" "768397575390336726"
-				"size" "398541298"
-				"download" "274249376"
+				"gid" "3853753566506366638"
+				"size" "398747705"
+				"download" "277447568"
 			}
 			"v0.21.23"
 			{
@@ -580,6 +586,12 @@
 				"size" "385060074"
 				"download" "261091632"
 			}
+			"v0.24.0"
+			{
+				"gid" "768397575390336726"
+				"size" "398541298"
+				"download" "274249376"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -591,9 +603,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "5E40B25263E2668D5736A89EBF319598"
-				"size" "8788CBF2690EA7917418AD62270CD334"
-				"download" "5C74E0D07CFECF8788E2FD39D40974C3"
+				"gid" "13903A59E1A7F3328B753759399A634B"
+				"size" "D0159F015C2CEFE03C049453AB292EC3"
+				"download" "AAE0D8BE074480FB83D2A7AFE17261FF"
 			}
 			"expo"
 			{
@@ -619,9 +631,9 @@
 		{
 			"public"
 			{
-				"gid" "7707693242361693472"
-				"size" "404601224"
-				"download" "274530352"
+				"gid" "4794113807867507816"
+				"size" "404807631"
+				"download" "277728544"
 			}
 			"v0.21.23"
 			{
@@ -689,6 +701,12 @@
 				"size" "391120000"
 				"download" "264399008"
 			}
+			"v0.24.0"
+			{
+				"gid" "7707693242361693472"
+				"size" "404601224"
+				"download" "274530352"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -700,9 +718,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "2A7194E95B8BF9A2BEF97FECE22DAB6B"
-				"size" "BDD095912E15F1A63A2C78E37FD4BEEB"
-				"download" "AEEB4713C487E1EF1D6389F60AE9A482"
+				"gid" "E696C3AE778B4C987BE4E3206B69912D"
+				"size" "3FBEFFADB60FEC0957AB0893B8985B7F"
+				"download" "47D8BEA51ACFE3535E07BBD663906319"
 			}
 			"expo"
 			{
@@ -728,9 +746,9 @@
 		{
 			"public"
 			{
-				"gid" "6882192066260199294"
-				"size" "409345777"
-				"download" "279134512"
+				"gid" "6148503761443077"
+				"size" "409552184"
+				"download" "279310576"
 			}
 			"v0.21.23"
 			{
@@ -798,6 +816,12 @@
 				"size" "395864553"
 				"download" "265981040"
 			}
+			"v0.24.0"
+			{
+				"gid" "6882192066260199294"
+				"size" "409345777"
+				"download" "279134512"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -809,9 +833,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "BF07B06B30F9992EF6164A4EDC6A0EE3"
-				"size" "DD675E6AFD40C53FC24749958732EEF5"
-				"download" "2C2213CC31F12A33CE9E50064EF05B30"
+				"gid" "B7E9494F8374D9C4A50AA6299DE6B8E4"
+				"size" "7D0AD121343ECD205EE7E9BB9ED3DC5B"
+				"download" "DC57FD487D6F5B5210CA3080ABD0C1AA"
 			}
 			"expo"
 			{
@@ -832,8 +856,8 @@
 	{
 		"public"
 		{
-			"buildid" "13700620"
-			"timeupdated" "1710151936"
+			"buildid" "13800958"
+			"timeupdated" "1710955589"
 		}
 		"artbuild"
 		{
@@ -843,9 +867,9 @@
 		}
 		"buildtest"
 		{
-			"buildid" "13700620"
+			"buildid" "13800958"
 			"pwdrequired" "1"
-			"timeupdated" "1710151346"
+			"timeupdated" "1710954035"
 		}
 		"expo"
 		{
@@ -924,6 +948,12 @@
 			"buildid" "13154952"
 			"description" "Older version"
 			"timeupdated" "1709574910"
+		}
+		"v0.24.0"
+		{
+			"buildid" "13700620"
+			"description" "Older version"
+			"timeupdated" "1710955489"
 		}
 	}
 }
@@ -1172,20 +1202,26 @@
 				"#biome_desert" "Desierto"
 				"#biome_desertvillage" "Aldea del desierto"
 				"#biome_dungeon" "Mazmorra"
+				"#biome_extraction" "Extracción"
 				"#biome_forest" "Bosque"
 				"#biome_forestvillage" "Aldea del bosque"
 				"#biome_graveyard" "Cementerio"
-				"#biome_incursionextraction" "Extracción - {%incursion%}"
-				"#biome_incursionhunt" "Cacería - {%incursion%}"
+				"#biome_hunt" "Cacería"
+				"#biome_incursionextraction" "Extracción en {%incursion%}"
+				"#biome_incursionhunt" "Cacería en {%incursion%}"
+				"#biome_incursiontrial" "Prueba en {%incursion%}"
+				"#biome_moonarena" "Arena Lunar"
 				"#biome_piratevillage" "Aldea pirata"
 				"#biome_plains" "Llanuras"
 				"#biome_slimecave" "Cueva de slime"
-				"#biome_snow" "Nieve"
+				"#biome_snow" "Tundra"
 				"#biome_snowvillage" "Aldea de la tundra"
 				"#biome_spidercastle" "Castillo Arácnido"
+				"#biome_sunarena" "Arena Solar"
 				"#biome_surface" "Superficie del bioma de {%biome%}"
 				"#biome_swamp" "Pantano"
 				"#biome_temple" "Templo"
+				"#biome_trial" "Prueba"
 				"#biome_trialroom" "Sala de pruebas"
 				"#biome_unknown" "Desconocido"
 				"#richpresence_atmainmenu" "En el menú principal"
@@ -1275,36 +1311,36 @@
 				"#biome_desert" "砂漠"
 				"#biome_desertvillage" "砂漠の集落"
 				"#biome_dungeon" "ダンジョンの玄関"
-				"#biome_extraction" "採掘"
+				"#biome_extraction" "採取"
 				"#biome_forest" "森"
 				"#biome_forestvillage" "森の集落"
 				"#biome_graveyard" "地下墓地"
 				"#biome_hunt" "狩り"
-				"#biome_incursionextraction" "{%incursion%} 採掘"
+				"#biome_incursionextraction" "{%incursion%} 採取"
 				"#biome_incursionhunt" "{%incursion%} 狩り"
-				"#biome_incursiontrial" "{%incursion%} ボス"
-				"#biome_moonarena" "ムーン・アリーナ"
+				"#biome_incursiontrial" "{%incursion%} 試練"
+				"#biome_moonarena" "月の闘技場"
 				"#biome_piratevillage" "海賊の基地"
 				"#biome_plains" "平地"
 				"#biome_slimecave" "スライムの地下空洞"
 				"#biome_snow" "雪原"
 				"#biome_snowvillage" "雪原の集落"
-				"#biome_spidercastle" "クモ城"
-				"#biome_sunarena" "サン・アリーナ"
+				"#biome_spidercastle" "蜘蛛巣城"
+				"#biome_sunarena" "太陽の闘技場"
 				"#biome_surface" "{%biome%} 地上"
 				"#biome_swamp" "沼地"
 				"#biome_temple" "神殿"
-				"#biome_trial" "ボス"
+				"#biome_trial" "試練"
 				"#biome_trialroom" "修練場"
 				"#biome_unknown" "未知の場所"
-				"#richpresence_atmainmenu" "メインメニュー内"
-				"#richpresence_hostingfriends" "フレンドのみワールドをホスティング中 - {%location%}"
-				"#richpresence_hostinginvite" "招待ワールドのホスティング中 - {%location%}"
-				"#richpresence_hostingopen" "オープンワールドをホスティング中 - {%location%}"
+				"#richpresence_atmainmenu" "メインメニューの場合"
+				"#richpresence_hostingfriends" "フレンドのワールドをホスト中 - {%location%}"
+				"#richpresence_hostinginvite" "招待用のワールドをホスト中 - {%location%}"
+				"#richpresence_hostingopen" "公開ワールドをホスト中 - {%location%}"
 				"#richpresence_playingonserver" "サーバーでプレイ中 - {%location%}"
 				"#richpresence_playingsingleplayer" "シングルプレイヤー - {%location%}"
-				"#richpresence_playingwithfriends" "フレンドとプレイ中 - {%location%}"
-				"#richpresence_unknownlocation" "不明なロケーション"
+				"#richpresence_playingwithfriends" "フレンドと一緒にプレイ中 - {%location%}"
+				"#richpresence_unknownlocation" "不明な場所"
 			}
 		}
 		"swedish"
@@ -1689,6 +1725,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22711669"
-"_sha" "28947aa9af7312d7aa99aa639f57529fcebfcf97"
-"_size" "47639"
+"_change_number" "22842035"
+"_sha" "025c3e2c62c636b1182dcc641d94081763803582"
+"_size" "48409"
