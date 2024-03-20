@@ -247,21 +247,21 @@
 		{
 			"public"
 			{
-				"gid" "7279091932059213933"
-				"size" "551059097"
-				"download" "199077216"
+				"gid" "6702250793669106068"
+				"size" "555230446"
+				"download" "199416880"
 			}
 			"previousversionrollback"
 			{
-				"gid" "269172435257203922"
-				"size" "476279913"
-				"download" "166339808"
-			}
-			"publicbeta"
-			{
 				"gid" "7279091932059213933"
 				"size" "551059097"
 				"download" "199077216"
+			}
+			"publicbeta"
+			{
+				"gid" "6702250793669106068"
+				"size" "555230446"
+				"download" "199416880"
 			}
 		}
 		"encryptedmanifests"
@@ -285,21 +285,21 @@
 		{
 			"public"
 			{
+				"gid" "3114471469830889582"
+				"size" "579172143"
+				"download" "206461328"
+			}
+			"previousversionrollback"
+			{
 				"gid" "7199763215819330615"
 				"size" "574913299"
 				"download" "206085632"
 			}
-			"previousversionrollback"
-			{
-				"gid" "6195270151710279375"
-				"size" "500059653"
-				"download" "173318240"
-			}
 			"publicbeta"
 			{
-				"gid" "3974726920338725742"
-				"size" "543964114"
-				"download" "196851728"
+				"gid" "3114471469830889582"
+				"size" "579172143"
+				"download" "206461328"
 			}
 		}
 		"encryptedmanifests"
@@ -316,8 +316,8 @@
 	{
 		"public"
 		{
-			"buildid" "13372896"
-			"timeupdated" "1707159972"
+			"buildid" "13789489"
+			"timeupdated" "1710947739"
 		}
 		"internal_testing"
 		{
@@ -327,15 +327,15 @@
 		}
 		"previousversionrollback"
 		{
-			"buildid" "12697508"
+			"buildid" "13372896"
 			"description" "Roll back to the previous version of Thronefall."
-			"timeupdated" "1701783577"
+			"timeupdated" "1710921868"
 		}
 		"publicbeta"
 		{
-			"buildid" "13370803"
+			"buildid" "13789489"
 			"description" "Public beta branch"
-			"timeupdated" "1707147179"
+			"timeupdated" "1710872406"
 		}
 	}
 }
@@ -378,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22257533"
-"_sha" "a11a3665eb59a04e4cf03c9266e8cc035a134d98"
-"_size" "6628"
+"_change_number" "22840044"
+"_sha" "2a8e692b5fb4ae458f1950c9090255a799e2a435"
+"_size" "6629"
