@@ -16,6 +16,10 @@
 		"koreana" "도어 키커스: 액션 스쿼드"
 		"schinese" "破门而入：行动小队"
 	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -136,6 +140,7 @@
 		"category_1" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -330,7 +335,6 @@
 				"download" "144512"
 			}
 		}
-		"dlcappid" "1788610"
 		"depotfromapp" "1788610"
 	}
 	"branches"
@@ -367,6 +371,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22563091"
-"_sha" "2bca4de463c84b7c540326a00d4acc609e554955"
-"_size" "6356"
+"_change_number" "22829738"
+"_sha" "b5a6874222518dc82e5932e428aaa06e8cd28b63"
+"_size" "6397"
