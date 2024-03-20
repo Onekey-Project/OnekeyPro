@@ -136,15 +136,15 @@
 		"6" "4508"
 		"7" "4747"
 		"8" "4136"
-		"9" "4106"
-		"10" "122"
+		"9" "122"
+		"10" "4106"
 		"11" "3871"
 		"12" "4726"
 		"13" "4791"
 		"14" "1742"
-		"15" "19"
-		"16" "4085"
-		"17" "3964"
+		"15" "3964"
+		"16" "19"
+		"17" "4085"
 		"18" "1646"
 		"19" "1684"
 	}
@@ -209,15 +209,15 @@
 		{
 			"public"
 			{
-				"gid" "5439635684619741490"
-				"size" "770182371"
-				"download" "598301952"
+				"gid" "6227122991447113157"
+				"size" "770202195"
+				"download" "598295392"
 			}
 			"frontline"
 			{
-				"gid" "5439635684619741490"
-				"size" "770182371"
-				"download" "598301952"
+				"gid" "6227122991447113157"
+				"size" "770202195"
+				"download" "598295392"
 			}
 			"v0.610"
 			{
@@ -284,9 +284,9 @@
 			}
 			"meatshield"
 			{
-				"gid" "C459D5736A131AFF38F101621A3772B8"
-				"size" "41B5DA171129043D4ADBD901D26A28B1"
-				"download" "170EC0FA396CB78B4862A11A2348D7D8"
+				"gid" "361BBE64C92F61DE560A9736E63CDC9A"
+				"size" "DC3176B3718EEC1C5B58CF2C10FFEA3A"
+				"download" "E6D86D8F2C9FCBB76A7970D613673CE6"
 			}
 			"specops1"
 			{
@@ -300,8 +300,8 @@
 	{
 		"public"
 		{
-			"buildid" "13601958"
-			"timeupdated" "1709228384"
+			"buildid" "13682543"
+			"timeupdated" "1710933444"
 		}
 		"endgame"
 		{
@@ -311,9 +311,9 @@
 		}
 		"frontline"
 		{
-			"buildid" "13601958"
+			"buildid" "13682543"
 			"description" "Newest features, may be unstable"
-			"timeupdated" "1709228418"
+			"timeupdated" "1709911947"
 		}
 		"inhouse"
 		{
@@ -323,9 +323,9 @@
 		}
 		"meatshield"
 		{
-			"buildid" "13601958"
+			"buildid" "13682543"
 			"pwdrequired" "1"
-			"timeupdated" "1709228427"
+			"timeupdated" "1709912022"
 		}
 		"specops1"
 		{
@@ -447,6 +447,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22572924"
-"_sha" "920d53827f9bb6d72d00723bf74917d03155998e"
+"_change_number" "22836713"
+"_sha" "8629ffcae2d43ab6016918abbe70f2a617231f11"
 "_size" "8420"
