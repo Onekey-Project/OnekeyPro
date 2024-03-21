@@ -127,6 +127,7 @@
 		"category_23" "1"
 		"category_18" "1"
 		"category_27" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -282,9 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "8770185249200845891"
-				"size" "2591601554"
-				"download" "2179864736"
+				"gid" "1047834903034229885"
+				"size" "2592381146"
+				"download" "2179059248"
 			}
 		}
 		"encryptedmanifests"
@@ -303,15 +304,15 @@
 			}
 			"pendingforlive-shipping"
 			{
-				"gid" "2D80A272E22B07854309D2A2C43C0BEA"
-				"size" "795118A10BBEE9E30EE4B5CEC7EBE46C"
-				"download" "68C06A93CA5660C42F59385F1FCCCDEB"
+				"gid" "2ACFC6A44B50B917DD1DA0AC56D7CF22"
+				"size" "9CFC774848F60005645C87F96853AD08"
+				"download" "136DBE791B2D7B04826FF23BCA14623C"
 			}
 			"pendingforlive-test"
 			{
-				"gid" "F58CCD0CA49456F1FC0D3E96C92310D5"
-				"size" "D31C2FCF0FB6DF5F6A904C1BD27B1D5F"
-				"download" "1F71EEABEA2849DCC133A6F22E1DAEBF"
+				"gid" "F6F15A7261781C33207553788AFEED8D"
+				"size" "586B1F52CDD910FBE4895CC18B9D7237"
+				"download" "6F9B078EB3758690F1147EABF4CA3B80"
 			}
 			"press"
 			{
@@ -319,29 +320,17 @@
 				"size" "A33389CB4312E531D415DC3E44616218"
 				"download" "12622FC901E33945160403B210BA3EDA"
 			}
-			"shipping"
-			{
-				"gid" "5EEE77D0BCEEC1455D4F5FDF822DE35D"
-				"size" "4B67B265A3F4C8C68D4292B030DCC59D"
-				"download" "205216B9054E10798CE6F387BE21EC56"
-			}
 			"staging-shipping"
 			{
-				"gid" "7BFDFC7434517C9FF6CEFFEB9D2B0B37"
-				"size" "9ECD1DD6F8C0145337ACB3A3EDB801A9"
-				"download" "D423B65D7D28F885141A099F8546E8D4"
+				"gid" "F8A748B73968FAEDB18A06FF07E4DAB7"
+				"size" "E7B92FE74368EE2CFF2F5F5D8F5D3B98"
+				"download" "F2D9765D61345EB82D358D04A5317A81"
 			}
 			"staging-test"
 			{
-				"gid" "0E655C71E5ED5D3E6B0F5D9C8928D998"
-				"size" "7CFA0CE9A5270F210B3C9A47CC9D817E"
-				"download" "4035E7D7B9C44640B0F97C9E39C16969"
-			}
-			"test"
-			{
-				"gid" "E9607B7D3E642A6BF5F4CD20828779B4"
-				"size" "73BAFF3301218D7F09A7A16CA6277CAC"
-				"download" "55F48F20D60570C2DE0F117C3A375D3A"
+				"gid" "0FE95333A023445BEC13D1F3B4918AEE"
+				"size" "5E2C9A0F02A5A7416F8FB3D4C9BA9F6F"
+				"download" "33DB1E33B48D1A3276509E78EEB62951"
 			}
 		}
 	}
@@ -350,8 +339,8 @@
 	{
 		"public"
 		{
-			"buildid" "13160504"
-			"timeupdated" "1705942889"
+			"buildid" "13718096"
+			"timeupdated" "1711040608"
 		}
 		"blargle"
 		{
@@ -367,15 +356,15 @@
 		}
 		"pendingforlive-shipping"
 		{
-			"buildid" "13160504"
+			"buildid" "13718096"
 			"pwdrequired" "1"
-			"timeupdated" "1705095331"
+			"timeupdated" "1710283722"
 		}
 		"pendingforlive-test"
 		{
-			"buildid" "13160495"
+			"buildid" "13718085"
 			"pwdrequired" "1"
-			"timeupdated" "1705095344"
+			"timeupdated" "1710283698"
 		}
 		"press"
 		{
@@ -383,29 +372,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1702335174"
 		}
-		"shipping"
-		{
-			"buildid" "12976275"
-			"pwdrequired" "1"
-			"timeupdated" "1702674533"
-		}
 		"staging-shipping"
 		{
-			"buildid" "13579556"
+			"buildid" "13718096"
 			"pwdrequired" "1"
-			"timeupdated" "1709060022"
+			"timeupdated" "1710269501"
 		}
 		"staging-test"
 		{
-			"buildid" "13579553"
+			"buildid" "13803935"
 			"pwdrequired" "1"
-			"timeupdated" "1709059942"
-		}
-		"test"
-		{
-			"buildid" "12976263"
-			"pwdrequired" "1"
-			"timeupdated" "1702674442"
+			"timeupdated" "1710977079"
 		}
 	}
 }
@@ -436,6 +413,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22530898"
-"_sha" "73c53a89b351fee70df78c40208a01c48835bab7"
-"_size" "8381"
+"_change_number" "22856635"
+"_sha" "ddad224adb222f337ccb19c257c9b385907df13f"
+"_size" "7853"
