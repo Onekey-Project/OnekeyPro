@@ -161,12 +161,12 @@
 		"11" "5765"
 		"12" "492"
 		"13" "493"
-		"14" "1678"
-		"15" "3843"
+		"14" "3843"
+		"15" "1678"
 		"16" "5711"
 		"17" "9"
-		"18" "4166"
-		"19" "3810"
+		"18" "3810"
+		"19" "4166"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -210,7 +210,6 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "1034"
 			}
 			"description_loc"
 			{
@@ -306,36 +305,36 @@
 		{
 			"public"
 			{
-				"gid" "2414360320507363234"
-				"size" "36760912745"
-				"download" "16776940224"
+				"gid" "3056520226264142069"
+				"size" "46364368115"
+				"download" "26103212960"
 			}
 			"communitytest"
 			{
-				"gid" "7191942032467285456"
-				"size" "46443060821"
-				"download" "26066869104"
+				"gid" "3056520226264142069"
+				"size" "46364368115"
+				"download" "26103212960"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"1034"
 			{
-				"gid" "76E6EAA89B2F96EC08D9FD1A38CF4375"
-				"size" "CB6921704FC6D6F0E80E8F17939041B9"
-				"download" "5E9C82BAFB1133B16EE32A34386C7B97"
+				"gid" "E631AB314A3161ADF44D84DA7FB032DF"
+				"size" "BEC148BF092715115989B8DF1FE779C9"
+				"download" "1E94F2A47931E7F2A406464C41E4D69A"
 			}
 			"devtest"
 			{
-				"gid" "358010DB5B148A4300BE432FCCB7102D"
-				"size" "94C81FD9FE456E4B8DCA091C31D3968C"
-				"download" "8F3A6C66A63CD24E14CDD83495B6993C"
+				"gid" "DEE3EBA0867A403C67D06AEFE74A358C"
+				"size" "CE8363B23621C5DD6A09BD1DD1D9FE6B"
+				"download" "725E321089F469C07E7DA85CFFC699F1"
 			}
 			"externalpartners"
 			{
-				"gid" "606952EA97099D251F36BA3035C443FB"
-				"size" "A042F747DA812D5E58C684FC1C714699"
-				"download" "3CBD05CCED4FC308EE7B6BA67367D1F7"
+				"gid" "B3EA2222E9EE3567B6E17547D800AA41"
+				"size" "5CC5F2AC9C55C6097C7EB1105E2CC591"
+				"download" "5C6641E32F7ED0F9DA614BF8C80E4777"
 			}
 			"qa-tester"
 			{
@@ -349,32 +348,32 @@
 	{
 		"public"
 		{
-			"buildid" "11390618"
-			"timeupdated" "1686945581"
+			"buildid" "13812953"
+			"timeupdated" "1711045290"
 		}
 		"1034"
 		{
-			"buildid" "13609321"
+			"buildid" "13812953"
 			"pwdrequired" "1"
-			"timeupdated" "1709268376"
+			"timeupdated" "1711040524"
 		}
 		"communitytest"
 		{
-			"buildid" "13466353"
+			"buildid" "13812953"
 			"description" "Community testing branch"
-			"timeupdated" "1708016965"
+			"timeupdated" "1711045320"
 		}
 		"devtest"
 		{
-			"buildid" "13578881"
+			"buildid" "13812953"
 			"pwdrequired" "1"
-			"timeupdated" "1709057155"
+			"timeupdated" "1711041299"
 		}
 		"externalpartners"
 		{
-			"buildid" "13363458"
+			"buildid" "13812953"
 			"pwdrequired" "1"
-			"timeupdated" "1707394604"
+			"timeupdated" "1711045540"
 		}
 		"qa-tester"
 		{
@@ -411,6 +410,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22572514"
-"_sha" "a820836c2fd213535b13b05285522baeda775e30"
-"_size" "7613"
+"_change_number" "22858285"
+"_sha" "407e4796d2acd766707122f68e45eb23e0c643f2"
+"_size" "7590"
