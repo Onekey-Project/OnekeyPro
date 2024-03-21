@@ -18,6 +18,7 @@
 			"id" "1072040_eula_0"
 			"name" "Panzer Corps 2 EULA"
 			"url" "https://store.steampowered.com//eula/1072040_eula_0"
+			"version" "1"
 		}
 	}
 	"languages"
@@ -120,6 +121,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_30" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -250,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "7296297406312870485"
-				"size" "17609321828"
-				"download" "4849488512"
+				"gid" "7477231274052436207"
+				"size" "17354961921"
+				"download" "4814553552"
 			}
 			"1.01.14"
 			{
@@ -275,17 +277,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"bulge-closed-beta"
-			{
-				"gid" "323F9B42C336A926431AE00561D636D1"
-				"size" "6B25C6B6E76AA3E7898B46D9BF0694F5"
-				"download" "54343BDB5D0D7AACD6EEBBDB5011B2BB"
-			}
 			"devtest"
 			{
-				"gid" "529FE975F03435893C774C9B051DC9DE"
-				"size" "D942B89FB4D62F762F01F959738467B7"
-				"download" "0FF5E8B7D01F181CE5D08EBD56444CAD"
+				"gid" "CC332B976B8F5D42DA0805BC4D8249E5"
+				"size" "8AA2505957BBA13C059495EC736EEC5C"
+				"download" "B17CACAEB654040E775A3C4C6F4643DA"
 			}
 			"petbranch"
 			{
@@ -295,9 +291,9 @@
 			}
 			"press"
 			{
-				"gid" "D35411DC14EC05EE51C4E07059DCF31D"
-				"size" "8FD72FF38D1595E0BB25381272789A59"
-				"download" "BDBD8F792CC3B14C6EE6AA32DB8B526D"
+				"gid" "4C6579AF9A85D7540F768544636B0ED0"
+				"size" "AF342FA2E71ED34E4DB7CA6E755D7B6D"
+				"download" "FB56853467F838DBBFF4E805962B5369"
 			}
 		}
 	}
@@ -311,9 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "6180553594359017966"
-				"size" "13767937"
-				"download" "9323584"
+				"gid" "5956795142630239794"
+				"size" "14079972"
+				"download" "9626688"
 			}
 			"1.01.14"
 			{
@@ -336,17 +332,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"bulge-closed-beta"
-			{
-				"gid" "F6901FE944C91CD94CEA6A0832B179BA"
-				"size" "0F9795258A024C02BA8A4DD34CBC6F15"
-				"download" "2AE37B805CE98B0CBBB4431B25D4ED0B"
-			}
 			"devtest"
 			{
-				"gid" "15F90C8A9C171E5FF1735FE456E22382"
-				"size" "87CE00FB92F431CEC939C3901F6EE7F9"
-				"download" "8041D138CAE72BACABEA18D58D6CEDD5"
+				"gid" "60C5AFF4882831608D4D3BD59B249A66"
+				"size" "EC09B4406B5563BCF91AE21D6C882012"
+				"download" "05ADB9B06F8AB6E8A8895E8581EC0C68"
 			}
 			"petbranch"
 			{
@@ -356,9 +346,9 @@
 			}
 			"press"
 			{
-				"gid" "B08BCBEB62AD9C43DC5493ADCB3A63A1"
-				"size" "CFA87478159CEC2139A7AB935AFC38AF"
-				"download" "4B5F4EE7FF14399DFA92D97ABF7FA127"
+				"gid" "91F57DFB67957044C48C678AB237AB6D"
+				"size" "39CAC151F10E1A8457A9664281F5DB42"
+				"download" "B26B414AD122952D4D33A67E30045EEE"
 			}
 		}
 	}
@@ -398,12 +388,6 @@
 		}
 		"encryptedmanifests"
 		{
-			"bulge-closed-beta"
-			{
-				"gid" "53B4B4D98FC2EE5ABD9D9AEBD555D23A"
-				"size" "1820900C259E3110516FEF567CBC9E9A"
-				"download" "70A2EB4FE7518D2418E7D31CD39F5930"
-			}
 			"devtest"
 			{
 				"gid" "7409FA25924D6256BA25A6E58C7CADCF"
@@ -418,9 +402,9 @@
 			}
 			"press"
 			{
-				"gid" "A21589BB5DC8A3F2AEE78B08ED5378D2"
-				"size" "419ADEE0804AEAFA3B0628CA924B8367"
-				"download" "BF49BE0D02ADD73A5ED412577DE76031"
+				"gid" "730A423E4A0052BF1FA8450AAEA93D60"
+				"size" "B64A54740421E7B1A37FEDA852E8C5D0"
+				"download" "8A1526DA1DD3E3A20746CB00DAF79EFD"
 			}
 		}
 	}
@@ -429,8 +413,8 @@
 	{
 		"public"
 		{
-			"buildid" "12869352"
-			"timeupdated" "1701777647"
+			"buildid" "13798968"
+			"timeupdated" "1711030289"
 		}
 		"1.01.14"
 		{
@@ -444,17 +428,11 @@
 			"description" "v1.01.15"
 			"timeupdated" "1623333957"
 		}
-		"bulge-closed-beta"
-		{
-			"buildid" "13372171"
-			"pwdrequired" "1"
-			"timeupdated" "1707486136"
-		}
 		"devtest"
 		{
-			"buildid" "13612384"
+			"buildid" "13798968"
 			"pwdrequired" "1"
-			"timeupdated" "1709292190"
+			"timeupdated" "1710944112"
 		}
 		"legacy"
 		{
@@ -470,9 +448,9 @@
 		}
 		"press"
 		{
-			"buildid" "12771476"
+			"buildid" "13798968"
 			"pwdrequired" "1"
-			"timeupdated" "1700749390"
+			"timeupdated" "1710945851"
 		}
 	}
 }
@@ -491,6 +469,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22577053"
-"_sha" "76cc04aebfcac69dc49ce9cac4de403b3c7d34b1"
-"_size" "9429"
+"_change_number" "22854237"
+"_sha" "2e755fb0ffbccd34084ed88f35b8626534ae4601"
+"_size" "8807"
