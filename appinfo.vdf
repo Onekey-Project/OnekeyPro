@@ -48,8 +48,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1698364800"
-		"tested_build_id" "12533190"
+		"test_timestamp" "1710288000"
+		"tested_build_id" "13672666"
 		"tests"
 		{
 			"0"
@@ -88,9 +88,10 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-experimental"
+			"recommended_runtime" "proton-9.0-1RC"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -243,8 +244,8 @@
 		"5" "4182"
 		"6" "1775"
 		"7" "3843"
-		"8" "3854"
-		"9" "1684"
+		"8" "1684"
+		"9" "3854"
 		"10" "21"
 		"11" "4026"
 		"12" "4231"
@@ -313,9 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "7633924137643716144"
-				"size" "34792707113"
-				"download" "33874952976"
+				"gid" "803889041369001944"
+				"size" "34769911998"
+				"download" "33858486864"
 			}
 		}
 		"encryptedmanifests"
@@ -352,9 +353,9 @@
 			}
 			"goldqatest"
 			{
-				"gid" "9493DDA5E5746CFD8133CBD549618FD7"
-				"size" "F4D5CDB006A5FB91F13C0F8E8A640B47"
-				"download" "5A26191990EDE32637B703011F829458"
+				"gid" "985B8BFD3F3C80A50E16917E2941AD5C"
+				"size" "62EAE5BB158E55738B175F6985049DCE"
+				"download" "B62FE0BB4EC755923EA8FBB5EF3410C1"
 			}
 			"goldqatest2"
 			{
@@ -436,9 +437,9 @@
 			}
 			"prelaunch"
 			{
-				"gid" "1331945689AEA8A4E0442672D74B836C"
-				"size" "DD140576EE3BF2A4FC0D888DC7A7B4E4"
-				"download" "7CF699346CB6E09CA131BF51B1299455"
+				"gid" "FAE481C37A0390C0A38BD3E4515A98FA"
+				"size" "79ACAC24E68742789C342C946AF7262B"
+				"download" "BB6DF7B1724AB2A5B93DC6BF6824BECB"
 			}
 			"unrealtests"
 			{
@@ -448,15 +449,15 @@
 			}
 			"zerogoldship"
 			{
-				"gid" "224FC74A4C62B456680DDB665996D151"
-				"size" "3F0140D63680BB1726EE0DEA9CF10DF1"
-				"download" "004F444D6406B7CA7B2D7C5B908999DC"
+				"gid" "27061840BBDC6C9BCC62DA4BA5FE53FA"
+				"size" "537AE01DF547CDF759C6D623AFC068AF"
+				"download" "340BF9FF220356E199C625EA1DBC169D"
 			}
 			"zerogoldtest"
 			{
-				"gid" "2AC97FB7B22AB2B4A09D917DE6B231CF"
-				"size" "461ED9DFDAB1301DFADB206FB263E667"
-				"download" "F6A62799477D70C974AE23957C151F0D"
+				"gid" "9E4F33AC613308B6E81AED4B6113A5EA"
+				"size" "A97CBC02FD636DA18BE8AEAB077EF6EB"
+				"download" "5425CC978E49B592EFE1D820CA2B95A3"
 			}
 			"zeroqa"
 			{
@@ -471,8 +472,8 @@
 	{
 		"public"
 		{
-			"buildid" "13752967"
-			"timeupdated" "1710528506"
+			"buildid" "13823175"
+			"timeupdated" "1711132837"
 		}
 		"amdtesting"
 		{
@@ -506,9 +507,9 @@
 		}
 		"goldqatest"
 		{
-			"buildid" "13746813"
+			"buildid" "13804623"
 			"pwdrequired" "1"
-			"timeupdated" "1710468215"
+			"timeupdated" "1710983340"
 		}
 		"goldqatest2"
 		{
@@ -590,9 +591,9 @@
 		}
 		"prelaunch"
 		{
-			"buildid" "13752967"
+			"buildid" "13823175"
 			"pwdrequired" "1"
-			"timeupdated" "1710510364"
+			"timeupdated" "1711114947"
 		}
 		"unrealtests"
 		{
@@ -602,15 +603,15 @@
 		}
 		"zerogoldship"
 		{
-			"buildid" "13719231"
+			"buildid" "13816415"
 			"pwdrequired" "1"
-			"timeupdated" "1710277852"
+			"timeupdated" "1711064793"
 		}
 		"zerogoldtest"
 		{
-			"buildid" "13745532"
+			"buildid" "13815198"
 			"pwdrequired" "1"
-			"timeupdated" "1710457880"
+			"timeupdated" "1711055575"
 		}
 		"zeroqa"
 		{
@@ -687,6 +688,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22785638"
-"_sha" "a19bf4843d68dc964a7ffb3934ca4981c74559b9"
-"_size" "14384"
+"_change_number" "22874474"
+"_sha" "5adbffe23727a964953067193b5391f983b4dc47"
+"_size" "14401"
