@@ -12,6 +12,7 @@
 	"clienticon" "2989e76afd8818a709066847f13f193f2f100e8c"
 	"clienttga" "8a4ab1dfe945da3b6ee3d6deab7ba928e7b526ff"
 	"exfgls" "1"
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -217,8 +218,8 @@
 		"11" "6910"
 		"12" "5711"
 		"13" "1774"
-		"14" "1708"
-		"15" "3814"
+		"14" "3814"
+		"15" "1708"
 		"16" "3839"
 		"17" "492"
 		"18" "5382"
@@ -267,18 +268,24 @@
 		{
 			"public"
 			{
-				"gid" "6201805897473143684"
-				"size" "18372146877"
-				"download" "6679167984"
+				"gid" "4526104978299262718"
+				"size" "18335244772"
+				"download" "6679420320"
+			}
+			"hotfix"
+			{
+				"gid" "4526104978299262718"
+				"size" "18335244772"
+				"download" "6679420320"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"staging"
 			{
-				"gid" "6BEED54CBF6C346F5C842C9449C51DA0"
-				"size" "F8A56299161F4386293D27E8803982D8"
-				"download" "DCE8797DBC1212FAD00FD50B3500BEEE"
+				"gid" "F6153F9886FB6F0F3C7873396020E3D1"
+				"size" "F1AA4A74B3BFC3DF6C2C6634555A6063"
+				"download" "1080A66A8E9675E23A4DE4884B3DB134"
 			}
 		}
 	}
@@ -286,14 +293,20 @@
 	{
 		"public"
 		{
-			"buildid" "13280850"
-			"timeupdated" "1706273045"
+			"buildid" "13828676"
+			"timeupdated" "1711189545"
+		}
+		"hotfix"
+		{
+			"buildid" "13828676"
+			"description" "hotfix branch"
+			"timeupdated" "1711151330"
 		}
 		"staging"
 		{
-			"buildid" "13612531"
+			"buildid" "13823968"
 			"pwdrequired" "1"
-			"timeupdated" "1709293050"
+			"timeupdated" "1711119271"
 		}
 	}
 }
@@ -319,6 +332,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22577254"
-"_sha" "d5e06320c4a1861581e4baa52ad1c837562eb2d2"
-"_size" "5540"
+"_change_number" "22880642"
+"_sha" "d03204b311c48d005c6a9b58a4ecac1d503c604c"
+"_size" "5794"
