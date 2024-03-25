@@ -16,6 +16,11 @@
 	{
 		"schinese" "铁轨与墓穴 Railroads & Catacombs"
 	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -81,7 +86,7 @@
 			"height_pct" "52.79924658819742"
 		}
 	}
-	"store_asset_mtime" "1703186129"
+	"store_asset_mtime" "1711324645"
 	"associations"
 	{
 		"0"
@@ -112,6 +117,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -202,9 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "8567869162190498033"
-				"size" "953110555"
-				"download" "331048560"
+				"gid" "6469155297342548630"
+				"size" "1013646339"
+				"download" "345495648"
 			}
 		}
 	}
@@ -212,12 +218,12 @@
 	{
 		"public"
 		{
-			"buildid" "12545836"
-			"timeupdated" "1698346556"
+			"buildid" "13838036"
+			"timeupdated" "1711330349"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22574229"
-"_sha" "c667914c2448ae96aaee51ca1d134ca2e75ac4d1"
-"_size" "3976"
+"_change_number" "22892159"
+"_sha" "d66ee9049c30ccb410967a9d293dce753f58d804"
+"_size" "4055"
