@@ -200,14 +200,14 @@
 		"dlc1"
 		{
 			"sc_schinese" "ZStudio202311"
-			"buildid" "13624880"
+			"buildid" "13825203"
 			"pwdrequired" "1"
-			"timeupdated" "1709445011"
+			"timeupdated" "1711125788"
 		}
 		"public"
 		{
-			"buildid" "13456603"
-			"timeupdated" "1707931327"
+			"buildid" "13838801"
+			"timeupdated" "1711359585"
 		}
 		"beforedlc"
 		{
@@ -215,17 +215,23 @@
 			"description" "无DLC版本（支持旧存档）"
 			"timeupdated" "1709401015"
 		}
+		"cardtest"
+		{
+			"buildid" "13675800"
+			"pwdrequired" "1"
+			"timeupdated" "1709858403"
+		}
 		"pre-release"
 		{
-			"buildid" "13567518"
+			"buildid" "13838801"
 			"description" "正式版提前测试分支"
-			"timeupdated" "1708974638"
+			"timeupdated" "1711324773"
 		}
 		"staging"
 		{
-			"buildid" "13567518"
+			"buildid" "13838801"
 			"pwdrequired" "1"
-			"timeupdated" "1708974644"
+			"timeupdated" "1711324780"
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -239,9 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "2106438506737860111"
-				"size" "4188377025"
-				"download" "1307071312"
+				"gid" "4942940212957409856"
+				"size" "4485364298"
+				"download" "1366878208"
 			}
 			"beforedlc"
 			{
@@ -251,24 +257,30 @@
 			}
 			"pre-release"
 			{
-				"gid" "2687358297841337965"
-				"size" "4188436768"
-				"download" "1307068160"
+				"gid" "4942940212957409856"
+				"size" "4485364298"
+				"download" "1366878208"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"cardtest"
+			{
+				"gid" "FFB94C23ECF55D57471644BF9595C586"
+				"size" "2EE15382BC0B603B9C627C5A2358FBD2"
+				"download" "EBF491A28A4BB4EDF990E8457D02BA97"
+			}
 			"dlc1"
 			{
-				"gid" "970849F17E7C6D06B926A45F3B1A8B31"
-				"size" "09977A464F724087596EDC3A3286A650"
-				"download" "47077391F44681B001A32EBE7EC1D9D8"
+				"gid" "BE5E402DCDCFE57A96167DD40E9E22E0"
+				"size" "80D55C92987121C19F9F8077121FA20D"
+				"download" "A26B63351760174DC8EDFC08419B0999"
 			}
 			"staging"
 			{
-				"gid" "DCAE6CF0264532B3E441A5DD4553FD5D"
-				"size" "010B39E3B07D4E76DABC6D3294B2DCA8"
-				"download" "E19A359393D69C2D44324CCE478D446C"
+				"gid" "CD71F1F662519BC2F795EA401F782F66"
+				"size" "B89631D30D334B2530A3266F6EDDCC88"
+				"download" "74ABF7F881FC564EAF1F1A0FE8B9923E"
 			}
 		}
 	}
@@ -283,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "2155934647540943066"
-				"size" "4211566704"
-				"download" "1314046992"
+				"gid" "1850743639348377086"
+				"size" "4508554568"
+				"download" "1373801872"
 			}
 			"beforedlc"
 			{
@@ -295,13 +307,19 @@
 			}
 			"pre-release"
 			{
-				"gid" "2155934647540943066"
-				"size" "4211566704"
-				"download" "1314046992"
+				"gid" "1850743639348377086"
+				"size" "4508554568"
+				"download" "1373801872"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"cardtest"
+			{
+				"gid" "8AD23CBBDB7089F6334DB3584F8C112C"
+				"size" "37B1790168FF6EE57496F20D9D48021C"
+				"download" "6E4EC77FFA1C9BD3C47A6D914F20ED0A"
+			}
 			"dlc1"
 			{
 				"gid" "2D846BEBF9AC3627CF4E7DACCA2C45A8"
@@ -310,9 +328,9 @@
 			}
 			"staging"
 			{
-				"gid" "5EBDA798DE68EADAEBAB457E6A92C85C"
-				"size" "2E3112C3F99BBC1D3C4845DEC6989FE6"
-				"download" "A8BE5470785BB356F87A8E16C0A4DF61"
+				"gid" "6D005A4579F1AFADD774FF7BA3B1BE57"
+				"size" "895187676BE44C544D940748108AF89D"
+				"download" "D0DAD9E1049374E309E6F6F56DBFAC95"
 			}
 		}
 	}
@@ -373,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22606623"
-"_sha" "4ab1381475b183016f2ae9fcd269c32a3c51a1d5"
-"_size" "6930"
+"_change_number" "22896009"
+"_sha" "93548e26c0f6820c21e2598ef743d869590ef010"
+"_size" "7383"
